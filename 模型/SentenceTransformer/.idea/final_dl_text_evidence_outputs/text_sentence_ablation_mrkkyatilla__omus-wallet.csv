@@ -1,0 +1,15 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+README,paket uyu mazl klar npm install sonras hata al rsan node modules klas ve package-lock.json dosyas silip npm install komutunu tekrar al rmay deneyin.,0.0024325854883168697,0.0024325831740670068,2.3142498629252772e-09
+README,olas sorunlar ortam kenleri eksikli er .env dosyas olu turmaz veya indeki kenleri ayarlamazsan uygulama halka ve limitli rpc endpoint lerini kullanacakt r.,0.0024325854883168697,0.0024325831740670068,2.3142498629252772e-09
+README,bu durum uygulaman performans ve venilirli ini olumsuz etkileyebilir.,0.0024325854883168697,0.0024325831740670068,2.3142498629252772e-09
+README,konsolda bu konuyla ilgili uyar lar rebilirsiniz.,0.0024325854883168697,0.0024325831740670068,2.3142498629252772e-09
+README,uygulamay ba lat uygulamay ba latmak ve test bir nel olu turmak zere daki komutu al bash npm run tunnel terminalde necek olan qr kodu ios veya android telefonunuzdaki expo uygulamas ile okutarak uygulamay canl olarak test edebilirsiniz.,0.0024325854883168697,0.0025276332980239103,-9.504780970704058e-05
+README,ortam kenlerini ayarlay ok neml projenin zg al abilmesi ethereum infura ve solana rpc ba lant lar na ihtiyac vard r.,0.0024325854883168697,0.0034530131075343404,-0.0010204276192174707
+README,react native expo kullan larak geli tirilmi tir.,0.0024325854883168697,0.003913663495418651,-0.0014810780071017812
+README,projeyi klonlay bash git clone cd omus-wallet 2.,0.0024325854883168697,0.005231898144638055,-0.002799312656321185
+README,proje dizininde .env.example dosyas kopyalayarak .env ad nda yeni bir dosya olu turun.,0.0024325854883168697,0.005357349630501672,-0.002924764142184802
+README,olu turdu unuz .env dosyas ve kendi api anahtarlar girin expo public infura id infura id expo public solana rpc solana rpc url 4.,0.0024325854883168697,0.005569013699775294,-0.0031364282114584247
+README,gerekli paketleri kleyin bash npm install 3.,0.0024325854883168697,0.005792198126608164,-0.0033596126382912945
+README,kurulum projeyi yerel makinenizde al rmak daki ad mlar izleyin 1.,0.0024325854883168697,0.007100111645979387,-0.0046675261576625176
+README,omus-wallet kripto zdan uygulamas bu proje ethereum ve solana lar ile etkile im kurabilen bir mobil kripto zdan uygulamas r.,0.0024325854883168697,0.014555086032274511,-0.01212250054395764
+AUX,crypto wallet app,0.0024325854883168697,0.9970278288049726,-0.9945952433166558

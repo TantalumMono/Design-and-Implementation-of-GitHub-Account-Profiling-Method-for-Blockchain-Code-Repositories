@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="526.169071pt" height="247.044125pt" viewBox="0 0 526.169071 247.044125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-06T03:10:03.233106</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 247.044125 
+L 526.169071 247.044125 
+L 526.169071 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 143.1375 210.431625 
+L 500.2575 210.431625 
+L 500.2575 21.935625 
+L 143.1375 21.935625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 143.1375 201.863625 
+L 145.60061 201.863625 
+L 145.60061 152.903625 
+L 143.1375 152.903625 
+z
+" clip-path="url(#pefee849c9b)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 143.1375 140.663625 
+L 145.755102 140.663625 
+L 145.755102 91.703625 
+L 143.1375 91.703625 
+z
+" clip-path="url(#pefee849c9b)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 143.1375 79.463625 
+L 483.251786 79.463625 
+L 483.251786 30.503625 
+L 143.1375 30.503625 
+z
+" clip-path="url(#pefee849c9b)" style="fill: #1f77b4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4ec2384a42" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4ec2384a42" x="143.1375" y="210.431625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="143.1375" y="224.589437" transform="rotate(-0 143.1375 224.589437)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4ec2384a42" x="204.895221" y="210.431625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="204.895221" y="224.589437" transform="rotate(-0 204.895221 224.589437)">0.01</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4ec2384a42" x="266.652942" y="210.431625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="266.652942" y="224.589437" transform="rotate(-0 266.652942 224.589437)">0.02</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4ec2384a42" x="328.410663" y="210.431625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="328.410663" y="224.589437" transform="rotate(-0 328.410663 224.589437)">0.03</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m4ec2384a42" x="390.168383" y="210.431625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="390.168383" y="224.589437" transform="rotate(-0 390.168383 224.589437)">0.04</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4ec2384a42" x="451.926104" y="210.431625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="451.926104" y="224.589437" transform="rotate(-0 451.926104 224.589437)">0.05</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="321.6975" y="237.856625" transform="rotate(-0 321.6975 237.856625)">PR-AUC drop after branch removal</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m65abd8b333" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m65abd8b333" x="143.1375" y="177.383625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: end" x="136.1375" y="180.962531" transform="rotate(-0 136.1375 180.962531)">Remove auxiliary text branch</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m65abd8b333" x="143.1375" y="116.183625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: end" x="136.1375" y="119.762531" transform="rotate(-0 136.1375 119.762531)">Remove README branch</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m65abd8b333" x="143.1375" y="54.983625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: end" x="136.1375" y="58.562531" transform="rotate(-0 136.1375 58.562531)">Remove structured branch</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 143.1375 210.431625 
+L 143.1375 21.935625 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 143.1375 210.431625 
+L 500.2575 210.431625 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="152.402896" y="179.45175" transform="rotate(-0 152.402896 179.45175)">0.00040</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="152.557388" y="118.25175" transform="rotate(-0 152.557388 118.25175)">0.00042</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="490.054071" y="57.05175" transform="rotate(-0 490.054071 57.05175)">0.05507</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'Arial'; text-anchor: middle" x="321.6975" y="15.935625" transform="rotate(-0 321.6975 15.935625)">Branch ablation importance by PR-AUC drop</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pefee849c9b">
+   <rect x="143.1375" y="21.935625" width="357.12" height="188.496"/>
+  </clipPath>
+ </defs>
+</svg>

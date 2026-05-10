@@ -1,0 +1,601 @@
+{
+  "repo_full_name": "zircuit-labs/web3-telegram-mini-app",
+  "repo_detail": {
+    "id": 883476143,
+    "node_id": "R_kgDONKjGrw",
+    "name": "web3-telegram-mini-app",
+    "full_name": "zircuit-labs/web3-telegram-mini-app",
+    "private": false,
+    "owner": {
+      "login": "zircuit-labs",
+      "id": 148813775,
+      "node_id": "O_kgDOCN63zw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148813775?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zircuit-labs",
+      "html_url": "https://github.com/zircuit-labs",
+      "followers_url": "https://api.github.com/users/zircuit-labs/followers",
+      "following_url": "https://api.github.com/users/zircuit-labs/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zircuit-labs/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zircuit-labs/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zircuit-labs/subscriptions",
+      "organizations_url": "https://api.github.com/users/zircuit-labs/orgs",
+      "repos_url": "https://api.github.com/users/zircuit-labs/repos",
+      "events_url": "https://api.github.com/users/zircuit-labs/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zircuit-labs/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app",
+    "description": "Web3 Telegram Mini App Boilerplate",
+    "fork": false,
+    "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app",
+    "forks_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/forks",
+    "keys_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/teams",
+    "hooks_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/hooks",
+    "issue_events_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/events",
+    "assignees_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/tags",
+    "blobs_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/languages",
+    "stargazers_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/stargazers",
+    "contributors_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contributors",
+    "subscribers_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/subscribers",
+    "subscription_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/subscription",
+    "commits_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/merges",
+    "archive_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/downloads",
+    "issues_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/deployments",
+    "created_at": "2024-11-05T03:01:56Z",
+    "updated_at": "2026-02-26T07:09:18Z",
+    "pushed_at": "2024-11-06T00:26:35Z",
+    "git_url": "git://github.com/zircuit-labs/web3-telegram-mini-app.git",
+    "ssh_url": "git@github.com:zircuit-labs/web3-telegram-mini-app.git",
+    "clone_url": "https://github.com/zircuit-labs/web3-telegram-mini-app.git",
+    "svn_url": "https://github.com/zircuit-labs/web3-telegram-mini-app",
+    "homepage": "https://t.me/web3_telegram_mini_app_bot/Web3",
+    "size": 244,
+    "stargazers_count": 8,
+    "watchers_count": 8,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 4,
+    "mirror_url": null,
+    "archived": true,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "dapp",
+      "ethereum",
+      "ethglobal",
+      "hackathon",
+      "react",
+      "telegram-mini-app",
+      "tonconnect",
+      "wagmi",
+      "walletconnect",
+      "web3"
+    ],
+    "visibility": "public",
+    "forks": 4,
+    "open_issues": 0,
+    "watchers": 8,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "zircuit-labs",
+      "id": 148813775,
+      "node_id": "O_kgDOCN63zw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148813775?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zircuit-labs",
+      "html_url": "https://github.com/zircuit-labs",
+      "followers_url": "https://api.github.com/users/zircuit-labs/followers",
+      "following_url": "https://api.github.com/users/zircuit-labs/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zircuit-labs/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zircuit-labs/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zircuit-labs/subscriptions",
+      "organizations_url": "https://api.github.com/users/zircuit-labs/orgs",
+      "repos_url": "https://api.github.com/users/zircuit-labs/repos",
+      "events_url": "https://api.github.com/users/zircuit-labs/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zircuit-labs/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 4,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "zircuit-labs",
+    "id": 148813775,
+    "node_id": "O_kgDOCN63zw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/148813775?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zircuit-labs",
+    "html_url": "https://github.com/zircuit-labs",
+    "followers_url": "https://api.github.com/users/zircuit-labs/followers",
+    "following_url": "https://api.github.com/users/zircuit-labs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zircuit-labs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zircuit-labs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zircuit-labs/subscriptions",
+    "organizations_url": "https://api.github.com/users/zircuit-labs/orgs",
+    "repos_url": "https://api.github.com/users/zircuit-labs/repos",
+    "events_url": "https://api.github.com/users/zircuit-labs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zircuit-labs/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "zircuit-labs",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 39,
+    "public_gists": 0,
+    "followers": 33,
+    "following": 0,
+    "created_at": "2023-10-23T19:30:37Z",
+    "updated_at": "2026-03-05T08:05:14Z"
+  },
+  "readme": "# Web3 Telegram Mini App Boilerplate\n\nA ready-to-use boilerplate for building Web3 Telegram Mini Apps.\nThis tech stack includes:\n- [React](https://react.dev/) + [Express](https://expressjs.com/)\n- [Wagmi](https://wagmi.sh/) + [WalletConnect](https://reown.com/)\n- [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview)\n- [@telegram-apps SDK](https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk/2-x)\n- [Telegram UI](https://tgui.xelene.me/?path=/docs/getting-started--documentation)\n\n## Install Dependencies\n\nInstall the project dependencies using:\n\n```bash\nyarn install\n```\n\n## Scripts\n\nThis project contains the following scripts:\n\n- `dev`: Runs the application in development mode\n- `build`: Builds the application for production\n- `start`: Starts the production server\n- `test`: Runs tests\n- `eject`: Ejects from create-react-app\n\n## Supported Wallets\n\n- MetaMask\n- Binance Wallet\n- OKX Wallet\n- Bitget Wallet\n- Trust Wallet\n- TONConnect\n\nNote: Deep link support is implemented for common wallets and can be extended in [`App.js`](https://github.com/kevinb1003/web3-telegram-mini-app/blob/master/src/App.js#L21-L59):\n\n- `bitkeep://`\n- `metamask://`\n- `trust://`\n- `wc://`\n- `okex://`\n- `bnc://`\n\n## Setup and Development\n\n### Environment Setup\n\n1. Create a `.env` file in the root directory:\n\n```bash\nWC_WEB3_PROJECT_ID=your_walletconnect_project_id  # Get this from https://cloud.walletconnect.com/\nREACT_APP_PUBLIC_URL=your dApp public url\n```\n\n2. Configure TON Connect manifest:\n   The TON Connect manifest is stored in `public/tonconnect-manifest.json`. Remember to [configure](https://docs.ton.org/develop/dapps/ton-connect/manifest) this file according to your project's information.\n\n3. Install dependencies:\n\n```bash\nyarn install\n```\n\n4. Start the development server:\n\n```bash\nyarn dev\n```\n\nThe app will be available at `http://localhost:3000`.\n\n### Production\n\n1. Build the application:\n\n```bash\nyarn build\n```\n\n2. Start the production server:\n\n```bash\nyarn start\n```\n\nNote: Always ensure your `.env` file is properly configured before starting either development or production servers.\n\n## Useful Links\n\n- [Telegram Mini Apps Documentation](https://docs.telegram-mini-apps.com/)\n- [Wagmi Documentation](https://wagmi.sh/react/getting-started)\n- [TON Connect Documentation](https://docs.ton.org/develop/dapps/ton-connect/overview)\n- [Telegram UI Components](https://tgui.xelene.me/?path=/docs/getting-started--documentation)\n- [Telegram Developers Community](https://t.me/devs)\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "8692cf66d2ebc048ca0baeb86f799b1b5907daac",
+      "size": 315,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/8692cf66d2ebc048ca0baeb86f799b1b5907daac",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/8692cf66d2ebc048ca0baeb86f799b1b5907daac",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "c1eac8998e9a25a61ebd436299598ed365dcd927",
+      "size": 2517,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/README.md?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/c1eac8998e9a25a61ebd436299598ed365dcd927",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/c1eac8998e9a25a61ebd436299598ed365dcd927",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/README.md"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "9cac68599a24e2afe7cb4dc6105fdec35abebc9f",
+      "size": 1352,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/package.json?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/9cac68599a24e2afe7cb4dc6105fdec35abebc9f",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/9cac68599a24e2afe7cb4dc6105fdec35abebc9f",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/package.json"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "00ffe14b4865ac75d1f11ee5421dd3608a57eb89",
+      "size": 0,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/public",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/00ffe14b4865ac75d1f11ee5421dd3608a57eb89",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/00ffe14b4865ac75d1f11ee5421dd3608a57eb89",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/public"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "public/index.html",
+      "sha": "a17c4a60fe9f4959b08a9e57a8eb9f3e68ffef30",
+      "size": 491,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/index.html?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/index.html",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/a17c4a60fe9f4959b08a9e57a8eb9f3e68ffef30",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/index.html?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/a17c4a60fe9f4959b08a9e57a8eb9f3e68ffef30",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/index.html"
+      }
+    },
+    {
+      "name": "logo.png",
+      "path": "public/logo.png",
+      "sha": "42b1496ed4128061fd9366abf5a5f56cf1d5750d",
+      "size": 1086,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/logo.png?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/logo.png",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/42b1496ed4128061fd9366abf5a5f56cf1d5750d",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/public/logo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/logo.png?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/42b1496ed4128061fd9366abf5a5f56cf1d5750d",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/logo.png"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "public/robots.txt",
+      "sha": "e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "size": 67,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/robots.txt?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/robots.txt",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/robots.txt?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/robots.txt"
+      }
+    },
+    {
+      "name": "tonconnect-manifest.json",
+      "path": "public/tonconnect-manifest.json",
+      "sha": "7078c36dffba6f5c996a3fb1286e7c20e97c5336",
+      "size": 192,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/tonconnect-manifest.json?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/tonconnect-manifest.json",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/7078c36dffba6f5c996a3fb1286e7c20e97c5336",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/public/tonconnect-manifest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/public/tonconnect-manifest.json?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/7078c36dffba6f5c996a3fb1286e7c20e97c5336",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/public/tonconnect-manifest.json"
+      }
+    },
+    {
+      "name": "server.js",
+      "path": "server.js",
+      "sha": "8b435c2b875e308e10a6860d476147e384591ee9",
+      "size": 721,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/server.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/server.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/8b435c2b875e308e10a6860d476147e384591ee9",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/server.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/server.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/8b435c2b875e308e10a6860d476147e384591ee9",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/server.js"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "e8dffa0826688459916508661a335010ce902624",
+      "size": 0,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/e8dffa0826688459916508661a335010ce902624",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/e8dffa0826688459916508661a335010ce902624",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src"
+      }
+    },
+    {
+      "name": "App.js",
+      "path": "src/App.js",
+      "sha": "491a99109e0dc847b379a41306cbfabea7dbd745",
+      "size": 2693,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/App.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/App.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/491a99109e0dc847b379a41306cbfabea7dbd745",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/App.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/App.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/491a99109e0dc847b379a41306cbfabea7dbd745",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/App.js"
+      }
+    },
+    {
+      "name": "Root.js",
+      "path": "src/Root.js",
+      "sha": "948852df6cdc44922f829d1b15ef496f7b3c060e",
+      "size": 1587,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/Root.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/Root.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/948852df6cdc44922f829d1b15ef496f7b3c060e",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/Root.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/Root.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/948852df6cdc44922f829d1b15ef496f7b3c060e",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/Root.js"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/components",
+      "sha": "398cf4fb33898197777702f646d6e49467be9073",
+      "size": 0,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/components?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src/components",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/398cf4fb33898197777702f646d6e49467be9073",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/components?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/398cf4fb33898197777702f646d6e49467be9073",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src/components"
+      }
+    },
+    {
+      "name": "Page.js",
+      "path": "src/components/Page.js",
+      "sha": "e8e2a6f7cf76a458784647bccc0fd93294872600",
+      "size": 617,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/components/Page.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/components/Page.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/e8e2a6f7cf76a458784647bccc0fd93294872600",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/components/Page.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/components/Page.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/e8e2a6f7cf76a458784647bccc0fd93294872600",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/components/Page.js"
+      }
+    },
+    {
+      "name": "Spinner.js",
+      "path": "src/components/Spinner.js",
+      "sha": "4d1607c9ecf9696f0c430e7ff523f294d7587e08",
+      "size": 873,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/components/Spinner.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/components/Spinner.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/4d1607c9ecf9696f0c430e7ff523f294d7587e08",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/components/Spinner.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/components/Spinner.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/4d1607c9ecf9696f0c430e7ff523f294d7587e08",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/components/Spinner.js"
+      }
+    },
+    {
+      "name": "constants.js",
+      "path": "src/constants.js",
+      "sha": "96081dd84a808bdf621ca175b2cf805a795a03c0",
+      "size": 81,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/constants.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/constants.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/96081dd84a808bdf621ca175b2cf805a795a03c0",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/constants.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/constants.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/96081dd84a808bdf621ca175b2cf805a795a03c0",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/constants.js"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "src/index.js",
+      "sha": "2967a26b87a761c6e2c544a552c1ae0737d6c4c7",
+      "size": 584,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/index.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/index.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/2967a26b87a761c6e2c544a552c1ae0737d6c4c7",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/index.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/2967a26b87a761c6e2c544a552c1ae0737d6c4c7",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/index.js"
+      }
+    },
+    {
+      "name": "mockEnv.js",
+      "path": "src/mockEnv.js",
+      "sha": "681a50481e83c7adb57d06c2459a8e8cba5a999e",
+      "size": 1858,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/mockEnv.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/mockEnv.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/681a50481e83c7adb57d06c2459a8e8cba5a999e",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/mockEnv.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/mockEnv.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/681a50481e83c7adb57d06c2459a8e8cba5a999e",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/mockEnv.js"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "src/pages",
+      "sha": "fcdfa9b16f6a7b090b4e035a070701ac509bbe33",
+      "size": 0,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/pages?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src/pages",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/fcdfa9b16f6a7b090b4e035a070701ac509bbe33",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/pages?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/fcdfa9b16f6a7b090b4e035a070701ac509bbe33",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src/pages"
+      }
+    },
+    {
+      "name": "Home.js",
+      "path": "src/pages/Home.js",
+      "sha": "eda7356821bb0eeb97070dce6efbf371133817be",
+      "size": 1512,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/pages/Home.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/pages/Home.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/eda7356821bb0eeb97070dce6efbf371133817be",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/pages/Home.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/pages/Home.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/eda7356821bb0eeb97070dce6efbf371133817be",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/pages/Home.js"
+      }
+    },
+    {
+      "name": "services",
+      "path": "src/services",
+      "sha": "edd068df18bf6c3ef3c2b90cd7afd5fc941d33f8",
+      "size": 0,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/services?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src/services",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/edd068df18bf6c3ef3c2b90cd7afd5fc941d33f8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/services?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/trees/edd068df18bf6c3ef3c2b90cd7afd5fc941d33f8",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/tree/main/src/services"
+      }
+    },
+    {
+      "name": "telegram-sdk.js",
+      "path": "src/services/telegram-sdk.js",
+      "sha": "995c029e256d3b55a6b90987d0eecbb78c6ff1ad",
+      "size": 679,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/services/telegram-sdk.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/services/telegram-sdk.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/995c029e256d3b55a6b90987d0eecbb78c6ff1ad",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/services/telegram-sdk.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/services/telegram-sdk.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/995c029e256d3b55a6b90987d0eecbb78c6ff1ad",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/services/telegram-sdk.js"
+      }
+    },
+    {
+      "name": "wagmi.js",
+      "path": "src/services/wagmi.js",
+      "sha": "f5a30c6403749ba5f4097ecbf9e93601c21a8f91",
+      "size": 794,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/services/wagmi.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/services/wagmi.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/f5a30c6403749ba5f4097ecbf9e93601c21a8f91",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/services/wagmi.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/services/wagmi.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/f5a30c6403749ba5f4097ecbf9e93601c21a8f91",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/services/wagmi.js"
+      }
+    },
+    {
+      "name": "setupTests.js",
+      "path": "src/setupTests.js",
+      "sha": "52aaef1d2452104517b38ed65ea62c9a305aaa66",
+      "size": 240,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/setupTests.js?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/setupTests.js",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/52aaef1d2452104517b38ed65ea62c9a305aaa66",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/src/setupTests.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/src/setupTests.js?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/52aaef1d2452104517b38ed65ea62c9a305aaa66",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/src/setupTests.js"
+      }
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "sha": "e539c78d6030fe5291c3f2bc4b61a1e56ddf4230",
+      "size": 594958,
+      "url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/yarn.lock?ref=main",
+      "html_url": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/yarn.lock",
+      "git_url": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/e539c78d6030fe5291c3f2bc4b61a1e56ddf4230",
+      "download_url": "https://raw.githubusercontent.com/zircuit-labs/web3-telegram-mini-app/main/yarn.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/contents/yarn.lock?ref=main",
+        "git": "https://api.github.com/repos/zircuit-labs/web3-telegram-mini-app/git/blobs/e539c78d6030fe5291c3f2bc4b61a1e56ddf4230",
+        "html": "https://github.com/zircuit-labs/web3-telegram-mini-app/blob/main/yarn.lock"
+      }
+    }
+  ],
+  "external_domains": {
+    "react.dev": null,
+    "github.com": 6734,
+    "localhost:3000`.": null,
+    "t.me": 5780,
+    "tgui.xelene.me": 2381,
+    "docs.ton.org": 8160,
+    "wagmi.sh": 1470,
+    "reown.com": 9545,
+    "cloud.walletconnect.com": 5932,
+    "expressjs.com": 5846,
+    "docs.telegram-mini-apps.com": 913
+  },
+  "collected_at": "2026-03-18T09:21:32.514115"
+}

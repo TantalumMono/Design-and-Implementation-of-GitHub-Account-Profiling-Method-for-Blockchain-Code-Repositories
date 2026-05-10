@@ -1,0 +1,48 @@
+{
+  "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\family_prepared_v3\\family_dataset_train_ready.csv",
+  "n_rows": 2354,
+  "n_positive": 300,
+  "n_negative": 2054,
+  "threshold": 0.039498057,
+  "structured_feature_count": 164,
+  "readme_vocab_size": 400,
+  "aux_vocab_size": 200,
+  "final_params": {
+    "readme_max_features": 400,
+    "readme_min_df": 3,
+    "readme_ngram_range": [
+      1,
+      1
+    ],
+    "aux_max_features": 200,
+    "aux_min_df": 2,
+    "aux_ngram_range": [
+      1,
+      2
+    ],
+    "xgb_params": {
+      "objective": "binary:logistic",
+      "eval_metric": "aucpr",
+      "tree_method": "hist",
+      "random_state": 42,
+      "n_jobs": -1,
+      "importance_type": "gain",
+      "n_estimators": 600,
+      "learning_rate": 0.02,
+      "max_depth": 3,
+      "min_child_weight": 3,
+      "subsample": 0.85,
+      "colsample_bytree": 0.9,
+      "reg_alpha": 0.02,
+      "reg_lambda": 0.25,
+      "gamma": 2.0,
+      "max_delta_step": 1.8
+    },
+    "weights": {
+      "real_positive": 4.5,
+      "generated_positive": 1.0,
+      "negative": 1.25
+    },
+    "threshold": 0.039498057
+  }
+}

@@ -1,0 +1,1424 @@
+{
+  "repo_full_name": "FaceOFWood/SniperBot-Solana-PumpSwap",
+  "repo_deleted": false,
+  "data_source": "github_api",
+  "collected_at": "2026-03-15T04:10:57.409359",
+  "repo_detail": {
+    "id": 997729191,
+    "node_id": "R_kgDOO3gjpw",
+    "name": "SniperBot-Solana-PumpSwap",
+    "full_name": "FaceOFWood/SniperBot-Solana-PumpSwap",
+    "private": false,
+    "owner": {
+      "login": "FaceOFWood",
+      "id": 124513981,
+      "node_id": "U_kgDOB2vuvQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124513981?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/FaceOFWood",
+      "html_url": "https://github.com/FaceOFWood",
+      "followers_url": "https://api.github.com/users/FaceOFWood/followers",
+      "following_url": "https://api.github.com/users/FaceOFWood/following{/other_user}",
+      "gists_url": "https://api.github.com/users/FaceOFWood/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/FaceOFWood/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/FaceOFWood/subscriptions",
+      "organizations_url": "https://api.github.com/users/FaceOFWood/orgs",
+      "repos_url": "https://api.github.com/users/FaceOFWood/repos",
+      "events_url": "https://api.github.com/users/FaceOFWood/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/FaceOFWood/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap",
+    "description": "Sniper bot for Solana on the PumpSwap DEX, with automatic buy and sell execution based on price drop analysis.",
+    "fork": false,
+    "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap",
+    "forks_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/forks",
+    "keys_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/teams",
+    "hooks_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/hooks",
+    "issue_events_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/events",
+    "assignees_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/tags",
+    "blobs_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/languages",
+    "stargazers_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/stargazers",
+    "contributors_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contributors",
+    "subscribers_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/subscribers",
+    "subscription_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/subscription",
+    "commits_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/merges",
+    "archive_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/downloads",
+    "issues_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/labels{/name}",
+    "releases_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/deployments",
+    "created_at": "2025-06-07T03:59:14Z",
+    "updated_at": "2025-06-09T14:40:39Z",
+    "pushed_at": "2025-06-07T04:17:12Z",
+    "git_url": "git://github.com/FaceOFWood/SniperBot-Solana-PumpSwap.git",
+    "ssh_url": "git@github.com:FaceOFWood/SniperBot-Solana-PumpSwap.git",
+    "clone_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap.git",
+    "svn_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap",
+    "homepage": null,
+    "size": 300,
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "FaceOFWood",
+    "id": 124513981,
+    "node_id": "U_kgDOB2vuvQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/124513981?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/FaceOFWood",
+    "html_url": "https://github.com/FaceOFWood",
+    "followers_url": "https://api.github.com/users/FaceOFWood/followers",
+    "following_url": "https://api.github.com/users/FaceOFWood/following{/other_user}",
+    "gists_url": "https://api.github.com/users/FaceOFWood/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/FaceOFWood/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/FaceOFWood/subscriptions",
+    "organizations_url": "https://api.github.com/users/FaceOFWood/orgs",
+    "repos_url": "https://api.github.com/users/FaceOFWood/repos",
+    "events_url": "https://api.github.com/users/FaceOFWood/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/FaceOFWood/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": null,
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 2,
+    "public_gists": 0,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2023-02-05T15:19:22Z",
+    "updated_at": "2026-01-27T22:52:36Z"
+  },
+  "readme": "\n# SniperBot-Solana-PumpSwap\n\nA high-performance sniper bot built in Rust for the Solana blockchain, optimized for trading on DEXs like **Pump.fun** and **PumpSwap**. It leverages advanced strategies for real-time token monitoring and automated buy/sell execution.\n\n---\n\n## 🔧 Key Features\n\n1. Real-time token tracking via Yellowstone gRPC\n2. Automatic buy execution based on configurable price drop\n3. Profit-taking and stop-loss management (with adjustable slippage)\n4. Inverse trading strategy (buy when target sells)\n5. Telegram integration for live control and notifications\n6. Jito and ZeroSlot support for high-priority transactions\n\n---\n\n## 🧠 Technical Overview\n\n- Real-time copy trading logic\n- Configurable `.env` strategy settings\n- Multi-phase sell logic (up to 7 steps)\n- Scheduled execution with built-in timer\n- Data persistence and smart recovery\n- Blacklisting and bundle detection\n\n---\n\n## 📊 Advanced Selling Strategies\n\n- Configurable TP/SL (Take Profit / Stop Loss)\n- ATH tracking for retracement-based sells\n- Step-by-step sell strategy using timers\n- Private Logic (PL): custom sell paths ignoring target\n\n---\n\n## 🔁 Inverse Mode\n\n- Buys when the tracked target sells\n- Optionally switches to PL mode after buy\n\n---\n\n## ⏱ Timer Support\n\n- Starts and stops bot on a time schedule\n- Automatically sells remaining tokens on exit\n- Handles manual restart scenarios safely\n\n---\n\n## 🧩 Architecture\n\n| Module       | Description                                              |\n|--------------|----------------------------------------------------------|\n| `core`       | Token and transaction logic                              |\n| `engine`     | Strategy engine, price tracking, monitor & timers        |\n| `dex`        | DEX integrations (Pump.fun, PumpSwap)                    |\n| `services`   | Telegram, Jito, ZeroSlot integration                     |\n| `common`     | Logging, config, blacklist, filter utils                 |\n\n---\n\n## 💬 Telegram Commands\n\n- `/start` – Start the bot\n- `/settings` – Show and edit filters\n- `/tokens` – Show tracked tokens\n- `/sell <token_address> <percentage>` – Manual sell\n- `/tp <token> <percent>` – Set take-profit\n- `/sl <token> <percent>` – Set stop-loss\n\n---\n\n## ⚙️ .env Configuration\n\n```env\n# Telegram Settings\nTELEGRAM_BOT_TOKEN=\"your_bot_token\"\nTELEGRAM_CHAT_ID=\"your_chat_id\"\n\n# Strategy Settings\nMARKET_CAP_ENABLED=true\nMIN_MARKET_CAP=8.0\nMAX_MARKET_CAP=15.0\n\nVOLUME_ENABLED=true\nMIN_VOLUME=5.0\nMAX_VOLUME=12.0\n\nBUY_SELL_COUNT_ENABLED=true\nMIN_NUMBER_OF_BUY_SELL=50\nMAX_NUMBER_OF_BUY_SELL=2000\n\nSOL_INVESTED=1.0\nSLIPPAGE=2.0\nTP_PERCENTAGE=40.0\nSL_PERCENTAGE=15.0\n\nLAUNCHER_SOL_ENABLED=true\nDEV_BUY_ENABLED=true\nBUNDLE_CHECK=true\n\nINVERSE_MODE=ON\nPRIVATE_LOGIC=ON\n```\n\n---\n\n## ▶️ How to Run\n\n### Build the bot\n\n```bash\nmake build\n```\n\n### Start the bot\n\n```bash\nmake start\n```\n\n### Stop the bot\n\n```bash\nmake stop\n```\n\n### Run (dev mode)\n\n```bash\ncargo run\n```\n\n### Run test for dev wallet detection\n\n```bash\ncargo run -- --test-dev-wallet\n```\n\n---\n\n## 🧱 Dependencies\n\n- `tokio` – Async runtime\n- `anchor_client` – Solana program access\n- `yellowstone-grpc` – Real-time data stream\n- `spl_token` – Token operations\n- `reqwest`, `serde`, `colored` – Util libraries\n\n---\n\n## 🔐 Security\n\n- Private key loaded via `.env` (never hardcoded)\n- Blacklist logic to avoid malicious tokens\n- Transaction simulation before execution\n- Fail-safe and retry mechanisms built-in\n\n---\n\n## 🧑‍💻 Maintainer\n\nFeel free to reach out for contributions, questions or partnerships:\n\n- Telegram: [@gHcout](https://t.me/gHcout)\n- Email: [caradepauof@gmail.com](mailto:caradepauof@gmail.com)\n\n---\n\n## ✅ Contributions\n\nPull requests are welcome. For major changes, open an issue to discuss what you’d like to change.\n\n---\n\n",
+  "readme_domains": {
+    "t.me": 5777
+  },
+  "tree_structure": [
+    {
+      "name": ".cargo",
+      "path": ".cargo",
+      "sha": "c2ab7ccfdd08582fd24cac4fcb4a73ce634f0a90",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.cargo?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.cargo",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/c2ab7ccfdd08582fd24cac4fcb4a73ce634f0a90",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.cargo?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/c2ab7ccfdd08582fd24cac4fcb4a73ce634f0a90",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.cargo"
+      }
+    },
+    {
+      "name": "config.toml",
+      "path": ".cargo/config.toml",
+      "sha": "80c976fbcd9e1b277d4b3d2f21b4d0fabc811a0c",
+      "size": 154,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.cargo/config.toml?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.cargo/config.toml",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/80c976fbcd9e1b277d4b3d2f21b4d0fabc811a0c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.cargo/config.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.cargo/config.toml?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/80c976fbcd9e1b277d4b3d2f21b4d0fabc811a0c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.cargo/config.toml"
+      }
+    },
+    {
+      "name": ".env.example",
+      "path": ".env.example",
+      "sha": "7da2729f1e141417898bf09d8aec97f626ad386e",
+      "size": 2090,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.env.example?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.env.example",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/7da2729f1e141417898bf09d8aec97f626ad386e",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.env.example",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.env.example?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/7da2729f1e141417898bf09d8aec97f626ad386e",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.env.example"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "67d752a26f0c2b2ad23daddaf7801d359fc1244a",
+      "size": 74,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/67d752a26f0c2b2ad23daddaf7801d359fc1244a",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/67d752a26f0c2b2ad23daddaf7801d359fc1244a",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".vs",
+      "path": ".vs",
+      "sha": "f6abd3a885c5940afae6a1d35242307454820692",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/f6abd3a885c5940afae6a1d35242307454820692",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/f6abd3a885c5940afae6a1d35242307454820692",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs"
+      }
+    },
+    {
+      "name": "SniperBot-Solana-PumpS",
+      "path": ".vs/SniperBot-Solana-PumpS",
+      "sha": "bba5a0956b68e35889dab5164b660acb6292e7d8",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs/SniperBot-Solana-PumpS",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/bba5a0956b68e35889dab5164b660acb6292e7d8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/bba5a0956b68e35889dab5164b660acb6292e7d8",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs/SniperBot-Solana-PumpS"
+      }
+    },
+    {
+      "name": "FileContentIndex",
+      "path": ".vs/SniperBot-Solana-PumpS/FileContentIndex",
+      "sha": "f8349ffa48858a721145e77620afc714026771b6",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/FileContentIndex?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs/SniperBot-Solana-PumpS/FileContentIndex",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/f8349ffa48858a721145e77620afc714026771b6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/FileContentIndex?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/f8349ffa48858a721145e77620afc714026771b6",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs/SniperBot-Solana-PumpS/FileContentIndex"
+      }
+    },
+    {
+      "name": "503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx",
+      "path": ".vs/SniperBot-Solana-PumpS/FileContentIndex/503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx",
+      "sha": "8cb4917c581720b6fa309617c0d21c88fd43d27c",
+      "size": 387338,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/FileContentIndex/503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/SniperBot-Solana-PumpS/FileContentIndex/503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/8cb4917c581720b6fa309617c0d21c88fd43d27c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.vs/SniperBot-Solana-PumpS/FileContentIndex/503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/FileContentIndex/503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/8cb4917c581720b6fa309617c0d21c88fd43d27c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/SniperBot-Solana-PumpS/FileContentIndex/503c5edd-6c3a-4219-96c3-8a83f50cdb8c.vsidx"
+      }
+    },
+    {
+      "name": "v17",
+      "path": ".vs/SniperBot-Solana-PumpS/v17",
+      "sha": "361fb4717058296c638370f544edcf942f0c6097",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/v17?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs/SniperBot-Solana-PumpS/v17",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/361fb4717058296c638370f544edcf942f0c6097",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/v17?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/361fb4717058296c638370f544edcf942f0c6097",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/.vs/SniperBot-Solana-PumpS/v17"
+      }
+    },
+    {
+      "name": ".wsuo",
+      "path": ".vs/SniperBot-Solana-PumpS/v17/.wsuo",
+      "sha": "b2ad3b7e2e8646fdfe352392cb29941d4ca7cabb",
+      "size": 8192,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/v17/.wsuo?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/SniperBot-Solana-PumpS/v17/.wsuo",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/b2ad3b7e2e8646fdfe352392cb29941d4ca7cabb",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.vs/SniperBot-Solana-PumpS/v17/.wsuo",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/v17/.wsuo?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/b2ad3b7e2e8646fdfe352392cb29941d4ca7cabb",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/SniperBot-Solana-PumpS/v17/.wsuo"
+      }
+    },
+    {
+      "name": "DocumentLayout.json",
+      "path": ".vs/SniperBot-Solana-PumpS/v17/DocumentLayout.json",
+      "sha": "0c877906a9bbf0f287ac6d7bc5d620c6d3415f5a",
+      "size": 273,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/v17/DocumentLayout.json?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/SniperBot-Solana-PumpS/v17/DocumentLayout.json",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/0c877906a9bbf0f287ac6d7bc5d620c6d3415f5a",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.vs/SniperBot-Solana-PumpS/v17/DocumentLayout.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/SniperBot-Solana-PumpS/v17/DocumentLayout.json?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/0c877906a9bbf0f287ac6d7bc5d620c6d3415f5a",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/SniperBot-Solana-PumpS/v17/DocumentLayout.json"
+      }
+    },
+    {
+      "name": "VSWorkspaceState.json",
+      "path": ".vs/VSWorkspaceState.json",
+      "sha": "6b6114114f4e89a1f2d0e911ff090e541af1260c",
+      "size": 73,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/VSWorkspaceState.json?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/VSWorkspaceState.json",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/6b6114114f4e89a1f2d0e911ff090e541af1260c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.vs/VSWorkspaceState.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/VSWorkspaceState.json?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/6b6114114f4e89a1f2d0e911ff090e541af1260c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/VSWorkspaceState.json"
+      }
+    },
+    {
+      "name": "slnx.sqlite",
+      "path": ".vs/slnx.sqlite",
+      "sha": "74feb6a139f792d653c51040842c416001886047",
+      "size": 90112,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/slnx.sqlite?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/slnx.sqlite",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/74feb6a139f792d653c51040842c416001886047",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/.vs/slnx.sqlite",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/.vs/slnx.sqlite?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/74feb6a139f792d653c51040842c416001886047",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/.vs/slnx.sqlite"
+      }
+    },
+    {
+      "name": "Cargo.lock",
+      "path": "Cargo.lock",
+      "sha": "994966b5ca64a2c31764d587768089c159439de0",
+      "size": 211081,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/Cargo.lock?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/Cargo.lock",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/994966b5ca64a2c31764d587768089c159439de0",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/Cargo.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/Cargo.lock?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/994966b5ca64a2c31764d587768089c159439de0",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/Cargo.lock"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "Cargo.toml",
+      "sha": "6a9ba42b3531dcd0f9d3417baa4dddcbc8d5800d",
+      "size": 1644,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/Cargo.toml?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/Cargo.toml",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/6a9ba42b3531dcd0f9d3417baa4dddcbc8d5800d",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/Cargo.toml?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/6a9ba42b3531dcd0f9d3417baa4dddcbc8d5800d",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/Cargo.toml"
+      }
+    },
+    {
+      "name": "Makefile",
+      "path": "Makefile",
+      "sha": "567ab3d1352ce2cbd9a91ab9b9560109d78a8726",
+      "size": 1424,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/Makefile?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/Makefile",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/567ab3d1352ce2cbd9a91ab9b9560109d78a8726",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/Makefile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/Makefile?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/567ab3d1352ce2cbd9a91ab9b9560109d78a8726",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/Makefile"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "d8a4d6c1f4e7affc39b7c676c50e94127e73b703",
+      "size": 3826,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/README.md?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/d8a4d6c1f4e7affc39b7c676c50e94127e73b703",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/d8a4d6c1f4e7affc39b7c676c50e94127e73b703",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/README.md"
+      }
+    },
+    {
+      "name": "TIME_SERIES_ANALYSIS.md",
+      "path": "TIME_SERIES_ANALYSIS.md",
+      "sha": "e25acd5c78bdc9b43a1c6f52d6fc764b830e1f02",
+      "size": 8193,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/TIME_SERIES_ANALYSIS.md?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/TIME_SERIES_ANALYSIS.md",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e25acd5c78bdc9b43a1c6f52d6fc764b830e1f02",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/TIME_SERIES_ANALYSIS.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/TIME_SERIES_ANALYSIS.md?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e25acd5c78bdc9b43a1c6f52d6fc764b830e1f02",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/TIME_SERIES_ANALYSIS.md"
+      }
+    },
+    {
+      "name": "build.sh",
+      "path": "build.sh",
+      "sha": "172b33732384a72a897fb468d460103536893f92",
+      "size": 779,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/build.sh?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/build.sh",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/172b33732384a72a897fb468d460103536893f92",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/build.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/build.sh?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/172b33732384a72a897fb468d460103536893f92",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/build.sh"
+      }
+    },
+    {
+      "name": "check_error.sh",
+      "path": "check_error.sh",
+      "sha": "42b397571a6c265486ddb003ed9c8aea078f6621",
+      "size": 1479,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/check_error.sh?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/check_error.sh",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/42b397571a6c265486ddb003ed9c8aea078f6621",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/check_error.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/check_error.sh?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/42b397571a6c265486ddb003ed9c8aea078f6621",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/check_error.sh"
+      }
+    },
+    {
+      "name": "check_error2.sh",
+      "path": "check_error2.sh",
+      "sha": "a8d7ef375d3371f917115e15862db6ee894f0660",
+      "size": 574,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/check_error2.sh?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/check_error2.sh",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/a8d7ef375d3371f917115e15862db6ee894f0660",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/check_error2.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/check_error2.sh?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/a8d7ef375d3371f917115e15862db6ee894f0660",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/check_error2.sh"
+      }
+    },
+    {
+      "name": "log",
+      "path": "log",
+      "sha": "80a6c7a9b6d88f6978a900abd7afbff80ae8cf02",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/80a6c7a9b6d88f6978a900abd7afbff80ae8cf02",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/80a6c7a9b6d88f6978a900abd7afbff80ae8cf02",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/log"
+      }
+    },
+    {
+      "name": "_pumpfun_buy_tx.log",
+      "path": "log/_pumpfun_buy_tx.log",
+      "sha": "dd1011f02f7f2f6b0fef4a7d2d93ea9ba91fc598",
+      "size": 11642,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/_pumpfun_buy_tx.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/_pumpfun_buy_tx.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/dd1011f02f7f2f6b0fef4a7d2d93ea9ba91fc598",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/_pumpfun_buy_tx.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/_pumpfun_buy_tx.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/dd1011f02f7f2f6b0fef4a7d2d93ea9ba91fc598",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/_pumpfun_buy_tx.log"
+      }
+    },
+    {
+      "name": "_pumpfun_mintTo_tx.log",
+      "path": "log/_pumpfun_mintTo_tx.log",
+      "sha": "7f5b244380cff7fa8ebd76825b4e7a35924dac86",
+      "size": 20101,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/_pumpfun_mintTo_tx.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/_pumpfun_mintTo_tx.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/7f5b244380cff7fa8ebd76825b4e7a35924dac86",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/_pumpfun_mintTo_tx.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/_pumpfun_mintTo_tx.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/7f5b244380cff7fa8ebd76825b4e7a35924dac86",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/_pumpfun_mintTo_tx.log"
+      }
+    },
+    {
+      "name": "_pumpfun_sell_tx.log",
+      "path": "log/_pumpfun_sell_tx.log",
+      "sha": "ab765f0a056898b045aced288efac4ed7deb65b3",
+      "size": 8468,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/_pumpfun_sell_tx.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/_pumpfun_sell_tx.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/ab765f0a056898b045aced288efac4ed7deb65b3",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/_pumpfun_sell_tx.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/_pumpfun_sell_tx.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/ab765f0a056898b045aced288efac4ed7deb65b3",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/_pumpfun_sell_tx.log"
+      }
+    },
+    {
+      "name": "pumpfun_buy_tx_1746445226684.log",
+      "path": "log/pumpfun_buy_tx_1746445226684.log",
+      "sha": "3a7e897d374c8735f1e465af500b3abe6c32318c",
+      "size": 10565,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_buy_tx_1746445226684.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_buy_tx_1746445226684.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/3a7e897d374c8735f1e465af500b3abe6c32318c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/pumpfun_buy_tx_1746445226684.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_buy_tx_1746445226684.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/3a7e897d374c8735f1e465af500b3abe6c32318c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_buy_tx_1746445226684.log"
+      }
+    },
+    {
+      "name": "pumpfun_buy_tx_1746445226689.log",
+      "path": "log/pumpfun_buy_tx_1746445226689.log",
+      "sha": "19fe5013cef74e91b607c00e8ae1a55294198782",
+      "size": 11968,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_buy_tx_1746445226689.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_buy_tx_1746445226689.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/19fe5013cef74e91b607c00e8ae1a55294198782",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/pumpfun_buy_tx_1746445226689.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_buy_tx_1746445226689.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/19fe5013cef74e91b607c00e8ae1a55294198782",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_buy_tx_1746445226689.log"
+      }
+    },
+    {
+      "name": "pumpfun_buy_tx_1746445227390.log",
+      "path": "log/pumpfun_buy_tx_1746445227390.log",
+      "sha": "490f133928bf320968c7321151d810b2f6ee2f0c",
+      "size": 19958,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_buy_tx_1746445227390.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_buy_tx_1746445227390.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/490f133928bf320968c7321151d810b2f6ee2f0c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/pumpfun_buy_tx_1746445227390.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_buy_tx_1746445227390.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/490f133928bf320968c7321151d810b2f6ee2f0c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_buy_tx_1746445227390.log"
+      }
+    },
+    {
+      "name": "pumpfun_sell_tx_1746445226685.log",
+      "path": "log/pumpfun_sell_tx_1746445226685.log",
+      "sha": "a7d9f82dfc8d5384cd34987fe136f5a3e758604f",
+      "size": 9208,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_sell_tx_1746445226685.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_sell_tx_1746445226685.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/a7d9f82dfc8d5384cd34987fe136f5a3e758604f",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/pumpfun_sell_tx_1746445226685.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_sell_tx_1746445226685.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/a7d9f82dfc8d5384cd34987fe136f5a3e758604f",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_sell_tx_1746445226685.log"
+      }
+    },
+    {
+      "name": "pumpfun_sell_tx_1746445227405.log",
+      "path": "log/pumpfun_sell_tx_1746445227405.log",
+      "sha": "86e1dd896bd64d6da2ee1e255fcfb0e0841f8786",
+      "size": 7864,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_sell_tx_1746445227405.log?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_sell_tx_1746445227405.log",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/86e1dd896bd64d6da2ee1e255fcfb0e0841f8786",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/log/pumpfun_sell_tx_1746445227405.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/log/pumpfun_sell_tx_1746445227405.log?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/86e1dd896bd64d6da2ee1e255fcfb0e0841f8786",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/log/pumpfun_sell_tx_1746445227405.log"
+      }
+    },
+    {
+      "name": "prototype",
+      "path": "prototype",
+      "sha": "50fe4535b024880da2896aa96828c4f7a482b328",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/prototype",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/50fe4535b024880da2896aa96828c4f7a482b328",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/50fe4535b024880da2896aa96828c4f7a482b328",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/prototype"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "prototype/Cargo.toml",
+      "sha": "135124791e7bf8305685075128d1e4aafc37459b",
+      "size": 518,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/Cargo.toml?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/prototype/Cargo.toml",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/135124791e7bf8305685075128d1e4aafc37459b",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/prototype/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/Cargo.toml?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/135124791e7bf8305685075128d1e4aafc37459b",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/prototype/Cargo.toml"
+      }
+    },
+    {
+      "name": "src",
+      "path": "prototype/src",
+      "sha": "62ee27e35b575668109f739da741b0eddbc8f09f",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/src?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/prototype/src",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/62ee27e35b575668109f739da741b0eddbc8f09f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/src?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/62ee27e35b575668109f739da741b0eddbc8f09f",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/prototype/src"
+      }
+    },
+    {
+      "name": "lib.rs",
+      "path": "prototype/src/lib.rs",
+      "sha": "9a3136c563fad6c1cae1cd8be43505f488fa3910",
+      "size": 11434,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/src/lib.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/prototype/src/lib.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/9a3136c563fad6c1cae1cd8be43505f488fa3910",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/prototype/src/lib.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/src/lib.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/9a3136c563fad6c1cae1cd8be43505f488fa3910",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/prototype/src/lib.rs"
+      }
+    },
+    {
+      "name": "main.rs",
+      "path": "prototype/src/main.rs",
+      "sha": "1803d1179d0321b7e5dd1a5a83b4bc3c726bac6e",
+      "size": 5538,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/src/main.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/prototype/src/main.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1803d1179d0321b7e5dd1a5a83b4bc3c726bac6e",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/prototype/src/main.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/prototype/src/main.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1803d1179d0321b7e5dd1a5a83b4bc3c726bac6e",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/prototype/src/main.rs"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "c1d057063652c98ddd934d12e69107528eec16f6",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/c1d057063652c98ddd934d12e69107528eec16f6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/c1d057063652c98ddd934d12e69107528eec16f6",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src"
+      }
+    },
+    {
+      "name": "common",
+      "path": "src/common",
+      "sha": "8924b34439d5e9809d3deb930fa2702f11a5a9ec",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/common",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/8924b34439d5e9809d3deb930fa2702f11a5a9ec",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/8924b34439d5e9809d3deb930fa2702f11a5a9ec",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/common"
+      }
+    },
+    {
+      "name": "blacklist.rs",
+      "path": "src/common/blacklist.rs",
+      "sha": "624da8ae0241f3c5738c3ccccf9d9becf663b5a7",
+      "size": 8022,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/blacklist.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/blacklist.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/624da8ae0241f3c5738c3ccccf9d9becf663b5a7",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/common/blacklist.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/blacklist.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/624da8ae0241f3c5738c3ccccf9d9becf663b5a7",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/blacklist.rs"
+      }
+    },
+    {
+      "name": "config.rs",
+      "path": "src/common/config.rs",
+      "sha": "2795567886a6f4b54402e0e0b8af6322f893941d",
+      "size": 13043,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/config.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/config.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/2795567886a6f4b54402e0e0b8af6322f893941d",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/common/config.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/config.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/2795567886a6f4b54402e0e0b8af6322f893941d",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/config.rs"
+      }
+    },
+    {
+      "name": "constants.rs",
+      "path": "src/common/constants.rs",
+      "sha": "e2f852cad409a198d1eb75d74c6297ee0a05a966",
+      "size": 1877,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/constants.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/constants.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e2f852cad409a198d1eb75d74c6297ee0a05a966",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/common/constants.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/constants.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e2f852cad409a198d1eb75d74c6297ee0a05a966",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/constants.rs"
+      }
+    },
+    {
+      "name": "logger.rs",
+      "path": "src/common/logger.rs",
+      "sha": "778625f9cb731d685fd2a13addab6132b60df233",
+      "size": 1630,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/logger.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/logger.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/778625f9cb731d685fd2a13addab6132b60df233",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/common/logger.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/logger.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/778625f9cb731d685fd2a13addab6132b60df233",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/logger.rs"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/common/mod.rs",
+      "sha": "72c2252203a692f201f91eb1df027370f7e79942",
+      "size": 89,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/72c2252203a692f201f91eb1df027370f7e79942",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/common/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/72c2252203a692f201f91eb1df027370f7e79942",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/mod.rs"
+      }
+    },
+    {
+      "name": "whitelist.rs",
+      "path": "src/common/whitelist.rs",
+      "sha": "1752b47239bc1e125c8a5dd7afbed60fc899a982",
+      "size": 11700,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/whitelist.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/whitelist.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1752b47239bc1e125c8a5dd7afbed60fc899a982",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/common/whitelist.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/common/whitelist.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1752b47239bc1e125c8a5dd7afbed60fc899a982",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/common/whitelist.rs"
+      }
+    },
+    {
+      "name": "core",
+      "path": "src/core",
+      "sha": "ab69520872370eceaccbd0aa3fcfc96b193468fe",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/core",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/ab69520872370eceaccbd0aa3fcfc96b193468fe",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/ab69520872370eceaccbd0aa3fcfc96b193468fe",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/core"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/core/mod.rs",
+      "sha": "ee2cea4fe9b275535f6dccd4c0e4e01e59caec5d",
+      "size": 27,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/core/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/ee2cea4fe9b275535f6dccd4c0e4e01e59caec5d",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/core/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/ee2cea4fe9b275535f6dccd4c0e4e01e59caec5d",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/core/mod.rs"
+      }
+    },
+    {
+      "name": "token.rs",
+      "path": "src/core/token.rs",
+      "sha": "c118c574d83fcafa3e82f00a266fa0209cf713d7",
+      "size": 2825,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core/token.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/core/token.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/c118c574d83fcafa3e82f00a266fa0209cf713d7",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/core/token.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core/token.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/c118c574d83fcafa3e82f00a266fa0209cf713d7",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/core/token.rs"
+      }
+    },
+    {
+      "name": "tx.rs",
+      "path": "src/core/tx.rs",
+      "sha": "8fc1a53ac88f6ff8dbede1459ae474fa4f111b7d",
+      "size": 8789,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core/tx.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/core/tx.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/8fc1a53ac88f6ff8dbede1459ae474fa4f111b7d",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/core/tx.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/core/tx.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/8fc1a53ac88f6ff8dbede1459ae474fa4f111b7d",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/core/tx.rs"
+      }
+    },
+    {
+      "name": "dex",
+      "path": "src/dex",
+      "sha": "5623c0a164d9da7d0ee54da539a3f7f289688eaa",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/dex?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/dex",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/5623c0a164d9da7d0ee54da539a3f7f289688eaa",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/dex?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/5623c0a164d9da7d0ee54da539a3f7f289688eaa",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/dex"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/dex/mod.rs",
+      "sha": "77797eca0a55d713c92baec4f4f851a6514dde1a",
+      "size": 18,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/dex/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/dex/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/77797eca0a55d713c92baec4f4f851a6514dde1a",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/dex/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/dex/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/77797eca0a55d713c92baec4f4f851a6514dde1a",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/dex/mod.rs"
+      }
+    },
+    {
+      "name": "pump_fun.rs",
+      "path": "src/dex/pump_fun.rs",
+      "sha": "f02d7fa96eee26fb8959933c58af80fdd7b906c7",
+      "size": 6468,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/dex/pump_fun.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/dex/pump_fun.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/f02d7fa96eee26fb8959933c58af80fdd7b906c7",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/dex/pump_fun.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/dex/pump_fun.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/f02d7fa96eee26fb8959933c58af80fdd7b906c7",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/dex/pump_fun.rs"
+      }
+    },
+    {
+      "name": "engine",
+      "path": "src/engine",
+      "sha": "7e5ba409fab4d5b3ba36a39569570b4324a60d5f",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/engine",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/7e5ba409fab4d5b3ba36a39569570b4324a60d5f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/7e5ba409fab4d5b3ba36a39569570b4324a60d5f",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/engine"
+      }
+    },
+    {
+      "name": "advanced_trading.rs",
+      "path": "src/engine/advanced_trading.rs",
+      "sha": "282995fc3dd4b05421d4551365f3ae254a0b7b9c",
+      "size": 1021,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/advanced_trading.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/advanced_trading.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/282995fc3dd4b05421d4551365f3ae254a0b7b9c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/advanced_trading.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/advanced_trading.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/282995fc3dd4b05421d4551365f3ae254a0b7b9c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/advanced_trading.rs"
+      }
+    },
+    {
+      "name": "bonding_curve.rs",
+      "path": "src/engine/bonding_curve.rs",
+      "sha": "0439ebac13850180d6b4439e5c6f09bbcf80db62",
+      "size": 11343,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/bonding_curve.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/bonding_curve.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/0439ebac13850180d6b4439e5c6f09bbcf80db62",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/bonding_curve.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/bonding_curve.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/0439ebac13850180d6b4439e5c6f09bbcf80db62",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/bonding_curve.rs"
+      }
+    },
+    {
+      "name": "enhanced_monitor.rs",
+      "path": "src/engine/enhanced_monitor.rs",
+      "sha": "1a3563197a0c35ccbea72b7f4018aafadb6e9bc2",
+      "size": 707,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/enhanced_monitor.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/enhanced_monitor.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1a3563197a0c35ccbea72b7f4018aafadb6e9bc2",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/enhanced_monitor.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/enhanced_monitor.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1a3563197a0c35ccbea72b7f4018aafadb6e9bc2",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/enhanced_monitor.rs"
+      }
+    },
+    {
+      "name": "enhanced_token_trader.rs",
+      "path": "src/engine/enhanced_token_trader.rs",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/enhanced_token_trader.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/enhanced_token_trader.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/enhanced_token_trader.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/enhanced_token_trader.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/enhanced_token_trader.rs"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/engine/mod.rs",
+      "sha": "876b95f0ef62aad7f01652a791f478f7aee02ad9",
+      "size": 258,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/876b95f0ef62aad7f01652a791f478f7aee02ad9",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/876b95f0ef62aad7f01652a791f478f7aee02ad9",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/mod.rs"
+      }
+    },
+    {
+      "name": "monitor.rs",
+      "path": "src/engine/monitor.rs",
+      "sha": "8d9214371c0c893c2728d4e1ccdb0845f3b22a5a",
+      "size": 2077,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/monitor.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/monitor.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/8d9214371c0c893c2728d4e1ccdb0845f3b22a5a",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/monitor.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/monitor.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/8d9214371c0c893c2728d4e1ccdb0845f3b22a5a",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/monitor.rs"
+      }
+    },
+    {
+      "name": "risk_management.rs",
+      "path": "src/engine/risk_management.rs",
+      "sha": "ba3995f96486ebe9d82e7df4949f0aa8e7623b29",
+      "size": 17563,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/risk_management.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/risk_management.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/ba3995f96486ebe9d82e7df4949f0aa8e7623b29",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/risk_management.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/risk_management.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/ba3995f96486ebe9d82e7df4949f0aa8e7623b29",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/risk_management.rs"
+      }
+    },
+    {
+      "name": "swap.rs",
+      "path": "src/engine/swap.rs",
+      "sha": "e7ea6497d7c2362fed1d29da48c9fa9671be6091",
+      "size": 1297,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/swap.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/swap.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e7ea6497d7c2362fed1d29da48c9fa9671be6091",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/swap.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/swap.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e7ea6497d7c2362fed1d29da48c9fa9671be6091",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/swap.rs"
+      }
+    },
+    {
+      "name": "token_buying.rs",
+      "path": "src/engine/token_buying.rs",
+      "sha": "0bf6735a922d88cd4e6ad10652da157d739d5ba8",
+      "size": 1790,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_buying.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_buying.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/0bf6735a922d88cd4e6ad10652da157d739d5ba8",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/token_buying.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_buying.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/0bf6735a922d88cd4e6ad10652da157d739d5ba8",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_buying.rs"
+      }
+    },
+    {
+      "name": "token_list_manager.rs",
+      "path": "src/engine/token_list_manager.rs",
+      "sha": "d3e07ff98c82d1c109b218b8682767c4c0bfd58c",
+      "size": 8304,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_list_manager.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_list_manager.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/d3e07ff98c82d1c109b218b8682767c4c0bfd58c",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/token_list_manager.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_list_manager.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/d3e07ff98c82d1c109b218b8682767c4c0bfd58c",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_list_manager.rs"
+      }
+    },
+    {
+      "name": "token_selling.rs",
+      "path": "src/engine/token_selling.rs",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_selling.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_selling.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/token_selling.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_selling.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_selling.rs"
+      }
+    },
+    {
+      "name": "token_tracker.rs",
+      "path": "src/engine/token_tracker.rs",
+      "sha": "075a68ff13684ee8eccb963b9f46b8301b7e3bdc",
+      "size": 11642,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_tracker.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_tracker.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/075a68ff13684ee8eccb963b9f46b8301b7e3bdc",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/engine/token_tracker.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/engine/token_tracker.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/075a68ff13684ee8eccb963b9f46b8301b7e3bdc",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/engine/token_tracker.rs"
+      }
+    },
+    {
+      "name": "error",
+      "path": "src/error",
+      "sha": "1b4e1811bb42d23135b0a4c48b20c949e16ca0d1",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/error?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/error",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/1b4e1811bb42d23135b0a4c48b20c949e16ca0d1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/error?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/1b4e1811bb42d23135b0a4c48b20c949e16ca0d1",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/error"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/error/mod.rs",
+      "sha": "96765144891e0456dc385ea8a7a8fb9239ae8222",
+      "size": 7184,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/error/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/error/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/96765144891e0456dc385ea8a7a8fb9239ae8222",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/error/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/error/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/96765144891e0456dc385ea8a7a8fb9239ae8222",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/error/mod.rs"
+      }
+    },
+    {
+      "name": "fix_test.rs",
+      "path": "src/fix_test.rs",
+      "sha": "a3e978a65d1d35249e97ea6ac14995f03581c196",
+      "size": 41,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/fix_test.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/fix_test.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/a3e978a65d1d35249e97ea6ac14995f03581c196",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/fix_test.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/fix_test.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/a3e978a65d1d35249e97ea6ac14995f03581c196",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/fix_test.rs"
+      }
+    },
+    {
+      "name": "lib.rs",
+      "path": "src/lib.rs",
+      "sha": "231dd451fa4312dee7d578ccaf1a994c8033a343",
+      "size": 529,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/lib.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/lib.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/231dd451fa4312dee7d578ccaf1a994c8033a343",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/lib.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/lib.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/231dd451fa4312dee7d578ccaf1a994c8033a343",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/lib.rs"
+      }
+    },
+    {
+      "name": "main.rs",
+      "path": "src/main.rs",
+      "sha": "1bff7e1b0785f63af5b1a0ad40e9b08935b3b3fa",
+      "size": 13200,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/main.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/main.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1bff7e1b0785f63af5b1a0ad40e9b08935b3b3fa",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/main.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/main.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/1bff7e1b0785f63af5b1a0ad40e9b08935b3b3fa",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/main.rs"
+      }
+    },
+    {
+      "name": "services",
+      "path": "src/services",
+      "sha": "45865a297acd6dabcf5a39d03e9ba0ecea3eb6b7",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/services",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/45865a297acd6dabcf5a39d03e9ba0ecea3eb6b7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/45865a297acd6dabcf5a39d03e9ba0ecea3eb6b7",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/services"
+      }
+    },
+    {
+      "name": "jito.rs",
+      "path": "src/services/jito.rs",
+      "sha": "372377c30f0c61b61e966aeaf39afab9b5f38080",
+      "size": 9500,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/jito.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/jito.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/372377c30f0c61b61e966aeaf39afab9b5f38080",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/services/jito.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/jito.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/372377c30f0c61b61e966aeaf39afab9b5f38080",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/jito.rs"
+      }
+    },
+    {
+      "name": "jito_safe.rs",
+      "path": "src/services/jito_safe.rs",
+      "sha": "92274ad8341dfcf45174142d84364825c7a18055",
+      "size": 10294,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/jito_safe.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/jito_safe.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/92274ad8341dfcf45174142d84364825c7a18055",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/services/jito_safe.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/jito_safe.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/92274ad8341dfcf45174142d84364825c7a18055",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/jito_safe.rs"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/services/mod.rs",
+      "sha": "30200f187cf01fbde8596ec24d9aa44c3598cc42",
+      "size": 66,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/30200f187cf01fbde8596ec24d9aa44c3598cc42",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/services/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/30200f187cf01fbde8596ec24d9aa44c3598cc42",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/mod.rs"
+      }
+    },
+    {
+      "name": "nozomi.rs",
+      "path": "src/services/nozomi.rs",
+      "sha": "d52d044d04c638398cb0b86b03f7f1676dee0920",
+      "size": 339,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/nozomi.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/nozomi.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/d52d044d04c638398cb0b86b03f7f1676dee0920",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/services/nozomi.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/nozomi.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/d52d044d04c638398cb0b86b03f7f1676dee0920",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/nozomi.rs"
+      }
+    },
+    {
+      "name": "telegram.rs",
+      "path": "src/services/telegram.rs",
+      "sha": "6fff39c938fd6af862b8b9c172801476738cda11",
+      "size": 45148,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/telegram.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/telegram.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/6fff39c938fd6af862b8b9c172801476738cda11",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/services/telegram.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/telegram.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/6fff39c938fd6af862b8b9c172801476738cda11",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/telegram.rs"
+      }
+    },
+    {
+      "name": "zeroslot.rs",
+      "path": "src/services/zeroslot.rs",
+      "sha": "00434f02c590d4b111571377ec3f68480475b62b",
+      "size": 416,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/zeroslot.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/zeroslot.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/00434f02c590d4b111571377ec3f68480475b62b",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/services/zeroslot.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/services/zeroslot.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/00434f02c590d4b111571377ec3f68480475b62b",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/services/zeroslot.rs"
+      }
+    },
+    {
+      "name": "tests",
+      "path": "src/tests",
+      "sha": "3f9d060dc93e754a0019c9d21099756e535e79f4",
+      "size": 0,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/tests?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/tests",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/3f9d060dc93e754a0019c9d21099756e535e79f4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/tests?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/trees/3f9d060dc93e754a0019c9d21099756e535e79f4",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/tree/main/src/tests"
+      }
+    },
+    {
+      "name": "dev_wallet_test.rs",
+      "path": "src/tests/dev_wallet_test.rs",
+      "sha": "f3d417f24e173fd04b61b626630da1c834423f6b",
+      "size": 6482,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/tests/dev_wallet_test.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/tests/dev_wallet_test.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/f3d417f24e173fd04b61b626630da1c834423f6b",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/tests/dev_wallet_test.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/tests/dev_wallet_test.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/f3d417f24e173fd04b61b626630da1c834423f6b",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/tests/dev_wallet_test.rs"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/tests/mod.rs",
+      "sha": "11481f25b35f262ddbb9abbbce2c1193ffd2faa2",
+      "size": 107,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/tests/mod.rs?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/tests/mod.rs",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/11481f25b35f262ddbb9abbbce2c1193ffd2faa2",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/src/tests/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/src/tests/mod.rs?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/11481f25b35f262ddbb9abbbce2c1193ffd2faa2",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/src/tests/mod.rs"
+      }
+    },
+    {
+      "name": "test_logs.txt",
+      "path": "test_logs.txt",
+      "sha": "063a8a0a9c0eebb7e141a607a806c3a9d21a4250",
+      "size": 25146,
+      "url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/test_logs.txt?ref=main",
+      "html_url": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/test_logs.txt",
+      "git_url": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/063a8a0a9c0eebb7e141a607a806c3a9d21a4250",
+      "download_url": "https://raw.githubusercontent.com/FaceOFWood/SniperBot-Solana-PumpSwap/main/test_logs.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/contents/test_logs.txt?ref=main",
+        "git": "https://api.github.com/repos/FaceOFWood/SniperBot-Solana-PumpSwap/git/blobs/063a8a0a9c0eebb7e141a607a806c3a9d21a4250",
+        "html": "https://github.com/FaceOFWood/SniperBot-Solana-PumpSwap/blob/main/test_logs.txt"
+      }
+    }
+  ]
+}

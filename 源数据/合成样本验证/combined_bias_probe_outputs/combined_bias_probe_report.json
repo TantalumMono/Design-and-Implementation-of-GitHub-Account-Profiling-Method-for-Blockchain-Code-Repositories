@@ -1,0 +1,389 @@
+{
+  "input_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\augmented_300_with_meta.json",
+  "output_dir": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\combined_bias_probe_outputs",
+  "n_samples": 300,
+  "n_original": 45,
+  "n_synthetic": 255,
+  "n_families": 5,
+  "family_counts": [
+    {
+      "family_label": "F1_pumpfun_clone",
+      "is_synthetic": 0,
+      "n": 24
+    },
+    {
+      "family_label": "F1_pumpfun_clone",
+      "is_synthetic": 1,
+      "n": 36
+    },
+    {
+      "family_label": "F2_crypto_trading_bot",
+      "is_synthetic": 0,
+      "n": 4
+    },
+    {
+      "family_label": "F2_crypto_trading_bot",
+      "is_synthetic": 1,
+      "n": 56
+    },
+    {
+      "family_label": "F3_web3_platform_app",
+      "is_synthetic": 0,
+      "n": 8
+    },
+    {
+      "family_label": "F3_web3_platform_app",
+      "is_synthetic": 1,
+      "n": 52
+    },
+    {
+      "family_label": "F4_security_osint_cve",
+      "is_synthetic": 0,
+      "n": 5
+    },
+    {
+      "family_label": "F4_security_osint_cve",
+      "is_synthetic": 1,
+      "n": 55
+    },
+    {
+      "family_label": "F5_ai_media_demo",
+      "is_synthetic": 0,
+      "n": 4
+    },
+    {
+      "family_label": "F5_ai_media_demo",
+      "is_synthetic": 1,
+      "n": 56
+    }
+  ],
+  "text_bias": {
+    "n_samples": 300,
+    "n_original": 45,
+    "n_synthetic": 255,
+    "cv": {
+      "n_splits": 5,
+      "random_state": 42,
+      "mean_roc_auc": 0.5849673202614379,
+      "std_roc_auc": 0.06285601277632966
+    },
+    "interpretation": "AUC 越接近 0.50，说明 original 与 synthetic 越不容易仅凭文本特征被区分，文本合成偏置越弱；若 AUC 明显高于 0.60，则提示存在可识别的文本合成痕迹。",
+    "overall_centroid_cosine": 0.8139497202561448,
+    "family_centroid_cosine_summary": {
+      "mean": 0.9950646372460195,
+      "median": 0.9935431913476986,
+      "min": 0.9911185980652821,
+      "max": 1.0000000000000084
+    },
+    "synthetic_to_source_similarity_summary": {
+      "n_matched": 255,
+      "mean": 0.9920508826430054,
+      "median": 0.9992767996354912,
+      "min": 0.9324969577243789,
+      "q1": 0.9881510844080736,
+      "q3": 0.9999999999999964,
+      "max": 1.000000000000038
+    },
+    "unique_ratio": {
+      "full_text_original": 0.5111111111111111,
+      "full_text_synthetic": 0.4235294117647059,
+      "readme_original": 0.4888888888888889,
+      "readme_synthetic": 0.27058823529411763
+    },
+    "top10_positive_coefficients": [
+      {
+        "feature": "OSINT",
+        "coef": 1.082912793584716
+      },
+      {
+        "feature": "Note",
+        "coef": 0.8597716334836105
+      },
+      {
+        "feature": "processing",
+        "coef": 0.8204416149523727
+      },
+      {
+        "feature": "an automated",
+        "coef": 0.8032017724319803
+      },
+      {
+        "feature": "is an",
+        "coef": 0.7221077091580741
+      },
+      {
+        "feature": "and local",
+        "coef": 0.6707951595829712
+      },
+      {
+        "feature": "Note This",
+        "coef": 0.6630989813172731
+      },
+      {
+        "feature": "around",
+        "coef": 0.6609868275453936
+      },
+      {
+        "feature": "This repository",
+        "coef": 0.6126466878575115
+      },
+      {
+        "feature": "local",
+        "coef": 0.4652194510252212
+      }
+    ],
+    "top10_negative_coefficients": [
+      {
+        "feature": "to use",
+        "coef": -1.3067800041058584
+      },
+      {
+        "feature": "Automated",
+        "coef": -1.0266105696324144
+      },
+      {
+        "feature": "built in",
+        "coef": -0.8500643910226852
+      },
+      {
+        "feature": "bot built",
+        "coef": -0.8500643910226852
+      },
+      {
+        "feature": "world",
+        "coef": -0.7350684327303284
+      },
+      {
+        "feature": "tool",
+        "coef": -0.7090368851140968
+      },
+      {
+        "feature": "real",
+        "coef": -0.6772613695787716
+      },
+      {
+        "feature": "for trading",
+        "coef": -0.5746208821054023
+      },
+      {
+        "feature": "uses",
+        "coef": -0.37662595170220503
+      },
+      {
+        "feature": "contains",
+        "coef": -0.3432948574427327
+      }
+    ]
+  },
+  "structured_family_drift": {
+    "n_structured_features_total": 149,
+    "n_continuous_features": 64,
+    "n_boolean_features": 85,
+    "continuous_summary": {
+      "n_rows": 320,
+      "median_abs_smd": 0.015531396279198398,
+      "mean_abs_smd": 0.03513828178231128,
+      "pct_abs_smd_gt_0_1": 0.0875,
+      "pct_abs_smd_gt_0_2": 0.028125,
+      "max_abs_smd": 0.5133986394250707,
+      "top10": [
+        {
+          "family_label": "F5_ai_media_demo",
+          "feature": "user_login_entropy",
+          "orig_n": 4,
+          "syn_n": 56,
+          "orig_mean": 2.965725466930915,
+          "syn_mean": 3.0513341530330402,
+          "abs_smd": 0.5133986394250707
+        },
+        {
+          "family_label": "F5_ai_media_demo",
+          "feature": "repo_name_entropy",
+          "orig_n": 4,
+          "syn_n": 56,
+          "orig_mean": 2.6488451471323704,
+          "syn_mean": 2.842691837418733,
+          "abs_smd": 0.37576804829528454
+        },
+        {
+          "family_label": "F1_pumpfun_clone",
+          "feature": "large_file_count_ge_1mb",
+          "orig_n": 24,
+          "syn_n": 36,
+          "orig_mean": 5.0,
+          "syn_mean": 5.222222222222222,
+          "abs_smd": 0.3630795257188619
+        },
+        {
+          "family_label": "F1_pumpfun_clone",
+          "feature": "file_extension_diversity",
+          "orig_n": 24,
+          "syn_n": 36,
+          "orig_mean": 6.958333333333333,
+          "syn_mean": 7.166666666666667,
+          "abs_smd": 0.3524474338677727
+        },
+        {
+          "family_label": "F5_ai_media_demo",
+          "feature": "user_login_length",
+          "orig_n": 4,
+          "syn_n": 56,
+          "orig_mean": 10.75,
+          "syn_mean": 11.482142857142858,
+          "abs_smd": 0.3346838244728933
+        },
+        {
+          "family_label": "F1_pumpfun_clone",
+          "feature": "env_file_count",
+          "orig_n": 24,
+          "syn_n": 36,
+          "orig_mean": 1.0,
+          "syn_mean": 1.1666666666666667,
+          "abs_smd": 0.30429030972509247
+        },
+        {
+          "family_label": "F4_security_osint_cve",
+          "feature": "large_file_count_ge_1mb",
+          "orig_n": 5,
+          "syn_n": 55,
+          "orig_mean": 0.6,
+          "syn_mean": 0.43636363636363634,
+          "abs_smd": 0.263258072685767
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "user_login_entropy",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_mean": 2.9404473760479055,
+          "syn_mean": 3.015504551662845,
+          "abs_smd": 0.20816982541038986
+        },
+        {
+          "family_label": "F1_pumpfun_clone",
+          "feature": "max_path_depth",
+          "orig_n": 24,
+          "syn_n": 36,
+          "orig_mean": 2.0,
+          "syn_mean": 1.8888888888888888,
+          "abs_smd": 0.20022896401315768
+        },
+        {
+          "family_label": "F5_ai_media_demo",
+          "feature": "repo_name_length",
+          "orig_n": 4,
+          "syn_n": 56,
+          "orig_mean": 10.5,
+          "syn_mean": 11.946428571428571,
+          "abs_smd": 0.18754226014055814
+        }
+      ]
+    },
+    "boolean_summary": {
+      "n_rows": 425,
+      "median_abs_diff": 0.0,
+      "mean_abs_diff": 0.002973151031974561,
+      "pct_abs_diff_gt_0_02": 0.01647058823529412,
+      "pct_abs_diff_gt_0_05": 0.011764705882352941,
+      "pct_abs_diff_gt_0_1": 0.009411764705882352,
+      "max_abs_diff": 0.2727272727272728,
+      "top10": [
+        {
+          "family_label": "F4_security_osint_cve",
+          "feature": "user_name_matches_login",
+          "orig_n": 5,
+          "syn_n": 55,
+          "orig_rate": 0.8,
+          "syn_rate": 0.5272727272727272,
+          "abs_diff": 0.2727272727272728
+        },
+        {
+          "family_label": "F1_pumpfun_clone",
+          "feature": "user_name_matches_login",
+          "orig_n": 24,
+          "syn_n": 36,
+          "orig_rate": 0.25,
+          "syn_rate": 0.5,
+          "abs_diff": 0.25
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "user_name_matches_login",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_rate": 0.5,
+          "syn_rate": 0.36538461538461536,
+          "abs_diff": 0.13461538461538464
+        },
+        {
+          "family_label": "F2_crypto_trading_bot",
+          "feature": "user_name_matches_login",
+          "orig_n": 4,
+          "syn_n": 56,
+          "orig_rate": 0.25,
+          "syn_rate": 0.35714285714285715,
+          "abs_diff": 0.10714285714285715
+        },
+        {
+          "family_label": "F5_ai_media_demo",
+          "feature": "user_name_matches_login",
+          "orig_n": 4,
+          "syn_n": 56,
+          "orig_rate": 0.5,
+          "syn_rate": 0.5535714285714286,
+          "abs_diff": 0.0535714285714286
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "has_license_meta",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_rate": 0.375,
+          "syn_rate": 0.34615384615384615,
+          "abs_diff": 0.028846153846153855
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "repo_name_has_blockchain_keyword",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_rate": 0.375,
+          "syn_rate": 0.40384615384615385,
+          "abs_diff": 0.028846153846153855
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "has_deploy_dir",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_rate": 0.25,
+          "syn_rate": 0.23076923076923078,
+          "abs_diff": 0.019230769230769218
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "has_email",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_rate": 0.5,
+          "syn_rate": 0.4807692307692308,
+          "abs_diff": 0.019230769230769218
+        },
+        {
+          "family_label": "F3_web3_platform_app",
+          "feature": "has_hardhat_config",
+          "orig_n": 8,
+          "syn_n": 52,
+          "orig_rate": 0.25,
+          "syn_rate": 0.23076923076923078,
+          "abs_diff": 0.019230769230769218
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Text bias probe: 5-fold ROC-AUC for synthetic-vs-original distinguishability using TF-IDF + LogisticRegression.",
+    "Structured family drift: continuous features use abs SMD within family; boolean features use absolute rate difference within family.",
+    "AUC near 0.50 suggests weak global distinguishability; low SMD/abs_diff suggests weak family-level drift."
+  ]
+}

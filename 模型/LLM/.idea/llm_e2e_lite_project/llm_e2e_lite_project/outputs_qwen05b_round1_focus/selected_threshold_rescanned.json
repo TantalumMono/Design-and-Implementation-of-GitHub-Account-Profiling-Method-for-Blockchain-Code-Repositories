@@ -1,0 +1,14 @@
+{
+  "objective": "f1",
+  "min_precision": null,
+  "best_threshold_on_oof_val": 0.018299999999999938,
+  "best_val_metrics": {
+    "precision": 0.37786259541984735,
+    "recall": 0.66,
+    "f1": 0.48058252427184467,
+    "f2": 0.574245939675174,
+    "accuracy": 0.8181818181818182,
+    "roc_auc": 0.8282351509250243,
+    "pr_auc": 0.4110314023867707
+  }
+}

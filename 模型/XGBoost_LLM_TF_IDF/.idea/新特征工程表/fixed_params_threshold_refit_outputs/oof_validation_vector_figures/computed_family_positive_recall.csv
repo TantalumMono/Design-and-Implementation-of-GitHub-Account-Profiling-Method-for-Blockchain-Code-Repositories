@@ -1,0 +1,6 @@
+﻿family_id,n_positive,tp,recall
+F2_crypto_trading_bot,60,30,0.5
+F3_web3_platform_app,60,39,0.65
+F4_security_osint_cve,60,57,0.95
+F1_pumpfun_clone,60,60,1.0
+F5_ai_media_demo,60,60,1.0

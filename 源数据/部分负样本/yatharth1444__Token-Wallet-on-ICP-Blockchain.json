@@ -1,0 +1,752 @@
+{
+  "repo_full_name": "yatharth1444/Token-Wallet-on-ICP-Blockchain",
+  "repo_detail": {
+    "id": 902995982,
+    "node_id": "R_kgDONdKgDg",
+    "name": "Token-Wallet-on-ICP-Blockchain",
+    "full_name": "yatharth1444/Token-Wallet-on-ICP-Blockchain",
+    "private": false,
+    "owner": {
+      "login": "yatharth1444",
+      "id": 128090899,
+      "node_id": "U_kgDOB6KDEw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128090899?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yatharth1444",
+      "html_url": "https://github.com/yatharth1444",
+      "followers_url": "https://api.github.com/users/yatharth1444/followers",
+      "following_url": "https://api.github.com/users/yatharth1444/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yatharth1444/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yatharth1444/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yatharth1444/subscriptions",
+      "organizations_url": "https://api.github.com/users/yatharth1444/orgs",
+      "repos_url": "https://api.github.com/users/yatharth1444/repos",
+      "events_url": "https://api.github.com/users/yatharth1444/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yatharth1444/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain",
+    "description": "I created a Rust-based token wallet for the Internet Computer Protocol (ICP) blockchain. This wallet supports  functionalities such as sending, receiving and displaying IRCRC2 tokens.",
+    "fork": false,
+    "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain",
+    "forks_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/forks",
+    "keys_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/teams",
+    "hooks_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/hooks",
+    "issue_events_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/events",
+    "assignees_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/tags",
+    "blobs_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/languages",
+    "stargazers_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/stargazers",
+    "contributors_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contributors",
+    "subscribers_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/subscribers",
+    "subscription_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/subscription",
+    "commits_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/merges",
+    "archive_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/downloads",
+    "issues_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/deployments",
+    "created_at": "2024-12-13T17:48:19Z",
+    "updated_at": "2024-12-13T18:18:56Z",
+    "pushed_at": "2024-12-13T18:18:52Z",
+    "git_url": "git://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain.git",
+    "ssh_url": "git@github.com:yatharth1444/Token-Wallet-on-ICP-Blockchain.git",
+    "clone_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain.git",
+    "svn_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain",
+    "homepage": null,
+    "size": 83,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 1,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "yatharth1444",
+    "id": 128090899,
+    "node_id": "U_kgDOB6KDEw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/128090899?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yatharth1444",
+    "html_url": "https://github.com/yatharth1444",
+    "followers_url": "https://api.github.com/users/yatharth1444/followers",
+    "following_url": "https://api.github.com/users/yatharth1444/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yatharth1444/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yatharth1444/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yatharth1444/subscriptions",
+    "organizations_url": "https://api.github.com/users/yatharth1444/orgs",
+    "repos_url": "https://api.github.com/users/yatharth1444/repos",
+    "events_url": "https://api.github.com/users/yatharth1444/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yatharth1444/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yatharth Singh",
+    "company": null,
+    "blog": "https://yatharthsh.vercel.app",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "Just a passionate engineer,\r\nhere to just learn,\r\nI love football and security,\r\ninto Philosophy more than ever \r\n",
+    "twitter_username": "yatharth962792",
+    "public_repos": 68,
+    "public_gists": 1,
+    "followers": 6,
+    "following": 40,
+    "created_at": "2023-03-16T19:26:32Z",
+    "updated_at": "2026-02-21T00:12:44Z"
+  },
+  "readme": " Token Wallet on the ICP Blockchain\n\nOverview\n\nThis project is a token wallet built on the **Internet Computer Protocol (ICP)** using **Rust** for the backend and **React** for the frontend. The wallet supports basic functionality like sending, receiving tokens (IRCRC2), and displaying balances.\n\nThis solution demonstrates how to create a secure token wallet on ICP and interacts with smart contracts to transfer tokens between users. The frontend is built using React, styled with modular CSS, and is connected to the ICP backend using the DFX SDK.\n\n---\n\nFeatures\n\n- Token Transfer: Send and receive tokens on the ICP blockchain.\n- Balance Display: View the current token balance for a user.\n- Secure: Implements secure arithmetic operations for safe token transfer.\n- React Frontend: Built with React for easy use and interaction with the wallet.\n\n---\n\nTechnologies\n\n- Rust for backend smart contract development.\n- React for frontend development.\n- ICP (Internet Computer Protocol)** for blockchain infrastructure.\n- DFX  for local development and deployment of ICP canisters.\n- Candid for interface definition between frontend and backend canisters.\n\n---\n\n Project Structure\n\n Backend (`ipc_token_wallet_backend`)\n\n- **Rust Smart Contract**: Handles the logic for sending and receiving tokens, token balance, and arithmetic operations.\n- **State Management**: Uses a mutable state to keep track of token balances for each user.\n- **Security**: Implements safe arithmetic operations to prevent overflows and underflows.\n\n Frontend (`ipc_token_wallet_frontend`)\n\n- **React Components**:\n  - `Balance`: Displays the user's current token balance.\n  - `SendTokens`: Form to send tokens to another user.\n  - `ReceiveTokens`: Form to receive tokens from another user.\n- Styling: Modular CSS for each component to ensure a clean and responsive UI.\n\n---\n\n Setup Instructions\n\n Prerequisites\n\n- Rust: Ensure you have Rust installed. You can install it by following the instructions at [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).\n- DFX: The DFX SDK is required to deploy the backend canisters to ICP. Install it by following the instructions at [https://smartcontracts.org/docs/install/dfx](https://smartcontracts.org/docs/install/dfx).\n- Node.js and npm: Ensure you have Node.js and npm installed for React and frontend-related tasks.\n\nSetting up the Project\n\n1. Clone the repository:\n   ```bash\n   git clone <repository-url>\n   cd <project-directory>\n   ```\n\n2. Install frontend dependencies:\n   ```bash\n   cd src/ipc_token_wallet_frontend\n   npm install\n   ```\n\n3. Build the backend canister:\n   ```bash\n   cd ../ipc_token_wallet_backend\n   dfx build\n   ```\n\n4. Start the local ICP network (using DFX):\n   ```bash\n   dfx start\n   ```\n\n5. Deploy the canisters:\n   ```bash\n   dfx deploy\n   ```\n\n6. Access the frontend:\n   ```bash\n   cd src/ipc_token_wallet_frontend\n   npm start\n   ```\n\n7. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the wallet.\n\n---\n\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "49c89a1c9583641168a0ac523f3686b9e3e1477a",
+      "size": 260,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/49c89a1c9583641168a0ac523f3686b9e3e1477a",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/49c89a1c9583641168a0ac523f3686b9e3e1477a",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "Cargo.lock",
+      "path": "Cargo.lock",
+      "sha": "96cecf31861a33a33fc74c26e205d7ec6c4ce875",
+      "size": 30049,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/Cargo.lock?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/Cargo.lock",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/96cecf31861a33a33fc74c26e205d7ec6c4ce875",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/Cargo.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/Cargo.lock?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/96cecf31861a33a33fc74c26e205d7ec6c4ce875",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/Cargo.lock"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "Cargo.toml",
+      "sha": "b7d20b81c79c5c34a7cce54e7643b40d7a2851f8",
+      "size": 76,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/Cargo.toml?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/Cargo.toml",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/b7d20b81c79c5c34a7cce54e7643b40d7a2851f8",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/Cargo.toml?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/b7d20b81c79c5c34a7cce54e7643b40d7a2851f8",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/Cargo.toml"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "089ab3443c9df99f40a5ec320c402eb0ca231167",
+      "size": 3032,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/README.md?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/089ab3443c9df99f40a5ec320c402eb0ca231167",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/089ab3443c9df99f40a5ec320c402eb0ca231167",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/README.md"
+      }
+    },
+    {
+      "name": "dfx.json",
+      "path": "dfx.json",
+      "sha": "238624e1d7a2adabcf722ad27c378a10807789dd",
+      "size": 586,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/dfx.json?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/dfx.json",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/238624e1d7a2adabcf722ad27c378a10807789dd",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/dfx.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/dfx.json?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/238624e1d7a2adabcf722ad27c378a10807789dd",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/dfx.json"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "e5004f86a898f85568d66e69b27ade591bbacb79",
+      "size": 217740,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/e5004f86a898f85568d66e69b27ade591bbacb79",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/e5004f86a898f85568d66e69b27ade591bbacb79",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "c62f1ba7e9c2d34272a7c4db056fb114a716af0c",
+      "size": 476,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/package.json?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/c62f1ba7e9c2d34272a7c4db056fb114a716af0c",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/c62f1ba7e9c2d34272a7c4db056fb114a716af0c",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "bbf106de83d20b1c8ca72e56142d78edee4e2a1e",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/bbf106de83d20b1c8ca72e56142d78edee4e2a1e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/bbf106de83d20b1c8ca72e56142d78edee4e2a1e",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src"
+      }
+    },
+    {
+      "name": "ipc_token_wallet_backend",
+      "path": "src/ipc_token_wallet_backend",
+      "sha": "51f9b7d4eaf28e61282767d2d485e0d4bb29be3d",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_backend",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/51f9b7d4eaf28e61282767d2d485e0d4bb29be3d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/51f9b7d4eaf28e61282767d2d485e0d4bb29be3d",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_backend"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "src/ipc_token_wallet_backend/Cargo.toml",
+      "sha": "875938fa7ce55b000696259dbf6444f87b59f4ac",
+      "size": 468,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/Cargo.toml?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/Cargo.toml",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/875938fa7ce55b000696259dbf6444f87b59f4ac",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_backend/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/Cargo.toml?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/875938fa7ce55b000696259dbf6444f87b59f4ac",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/Cargo.toml"
+      }
+    },
+    {
+      "name": "ipc_token_wallet_backend.did",
+      "path": "src/ipc_token_wallet_backend/ipc_token_wallet_backend.did",
+      "sha": "aa419a250f0efc8e47f1849a5b760254a8c527d1",
+      "size": 51,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/ipc_token_wallet_backend.did?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/ipc_token_wallet_backend.did",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/aa419a250f0efc8e47f1849a5b760254a8c527d1",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_backend/ipc_token_wallet_backend.did",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/ipc_token_wallet_backend.did?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/aa419a250f0efc8e47f1849a5b760254a8c527d1",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/ipc_token_wallet_backend.did"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src/ipc_token_wallet_backend/src",
+      "sha": "47f6177c1fd410fd0a4dbd8774511b7166faed42",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/src?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_backend/src",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/47f6177c1fd410fd0a4dbd8774511b7166faed42",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/src?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/47f6177c1fd410fd0a4dbd8774511b7166faed42",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_backend/src"
+      }
+    },
+    {
+      "name": "lib.rs",
+      "path": "src/ipc_token_wallet_backend/src/lib.rs",
+      "sha": "eab9bda7f8ac87c395ccfbe11056e4124e2f9852",
+      "size": 2524,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/src/lib.rs?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/src/lib.rs",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/eab9bda7f8ac87c395ccfbe11056e4124e2f9852",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_backend/src/lib.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/src/lib.rs?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/eab9bda7f8ac87c395ccfbe11056e4124e2f9852",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/src/lib.rs"
+      }
+    },
+    {
+      "name": "test.rs",
+      "path": "src/ipc_token_wallet_backend/src/test.rs",
+      "sha": "411f9ff455c3c178ee1b51750ba0a9cf2af07709",
+      "size": 2531,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/src/test.rs?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/src/test.rs",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/411f9ff455c3c178ee1b51750ba0a9cf2af07709",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_backend/src/test.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_backend/src/test.rs?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/411f9ff455c3c178ee1b51750ba0a9cf2af07709",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_backend/src/test.rs"
+      }
+    },
+    {
+      "name": "ipc_token_wallet_frontend",
+      "path": "src/ipc_token_wallet_frontend",
+      "sha": "25f8a449ad905d2c1eb2578b5f27a4fa007b5cb2",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/25f8a449ad905d2c1eb2578b5f27a4fa007b5cb2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/25f8a449ad905d2c1eb2578b5f27a4fa007b5cb2",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "src/ipc_token_wallet_frontend/index.html",
+      "sha": "fbc76010ebf673e7295776699bdccc0fec0a33cd",
+      "size": 312,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/index.html?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/index.html",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/fbc76010ebf673e7295776699bdccc0fec0a33cd",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/index.html?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/fbc76010ebf673e7295776699bdccc0fec0a33cd",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "src/ipc_token_wallet_frontend/package-lock.json",
+      "sha": "488fe7d2ad722a7a9921b9ec006b3dcc9c1b3f77",
+      "size": 217458,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/package-lock.json?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/package-lock.json",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/488fe7d2ad722a7a9921b9ec006b3dcc9c1b3f77",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/488fe7d2ad722a7a9921b9ec006b3dcc9c1b3f77",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "src/ipc_token_wallet_frontend/package.json",
+      "sha": "12d720e504c107500895844842b79fe115db7960",
+      "size": 1102,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/package.json?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/package.json",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/12d720e504c107500895844842b79fe115db7960",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/package.json?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/12d720e504c107500895844842b79fe115db7960",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/package.json"
+      }
+    },
+    {
+      "name": "public",
+      "path": "src/ipc_token_wallet_frontend/public",
+      "sha": "4170aeb389e875ecbacff110ffe1998ddf5a9633",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/public",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/4170aeb389e875ecbacff110ffe1998ddf5a9633",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/4170aeb389e875ecbacff110ffe1998ddf5a9633",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/public"
+      }
+    },
+    {
+      "name": ".ic-assets.json5",
+      "path": "src/ipc_token_wallet_frontend/public/.ic-assets.json5",
+      "sha": "9ec78c35d291a980b7960445d3153e03ddb49e83",
+      "size": 5097,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public/.ic-assets.json5?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/public/.ic-assets.json5",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/9ec78c35d291a980b7960445d3153e03ddb49e83",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/public/.ic-assets.json5",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public/.ic-assets.json5?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/9ec78c35d291a980b7960445d3153e03ddb49e83",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/public/.ic-assets.json5"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "src/ipc_token_wallet_frontend/public/favicon.ico",
+      "sha": "338fbf34cd80a1fd7d0c259aae42b566a56f7168",
+      "size": 15406,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/338fbf34cd80a1fd7d0c259aae42b566a56f7168",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/338fbf34cd80a1fd7d0c259aae42b566a56f7168",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/public/favicon.ico"
+      }
+    },
+    {
+      "name": "logo2.svg",
+      "path": "src/ipc_token_wallet_frontend/public/logo2.svg",
+      "sha": "74bc67e39d98f3342d408b398ffee140061ac59d",
+      "size": 15139,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public/logo2.svg?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/public/logo2.svg",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/74bc67e39d98f3342d408b398ffee140061ac59d",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/public/logo2.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/public/logo2.svg?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/74bc67e39d98f3342d408b398ffee140061ac59d",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/public/logo2.svg"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src/ipc_token_wallet_frontend/src",
+      "sha": "648b1543383701dee6a0c0ba1a9d3704b39e6213",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/src",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/648b1543383701dee6a0c0ba1a9d3704b39e6213",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/648b1543383701dee6a0c0ba1a9d3704b39e6213",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/src"
+      }
+    },
+    {
+      "name": "App.jsx",
+      "path": "src/ipc_token_wallet_frontend/src/App.jsx",
+      "sha": "2d7c28734a94cb9383847cf0df7db8d68f56b494",
+      "size": 894,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/App.jsx?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/App.jsx",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/2d7c28734a94cb9383847cf0df7db8d68f56b494",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/App.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/App.jsx?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/2d7c28734a94cb9383847cf0df7db8d68f56b494",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/App.jsx"
+      }
+    },
+    {
+      "name": "Styles",
+      "path": "src/ipc_token_wallet_frontend/src/Styles",
+      "sha": "47c4ec0875b00c40d044f2e4bbfee9dc7dc51f80",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/src/Styles",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/47c4ec0875b00c40d044f2e4bbfee9dc7dc51f80",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/47c4ec0875b00c40d044f2e4bbfee9dc7dc51f80",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/src/Styles"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/ipc_token_wallet_frontend/src/Styles/App.css",
+      "sha": "50538276083e34094aaaf2f3b5b234cedcf6a1de",
+      "size": 237,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/App.css?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/App.css",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/50538276083e34094aaaf2f3b5b234cedcf6a1de",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/Styles/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/App.css?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/50538276083e34094aaaf2f3b5b234cedcf6a1de",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/App.css"
+      }
+    },
+    {
+      "name": "Balance.css",
+      "path": "src/ipc_token_wallet_frontend/src/Styles/Balance.css",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/Balance.css?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/Balance.css",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/Styles/Balance.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/Balance.css?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/Balance.css"
+      }
+    },
+    {
+      "name": "ReceiveToken.css",
+      "path": "src/ipc_token_wallet_frontend/src/Styles/ReceiveToken.css",
+      "sha": "ea3f2dba9f849bfed0bdbe7a00e7893e2c50f7ce",
+      "size": 550,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/ReceiveToken.css?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/ReceiveToken.css",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/ea3f2dba9f849bfed0bdbe7a00e7893e2c50f7ce",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/Styles/ReceiveToken.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/ReceiveToken.css?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/ea3f2dba9f849bfed0bdbe7a00e7893e2c50f7ce",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/ReceiveToken.css"
+      }
+    },
+    {
+      "name": "SendToken.css",
+      "path": "src/ipc_token_wallet_frontend/src/Styles/SendToken.css",
+      "sha": "68d8a36406d708fba91400739b208972443a43d6",
+      "size": 985,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/SendToken.css?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/SendToken.css",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/68d8a36406d708fba91400739b208972443a43d6",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/Styles/SendToken.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/Styles/SendToken.css?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/68d8a36406d708fba91400739b208972443a43d6",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/Styles/SendToken.css"
+      }
+    },
+    {
+      "name": "api.js",
+      "path": "src/ipc_token_wallet_frontend/src/api.js",
+      "sha": "b4ef354d8a4b0336975949fbed89376132d184b3",
+      "size": 996,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/api.js?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/api.js",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/b4ef354d8a4b0336975949fbed89376132d184b3",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/api.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/api.js?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/b4ef354d8a4b0336975949fbed89376132d184b3",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/api.js"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/ipc_token_wallet_frontend/src/components",
+      "sha": "b738e8cf8fd5c12c50a7e7aa82ae97bb39d92ae1",
+      "size": 0,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/src/components",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/b738e8cf8fd5c12c50a7e7aa82ae97bb39d92ae1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/trees/b738e8cf8fd5c12c50a7e7aa82ae97bb39d92ae1",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/tree/main/src/ipc_token_wallet_frontend/src/components"
+      }
+    },
+    {
+      "name": "Balance.jsx",
+      "path": "src/ipc_token_wallet_frontend/src/components/Balance.jsx",
+      "sha": "cf19baad9d4763f4543c189e68e6f8145aac931f",
+      "size": 522,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components/Balance.jsx?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/components/Balance.jsx",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/cf19baad9d4763f4543c189e68e6f8145aac931f",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/components/Balance.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components/Balance.jsx?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/cf19baad9d4763f4543c189e68e6f8145aac931f",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/components/Balance.jsx"
+      }
+    },
+    {
+      "name": "ReceiveTokens.jsx",
+      "path": "src/ipc_token_wallet_frontend/src/components/ReceiveTokens.jsx",
+      "sha": "5784644d75edec60049c8536cea9176d8ce8b9f0",
+      "size": 757,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components/ReceiveTokens.jsx?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/components/ReceiveTokens.jsx",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/5784644d75edec60049c8536cea9176d8ce8b9f0",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/components/ReceiveTokens.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components/ReceiveTokens.jsx?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/5784644d75edec60049c8536cea9176d8ce8b9f0",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/components/ReceiveTokens.jsx"
+      }
+    },
+    {
+      "name": "SendTokens.jsx",
+      "path": "src/ipc_token_wallet_frontend/src/components/SendTokens.jsx",
+      "sha": "188dc9d28aa9d26532df9791bcc98d68f1ab6e50",
+      "size": 967,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components/SendTokens.jsx?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/components/SendTokens.jsx",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/188dc9d28aa9d26532df9791bcc98d68f1ab6e50",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/components/SendTokens.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/components/SendTokens.jsx?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/188dc9d28aa9d26532df9791bcc98d68f1ab6e50",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/components/SendTokens.jsx"
+      }
+    },
+    {
+      "name": "main.jsx",
+      "path": "src/ipc_token_wallet_frontend/src/main.jsx",
+      "sha": "f816e2e57dcbc39fce1383c5de1f0a6da592656f",
+      "size": 264,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/main.jsx?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/main.jsx",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/f816e2e57dcbc39fce1383c5de1f0a6da592656f",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/main.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/main.jsx?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/f816e2e57dcbc39fce1383c5de1f0a6da592656f",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/main.jsx"
+      }
+    },
+    {
+      "name": "vite.config.js",
+      "path": "src/ipc_token_wallet_frontend/src/vite.config.js",
+      "sha": "063e004b57e77eee34c4a8d7f82a295ee2bb402e",
+      "size": 274,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/vite.config.js?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/vite.config.js",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/063e004b57e77eee34c4a8d7f82a295ee2bb402e",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/src/ipc_token_wallet_frontend/src/vite.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/src/ipc_token_wallet_frontend/src/vite.config.js?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/063e004b57e77eee34c4a8d7f82a295ee2bb402e",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/src/ipc_token_wallet_frontend/src/vite.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "f4629166d90f19e24c2bbc42c1090b01d4b8fe02",
+      "size": 280,
+      "url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/f4629166d90f19e24c2bbc42c1090b01d4b8fe02",
+      "download_url": "https://raw.githubusercontent.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/yatharth1444/Token-Wallet-on-ICP-Blockchain/git/blobs/f4629166d90f19e24c2bbc42c1090b01d4b8fe02",
+        "html": "https://github.com/yatharth1444/Token-Wallet-on-ICP-Blockchain/blob/main/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "smartcontracts.org": 2661,
+    "www.rust-lang.org": 5830,
+    "localhost:3000](http:": null
+  },
+  "collected_at": "2026-03-17T17:11:05.949391"
+}

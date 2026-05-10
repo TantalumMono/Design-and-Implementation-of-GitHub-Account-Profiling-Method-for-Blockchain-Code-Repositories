@@ -1,0 +1,10 @@
+﻿row_index,repo_full_name,case_type,label,y_proba,y_pred,top_struct_feature,top_struct_gradxinput,max_branch_prob_drop
+9,bog-us/solana-pumpfun-bot,high_score_real_positive,1,0.9999990463256836,1,repo_is_fork,2.3150174617767334,0.9980589955781567
+39,wj6942/solana-pumpfun-bot,high_score_real_positive,1,0.9999990463256836,1,repo_is_fork,2.2414095401763916,0.9980589955781567
+16,ii4272/solana-pumpfun-bot,high_score_real_positive,1,0.999998927116394,1,repo_is_fork,2.340806245803833,0.9980588763688671
+11,dev-protocol/polymarket-copytrading-bot-sport,hard_real_positive,1,0.993678867816925,1,description_has_blockchain_keyword,0.4069892466068268,0.9910675084410819
+21,knightsdex/knightsbridge-dex,hard_real_positive,1,0.9945889711380005,1,description_has_blockchain_keyword,1.54273521900177,0.9853444488439291
+13,eferos93/test4,hard_real_positive,1,0.9968042373657227,1,description_has_blockchain_keyword,1.1644922494888306,0.9914458153697097
+1544,mrfomoweb3/nft-wallet-tracker,hard_negative,0,0.25797900557518005,1,description_has_blockchain_keyword,3.273503065109253,0.2579750684430734
+698,chmajidnaeem/blockchain-bitcoin,hard_negative,0,0.0033571908716112375,0,description_has_blockchain_keyword,3.113046407699585,0.003340478121505376
+1546,mrkkyatilla/omus-wallet,hard_negative,0,0.0024325833655893803,0,has_env_file,2.776479482650757,0.0024325832750061527

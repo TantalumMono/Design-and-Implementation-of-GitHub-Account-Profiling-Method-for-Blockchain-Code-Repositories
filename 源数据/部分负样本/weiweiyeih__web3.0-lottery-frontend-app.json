@@ -1,0 +1,837 @@
+{
+  "repo_full_name": "weiweiyeih/web3.0-lottery-frontend-app",
+  "repo_detail": {
+    "id": 711403811,
+    "node_id": "R_kgDOKmcpIw",
+    "name": "web3.0-lottery-frontend-app",
+    "full_name": "weiweiyeih/web3.0-lottery-frontend-app",
+    "private": false,
+    "owner": {
+      "login": "weiweiyeih",
+      "id": 61977103,
+      "node_id": "MDQ6VXNlcjYxOTc3MTAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61977103?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/weiweiyeih",
+      "html_url": "https://github.com/weiweiyeih",
+      "followers_url": "https://api.github.com/users/weiweiyeih/followers",
+      "following_url": "https://api.github.com/users/weiweiyeih/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weiweiyeih/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weiweiyeih/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weiweiyeih/subscriptions",
+      "organizations_url": "https://api.github.com/users/weiweiyeih/orgs",
+      "repos_url": "https://api.github.com/users/weiweiyeih/repos",
+      "events_url": "https://api.github.com/users/weiweiyeih/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weiweiyeih/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app",
+    "description": "This is a decentralized lottery app built using Next.js and Web3.0 technologies. Users can participate in the lottery by purchasing tickets and have a chance to win prizes. The app interacts with a smart contract deployed on the Seploia Testnet.",
+    "fork": false,
+    "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app",
+    "forks_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/forks",
+    "keys_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/teams",
+    "hooks_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/hooks",
+    "issue_events_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/events",
+    "assignees_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/tags",
+    "blobs_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/languages",
+    "stargazers_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/stargazers",
+    "contributors_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contributors",
+    "subscribers_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/subscribers",
+    "subscription_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/subscription",
+    "commits_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/merges",
+    "archive_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/downloads",
+    "issues_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/labels{/name}",
+    "releases_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/deployments",
+    "created_at": "2023-10-29T06:41:07Z",
+    "updated_at": "2024-10-12T04:54:59Z",
+    "pushed_at": "2023-10-29T07:23:38Z",
+    "git_url": "git://github.com/weiweiyeih/web3.0-lottery-frontend-app.git",
+    "ssh_url": "git@github.com:weiweiyeih/web3.0-lottery-frontend-app.git",
+    "clone_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app.git",
+    "svn_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app",
+    "homepage": "https://web3-lottery-frontend-app.vercel.app",
+    "size": 159,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 2,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "chainlink",
+      "nextjs13",
+      "solidity",
+      "tailwindcss",
+      "thirdweb",
+      "typescript"
+    ],
+    "visibility": "public",
+    "forks": 2,
+    "open_issues": 0,
+    "watchers": 1,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 2,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "weiweiyeih",
+    "id": 61977103,
+    "node_id": "MDQ6VXNlcjYxOTc3MTAz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/61977103?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/weiweiyeih",
+    "html_url": "https://github.com/weiweiyeih",
+    "followers_url": "https://api.github.com/users/weiweiyeih/followers",
+    "following_url": "https://api.github.com/users/weiweiyeih/following{/other_user}",
+    "gists_url": "https://api.github.com/users/weiweiyeih/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/weiweiyeih/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/weiweiyeih/subscriptions",
+    "organizations_url": "https://api.github.com/users/weiweiyeih/orgs",
+    "repos_url": "https://api.github.com/users/weiweiyeih/repos",
+    "events_url": "https://api.github.com/users/weiweiyeih/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/weiweiyeih/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "William Yeh",
+    "company": null,
+    "blog": "",
+    "location": "Taiwan",
+    "email": null,
+    "hireable": null,
+    "bio": "I am a self-taught Solidity EVM smart contract developer.",
+    "twitter_username": null,
+    "public_repos": 37,
+    "public_gists": 0,
+    "followers": 3,
+    "following": 5,
+    "created_at": "2020-03-09T13:42:13Z",
+    "updated_at": "2025-11-12T11:34:03Z"
+  },
+  "readme": "# LOTTERY99 - Web3.0 Lottery App\n\nThis is a decentralized lottery app built using Next.js and Web3.0 technologies. Users can participate in the lottery by purchasing tickets and have a chance to win prizes. The app interacts with a smart contract deployed on the Seploia Testnet.\n\nDemo: https://web3-lottery-frontend-app.vercel.app/\n\n## Features\n\n- Participate in a decentralized and transparent lottery.\n  - Decentralized, trustless, verified random numbers & automation\n- Connect wallet button\n- Select numners and purchase lottery tickets.\n- Display selected numbers for each ticket.\n- View the number of tickets purchased in the current round.\n- View the current round count and the winning number of last round.\n- Display the current prize and the remaing time to draw.\n- Admin controls\n  - View the total commision\n  - Withdraw commision\n\n## Technologies Used\n\n- [Solidity](https://docs.soliditylang.org/en/v0.8.22/)\n- [Chainlink VRF & Automation](https://chain.link/)\n- [Thirdweb](https://thirdweb.com/)\n- [ethers](https://docs.ethers.org/v5/getting-started/)\n- [Next.js](https://nextjs.org/)\n- [Tailwindcss](https://tailwindcss.com/)\n- [shadcn/ui](https://ui.shadcn.com/)\n- [heroicons](https://heroicons.com/)\n- [React Spinners](https://www.npmjs.com/package/react-spinners)\n- [React < Countdown />](https://www.npmjs.com/package/react-countdown?activeTab=readme)\n- [react-hot-toast](https://react-hot-toast.com/)\n- [React Fast Marquee](https://www.npmjs.com/package/react-fast-marquee)\n\n## Prerequisites\n\nBefore running the app, make sure you have the following installed:\n\n- Node.js\n- Ethereum wallet (e.g., MetaMask) with a sufficient balance for ticket purchases.\n\n# Getting Started\n\n1. Clone this repository:\n\n   ```bash\n   git clone https://github.com/weiweiyeih/web3.0-lottery-frontend-app.git\n   cd web3.0-lottery-frontend-app\n   ```\n\n2. Install dependencies:\n\n   ```cmd\n   npm install\n   ```\n\n3. Start the development server:\n\n   ```cmd\n   npm run dev\n   ```\n\n4. Access the app in your browser at http://localhost:3000.\n\n## Usage\n\n1. Connect your Ethereum wallet (e.g., MetaMask) to the app.\n\n2. Purchase tickets for the current lottery round.\n\n3. Wait for the lottery round to end and see if you've won!\n\n# Smart Contarct\n\nSee this [repo](https://github.com/weiweiyeih/web3.0-lottery-smart-contract) for details.\n\nIt was deployed with Thirdweb.\n\n```\nnpx thirdweb deploy\n```\n\nThe created a subscritpion for [Chainlink's VRF](https://vrf.chain.link/sepolia) and registered an Upkeep for [Chainlink's automation](https://automation.chain.link/sepolia).\n\n# License\n\nThis project is licensed under the MIT License.\n\n# Acknowledgments\n\nLearnt from and inspired by https://youtu.be/oNlhptQmChc .\n\nThank you to the developers and contributors of the libraries and other open-source tools used in this project.\n",
+  "tree_structure": [
+    {
+      "name": ".eslintrc.json",
+      "path": ".eslintrc.json",
+      "sha": "bffb357a7122523ec94045523758c4b825b448ef",
+      "size": 40,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/.eslintrc.json?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/.eslintrc.json",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/bffb357a7122523ec94045523758c4b825b448ef",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/.eslintrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/.eslintrc.json?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/bffb357a7122523ec94045523758c4b825b448ef",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/.eslintrc.json"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "45c1abce864b4fd390a16f4a8650a9c0d37827c6",
+      "size": 373,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/45c1abce864b4fd390a16f4a8650a9c0d37827c6",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/45c1abce864b4fd390a16f4a8650a9c0d37827c6",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "f0b5bd9c8f0a953f7a77520bf3916c182852013f",
+      "size": 2820,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/README.md?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/f0b5bd9c8f0a953f7a77520bf3916c182852013f",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/f0b5bd9c8f0a953f7a77520bf3916c182852013f",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/README.md"
+      }
+    },
+    {
+      "name": "app",
+      "path": "app",
+      "sha": "bd4ce91dc22a2963d12e743b003cdd4b3625bf2d",
+      "size": 0,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/app",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/bd4ce91dc22a2963d12e743b003cdd4b3625bf2d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/bd4ce91dc22a2963d12e743b003cdd4b3625bf2d",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/app"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "app/favicon.ico",
+      "sha": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "size": 25931,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/favicon.ico?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/favicon.ico",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/app/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/favicon.ico"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "app/globals.css",
+      "sha": "dd1dcc42b44e924ed12fe76b39d5cebcfc0152e8",
+      "size": 2034,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/globals.css?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/globals.css",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/dd1dcc42b44e924ed12fe76b39d5cebcfc0152e8",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/app/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/globals.css?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/dd1dcc42b44e924ed12fe76b39d5cebcfc0152e8",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/globals.css"
+      }
+    },
+    {
+      "name": "layout.tsx",
+      "path": "app/layout.tsx",
+      "sha": "6d57a4eeba5f30e03cc0a3b3286f2d8f10633c8e",
+      "size": 976,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/layout.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/layout.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/6d57a4eeba5f30e03cc0a3b3286f2d8f10633c8e",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/app/layout.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/layout.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/6d57a4eeba5f30e03cc0a3b3286f2d8f10633c8e",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/layout.tsx"
+      }
+    },
+    {
+      "name": "page.tsx",
+      "path": "app/page.tsx",
+      "sha": "66e18cac5c90080f40bc56bee7a5a613634ed5c1",
+      "size": 4649,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/page.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/page.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/66e18cac5c90080f40bc56bee7a5a613634ed5c1",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/app/page.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/app/page.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/66e18cac5c90080f40bc56bee7a5a613634ed5c1",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/app/page.tsx"
+      }
+    },
+    {
+      "name": "components.json",
+      "path": "components.json",
+      "sha": "48c34e4c4a1f243184bc1eb9eda4390b3c317089",
+      "size": 323,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components.json?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components.json",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/48c34e4c4a1f243184bc1eb9eda4390b3c317089",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components.json?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/48c34e4c4a1f243184bc1eb9eda4390b3c317089",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components.json"
+      }
+    },
+    {
+      "name": "components",
+      "path": "components",
+      "sha": "f33ce8c6f0d7a690ee2bb7d11471b5a5117a3228",
+      "size": 0,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/components",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/f33ce8c6f0d7a690ee2bb7d11471b5a5117a3228",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/f33ce8c6f0d7a690ee2bb7d11471b5a5117a3228",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/components"
+      }
+    },
+    {
+      "name": "AdminControls.tsx",
+      "path": "components/AdminControls.tsx",
+      "sha": "593798e6482de86817fcd6bf9d9d2b24fd5f86e4",
+      "size": 1773,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/AdminControls.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/AdminControls.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/593798e6482de86817fcd6bf9d9d2b24fd5f86e4",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/AdminControls.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/AdminControls.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/593798e6482de86817fcd6bf9d9d2b24fd5f86e4",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/AdminControls.tsx"
+      }
+    },
+    {
+      "name": "ConnectedWallet.tsx",
+      "path": "components/ConnectedWallet.tsx",
+      "sha": "c9ab6f6fbbac5e72cbc586fb4fc524343c17be70",
+      "size": 413,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ConnectedWallet.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ConnectedWallet.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c9ab6f6fbbac5e72cbc586fb4fc524343c17be70",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/ConnectedWallet.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ConnectedWallet.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c9ab6f6fbbac5e72cbc586fb4fc524343c17be70",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ConnectedWallet.tsx"
+      }
+    },
+    {
+      "name": "CountdownTimer.tsx",
+      "path": "components/CountdownTimer.tsx",
+      "sha": "278cfce723c3ed82659110f6bdba6854631b416b",
+      "size": 3046,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/CountdownTimer.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/CountdownTimer.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/278cfce723c3ed82659110f6bdba6854631b416b",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/CountdownTimer.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/CountdownTimer.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/278cfce723c3ed82659110f6bdba6854631b416b",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/CountdownTimer.tsx"
+      }
+    },
+    {
+      "name": "EtherscanLink.tsx",
+      "path": "components/EtherscanLink.tsx",
+      "sha": "d04fdc34b9d5abb669922135cfbce9fe914195d7",
+      "size": 622,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/EtherscanLink.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/EtherscanLink.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/d04fdc34b9d5abb669922135cfbce9fe914195d7",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/EtherscanLink.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/EtherscanLink.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/d04fdc34b9d5abb669922135cfbce9fe914195d7",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/EtherscanLink.tsx"
+      }
+    },
+    {
+      "name": "Footer.tsx",
+      "path": "components/Footer.tsx",
+      "sha": "8e7d647f21d98896acad4fed10789d703304f5dc",
+      "size": 748,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Footer.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Footer.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/8e7d647f21d98896acad4fed10789d703304f5dc",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/Footer.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Footer.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/8e7d647f21d98896acad4fed10789d703304f5dc",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Footer.tsx"
+      }
+    },
+    {
+      "name": "GameRules.tsx",
+      "path": "components/GameRules.tsx",
+      "sha": "21c3a95ae1ed989e0378917d3b2b72159eb707e5",
+      "size": 1032,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/GameRules.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/GameRules.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/21c3a95ae1ed989e0378917d3b2b72159eb707e5",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/GameRules.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/GameRules.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/21c3a95ae1ed989e0378917d3b2b72159eb707e5",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/GameRules.tsx"
+      }
+    },
+    {
+      "name": "Header.tsx",
+      "path": "components/Header.tsx",
+      "sha": "219d6aead3f117c3c321c0d9471736e952611bb1",
+      "size": 1100,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Header.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Header.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/219d6aead3f117c3c321c0d9471736e952611bb1",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/Header.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Header.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/219d6aead3f117c3c321c0d9471736e952611bb1",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Header.tsx"
+      }
+    },
+    {
+      "name": "Loading.tsx",
+      "path": "components/Loading.tsx",
+      "sha": "6fc81dbf8beb451849d88e75f50ca8b1ac7dcf51",
+      "size": 340,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Loading.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Loading.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/6fc81dbf8beb451849d88e75f50ca8b1ac7dcf51",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/Loading.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Loading.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/6fc81dbf8beb451849d88e75f50ca8b1ac7dcf51",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Loading.tsx"
+      }
+    },
+    {
+      "name": "Login.tsx",
+      "path": "components/Login.tsx",
+      "sha": "31467cabdda12c2b6b1b2652808089ca2d701ed5",
+      "size": 1524,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Login.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Login.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/31467cabdda12c2b6b1b2652808089ca2d701ed5",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/Login.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/Login.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/31467cabdda12c2b6b1b2652808089ca2d701ed5",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/Login.tsx"
+      }
+    },
+    {
+      "name": "PoolBalance.tsx",
+      "path": "components/PoolBalance.tsx",
+      "sha": "9de1c1a5a44981c17a0434821636e529e73d308d",
+      "size": 608,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/PoolBalance.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/PoolBalance.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/9de1c1a5a44981c17a0434821636e529e73d308d",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/PoolBalance.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/PoolBalance.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/9de1c1a5a44981c17a0434821636e529e73d308d",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/PoolBalance.tsx"
+      }
+    },
+    {
+      "name": "ThirdwebProvider.tsx",
+      "path": "components/ThirdwebProvider.tsx",
+      "sha": "8008f3863928ce26983e0ce5003154a9257b3190",
+      "size": 72,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ThirdwebProvider.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ThirdwebProvider.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/8008f3863928ce26983e0ce5003154a9257b3190",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/ThirdwebProvider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ThirdwebProvider.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/8008f3863928ce26983e0ce5003154a9257b3190",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ThirdwebProvider.tsx"
+      }
+    },
+    {
+      "name": "TicketsPurchased.tsx",
+      "path": "components/TicketsPurchased.tsx",
+      "sha": "12d153a63d2b356abd9b9e80279f37f3722978b3",
+      "size": 1161,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/TicketsPurchased.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/TicketsPurchased.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/12d153a63d2b356abd9b9e80279f37f3722978b3",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/TicketsPurchased.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/TicketsPurchased.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/12d153a63d2b356abd9b9e80279f37f3722978b3",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/TicketsPurchased.tsx"
+      }
+    },
+    {
+      "name": "ui",
+      "path": "components/ui",
+      "sha": "2559ab7e6234a0ba1f3d9391fd549406d1f49760",
+      "size": 0,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/components/ui",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/2559ab7e6234a0ba1f3d9391fd549406d1f49760",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/2559ab7e6234a0ba1f3d9391fd549406d1f49760",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/components/ui"
+      }
+    },
+    {
+      "name": "accordion.tsx",
+      "path": "components/ui/accordion.tsx",
+      "sha": "937620af27e5d8ef577f0baca229a9b753ebd017",
+      "size": 2008,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui/accordion.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ui/accordion.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/937620af27e5d8ef577f0baca229a9b753ebd017",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/ui/accordion.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui/accordion.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/937620af27e5d8ef577f0baca229a9b753ebd017",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ui/accordion.tsx"
+      }
+    },
+    {
+      "name": "button.tsx",
+      "path": "components/ui/button.tsx",
+      "sha": "0ba4277355fadde682ecc8399ee656838dc74049",
+      "size": 1835,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui/button.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ui/button.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/0ba4277355fadde682ecc8399ee656838dc74049",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/ui/button.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui/button.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/0ba4277355fadde682ecc8399ee656838dc74049",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ui/button.tsx"
+      }
+    },
+    {
+      "name": "hover-card.tsx",
+      "path": "components/ui/hover-card.tsx",
+      "sha": "e54d91cf81f48462887825698166393764c4251f",
+      "size": 1198,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui/hover-card.tsx?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ui/hover-card.tsx",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/e54d91cf81f48462887825698166393764c4251f",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/components/ui/hover-card.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/components/ui/hover-card.tsx?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/e54d91cf81f48462887825698166393764c4251f",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/components/ui/hover-card.tsx"
+      }
+    },
+    {
+      "name": "constants.ts",
+      "path": "constants.ts",
+      "sha": "a1bd8cc47efb5addb72ff80aa149f966bee039dc",
+      "size": 240,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/constants.ts?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/constants.ts",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/a1bd8cc47efb5addb72ff80aa149f966bee039dc",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/constants.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/constants.ts?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/a1bd8cc47efb5addb72ff80aa149f966bee039dc",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/constants.ts"
+      }
+    },
+    {
+      "name": "lib",
+      "path": "lib",
+      "sha": "c65244ec88ca225f9614c9b04399f6cca5d3f4ba",
+      "size": 0,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/lib?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/lib",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/c65244ec88ca225f9614c9b04399f6cca5d3f4ba",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/lib?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/c65244ec88ca225f9614c9b04399f6cca5d3f4ba",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/lib"
+      }
+    },
+    {
+      "name": "utils.ts",
+      "path": "lib/utils.ts",
+      "sha": "ec79801fe9cdd7711f6dbef26678a134c634a8be",
+      "size": 167,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/lib/utils.ts?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/lib/utils.ts",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/ec79801fe9cdd7711f6dbef26678a134c634a8be",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/lib/utils.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/lib/utils.ts?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/ec79801fe9cdd7711f6dbef26678a134c634a8be",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/lib/utils.ts"
+      }
+    },
+    {
+      "name": "next.config.js",
+      "path": "next.config.js",
+      "sha": "767719fc4fba59345ae29e29159c9aff270f5819",
+      "size": 92,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/next.config.js?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/next.config.js",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/767719fc4fba59345ae29e29159c9aff270f5819",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/next.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/next.config.js?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/767719fc4fba59345ae29e29159c9aff270f5819",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/next.config.js"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "c8652b5d33464f24e1fd69839a82607ebd7915e6",
+      "size": 484300,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c8652b5d33464f24e1fd69839a82607ebd7915e6",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c8652b5d33464f24e1fd69839a82607ebd7915e6",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "441691ef93cdb5818d2fbbd8b5ca671b8f90b17e",
+      "size": 1148,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/package.json?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/441691ef93cdb5818d2fbbd8b5ca671b8f90b17e",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/441691ef93cdb5818d2fbbd8b5ca671b8f90b17e",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "postcss.config.js",
+      "sha": "33ad091d26d8a9dc95ebdf616e217d985ec215b8",
+      "size": 82,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/postcss.config.js?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/postcss.config.js",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/33ad091d26d8a9dc95ebdf616e217d985ec215b8",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/postcss.config.js?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/33ad091d26d8a9dc95ebdf616e217d985ec215b8",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/postcss.config.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "dcd38f29eb344d27edea59ddaddd7bb38957c5e8",
+      "size": 0,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/public",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/dcd38f29eb344d27edea59ddaddd7bb38957c5e8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/trees/dcd38f29eb344d27edea59ddaddd7bb38957c5e8",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/tree/main/public"
+      }
+    },
+    {
+      "name": "etherscan-logo-light.png",
+      "path": "public/etherscan-logo-light.png",
+      "sha": "86b1cb0625f6ffaebda0323209196a71230b5180",
+      "size": 6814,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/etherscan-logo-light.png?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/etherscan-logo-light.png",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/86b1cb0625f6ffaebda0323209196a71230b5180",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/public/etherscan-logo-light.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/etherscan-logo-light.png?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/86b1cb0625f6ffaebda0323209196a71230b5180",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/etherscan-logo-light.png"
+      }
+    },
+    {
+      "name": "etherscan-logo-light.svg",
+      "path": "public/etherscan-logo-light.svg",
+      "sha": "0795e70dea5ca711ee9f12a1440a4b25acf9cc9e",
+      "size": 9476,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/etherscan-logo-light.svg?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/etherscan-logo-light.svg",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/0795e70dea5ca711ee9f12a1440a4b25acf9cc9e",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/public/etherscan-logo-light.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/etherscan-logo-light.svg?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/0795e70dea5ca711ee9f12a1440a4b25acf9cc9e",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/etherscan-logo-light.svg"
+      }
+    },
+    {
+      "name": "next.svg",
+      "path": "public/next.svg",
+      "sha": "5174b28c565c285e3e312ec5178be64fbeca8398",
+      "size": 1375,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/next.svg?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/next.svg",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/5174b28c565c285e3e312ec5178be64fbeca8398",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/public/next.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/next.svg?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/5174b28c565c285e3e312ec5178be64fbeca8398",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/next.svg"
+      }
+    },
+    {
+      "name": "vercel.svg",
+      "path": "public/vercel.svg",
+      "sha": "d2f84222734f27b623d1c80dda3561b04d1284af",
+      "size": 629,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/vercel.svg?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/vercel.svg",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/d2f84222734f27b623d1c80dda3561b04d1284af",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/public/vercel.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/public/vercel.svg?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/d2f84222734f27b623d1c80dda3561b04d1284af",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/public/vercel.svg"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "tailwind.config.js",
+      "sha": "0377ea1ded1abce011d2337b1ec348a1b31ed5b2",
+      "size": 2124,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/tailwind.config.js?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/0377ea1ded1abce011d2337b1ec348a1b31ed5b2",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/tailwind.config.js?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/0377ea1ded1abce011d2337b1ec348a1b31ed5b2",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/tailwind.config.js"
+      }
+    },
+    {
+      "name": "tailwind.config.ts",
+      "path": "tailwind.config.ts",
+      "sha": "c7ead804652ebfb1e07a5acb03880d553a7da011",
+      "size": 495,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/tailwind.config.ts?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/tailwind.config.ts",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c7ead804652ebfb1e07a5acb03880d553a7da011",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/tailwind.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/tailwind.config.ts?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c7ead804652ebfb1e07a5acb03880d553a7da011",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/tailwind.config.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "c7146963787144d4861e149d8d233049b7daefc7",
+      "size": 595,
+      "url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c7146963787144d4861e149d8d233049b7daefc7",
+      "download_url": "https://raw.githubusercontent.com/weiweiyeih/web3.0-lottery-frontend-app/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/weiweiyeih/web3.0-lottery-frontend-app/git/blobs/c7146963787144d4861e149d8d233049b7daefc7",
+        "html": "https://github.com/weiweiyeih/web3.0-lottery-frontend-app/blob/main/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "react-hot-toast.com": 1921,
+    "nextjs.org": 3453,
+    "thirdweb.com": 8687,
+    "ui.shadcn.com": 1643,
+    "docs.soliditylang.org": 2070,
+    "web3-lottery-frontend-app.vercel.app": null,
+    "docs.ethers.org": 3623,
+    "github.com": 6734,
+    "localhost:3000.": null,
+    "vrf.chain.link": 3156,
+    "automation.chain.link": 3156,
+    "youtu.be": 6659,
+    "heroicons.com": 3394,
+    "www.npmjs.com": 5842,
+    "tailwindcss.com": 3162,
+    "chain.link": 3156
+  },
+  "collected_at": "2026-03-18T17:52:23.151300"
+}

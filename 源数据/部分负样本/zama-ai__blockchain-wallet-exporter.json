@@ -1,0 +1,1618 @@
+{
+  "repo_full_name": "zama-ai/blockchain-wallet-exporter",
+  "repo_detail": {
+    "id": 899710809,
+    "node_id": "R_kgDONaB_WQ",
+    "name": "blockchain-wallet-exporter",
+    "full_name": "zama-ai/blockchain-wallet-exporter",
+    "private": false,
+    "owner": {
+      "login": "zama-ai",
+      "id": 57671822,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3NjcxODIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57671822?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zama-ai",
+      "html_url": "https://github.com/zama-ai",
+      "followers_url": "https://api.github.com/users/zama-ai/followers",
+      "following_url": "https://api.github.com/users/zama-ai/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zama-ai/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zama-ai/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zama-ai/subscriptions",
+      "organizations_url": "https://api.github.com/users/zama-ai/orgs",
+      "repos_url": "https://api.github.com/users/zama-ai/repos",
+      "events_url": "https://api.github.com/users/zama-ai/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zama-ai/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter",
+    "description": "A Prometheus exporter that tracks blockchain wallet balances for Cosmos and Ethereum blockchains.",
+    "fork": false,
+    "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter",
+    "forks_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/forks",
+    "keys_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/teams",
+    "hooks_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/hooks",
+    "issue_events_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/events",
+    "assignees_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/tags",
+    "blobs_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/languages",
+    "stargazers_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/stargazers",
+    "contributors_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contributors",
+    "subscribers_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/subscribers",
+    "subscription_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/subscription",
+    "commits_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/merges",
+    "archive_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/downloads",
+    "issues_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/deployments",
+    "created_at": "2024-12-06T21:02:38Z",
+    "updated_at": "2026-02-01T18:31:10Z",
+    "pushed_at": "2026-01-30T22:15:02Z",
+    "git_url": "git://github.com/zama-ai/blockchain-wallet-exporter.git",
+    "ssh_url": "git@github.com:zama-ai/blockchain-wallet-exporter.git",
+    "clone_url": "https://github.com/zama-ai/blockchain-wallet-exporter.git",
+    "svn_url": "https://github.com/zama-ai/blockchain-wallet-exporter",
+    "homepage": "",
+    "size": 308,
+    "stargazers_count": 7,
+    "watchers_count": 7,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 8,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 8,
+    "watchers": 7,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "zama-ai",
+      "id": 57671822,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3NjcxODIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57671822?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zama-ai",
+      "html_url": "https://github.com/zama-ai",
+      "followers_url": "https://api.github.com/users/zama-ai/followers",
+      "following_url": "https://api.github.com/users/zama-ai/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zama-ai/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zama-ai/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zama-ai/subscriptions",
+      "organizations_url": "https://api.github.com/users/zama-ai/orgs",
+      "repos_url": "https://api.github.com/users/zama-ai/repos",
+      "events_url": "https://api.github.com/users/zama-ai/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zama-ai/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 0,
+    "subscribers_count": 5
+  },
+  "user_detail": {
+    "login": "zama-ai",
+    "id": 57671822,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3NjcxODIy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/57671822?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zama-ai",
+    "html_url": "https://github.com/zama-ai",
+    "followers_url": "https://api.github.com/users/zama-ai/followers",
+    "following_url": "https://api.github.com/users/zama-ai/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zama-ai/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zama-ai/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zama-ai/subscriptions",
+    "organizations_url": "https://api.github.com/users/zama-ai/orgs",
+    "repos_url": "https://api.github.com/users/zama-ai/repos",
+    "events_url": "https://api.github.com/users/zama-ai/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zama-ai/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Zama",
+    "company": null,
+    "blog": "https://zama.org",
+    "location": "Paris",
+    "email": "hello@zama.org",
+    "hireable": null,
+    "bio": "Zama is an open source cryptography company building state-of-the-art FHE solutions for blockchain and AI.",
+    "twitter_username": "zama",
+    "public_repos": 70,
+    "public_gists": 0,
+    "followers": 3699,
+    "following": 0,
+    "created_at": "2019-11-12T13:46:13Z",
+    "updated_at": "2026-02-01T19:17:04Z"
+  },
+  "readme": "# Blockchain Wallet Exporter\n\n[![CI](https://github.com/zama-ai/blockchain-wallet-exporter/actions/workflows/ci.yaml/badge.svg)](https://github.com/zama-ai/blockchain-wallet-exporter/actions/workflows/ci.yaml)\n[![codecov](https://codecov.io/gh/zama-ai/blockchain-wallet-exporter/branch/main/graph/badge.svg)](https://codecov.io/gh/zama-ai/blockchain-wallet-exporter)\n[![Go Report Card](https://goreportcard.com/badge/github.com/zama-ai/blockchain-wallet-exporter)](https://goreportcard.com/report/github.com/zama-ai/blockchain-wallet-exporter)\n\n## Overview\n\nThe Blockchain Wallet Exporter is a tool designed to retrieve and export wallet balances from different blockchains, specifically Cosmos, Ethereum, and ERC20 tokens, as metrics. It is built using Golang for seamless integration with Prometheus and includes an optional auto-refund feature for maintaining wallet balances.\n\n## Features\n\n- **Minimalistic Design**: Focused on essential functionalities to keep the tool lightweight.\n- **Multi-Blockchain Support**: Currently supports Cosmos, Ethereum, and ERC20 tokens.\n- **ERC20 Token Support**: Full support for monitoring ERC20 token balances with automatic metadata discovery (symbol, decimals, name).\n- **Concurrent Balance Retrieval**: Utilizes a worker pool to fetch balances for multiple wallets concurrently.\n- **Flexible Unit Selection**: Allows balance retrieval in different units (e.g., wei, gwei, eth for Ethereum; ucosm, cosm for Cosmos; and automatic unit discovery for ERC20 tokens).\n- **Prometheus Integration**: Exports metrics in a format compatible with Prometheus.\n- **Manual Wallet Configuration**: Wallets need to be manually configured as auto-discovery is not supported.\n- **Auto-Refund System**: Optional automated wallet funding when balances fall below configurable thresholds (works with native tokens and ERC20 tokens). **Note: Requires [POWFaucet](https://github.com/pk910/PoWFaucet) as the faucet backend.**\n\n## Goals\n\n- Retrieve wallet balances for Cosmos, Ethereum, and ERC20 tokens.\n- Export balances as metrics.\n- Support concurrent balance retrieval.\n- Provide consistent label keys across all wallets.\n- Default balance unit is wei for Ethereum, ucosm for Cosmos, and atomic units for ERC20 tokens.\n- Automatically maintain wallet balances above specified thresholds.\n\n## Non-Goals\n\n- No support for multi-instance or cluster setups.\n- Does not pull metrics from validators.\n- No SSL metrics endpoint support currently.\n\n## Configuration\n\nThe exporter is configured using a YAML file. Below is an example configuration:\n\n```yaml\nglobal:\n  environment: development\n  metricsAddr: \":9091\"\n  logLevel: debug\n \n  # Gateway node with explicit autoRefund configuration\nnodes:\n  - name: l2-gateway\n    module: evm\n    httpAddr: \"https://arbitrum-one-rpc.publicnode.com\"\n    # or use environment variable\n    # httpAddrEnv: URL_WITH_API_KEY\n\n\n    # Explicit auto-refund configuration for this node\n    # Requires POWFaucet: https://github.com/pk910/PoWFaucet\n    autoRefund:\n      enabled: false\n      schedule: \"@every 1m\"  # Frequent checks for gateway\n      faucetUrl: \"http://localhost:8080\"  # POWFaucet API endpoint\n      timeout: 30\n    \n    unit: wei          # Native blockchain unit\n    metricsUnit: eth   # Human-readable unit for metrics and comparisons\n    httpSSLVerify: false\n    accounts:\n      - address: \"0x5Fadfae7fDCa560e377FF26F26760891251De983\"\n        # or use environment variable\n        # addressEnv: WALLET_ADDRESS\n        name: test-1-l2\n        # Auto-refund thresholds for this account\n        refundThreshold: 0.8  # Trigger refund when balance below refundThreshold to reach refundTarget \n        refundTarget: 1.2     \n\n      - address: \"0xa0d2763f12D09efacfdEf6d5656d5Be7bB3E9600\"\n        name: test-2-l2\n        # Different thresholds for backup account\n        refundThreshold: 1.3  # Lower threshold for backup\n        refundTarget: 1.6     # Lower target for backup\n\n    labels:\n      app: l2-gateway\n      env: test\n\n  # example with erc20 token\n  - name: conduit-gateway-erc20\n    module: erc20\n    httpAddr: \"https://arbitrum-one-rpc.publicnode.com\"\n    # Automatically discover ERC20 token metadata (symbol, decimals) during startup\n    # If RPC endpoint is unreachable, the exporter will fail to start\n    autoUnitDiscovery: true\n    # Explicit auto-refund configuration for this node\n    # Requires POWFaucet: https://github.com/pk910/PoWFaucet\n    autoRefund:\n      enabled: false\n      schedule: \"@every 1m\"  # Frequent checks for gateway\n      faucetUrl: \"http://localhost:8080\"  # POWFaucet API endpoint\n      timeout: 30\n    \n    httpSSLVerify: false\n    contractAddress: \"0xB38031951903f798f7114d726c17aB04574e82e8\"\n    accounts:\n      - address: \"0xe6DE4F4E3A17be1D0c9d69a0574e78678CDd5e29\"\n        name: account-erc20\n\n    labels:\n      app: l3-rollup\n      env: test\n\n\n  # Host node with explicit autoRefund configuration\n  - name: l1-host\n    module: evm\n    # public node RPC sepolia\n    httpAddr: \"https://ethereum-sepolia-rpc.publicnode.com\"\n    \n    # Explicit auto-refund configuration for this node\n    # Requires POWFaucet: https://github.com/pk910/PoWFaucet\n    autoRefund:\n      enabled: false\n      schedule: \"@every 1m\"  # Frequent checks for host\n      faucetUrl: \"http://localhost:8081\"  # POWFaucet API endpoint\n      timeout: 30\n    \n    unit: wei          # Native blockchain unit\n    metricsUnit: eth   # Human-readable unit for metrics and comparisons\n    httpSSLVerify: false\n    accounts:\n      - address: \"0xe6DE4F4E3A17be1D0c9d69a0574e78678CDd5e29\"\n        name: test-1-l1\n        # Auto-refund thresholds for this account\n        refundThreshold: 1.3  # Trigger refund when balance below refundThreshold to reach refundTarget\n        refundTarget: 1.6     \n\n      - address: \"0xfEB8B994c932B00796c52C0df0cbF09eAA010890\"\n        name: test-2-l1\n        # Different thresholds for backup account\n        refundThreshold: 1.7  # Lower threshold for backup\n        refundTarget: 2.0     # Lower target for backup\n\n    labels:\n      app: l1-host\n      env: test\n\n```\n\n### ERC20 Token Configuration\n\nThe exporter provides comprehensive support for monitoring ERC20 token balances with the following capabilities:\n\n#### Key Configuration Options\n\n- **module**: Set to `erc20` to enable ERC20 token monitoring\n- **contractAddress**: The ERC20 token contract address (required, must be in checksum format)\n- **autoUnitDiscovery**: When enabled, automatically fetches token metadata (symbol, decimals, name) from the contract at startup\n  - If `true`, the exporter will discover units dynamically from the contract\n  - If `false`, you must manually specify `unit` and `metricsUnit`\n  - If the RPC endpoint is unreachable during startup with auto-discovery enabled, the exporter will fail to start\n\n#### Automatic Unit Discovery\n\nWhen `autoUnitDiscovery: true` is set, the exporter will:\n1. Connect to the ERC20 contract via the specified RPC endpoint\n2. Call the standard ERC20 methods: `symbol()`, `decimals()`, and `name()`\n3. Automatically register currency units based on the token's decimals\n4. Use the token symbol for the metrics unit (e.g., `usdt` for USDT)\n5. Create an atomic unit name (e.g., `usdt_atomic` for the smallest token unit)\n\n#### Manual Unit Configuration\n\nIf you prefer to manually configure units or the contract doesn't support standard ERC20 metadata methods:\n\n```yaml\nnodes:\n  - name: custom-token\n    module: erc20\n    httpAddr: \"https://your-rpc-endpoint.com\"\n    autoUnitDiscovery: false  # Disable auto-discovery\n    unit: custom_atomic       # Manually specify base unit\n    metricsUnit: custom       # Manually specify metrics unit\n    contractAddress: \"0xYourTokenContractAddress\"\n    accounts:\n      - address: \"0xYourWalletAddress\"\n        name: wallet-1\n```\n\n#### ERC20 with Auto-Refund\n\nERC20 tokens fully support the auto-refund feature, allowing you to automatically maintain token balances. **The auto-refund feature requires [POWFaucet](https://github.com/pk910/PoWFaucet) as the backend faucet service.**\n\n```yaml\nnodes:\n  - name: usdt-monitor\n    module: erc20\n    httpAddr: \"https://mainnet.infura.io/v3/YOUR-PROJECT-ID\"\n    autoUnitDiscovery: true\n    contractAddress: \"0xdac17f958d2ee523a2206206994597c13d831ec7\"  # USDT contract\n    autoRefund:\n      enabled: true\n      schedule: \"@every 5m\"\n      faucetUrl: \"https://your-powfaucet-instance.com\"  # POWFaucet API endpoint\n      timeout: 30\n    accounts:\n      - address: \"0xYourWalletAddress\"\n        name: trading-bot\n        refundThreshold: 100    # Trigger refund when below 100 USDT\n        refundTarget: 500        # Refund to 500 USDT\n```\n\n#### Important Notes\n\n- The contract address must be a valid hex-encoded address in checksum format\n- The exporter validates ERC20 addresses using Ethereum's checksum validation\n- ERC20 balance queries use the standard `balanceOf(address)` method\n- Currency conversion from atomic units to human-readable units is handled automatically\n- Per the ERC20 specification, `symbol()` and `decimals()` are required, but `name()` is optional (falls back to symbol if unavailable)\n- **Auto-Refund Requirement**: The auto-refund feature exclusively works with [POWFaucet](https://github.com/pk910/PoWFaucet). The exporter uses POWFaucet's API endpoints (`/api/startSession`, `/api/claimReward`, `/api/getSessionStatus`) for funding operations. Other faucet implementations are not supported.\n\n## Metrics and Monitoring\n\nThe exporter provides comprehensive Prometheus metrics for monitoring wallet balances and health:\n\n### Exported Metrics\n\n- **`blockchain_wallet_balance`**: Current balance of wallet accounts (Gauge)\n- **`blockchain_wallet_health`**: Health status of wallet accounts (Gauge, 1=healthy, 0=unhealthy)\n- **`blockchain_wallet_scrapes_failed_total`**: Total number of failed scrape cycles (Counter)\n\nAll metrics include rich labels for filtering and aggregation:\n- `address`, `account_name`: Account identifiers\n- `node_name`, `module`, `unit`: Configuration identifiers\n- `exporter_version`: Exporter version\n- Custom labels from configuration\n\n### Quick Start\n\nAccess metrics at: `http://localhost:9091/metrics`\n\nExample Prometheus scrape configuration:\n\n```yaml\nscrape_configs:\n  - job_name: 'blockchain-wallet-exporter'\n    scrape_interval: 30s\n    static_configs:\n      - targets: ['localhost:9091']\n```\n\n### Monitoring Examples\n\n**Check account balance:**\n```promql\nblockchain_wallet_balance{account_name=\"test-1-l2\"}\n```\n\n**Alert on low balance:**\n```promql\nblockchain_wallet_balance < 0.5\n```\n\n**Monitor account health:**\n```promql\nblockchain_wallet_health == 0\n```\n\n### Complete Documentation\n\nFor comprehensive metrics documentation including:\n- Detailed metric descriptions and label reference\n- PromQL query patterns and examples\n- Recording and alerting rules\n- Grafana dashboard examples\n- Troubleshooting guide\n\nSee **[Metrics Documentation](docs/Metrics.md)**.\n\n## Installation\n\n### Kubernetes with Helm (Recommended)\n\nThe easiest way to deploy the Blockchain Wallet Exporter on Kubernetes is using our Helm chart:\n\n```bash\n# Install from GitHub Container Registry\nhelm install blockchain-exporter \\\n  oci://ghcr.io/zama-ai/blockchain-wallet-exporter/charts/blockchain-wallet-exporter \\\n  --version 0.1.2 \\\n  --namespace monitoring \\\n  --create-namespace\n\n# Or install with custom configuration\nhelm install blockchain-exporter \\\n  oci://ghcr.io/zama-ai/blockchain-wallet-exporter/charts/blockchain-wallet-exporter \\\n  --version 0.1.2 \\\n  --values values.yaml\n```\n\nFor detailed Helm chart documentation, see the [chart README](charts/blockchain-wallet-exporter/README.md).\n\n### Building and Running Locally\n\n#### Prerequisites\n\n- Go 1.23.x\n- Docker (for building Docker images)\n- Prometheus (for metrics collection)\n\n#### Build\n\nTo build the application, run:\n\n```bash\nmake build\n```\n\n#### Run\n\nTo run the application using Docker Compose, execute:\n\n```bash\nmake run\n```\n\n### Testing\n\nTo run tests and generate a coverage report, use:\n\n```bash\nmake test\n```\n\n### Linting\n\nTo run the linter, execute:\n\n```bash\nmake test-lint\n```\n\n## Documentation\n\n- **[Metrics Documentation](docs/Metrics.md)**: Complete guide to Prometheus metrics, queries, alerting, and monitoring\n- **[Configuration Specification](docs/Spec.md)**: Detailed configuration options and examples\n- **[Helm Chart README](charts/blockchain-wallet-exporter/README.md)**: Kubernetes deployment guide\n\n## License\n\nLicensed under the **Apache License 2.0**. See [`LICENSE`](LICENSE).\n\n## Contributing\n\nSee [`CONTRIBUTING.md`](CONTRIBUTING.md) for development workflow, testing/linting, and PR guidelines.\n\n## Contact\n\nFor any inquiries or issues, please contact ghislain.cheng@zama.ai",
+  "tree_structure": [
+    {
+      "name": ".dockerignore",
+      "path": ".dockerignore",
+      "sha": "88ac780ab579a160914e328ae500ecbd566ce12b",
+      "size": 91,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.dockerignore?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.dockerignore",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/88ac780ab579a160914e328ae500ecbd566ce12b",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.dockerignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.dockerignore?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/88ac780ab579a160914e328ae500ecbd566ce12b",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.dockerignore"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "e2b2dd0b4d168dea4ba695b73e54f16cd8b438b4",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/.github",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/e2b2dd0b4d168dea4ba695b73e54f16cd8b438b4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/e2b2dd0b4d168dea4ba695b73e54f16cd8b438b4",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/.github"
+      }
+    },
+    {
+      "name": "config",
+      "path": ".github/config",
+      "sha": "77c8cd025a44391a40437a6de4dc7909cab8fe15",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/config?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/.github/config",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/77c8cd025a44391a40437a6de4dc7909cab8fe15",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/config?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/77c8cd025a44391a40437a6de4dc7909cab8fe15",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/.github/config"
+      }
+    },
+    {
+      "name": "ct.yaml",
+      "path": ".github/config/ct.yaml",
+      "sha": "a2545b49a514efe2236aa664bc5b838d1a962476",
+      "size": 205,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/config/ct.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/config/ct.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/a2545b49a514efe2236aa664bc5b838d1a962476",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.github/config/ct.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/config/ct.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/a2545b49a514efe2236aa664bc5b838d1a962476",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/config/ct.yaml"
+      }
+    },
+    {
+      "name": "dependabot.yml",
+      "path": ".github/dependabot.yml",
+      "sha": "b2dfe19acf9cd933a7587e64d92e543e9d25cb93",
+      "size": 108,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/dependabot.yml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/dependabot.yml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/b2dfe19acf9cd933a7587e64d92e543e9d25cb93",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.github/dependabot.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/dependabot.yml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/b2dfe19acf9cd933a7587e64d92e543e9d25cb93",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/dependabot.yml"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "f2addf3adfa44e39d638c20e8335682d601f6b28",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/.github/workflows",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/f2addf3adfa44e39d638c20e8335682d601f6b28",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/f2addf3adfa44e39d638c20e8335682d601f6b28",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/.github/workflows"
+      }
+    },
+    {
+      "name": "01-sca-trivy-repo.yaml",
+      "path": ".github/workflows/01-sca-trivy-repo.yaml",
+      "sha": "3ba9287dff64371609a6d008f2fe2a3c56b9dd5d",
+      "size": 5093,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/01-sca-trivy-repo.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/01-sca-trivy-repo.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/3ba9287dff64371609a6d008f2fe2a3c56b9dd5d",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.github/workflows/01-sca-trivy-repo.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/01-sca-trivy-repo.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/3ba9287dff64371609a6d008f2fe2a3c56b9dd5d",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/01-sca-trivy-repo.yaml"
+      }
+    },
+    {
+      "name": "charts-helm-checks.yaml",
+      "path": ".github/workflows/charts-helm-checks.yaml",
+      "sha": "caeff2e4d963517c3fbba098b49491a6f55ed73d",
+      "size": 2786,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/charts-helm-checks.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/charts-helm-checks.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/caeff2e4d963517c3fbba098b49491a6f55ed73d",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.github/workflows/charts-helm-checks.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/charts-helm-checks.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/caeff2e4d963517c3fbba098b49491a6f55ed73d",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/charts-helm-checks.yaml"
+      }
+    },
+    {
+      "name": "charts-helm-release.yaml",
+      "path": ".github/workflows/charts-helm-release.yaml",
+      "sha": "a6e84f8ffe7780bbfd0033de80b3a63b146d2b71",
+      "size": 2867,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/charts-helm-release.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/charts-helm-release.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/a6e84f8ffe7780bbfd0033de80b3a63b146d2b71",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.github/workflows/charts-helm-release.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/charts-helm-release.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/a6e84f8ffe7780bbfd0033de80b3a63b146d2b71",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/charts-helm-release.yaml"
+      }
+    },
+    {
+      "name": "ci.yaml",
+      "path": ".github/workflows/ci.yaml",
+      "sha": "3fa74d390edf63f6e3b0bad3a336a1f9a285a59a",
+      "size": 6375,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/ci.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/ci.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/3fa74d390edf63f6e3b0bad3a336a1f9a285a59a",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.github/workflows/ci.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.github/workflows/ci.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/3fa74d390edf63f6e3b0bad3a336a1f9a285a59a",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.github/workflows/ci.yaml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "c85d1403b52b30d35c7ea69c235b9d369735ba13",
+      "size": 119,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c85d1403b52b30d35c7ea69c235b9d369735ba13",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c85d1403b52b30d35c7ea69c235b9d369735ba13",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".golangci.yml",
+      "path": ".golangci.yml",
+      "sha": "18efd13b8f6f1a38ded54d5aba3fcba099899651",
+      "size": 503,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.golangci.yml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.golangci.yml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/18efd13b8f6f1a38ded54d5aba3fcba099899651",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.golangci.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.golangci.yml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/18efd13b8f6f1a38ded54d5aba3fcba099899651",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.golangci.yml"
+      }
+    },
+    {
+      "name": ".goreleaser.yaml",
+      "path": ".goreleaser.yaml",
+      "sha": "f16946cf1a77674c7b94e6ae02eb708d5e220c53",
+      "size": 4008,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.goreleaser.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.goreleaser.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f16946cf1a77674c7b94e6ae02eb708d5e220c53",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/.goreleaser.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/.goreleaser.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f16946cf1a77674c7b94e6ae02eb708d5e220c53",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/.goreleaser.yaml"
+      }
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "path": "CONTRIBUTING.md",
+      "sha": "ed64fd96f0c0bf8de446945154b02afe9df00b51",
+      "size": 2336,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/CONTRIBUTING.md?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/CONTRIBUTING.md",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/ed64fd96f0c0bf8de446945154b02afe9df00b51",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/CONTRIBUTING.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/CONTRIBUTING.md?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/ed64fd96f0c0bf8de446945154b02afe9df00b51",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/CONTRIBUTING.md"
+      }
+    },
+    {
+      "name": "Dockerfile",
+      "path": "Dockerfile",
+      "sha": "9a8365828496efb43fb24e47c9944d265c244ac5",
+      "size": 728,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/Dockerfile?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/Dockerfile",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9a8365828496efb43fb24e47c9944d265c244ac5",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/Dockerfile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/Dockerfile?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9a8365828496efb43fb24e47c9944d265c244ac5",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/Dockerfile"
+      }
+    },
+    {
+      "name": "Dockerfile.ci",
+      "path": "Dockerfile.ci",
+      "sha": "f2fff423decd1e66ce477300ea4065efe96d62af",
+      "size": 126,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/Dockerfile.ci?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/Dockerfile.ci",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f2fff423decd1e66ce477300ea4065efe96d62af",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/Dockerfile.ci",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/Dockerfile.ci?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f2fff423decd1e66ce477300ea4065efe96d62af",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/Dockerfile.ci"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "Makefile",
+      "path": "Makefile",
+      "sha": "51f8bb66ad2ea25c00f0489ec26fe7e664c0ad9f",
+      "size": 1764,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/Makefile?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/Makefile",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/51f8bb66ad2ea25c00f0489ec26fe7e664c0ad9f",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/Makefile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/Makefile?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/51f8bb66ad2ea25c00f0489ec26fe7e664c0ad9f",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/Makefile"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "f17894791dea5825368c168bac97a60c57681857",
+      "size": 12714,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/README.md?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f17894791dea5825368c168bac97a60c57681857",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f17894791dea5825368c168bac97a60c57681857",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/README.md"
+      }
+    },
+    {
+      "name": "charts",
+      "path": "charts",
+      "sha": "fd966067542aff1b445d29fa20b9bb35ec3601a2",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/charts",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/fd966067542aff1b445d29fa20b9bb35ec3601a2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/fd966067542aff1b445d29fa20b9bb35ec3601a2",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/charts"
+      }
+    },
+    {
+      "name": "blockchain-wallet-exporter",
+      "path": "charts/blockchain-wallet-exporter",
+      "sha": "70c603f1cabfc9c2545aee521a3aa7102ca078f8",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/charts/blockchain-wallet-exporter",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/70c603f1cabfc9c2545aee521a3aa7102ca078f8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/70c603f1cabfc9c2545aee521a3aa7102ca078f8",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/charts/blockchain-wallet-exporter"
+      }
+    },
+    {
+      "name": ".helmignore",
+      "path": "charts/blockchain-wallet-exporter/.helmignore",
+      "sha": "0e8a0eb36f4ca2c939201c0d54b5d82a1ea34778",
+      "size": 349,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/.helmignore?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/.helmignore",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0e8a0eb36f4ca2c939201c0d54b5d82a1ea34778",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/.helmignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/.helmignore?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0e8a0eb36f4ca2c939201c0d54b5d82a1ea34778",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/.helmignore"
+      }
+    },
+    {
+      "name": "Chart.yaml",
+      "path": "charts/blockchain-wallet-exporter/Chart.yaml",
+      "sha": "93dd462ca0961ee1512c36143341298e6376f1da",
+      "size": 1095,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/Chart.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/Chart.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/93dd462ca0961ee1512c36143341298e6376f1da",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/Chart.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/Chart.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/93dd462ca0961ee1512c36143341298e6376f1da",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/Chart.yaml"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "charts/blockchain-wallet-exporter/README.md",
+      "sha": "eb1e7915773bb85e694fa4967961a2a692af3943",
+      "size": 6869,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/README.md?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/README.md",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/eb1e7915773bb85e694fa4967961a2a692af3943",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/README.md?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/eb1e7915773bb85e694fa4967961a2a692af3943",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/README.md"
+      }
+    },
+    {
+      "name": "templates",
+      "path": "charts/blockchain-wallet-exporter/templates",
+      "sha": "48da1fde9f8a33e50596a2f7165a9eb2baf7f02e",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/charts/blockchain-wallet-exporter/templates",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/48da1fde9f8a33e50596a2f7165a9eb2baf7f02e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/48da1fde9f8a33e50596a2f7165a9eb2baf7f02e",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/charts/blockchain-wallet-exporter/templates"
+      }
+    },
+    {
+      "name": "_helpers.tpl",
+      "path": "charts/blockchain-wallet-exporter/templates/_helpers.tpl",
+      "sha": "1df88a55a26332d3d8dc529792a8f9e6648908c4",
+      "size": 1972,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/_helpers.tpl?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/_helpers.tpl",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/1df88a55a26332d3d8dc529792a8f9e6648908c4",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/_helpers.tpl",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/_helpers.tpl?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/1df88a55a26332d3d8dc529792a8f9e6648908c4",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/_helpers.tpl"
+      }
+    },
+    {
+      "name": "configmap.yaml",
+      "path": "charts/blockchain-wallet-exporter/templates/configmap.yaml",
+      "sha": "845eb485ca0adfe7b7434d6a7c5756fe45e36e5e",
+      "size": 250,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/configmap.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/configmap.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/845eb485ca0adfe7b7434d6a7c5756fe45e36e5e",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/configmap.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/configmap.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/845eb485ca0adfe7b7434d6a7c5756fe45e36e5e",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/configmap.yaml"
+      }
+    },
+    {
+      "name": "deployment.yaml",
+      "path": "charts/blockchain-wallet-exporter/templates/deployment.yaml",
+      "sha": "fa1406ff942ca9afa44114ab8195fac770624d97",
+      "size": 3154,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/deployment.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/deployment.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/fa1406ff942ca9afa44114ab8195fac770624d97",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/deployment.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/deployment.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/fa1406ff942ca9afa44114ab8195fac770624d97",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/deployment.yaml"
+      }
+    },
+    {
+      "name": "ingress.yaml",
+      "path": "charts/blockchain-wallet-exporter/templates/ingress.yaml",
+      "sha": "c57df326ce88708f505af2954aea2548989fc297",
+      "size": 1145,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/ingress.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/ingress.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c57df326ce88708f505af2954aea2548989fc297",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/ingress.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/ingress.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c57df326ce88708f505af2954aea2548989fc297",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/ingress.yaml"
+      }
+    },
+    {
+      "name": "service.yaml",
+      "path": "charts/blockchain-wallet-exporter/templates/service.yaml",
+      "sha": "9412ab96c82c717b4e40201dfa8bcc33449980b0",
+      "size": 510,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/service.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/service.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9412ab96c82c717b4e40201dfa8bcc33449980b0",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/service.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/service.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9412ab96c82c717b4e40201dfa8bcc33449980b0",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/service.yaml"
+      }
+    },
+    {
+      "name": "serviceaccount.yaml",
+      "path": "charts/blockchain-wallet-exporter/templates/serviceaccount.yaml",
+      "sha": "5ad0c00c1c86db7df639293381dba1cd1d1f3573",
+      "size": 427,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/serviceaccount.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/serviceaccount.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/5ad0c00c1c86db7df639293381dba1cd1d1f3573",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/serviceaccount.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/serviceaccount.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/5ad0c00c1c86db7df639293381dba1cd1d1f3573",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/serviceaccount.yaml"
+      }
+    },
+    {
+      "name": "servicemonitor.yaml",
+      "path": "charts/blockchain-wallet-exporter/templates/servicemonitor.yaml",
+      "sha": "a1f2a6cc591ef955f1420102f8885ae6b26e27f6",
+      "size": 962,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/servicemonitor.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/servicemonitor.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/a1f2a6cc591ef955f1420102f8885ae6b26e27f6",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/templates/servicemonitor.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/templates/servicemonitor.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/a1f2a6cc591ef955f1420102f8885ae6b26e27f6",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/templates/servicemonitor.yaml"
+      }
+    },
+    {
+      "name": "values.yaml",
+      "path": "charts/blockchain-wallet-exporter/values.yaml",
+      "sha": "0c2e1debf67819eb047f9ba012e4c368a58a0953",
+      "size": 5641,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/values.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/values.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0c2e1debf67819eb047f9ba012e4c368a58a0953",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/charts/blockchain-wallet-exporter/values.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/charts/blockchain-wallet-exporter/values.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0c2e1debf67819eb047f9ba012e4c368a58a0953",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/charts/blockchain-wallet-exporter/values.yaml"
+      }
+    },
+    {
+      "name": "cmd",
+      "path": "cmd",
+      "sha": "239970d1b53ecc10908c0aadc6de63d2dd4b0bfa",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/cmd?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/cmd",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/239970d1b53ecc10908c0aadc6de63d2dd4b0bfa",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/cmd?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/239970d1b53ecc10908c0aadc6de63d2dd4b0bfa",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/cmd"
+      }
+    },
+    {
+      "name": "main.go",
+      "path": "cmd/main.go",
+      "sha": "981eebbdb9947f33614536da129c4cfd14f9acec",
+      "size": 5001,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/cmd/main.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/cmd/main.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/981eebbdb9947f33614536da129c4cfd14f9acec",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/cmd/main.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/cmd/main.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/981eebbdb9947f33614536da129c4cfd14f9acec",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/cmd/main.go"
+      }
+    },
+    {
+      "name": "config",
+      "path": "config",
+      "sha": "3558f4b52995b0b5ee84dd706aa7a3324039896d",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/config?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/config",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/3558f4b52995b0b5ee84dd706aa7a3324039896d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/config?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/3558f4b52995b0b5ee84dd706aa7a3324039896d",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/config"
+      }
+    },
+    {
+      "name": "config.yaml",
+      "path": "config/config.yaml",
+      "sha": "e2a791946b0ffed0d73092aeac1a60e432e7f747",
+      "size": 3650,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/config/config.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/config/config.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/e2a791946b0ffed0d73092aeac1a60e432e7f747",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/config/config.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/config/config.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/e2a791946b0ffed0d73092aeac1a60e432e7f747",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/config/config.yaml"
+      }
+    },
+    {
+      "name": "prometheus.yaml",
+      "path": "config/prometheus.yaml",
+      "sha": "f3c8889344d6dd91db6b8d0acaf4ee2ada19454c",
+      "size": 723,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/config/prometheus.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/config/prometheus.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f3c8889344d6dd91db6b8d0acaf4ee2ada19454c",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/config/prometheus.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/config/prometheus.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f3c8889344d6dd91db6b8d0acaf4ee2ada19454c",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/config/prometheus.yaml"
+      }
+    },
+    {
+      "name": "docker-compose.yaml",
+      "path": "docker-compose.yaml",
+      "sha": "4bb32c9d086da0aef02f4a207725aff9e31e4435",
+      "size": 582,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docker-compose.yaml?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/docker-compose.yaml",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/4bb32c9d086da0aef02f4a207725aff9e31e4435",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/docker-compose.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docker-compose.yaml?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/4bb32c9d086da0aef02f4a207725aff9e31e4435",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/docker-compose.yaml"
+      }
+    },
+    {
+      "name": "docs",
+      "path": "docs",
+      "sha": "3f1d11f97abad80a5ca348b7262dcc2227993275",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docs?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/docs",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/3f1d11f97abad80a5ca348b7262dcc2227993275",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docs?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/3f1d11f97abad80a5ca348b7262dcc2227993275",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/docs"
+      }
+    },
+    {
+      "name": "Metrics.md",
+      "path": "docs/Metrics.md",
+      "sha": "44fc1baff71c4730c8b100bcdca3296239a42410",
+      "size": 15098,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docs/Metrics.md?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/docs/Metrics.md",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/44fc1baff71c4730c8b100bcdca3296239a42410",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/docs/Metrics.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docs/Metrics.md?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/44fc1baff71c4730c8b100bcdca3296239a42410",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/docs/Metrics.md"
+      }
+    },
+    {
+      "name": "Spec.md",
+      "path": "docs/Spec.md",
+      "sha": "78524c9b357c16eddaf01ef4c22701275845167d",
+      "size": 3337,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docs/Spec.md?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/docs/Spec.md",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/78524c9b357c16eddaf01ef4c22701275845167d",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/docs/Spec.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/docs/Spec.md?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/78524c9b357c16eddaf01ef4c22701275845167d",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/docs/Spec.md"
+      }
+    },
+    {
+      "name": "go.mod",
+      "path": "go.mod",
+      "sha": "fc734d8ce9b1c373ddf419532a099aabbf6215bf",
+      "size": 9342,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/go.mod?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/go.mod",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/fc734d8ce9b1c373ddf419532a099aabbf6215bf",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/go.mod",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/go.mod?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/fc734d8ce9b1c373ddf419532a099aabbf6215bf",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/go.mod"
+      }
+    },
+    {
+      "name": "go.sum",
+      "path": "go.sum",
+      "sha": "0403477ca3897e24a3843a7969f439247fb8ee25",
+      "size": 105727,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/go.sum?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/go.sum",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0403477ca3897e24a3843a7969f439247fb8ee25",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/go.sum",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/go.sum?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0403477ca3897e24a3843a7969f439247fb8ee25",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/go.sum"
+      }
+    },
+    {
+      "name": "pkg",
+      "path": "pkg",
+      "sha": "1a1190a7471e6f57bf9a96042bb65a31c41575c9",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/1a1190a7471e6f57bf9a96042bb65a31c41575c9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/1a1190a7471e6f57bf9a96042bb65a31c41575c9",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg"
+      }
+    },
+    {
+      "name": "collector",
+      "path": "pkg/collector",
+      "sha": "b73a90da7097e67dfd3143c874fb70a96c409d48",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/collector",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/b73a90da7097e67dfd3143c874fb70a96c409d48",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/b73a90da7097e67dfd3143c874fb70a96c409d48",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/collector"
+      }
+    },
+    {
+      "name": "collector.go",
+      "path": "pkg/collector/collector.go",
+      "sha": "4c416f2ee7a9c700fe5ae4b7a30ff7b56d69ab8e",
+      "size": 7930,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/4c416f2ee7a9c700fe5ae4b7a30ff7b56d69ab8e",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/4c416f2ee7a9c700fe5ae4b7a30ff7b56d69ab8e",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector.go"
+      }
+    },
+    {
+      "name": "collector_cosmos.go",
+      "path": "pkg/collector/collector_cosmos.go",
+      "sha": "9b5ee870999ca41274e17c14dc8edf9b12741b84",
+      "size": 3704,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_cosmos.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_cosmos.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9b5ee870999ca41274e17c14dc8edf9b12741b84",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_cosmos.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_cosmos.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9b5ee870999ca41274e17c14dc8edf9b12741b84",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_cosmos.go"
+      }
+    },
+    {
+      "name": "collector_cosmos_test.go",
+      "path": "pkg/collector/collector_cosmos_test.go",
+      "sha": "d8de87dfc7bf2a5306c4214f367199973fa23f05",
+      "size": 76,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_cosmos_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_cosmos_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/d8de87dfc7bf2a5306c4214f367199973fa23f05",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_cosmos_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_cosmos_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/d8de87dfc7bf2a5306c4214f367199973fa23f05",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_cosmos_test.go"
+      }
+    },
+    {
+      "name": "collector_erc20.go",
+      "path": "pkg/collector/collector_erc20.go",
+      "sha": "75339b714af3c98d67622bcb352c912e32d764d9",
+      "size": 3344,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_erc20.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_erc20.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/75339b714af3c98d67622bcb352c912e32d764d9",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_erc20.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_erc20.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/75339b714af3c98d67622bcb352c912e32d764d9",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_erc20.go"
+      }
+    },
+    {
+      "name": "collector_erc20_test.go",
+      "path": "pkg/collector/collector_erc20_test.go",
+      "sha": "f802ab5daa1e0f57bf112a9bc74206d6a2054b0b",
+      "size": 10462,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_erc20_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_erc20_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f802ab5daa1e0f57bf112a9bc74206d6a2054b0b",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_erc20_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_erc20_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/f802ab5daa1e0f57bf112a9bc74206d6a2054b0b",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_erc20_test.go"
+      }
+    },
+    {
+      "name": "collector_evm.go",
+      "path": "pkg/collector/collector_evm.go",
+      "sha": "9acf612f8716d84adafda151b465242531a6365e",
+      "size": 4039,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_evm.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_evm.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9acf612f8716d84adafda151b465242531a6365e",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_evm.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_evm.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/9acf612f8716d84adafda151b465242531a6365e",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_evm.go"
+      }
+    },
+    {
+      "name": "collector_evm_test.go",
+      "path": "pkg/collector/collector_evm_test.go",
+      "sha": "42807a5d97ff541559d46ac964b17717677e2853",
+      "size": 4118,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_evm_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_evm_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/42807a5d97ff541559d46ac964b17717677e2853",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_evm_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_evm_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/42807a5d97ff541559d46ac964b17717677e2853",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_evm_test.go"
+      }
+    },
+    {
+      "name": "collector_test.go",
+      "path": "pkg/collector/collector_test.go",
+      "sha": "eb092c5780276bbb68abee72f3b8f85f70160f86",
+      "size": 3809,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/eb092c5780276bbb68abee72f3b8f85f70160f86",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/collector_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/collector_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/eb092c5780276bbb68abee72f3b8f85f70160f86",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/collector_test.go"
+      }
+    },
+    {
+      "name": "factory.go",
+      "path": "pkg/collector/factory.go",
+      "sha": "79d65b26db998ea10c4b646af3e58c9f200a1e62",
+      "size": 1371,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/factory.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/factory.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/79d65b26db998ea10c4b646af3e58c9f200a1e62",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/collector/factory.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/collector/factory.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/79d65b26db998ea10c4b646af3e58c9f200a1e62",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/collector/factory.go"
+      }
+    },
+    {
+      "name": "config",
+      "path": "pkg/config",
+      "sha": "22f5d606014cb315cc105526931405e9b88ceb9b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/config?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/config",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/22f5d606014cb315cc105526931405e9b88ceb9b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/config?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/22f5d606014cb315cc105526931405e9b88ceb9b",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/config"
+      }
+    },
+    {
+      "name": "config.go",
+      "path": "pkg/config/config.go",
+      "sha": "73a7b39496183bcdd36a0d2ac80a64d3a866af32",
+      "size": 5675,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/config/config.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/config/config.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/73a7b39496183bcdd36a0d2ac80a64d3a866af32",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/config/config.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/config/config.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/73a7b39496183bcdd36a0d2ac80a64d3a866af32",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/config/config.go"
+      }
+    },
+    {
+      "name": "config_test.go",
+      "path": "pkg/config/config_test.go",
+      "sha": "7973877b3ac042dec6c8b51b8941582e072457d5",
+      "size": 6844,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/config/config_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/config/config_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/7973877b3ac042dec6c8b51b8941582e072457d5",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/config/config_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/config/config_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/7973877b3ac042dec6c8b51b8941582e072457d5",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/config/config_test.go"
+      }
+    },
+    {
+      "name": "currency",
+      "path": "pkg/currency",
+      "sha": "283a7d6fab269776a4ca8a75ef8fb938502c43ce",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/currency",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/283a7d6fab269776a4ca8a75ef8fb938502c43ce",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/283a7d6fab269776a4ca8a75ef8fb938502c43ce",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/currency"
+      }
+    },
+    {
+      "name": "currency.go",
+      "path": "pkg/currency/currency.go",
+      "sha": "18ceeb87295418df25000c925b685dc7bfcdd976",
+      "size": 4387,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/currency.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/currency.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/18ceeb87295418df25000c925b685dc7bfcdd976",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/currency/currency.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/currency.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/18ceeb87295418df25000c925b685dc7bfcdd976",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/currency.go"
+      }
+    },
+    {
+      "name": "currency_test.go",
+      "path": "pkg/currency/currency_test.go",
+      "sha": "fdc4c109c9c47e18f386d5ef099242f56c70af31",
+      "size": 4863,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/currency_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/currency_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/fdc4c109c9c47e18f386d5ef099242f56c70af31",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/currency/currency_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/currency_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/fdc4c109c9c47e18f386d5ef099242f56c70af31",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/currency_test.go"
+      }
+    },
+    {
+      "name": "dynamic_units.go",
+      "path": "pkg/currency/dynamic_units.go",
+      "sha": "56ba42207e6214afd6e37ebbdbcbef9d28552c6f",
+      "size": 1833,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/dynamic_units.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/dynamic_units.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/56ba42207e6214afd6e37ebbdbcbef9d28552c6f",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/currency/dynamic_units.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/dynamic_units.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/56ba42207e6214afd6e37ebbdbcbef9d28552c6f",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/dynamic_units.go"
+      }
+    },
+    {
+      "name": "dynamic_units_test.go",
+      "path": "pkg/currency/dynamic_units_test.go",
+      "sha": "3f9625332024529ae6887c25a868960d6d683504",
+      "size": 594,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/dynamic_units_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/dynamic_units_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/3f9625332024529ae6887c25a868960d6d683504",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/currency/dynamic_units_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/currency/dynamic_units_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/3f9625332024529ae6887c25a868960d6d683504",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/currency/dynamic_units_test.go"
+      }
+    },
+    {
+      "name": "erc20",
+      "path": "pkg/erc20",
+      "sha": "57a180332cf92ed3ec779de39f0d8d85fd921c95",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/erc20",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/57a180332cf92ed3ec779de39f0d8d85fd921c95",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/57a180332cf92ed3ec779de39f0d8d85fd921c95",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/erc20"
+      }
+    },
+    {
+      "name": "abi.go",
+      "path": "pkg/erc20/abi.go",
+      "sha": "2067525b2026b0e4d046803ab3d63e7e67b37946",
+      "size": 824,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20/abi.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/erc20/abi.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/2067525b2026b0e4d046803ab3d63e7e67b37946",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/erc20/abi.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20/abi.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/2067525b2026b0e4d046803ab3d63e7e67b37946",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/erc20/abi.go"
+      }
+    },
+    {
+      "name": "client.go",
+      "path": "pkg/erc20/client.go",
+      "sha": "6d28c66ec1cceb277b8b1447d2808191d37de657",
+      "size": 5131,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20/client.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/erc20/client.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/6d28c66ec1cceb277b8b1447d2808191d37de657",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/erc20/client.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20/client.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/6d28c66ec1cceb277b8b1447d2808191d37de657",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/erc20/client.go"
+      }
+    },
+    {
+      "name": "units.go",
+      "path": "pkg/erc20/units.go",
+      "sha": "949d4fc2f0e5851997cd2d87dd59d1c0caf969c0",
+      "size": 1982,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20/units.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/erc20/units.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/949d4fc2f0e5851997cd2d87dd59d1c0caf969c0",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/erc20/units.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/erc20/units.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/949d4fc2f0e5851997cd2d87dd59d1c0caf969c0",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/erc20/units.go"
+      }
+    },
+    {
+      "name": "faucet",
+      "path": "pkg/faucet",
+      "sha": "b42c77019f09cb2452fddc139ad58ae75a468649",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/faucet",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/b42c77019f09cb2452fddc139ad58ae75a468649",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/b42c77019f09cb2452fddc139ad58ae75a468649",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/faucet"
+      }
+    },
+    {
+      "name": "faucet.go",
+      "path": "pkg/faucet/faucet.go",
+      "sha": "0cc5253ddf538268a85a41ba78d8b253d32db3c6",
+      "size": 19857,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet/faucet.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/faucet/faucet.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0cc5253ddf538268a85a41ba78d8b253d32db3c6",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/faucet/faucet.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet/faucet.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/0cc5253ddf538268a85a41ba78d8b253d32db3c6",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/faucet/faucet.go"
+      }
+    },
+    {
+      "name": "faucet_test.go",
+      "path": "pkg/faucet/faucet_test.go",
+      "sha": "c6489828d148a6caac463dde3574765352a2cfb6",
+      "size": 5874,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet/faucet_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/faucet/faucet_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c6489828d148a6caac463dde3574765352a2cfb6",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/faucet/faucet_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet/faucet_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c6489828d148a6caac463dde3574765352a2cfb6",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/faucet/faucet_test.go"
+      }
+    },
+    {
+      "name": "interface.go",
+      "path": "pkg/faucet/interface.go",
+      "sha": "de23e6ff236b59790b948c6d5fefd208d8d49956",
+      "size": 574,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet/interface.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/faucet/interface.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/de23e6ff236b59790b948c6d5fefd208d8d49956",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/faucet/interface.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/faucet/interface.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/de23e6ff236b59790b948c6d5fefd208d8d49956",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/faucet/interface.go"
+      }
+    },
+    {
+      "name": "logger",
+      "path": "pkg/logger",
+      "sha": "41e9ce1d24d76811d809e30d62daec346657ca66",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/logger?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/logger",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/41e9ce1d24d76811d809e30d62daec346657ca66",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/logger?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/41e9ce1d24d76811d809e30d62daec346657ca66",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/logger"
+      }
+    },
+    {
+      "name": "logger.go",
+      "path": "pkg/logger/logger.go",
+      "sha": "ac7154774088ac6a59eeacdba4fda297c4a9d267",
+      "size": 6449,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/logger/logger.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/logger/logger.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/ac7154774088ac6a59eeacdba4fda297c4a9d267",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/logger/logger.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/logger/logger.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/ac7154774088ac6a59eeacdba4fda297c4a9d267",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/logger/logger.go"
+      }
+    },
+    {
+      "name": "scheduler",
+      "path": "pkg/scheduler",
+      "sha": "af4e7601cfcc99c7161e5a66eec752615ed7adb4",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/scheduler",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/af4e7601cfcc99c7161e5a66eec752615ed7adb4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/af4e7601cfcc99c7161e5a66eec752615ed7adb4",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/scheduler"
+      }
+    },
+    {
+      "name": "manager.go",
+      "path": "pkg/scheduler/manager.go",
+      "sha": "abfa37db232a2e0537de204205ac39cc5481e2dd",
+      "size": 9131,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler/manager.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/scheduler/manager.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/abfa37db232a2e0537de204205ac39cc5481e2dd",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/scheduler/manager.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler/manager.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/abfa37db232a2e0537de204205ac39cc5481e2dd",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/scheduler/manager.go"
+      }
+    },
+    {
+      "name": "scheduler.go",
+      "path": "pkg/scheduler/scheduler.go",
+      "sha": "c03e84599c6e2ff05f07e992153eb95c8a04ab09",
+      "size": 20687,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler/scheduler.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/scheduler/scheduler.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c03e84599c6e2ff05f07e992153eb95c8a04ab09",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/scheduler/scheduler.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler/scheduler.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c03e84599c6e2ff05f07e992153eb95c8a04ab09",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/scheduler/scheduler.go"
+      }
+    },
+    {
+      "name": "scheduler_test.go",
+      "path": "pkg/scheduler/scheduler_test.go",
+      "sha": "c8311d72859560a489c6ea2c100a77e613ece054",
+      "size": 49010,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler/scheduler_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/scheduler/scheduler_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c8311d72859560a489c6ea2c100a77e613ece054",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/scheduler/scheduler_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/scheduler/scheduler_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/c8311d72859560a489c6ea2c100a77e613ece054",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/scheduler/scheduler_test.go"
+      }
+    },
+    {
+      "name": "server",
+      "path": "pkg/server",
+      "sha": "7e92e90b059f8d4ecc469fdae4d25c8c4dc32066",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/server?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/server",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/7e92e90b059f8d4ecc469fdae4d25c8c4dc32066",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/server?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/7e92e90b059f8d4ecc469fdae4d25c8c4dc32066",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/server"
+      }
+    },
+    {
+      "name": "http",
+      "path": "pkg/server/http",
+      "sha": "73ebf185d2ed1c02ebedff8d4f99b916d68752ae",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/server/http?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/server/http",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/73ebf185d2ed1c02ebedff8d4f99b916d68752ae",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/server/http?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/73ebf185d2ed1c02ebedff8d4f99b916d68752ae",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/server/http"
+      }
+    },
+    {
+      "name": "server.go",
+      "path": "pkg/server/http/server.go",
+      "sha": "45ee8b3f6d6fcd037436d537849da1557478ec15",
+      "size": 2504,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/server/http/server.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/server/http/server.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/45ee8b3f6d6fcd037436d537849da1557478ec15",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/server/http/server.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/server/http/server.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/45ee8b3f6d6fcd037436d537849da1557478ec15",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/server/http/server.go"
+      }
+    },
+    {
+      "name": "validation",
+      "path": "pkg/validation",
+      "sha": "9396f9c1310c4df64635095676203cc7ccfe5945",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/validation",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/9396f9c1310c4df64635095676203cc7ccfe5945",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/9396f9c1310c4df64635095676203cc7ccfe5945",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/validation"
+      }
+    },
+    {
+      "name": "base_validator.go",
+      "path": "pkg/validation/base_validator.go",
+      "sha": "8126d34c047a87a2a2ad633ed6e0c163db7113a4",
+      "size": 660,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/base_validator.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/base_validator.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/8126d34c047a87a2a2ad633ed6e0c163db7113a4",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/validation/base_validator.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/base_validator.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/8126d34c047a87a2a2ad633ed6e0c163db7113a4",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/base_validator.go"
+      }
+    },
+    {
+      "name": "validator.go",
+      "path": "pkg/validation/validator.go",
+      "sha": "16731b96fdbb8b263d9416c4deb3d938c5e9a7f6",
+      "size": 4621,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/16731b96fdbb8b263d9416c4deb3d938c5e9a7f6",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/validation/validator.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/16731b96fdbb8b263d9416c4deb3d938c5e9a7f6",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator.go"
+      }
+    },
+    {
+      "name": "validator_cosmos.go",
+      "path": "pkg/validation/validator_cosmos.go",
+      "sha": "6e9ea1c6f5fdf656f0ced1c99a8ef6cd55d3474d",
+      "size": 2675,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_cosmos.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_cosmos.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/6e9ea1c6f5fdf656f0ced1c99a8ef6cd55d3474d",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/validation/validator_cosmos.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_cosmos.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/6e9ea1c6f5fdf656f0ced1c99a8ef6cd55d3474d",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_cosmos.go"
+      }
+    },
+    {
+      "name": "validator_erc20.go",
+      "path": "pkg/validation/validator_erc20.go",
+      "sha": "e0498a2d7d459a9caeaeb38bc265ac4f2e53ac6e",
+      "size": 1757,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_erc20.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_erc20.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/e0498a2d7d459a9caeaeb38bc265ac4f2e53ac6e",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/validation/validator_erc20.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_erc20.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/e0498a2d7d459a9caeaeb38bc265ac4f2e53ac6e",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_erc20.go"
+      }
+    },
+    {
+      "name": "validator_erc20_test.go",
+      "path": "pkg/validation/validator_erc20_test.go",
+      "sha": "676bcf15638c340730cc211eb9b2c27dc717925e",
+      "size": 3388,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_erc20_test.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_erc20_test.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/676bcf15638c340730cc211eb9b2c27dc717925e",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/validation/validator_erc20_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_erc20_test.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/676bcf15638c340730cc211eb9b2c27dc717925e",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_erc20_test.go"
+      }
+    },
+    {
+      "name": "validator_ethereum.go",
+      "path": "pkg/validation/validator_ethereum.go",
+      "sha": "efe0759b24f3ba1f57db71f508961c90402f14b2",
+      "size": 4503,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_ethereum.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_ethereum.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/efe0759b24f3ba1f57db71f508961c90402f14b2",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/validation/validator_ethereum.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/validation/validator_ethereum.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/efe0759b24f3ba1f57db71f508961c90402f14b2",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/validation/validator_ethereum.go"
+      }
+    },
+    {
+      "name": "version",
+      "path": "pkg/version",
+      "sha": "0c9e5789cf90aa522d80301afabcd89c3cbc979c",
+      "size": 0,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/version?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/version",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/0c9e5789cf90aa522d80301afabcd89c3cbc979c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/version?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/trees/0c9e5789cf90aa522d80301afabcd89c3cbc979c",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/tree/main/pkg/version"
+      }
+    },
+    {
+      "name": "version.go",
+      "path": "pkg/version/version.go",
+      "sha": "5ecf299c77036f2aa1b86f9779f007cd16aedbbb",
+      "size": 320,
+      "url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/version/version.go?ref=main",
+      "html_url": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/version/version.go",
+      "git_url": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/5ecf299c77036f2aa1b86f9779f007cd16aedbbb",
+      "download_url": "https://raw.githubusercontent.com/zama-ai/blockchain-wallet-exporter/main/pkg/version/version.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/contents/pkg/version/version.go?ref=main",
+        "git": "https://api.github.com/repos/zama-ai/blockchain-wallet-exporter/git/blobs/5ecf299c77036f2aa1b86f9779f007cd16aedbbb",
+        "html": "https://github.com/zama-ai/blockchain-wallet-exporter/blob/main/pkg/version/version.go"
+      }
+    }
+  ],
+  "external_domains": {
+    "localhost:8081\"": null,
+    "your-powfaucet-instance.com\"": null,
+    "mainnet.infura.io": 3580,
+    "arbitrum-one-rpc.publicnode.com\"": null,
+    "localhost:9091": null,
+    "goreportcard.com": 4027,
+    "your-rpc-endpoint.com\"": null,
+    "localhost:8080\"": null,
+    "github.com": 6692,
+    "ethereum-sepolia-rpc.publicnode.com\"": null,
+    "codecov.io": 4204
+  },
+  "collected_at": "2026-02-04T03:01:14.140638"
+}

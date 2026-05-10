@@ -1,0 +1,11 @@
+﻿feature,pr_auc_drop,f1_drop
+env_file_count,1.107419712065294e-05,0.006600569299102
+repo_name_has_blockchain_keyword,0.0,0.006600569299102
+has_email,0.0,0.0049586230454761
+security_trust_keyword_count,0.0,0.0049586230454761
+risk_filename_count,0.0002739071038251,0.0033444537345936
+repo_age_days,1.107419712065294e-05,0.0033112308672941
+external_domains_average_age,0.0,0.0033112308672941
+has_issues_enabled,0.0,0.0033112308672941
+has_license_file,0.0,0.0033112308672941
+has_readme_file,0.0,0.0033112308672941

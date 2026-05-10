@@ -1,0 +1,92 @@
+{
+  "threshold": 0.2379615693,
+  "n_total": 2354,
+  "n_positive": 300,
+  "n_negative": 2054,
+  "predicted_positive_rate": 0.13636363636363635,
+  "global_top10_positive_coefficients": [
+    {
+      "feature": "repo_is_fork",
+      "coef": 0.18594673229736416
+    },
+    {
+      "feature": "has_env_file",
+      "coef": 0.12322096604473697
+    },
+    {
+      "feature": "readme_has_install_run_commands",
+      "coef": 0.0738361851376754
+    },
+    {
+      "feature": "has_readme_file",
+      "coef": 0.05646068614638681
+    },
+    {
+      "feature": "security_trust_keyword_count",
+      "coef": 0.05436377375410823
+    },
+    {
+      "feature": "user_repo_creation_gap_days",
+      "coef": 0.04802639895263931
+    },
+    {
+      "feature": "has_email",
+      "coef": 0.04797190393101433
+    },
+    {
+      "feature": "readme_has_sensitive_request_keywords",
+      "coef": 0.04595217861260315
+    },
+    {
+      "feature": "readme_has_airdrop_claim_keywords",
+      "coef": 0.04560120526675312
+    },
+    {
+      "feature": "subscribers_count",
+      "coef": 0.04299454584495571
+    }
+  ],
+  "global_top10_negative_coefficients": [
+    {
+      "feature": "description_has_blockchain_keyword",
+      "coef": -0.1605477618719161
+    },
+    {
+      "feature": "tfidf_aux::blockchain",
+      "coef": -0.08912995519845213
+    },
+    {
+      "feature": "tfidf_aux::wallet",
+      "coef": -0.07928898809068614
+    },
+    {
+      "feature": "topic_has_blockchain_keyword",
+      "coef": -0.07593483158343516
+    },
+    {
+      "feature": "repo_age_days",
+      "coef": -0.07324731572274597
+    },
+    {
+      "feature": "blockchain_keyword_count",
+      "coef": -0.06925259137313675
+    },
+    {
+      "feature": "tfidf_aux::web3",
+      "coef": -0.06808398446115305
+    },
+    {
+      "feature": "repo_name_has_blockchain_keyword",
+      "coef": -0.06735074625959589
+    },
+    {
+      "feature": "tfidf_aux::ethereum",
+      "coef": -0.06480662501314566
+    },
+    {
+      "feature": "topics_count",
+      "coef": -0.06479797365752603
+    }
+  ],
+  "note": "Explanation evidence is based on a matched plain LinearSVC decision function (feature_value × coefficient), while probabilities come from the calibrated model."
+}

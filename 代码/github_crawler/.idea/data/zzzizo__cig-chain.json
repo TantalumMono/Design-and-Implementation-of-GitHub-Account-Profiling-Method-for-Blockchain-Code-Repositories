@@ -1,0 +1,592 @@
+{
+  "repo_full_name": "zzzizo/cig-chain",
+  "repo_detail": {
+    "id": 989255915,
+    "node_id": "R_kgDOOvbY6w",
+    "name": "cig-chain",
+    "full_name": "zzzizo/cig-chain",
+    "private": false,
+    "owner": {
+      "login": "zzzizo",
+      "id": 121841953,
+      "node_id": "U_kgDOB0MpIQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121841953?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zzzizo",
+      "html_url": "https://github.com/zzzizo",
+      "followers_url": "https://api.github.com/users/zzzizo/followers",
+      "following_url": "https://api.github.com/users/zzzizo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zzzizo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zzzizo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zzzizo/subscriptions",
+      "organizations_url": "https://api.github.com/users/zzzizo/orgs",
+      "repos_url": "https://api.github.com/users/zzzizo/repos",
+      "events_url": "https://api.github.com/users/zzzizo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zzzizo/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zzzizo/cig-chain",
+    "description": "CIG-Chain is a modern blockchain framework built in Python that offers exceptional flexibility and powerful features for developers. It combines the security of traditional blockchains with advanced capabilities like multiple consensus options, smart contracts, and sharding. Whether you're building a simple cryptocurrency, complex DeFi application",
+    "fork": false,
+    "url": "https://api.github.com/repos/zzzizo/cig-chain",
+    "forks_url": "https://api.github.com/repos/zzzizo/cig-chain/forks",
+    "keys_url": "https://api.github.com/repos/zzzizo/cig-chain/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zzzizo/cig-chain/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zzzizo/cig-chain/teams",
+    "hooks_url": "https://api.github.com/repos/zzzizo/cig-chain/hooks",
+    "issue_events_url": "https://api.github.com/repos/zzzizo/cig-chain/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zzzizo/cig-chain/events",
+    "assignees_url": "https://api.github.com/repos/zzzizo/cig-chain/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zzzizo/cig-chain/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zzzizo/cig-chain/tags",
+    "blobs_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zzzizo/cig-chain/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zzzizo/cig-chain/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zzzizo/cig-chain/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zzzizo/cig-chain/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zzzizo/cig-chain/languages",
+    "stargazers_url": "https://api.github.com/repos/zzzizo/cig-chain/stargazers",
+    "contributors_url": "https://api.github.com/repos/zzzizo/cig-chain/contributors",
+    "subscribers_url": "https://api.github.com/repos/zzzizo/cig-chain/subscribers",
+    "subscription_url": "https://api.github.com/repos/zzzizo/cig-chain/subscription",
+    "commits_url": "https://api.github.com/repos/zzzizo/cig-chain/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zzzizo/cig-chain/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zzzizo/cig-chain/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zzzizo/cig-chain/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zzzizo/cig-chain/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zzzizo/cig-chain/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zzzizo/cig-chain/merges",
+    "archive_url": "https://api.github.com/repos/zzzizo/cig-chain/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zzzizo/cig-chain/downloads",
+    "issues_url": "https://api.github.com/repos/zzzizo/cig-chain/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zzzizo/cig-chain/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zzzizo/cig-chain/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zzzizo/cig-chain/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zzzizo/cig-chain/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zzzizo/cig-chain/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zzzizo/cig-chain/deployments",
+    "created_at": "2025-05-23T18:51:39Z",
+    "updated_at": "2025-08-30T01:05:40Z",
+    "pushed_at": "2025-08-30T01:05:37Z",
+    "git_url": "git://github.com/zzzizo/cig-chain.git",
+    "ssh_url": "git@github.com:zzzizo/cig-chain.git",
+    "clone_url": "https://github.com/zzzizo/cig-chain.git",
+    "svn_url": "https://github.com/zzzizo/cig-chain",
+    "homepage": "",
+    "size": 88,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "blockchain-technology",
+      "python"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "zzzizo",
+    "id": 121841953,
+    "node_id": "U_kgDOB0MpIQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/121841953?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zzzizo",
+    "html_url": "https://github.com/zzzizo",
+    "followers_url": "https://api.github.com/users/zzzizo/followers",
+    "following_url": "https://api.github.com/users/zzzizo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zzzizo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zzzizo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zzzizo/subscriptions",
+    "organizations_url": "https://api.github.com/users/zzzizo/orgs",
+    "repos_url": "https://api.github.com/users/zzzizo/repos",
+    "events_url": "https://api.github.com/users/zzzizo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zzzizo/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "zain",
+    "company": "Leadgen",
+    "blog": "",
+    "location": "Islamabad",
+    "email": null,
+    "hireable": null,
+    "bio": "DeFi Engineer\r\n",
+    "twitter_username": null,
+    "public_repos": 35,
+    "public_gists": 0,
+    "followers": 8,
+    "following": 7,
+    "created_at": "2023-01-03T03:22:04Z",
+    "updated_at": "2026-03-10T09:51:41Z"
+  },
+  "readme": "# CIG-Chain\n\nA versatile and customizable blockchain platform with support for multiple consensus mechanisms, smart contracts, and advanced transaction verification.\n\n## Overview\n\nCIG-Chain is a comprehensive blockchain implementation designed to be adaptable for various use cases while maintaining security, efficiency, and scalability. It provides a robust foundation for building decentralized applications, cryptocurrencies, supply chain solutions, and more.\n\n## Features\n\n### Multiple Consensus Mechanisms\n\nCIG-Chain supports a wide range of consensus algorithms to suit different network requirements:\n\n- **Proof of Work (PoW)**: Traditional mining-based consensus similar to Bitcoin\n- **Proof of Stake (PoS)**: Energy-efficient consensus where validators are selected based on their coin holdings\n- **Delegated Proof of Stake (DPoS)**: Elected delegates validate transactions in a round-robin fashion\n- **Practical Byzantine Fault Tolerance (PBFT)**: Fast consensus ideal for permissioned networks\n- **Proof of Authority (PoA)**: Trusted validators take turns creating blocks\n- **Proof of Burn**: Validators gain privileges by \"burning\" coins\n- **Hybrid Consensus**: Combines multiple mechanisms for enhanced security and efficiency\n- **Sharding Consensus**: Improves scalability by dividing the network into smaller parts\n\n### Smart Contract Support\n\n- Execute programmable contracts automatically when conditions are met\n- Store and track contract execution results\n- Support for various contract types and operations\n\n### Advanced Transaction Verification\n\n- Merkle tree implementation for efficient transaction verification\n- Comprehensive transaction validation\n- Cryptographic signature support for validator verification\n\n### Scalability Features\n\n- Sharding capability to process more transactions in parallel\n- Optimized block structure for fast verification and processing\n\n## Use Cases\n\n- **Cryptocurrency**: Create your own digital currency\n- **Smart Contract Platform**: Build decentralized applications\n- **Supply Chain Management**: Track products from origin to consumer\n- **Voting Systems**: Implement secure and transparent voting\n- **Digital Identity**: Manage and verify identities securely\n- **Asset Tokenization**: Represent real-world assets on the blockchain\n- **Decentralized Finance**: Create financial services without intermediaries\n\n## Getting Started\n\n### Prerequisites\n\n- Python 3.7+\n- Required packages: hashlib, json, time, random\n\n\n### Architecture\nCIG-Chain consists of several core components:\n\n- Block : The fundamental unit of the blockchain, containing transactions and metadata\n- Consensus Mechanisms : Various algorithms to achieve agreement on the state of the blockchain\n- Transaction Validation : Ensures all transactions are valid before inclusion in a block\n- Smart Contract Engine : Executes code stored on the blockchain\n## Contributing\nContributions are welcome! Please feel free to submit a Pull Request.\n\n## License\nThis project is licensed under the MIT License - see the LICENSE file for details.\n\n## Acknowledgments\n- Inspired by various blockchain implementations including Bitcoin, Ethereum, and Tendermint\n- Thanks to all contributors who have helped shape this project\n",
+  "tree_structure": [
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "a8e073aeb7abb2111ea4a1e51078e06f0a5146d8",
+      "size": 3235,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/README.md?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/a8e073aeb7abb2111ea4a1e51078e06f0a5146d8",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/a8e073aeb7abb2111ea4a1e51078e06f0a5146d8",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/README.md"
+      }
+    },
+    {
+      "name": "blockchain.json",
+      "path": "blockchain.json",
+      "sha": "4ad146fbaaf5c96a75e2af7edf76825bef8db3e2",
+      "size": 953,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain.json?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain.json",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/4ad146fbaaf5c96a75e2af7edf76825bef8db3e2",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain.json?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/4ad146fbaaf5c96a75e2af7edf76825bef8db3e2",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain.json"
+      }
+    },
+    {
+      "name": "blockchain",
+      "path": "blockchain",
+      "sha": "e512916519f37bf6fda02947f065ab9449ea9cbb",
+      "size": 0,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/tree/main/blockchain",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/trees/e512916519f37bf6fda02947f065ab9449ea9cbb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/trees/e512916519f37bf6fda02947f065ab9449ea9cbb",
+        "html": "https://github.com/zzzizo/cig-chain/tree/main/blockchain"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "blockchain/__init__.py",
+      "sha": "9f76009190d784b6681dd4d25fa73a0b5c370ed5",
+      "size": 223,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__init__.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__init__.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/9f76009190d784b6681dd4d25fa73a0b5c370ed5",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/9f76009190d784b6681dd4d25fa73a0b5c370ed5",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__init__.py"
+      }
+    },
+    {
+      "name": "__pycache__",
+      "path": "blockchain/__pycache__",
+      "sha": "5d21b00dc17d20d20684ae23de2607002ad11218",
+      "size": 0,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/tree/main/blockchain/__pycache__",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/trees/5d21b00dc17d20d20684ae23de2607002ad11218",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/trees/5d21b00dc17d20d20684ae23de2607002ad11218",
+        "html": "https://github.com/zzzizo/cig-chain/tree/main/blockchain/__pycache__"
+      }
+    },
+    {
+      "name": "__init__.cpython-312.pyc",
+      "path": "blockchain/__pycache__/__init__.cpython-312.pyc",
+      "sha": "93e902711681df5840a68f3dd8a1b9bb31d9823c",
+      "size": 419,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/__init__.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/__init__.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/93e902711681df5840a68f3dd8a1b9bb31d9823c",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/__init__.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/__init__.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/93e902711681df5840a68f3dd8a1b9bb31d9823c",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/__init__.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "block.cpython-312.pyc",
+      "path": "blockchain/__pycache__/block.cpython-312.pyc",
+      "sha": "1be28bb4bf084b39f8b854efaa15caa2713ae113",
+      "size": 2207,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/block.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/block.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/1be28bb4bf084b39f8b854efaa15caa2713ae113",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/block.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/block.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/1be28bb4bf084b39f8b854efaa15caa2713ae113",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/block.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "blockchain.cpython-312.pyc",
+      "path": "blockchain/__pycache__/blockchain.cpython-312.pyc",
+      "sha": "014443ca7279be57688848a2e40a80e783e5d29a",
+      "size": 10760,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/blockchain.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/blockchain.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/014443ca7279be57688848a2e40a80e783e5d29a",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/blockchain.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/blockchain.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/014443ca7279be57688848a2e40a80e783e5d29a",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/blockchain.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "consensus.cpython-312.pyc",
+      "path": "blockchain/__pycache__/consensus.cpython-312.pyc",
+      "sha": "487584f23a008a16c00e7a79fdbe1c78a3ec570a",
+      "size": 21250,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/consensus.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/consensus.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/487584f23a008a16c00e7a79fdbe1c78a3ec570a",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/consensus.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/consensus.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/487584f23a008a16c00e7a79fdbe1c78a3ec570a",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/consensus.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "p2p.cpython-312.pyc",
+      "path": "blockchain/__pycache__/p2p.cpython-312.pyc",
+      "sha": "516a8ec69c4446b821083a818e967ab73c5a0969",
+      "size": 7966,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/p2p.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/p2p.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/516a8ec69c4446b821083a818e967ab73c5a0969",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/p2p.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/p2p.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/516a8ec69c4446b821083a818e967ab73c5a0969",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/p2p.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "smart_contract.cpython-312.pyc",
+      "path": "blockchain/__pycache__/smart_contract.cpython-312.pyc",
+      "sha": "4feccfbf121a3fc1a6262e609de339ddd7834baa",
+      "size": 6664,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/smart_contract.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/smart_contract.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/4feccfbf121a3fc1a6262e609de339ddd7834baa",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/smart_contract.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/smart_contract.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/4feccfbf121a3fc1a6262e609de339ddd7834baa",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/smart_contract.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "transaction.cpython-312.pyc",
+      "path": "blockchain/__pycache__/transaction.cpython-312.pyc",
+      "sha": "331b48f6e49bff205cf3a27864511ac3fc3aca29",
+      "size": 10099,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/transaction.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/transaction.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/331b48f6e49bff205cf3a27864511ac3fc3aca29",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/transaction.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/transaction.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/331b48f6e49bff205cf3a27864511ac3fc3aca29",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/transaction.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "utxo.cpython-312.pyc",
+      "path": "blockchain/__pycache__/utxo.cpython-312.pyc",
+      "sha": "ad87fa8b52e22680dd697d71777b6767f5415e33",
+      "size": 3882,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/utxo.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/utxo.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/ad87fa8b52e22680dd697d71777b6767f5415e33",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/utxo.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/utxo.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/ad87fa8b52e22680dd697d71777b6767f5415e33",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/utxo.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "wallet.cpython-312.pyc",
+      "path": "blockchain/__pycache__/wallet.cpython-312.pyc",
+      "sha": "e46eb7f1ac37c58fc393cd54f9ebc71f55f356db",
+      "size": 4654,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/wallet.cpython-312.pyc?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/wallet.cpython-312.pyc",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/e46eb7f1ac37c58fc393cd54f9ebc71f55f356db",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/__pycache__/wallet.cpython-312.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/__pycache__/wallet.cpython-312.pyc?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/e46eb7f1ac37c58fc393cd54f9ebc71f55f356db",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/__pycache__/wallet.cpython-312.pyc"
+      }
+    },
+    {
+      "name": "block.py",
+      "path": "blockchain/block.py",
+      "sha": "858da8b21ada295c384dadde075f3a54f234e867",
+      "size": 5716,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/block.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/block.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/858da8b21ada295c384dadde075f3a54f234e867",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/block.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/block.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/858da8b21ada295c384dadde075f3a54f234e867",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/block.py"
+      }
+    },
+    {
+      "name": "blockchain.py",
+      "path": "blockchain/blockchain.py",
+      "sha": "b6067295e58bbf3e0eeae620fbdef5b9f60ee727",
+      "size": 10271,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/blockchain.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/blockchain.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/b6067295e58bbf3e0eeae620fbdef5b9f60ee727",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/blockchain.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/b6067295e58bbf3e0eeae620fbdef5b9f60ee727",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/blockchain.py"
+      }
+    },
+    {
+      "name": "consensus.py",
+      "path": "blockchain/consensus.py",
+      "sha": "212eff3530a5a89c47aedae4a4a527d34d9f2f8b",
+      "size": 18649,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/consensus.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/consensus.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/212eff3530a5a89c47aedae4a4a527d34d9f2f8b",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/consensus.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/consensus.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/212eff3530a5a89c47aedae4a4a527d34d9f2f8b",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/consensus.py"
+      }
+    },
+    {
+      "name": "p2p.py",
+      "path": "blockchain/p2p.py",
+      "sha": "6663acbae714532c0303f1f7aa0336a8882a6e3f",
+      "size": 5163,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/p2p.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/p2p.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/6663acbae714532c0303f1f7aa0336a8882a6e3f",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/p2p.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/p2p.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/6663acbae714532c0303f1f7aa0336a8882a6e3f",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/p2p.py"
+      }
+    },
+    {
+      "name": "security.py",
+      "path": "blockchain/security.py",
+      "sha": "91af57e87b50b41dcd7b0c9b7123b6d7070a14d2",
+      "size": 7046,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/security.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/security.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/91af57e87b50b41dcd7b0c9b7123b6d7070a14d2",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/security.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/security.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/91af57e87b50b41dcd7b0c9b7123b6d7070a14d2",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/security.py"
+      }
+    },
+    {
+      "name": "smart_contract.py",
+      "path": "blockchain/smart_contract.py",
+      "sha": "9f21113022558da250b0ef3b86be3e6beeadcc82",
+      "size": 4772,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/smart_contract.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/smart_contract.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/9f21113022558da250b0ef3b86be3e6beeadcc82",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/smart_contract.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/smart_contract.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/9f21113022558da250b0ef3b86be3e6beeadcc82",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/smart_contract.py"
+      }
+    },
+    {
+      "name": "transaction.py",
+      "path": "blockchain/transaction.py",
+      "sha": "dccadb0218458532da0a732549efe33d1bf7274d",
+      "size": 7302,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/transaction.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/transaction.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/dccadb0218458532da0a732549efe33d1bf7274d",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/transaction.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/transaction.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/dccadb0218458532da0a732549efe33d1bf7274d",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/transaction.py"
+      }
+    },
+    {
+      "name": "utxo.py",
+      "path": "blockchain/utxo.py",
+      "sha": "2098b593378f27ec14965bc836a83e556a125865",
+      "size": 1940,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/utxo.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/utxo.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/2098b593378f27ec14965bc836a83e556a125865",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/utxo.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/utxo.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/2098b593378f27ec14965bc836a83e556a125865",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/utxo.py"
+      }
+    },
+    {
+      "name": "wallet.py",
+      "path": "blockchain/wallet.py",
+      "sha": "593520f456470700031703ad14f9fca98174ff2d",
+      "size": 2933,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/wallet.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/wallet.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/593520f456470700031703ad14f9fca98174ff2d",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/blockchain/wallet.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/blockchain/wallet.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/593520f456470700031703ad14f9fca98174ff2d",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/blockchain/wallet.py"
+      }
+    },
+    {
+      "name": "main.py",
+      "path": "main.py",
+      "sha": "b208719d8fb4dbd00a937dbb9f3ff5a6d054f724",
+      "size": 5792,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/main.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/main.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/b208719d8fb4dbd00a937dbb9f3ff5a6d054f724",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/main.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/main.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/b208719d8fb4dbd00a937dbb9f3ff5a6d054f724",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/main.py"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "sha": "2b579751318387bd2abb5caef7f8b95a12e95bcc",
+      "size": 19,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/requirements.txt?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/requirements.txt",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/2b579751318387bd2abb5caef7f8b95a12e95bcc",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/requirements.txt?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/2b579751318387bd2abb5caef7f8b95a12e95bcc",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/requirements.txt"
+      }
+    },
+    {
+      "name": "tests",
+      "path": "tests",
+      "sha": "44838982390118419fa771c0995b06be9c4073a3",
+      "size": 0,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/tests?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/tree/main/tests",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/trees/44838982390118419fa771c0995b06be9c4073a3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/tests?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/trees/44838982390118419fa771c0995b06be9c4073a3",
+        "html": "https://github.com/zzzizo/cig-chain/tree/main/tests"
+      }
+    },
+    {
+      "name": "test_consensus.py",
+      "path": "tests/test_consensus.py",
+      "sha": "f6a1055349ed489150b8413310614273899081b3",
+      "size": 14082,
+      "url": "https://api.github.com/repos/zzzizo/cig-chain/contents/tests/test_consensus.py?ref=main",
+      "html_url": "https://github.com/zzzizo/cig-chain/blob/main/tests/test_consensus.py",
+      "git_url": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/f6a1055349ed489150b8413310614273899081b3",
+      "download_url": "https://raw.githubusercontent.com/zzzizo/cig-chain/main/tests/test_consensus.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zzzizo/cig-chain/contents/tests/test_consensus.py?ref=main",
+        "git": "https://api.github.com/repos/zzzizo/cig-chain/git/blobs/f6a1055349ed489150b8413310614273899081b3",
+        "html": "https://github.com/zzzizo/cig-chain/blob/main/tests/test_consensus.py"
+      }
+    }
+  ],
+  "external_domains": {},
+  "collected_at": "2026-03-17T20:20:15.936220"
+}

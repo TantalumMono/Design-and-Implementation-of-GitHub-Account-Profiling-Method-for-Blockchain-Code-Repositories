@@ -1,0 +1,10 @@
+﻿label,y_proba,y_pred,is_real_positive,repo_full_name,case_type
+1,0.99999905,1,1,bog-us/solana-pumpfun-bot,high_score_real_positive
+1,0.99999905,1,1,wj6942/solana-pumpfun-bot,high_score_real_positive
+1,0.9999989,1,1,ii4272/solana-pumpfun-bot,high_score_real_positive
+1,0.99367887,1,1,dev-protocol/polymarket-copytrading-bot-sport,hard_real_positive
+1,0.994589,1,1,knightsdex/knightsbridge-dex,hard_real_positive
+1,0.99680424,1,1,eferos93/test4,hard_real_positive
+0,0.257979,1,0,mrfomoweb3/nft-wallet-tracker,hard_negative
+0,0.0033571909,0,0,chmajidnaeem/blockchain-bitcoin,hard_negative
+0,0.0024325834,0,0,mrkkyatilla/omus-wallet,hard_negative

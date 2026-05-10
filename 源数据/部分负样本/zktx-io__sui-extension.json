@@ -1,0 +1,2852 @@
+{
+  "repo_full_name": "zktx-io/sui-extension",
+  "repo_detail": {
+    "id": 839108071,
+    "node_id": "R_kgDOMgPF5w",
+    "name": "sui-extension",
+    "full_name": "zktx-io/sui-extension",
+    "private": false,
+    "owner": {
+      "login": "zktx-io",
+      "id": 166465278,
+      "node_id": "O_kgDOCewO_g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166465278?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zktx-io",
+      "html_url": "https://github.com/zktx-io",
+      "followers_url": "https://api.github.com/users/zktx-io/followers",
+      "following_url": "https://api.github.com/users/zktx-io/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zktx-io/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zktx-io/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zktx-io/subscriptions",
+      "organizations_url": "https://api.github.com/users/zktx-io/orgs",
+      "repos_url": "https://api.github.com/users/zktx-io/repos",
+      "events_url": "https://api.github.com/users/zktx-io/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zktx-io/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zktx-io/sui-extension",
+    "description": "Sui Extension brings Sui Move build/test/deploy/upgrade into VS Code (and Codespaces) with zkLogin wallets for Devnet/Testnet, object/package explorers, and a visual PTB Builder. Comes with 30+ Move/PTB templates and workshops; just install the Sui CLI and use a Google account for zkLogin.",
+    "fork": false,
+    "url": "https://api.github.com/repos/zktx-io/sui-extension",
+    "forks_url": "https://api.github.com/repos/zktx-io/sui-extension/forks",
+    "keys_url": "https://api.github.com/repos/zktx-io/sui-extension/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zktx-io/sui-extension/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zktx-io/sui-extension/teams",
+    "hooks_url": "https://api.github.com/repos/zktx-io/sui-extension/hooks",
+    "issue_events_url": "https://api.github.com/repos/zktx-io/sui-extension/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zktx-io/sui-extension/events",
+    "assignees_url": "https://api.github.com/repos/zktx-io/sui-extension/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zktx-io/sui-extension/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zktx-io/sui-extension/tags",
+    "blobs_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zktx-io/sui-extension/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zktx-io/sui-extension/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zktx-io/sui-extension/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zktx-io/sui-extension/languages",
+    "stargazers_url": "https://api.github.com/repos/zktx-io/sui-extension/stargazers",
+    "contributors_url": "https://api.github.com/repos/zktx-io/sui-extension/contributors",
+    "subscribers_url": "https://api.github.com/repos/zktx-io/sui-extension/subscribers",
+    "subscription_url": "https://api.github.com/repos/zktx-io/sui-extension/subscription",
+    "commits_url": "https://api.github.com/repos/zktx-io/sui-extension/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zktx-io/sui-extension/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zktx-io/sui-extension/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zktx-io/sui-extension/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zktx-io/sui-extension/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zktx-io/sui-extension/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zktx-io/sui-extension/merges",
+    "archive_url": "https://api.github.com/repos/zktx-io/sui-extension/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zktx-io/sui-extension/downloads",
+    "issues_url": "https://api.github.com/repos/zktx-io/sui-extension/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zktx-io/sui-extension/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zktx-io/sui-extension/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zktx-io/sui-extension/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zktx-io/sui-extension/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zktx-io/sui-extension/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zktx-io/sui-extension/deployments",
+    "created_at": "2024-08-07T01:46:16Z",
+    "updated_at": "2026-01-14T05:03:55Z",
+    "pushed_at": "2026-01-14T05:03:51Z",
+    "git_url": "git://github.com/zktx-io/sui-extension.git",
+    "ssh_url": "git@github.com:zktx-io/sui-extension.git",
+    "clone_url": "https://github.com/zktx-io/sui-extension.git",
+    "svn_url": "https://github.com/zktx-io/sui-extension",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension",
+    "size": 1848,
+    "stargazers_count": 7,
+    "watchers_count": 7,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 3,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "move",
+      "sui",
+      "sui-move",
+      "vscode",
+      "vscode-extension"
+    ],
+    "visibility": "public",
+    "forks": 3,
+    "open_issues": 0,
+    "watchers": 7,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "zktx-io",
+      "id": 166465278,
+      "node_id": "O_kgDOCewO_g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166465278?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zktx-io",
+      "html_url": "https://github.com/zktx-io",
+      "followers_url": "https://api.github.com/users/zktx-io/followers",
+      "following_url": "https://api.github.com/users/zktx-io/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zktx-io/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zktx-io/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zktx-io/subscriptions",
+      "organizations_url": "https://api.github.com/users/zktx-io/orgs",
+      "repos_url": "https://api.github.com/users/zktx-io/repos",
+      "events_url": "https://api.github.com/users/zktx-io/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zktx-io/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 3,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "zktx-io",
+    "id": 166465278,
+    "node_id": "O_kgDOCewO_g",
+    "avatar_url": "https://avatars.githubusercontent.com/u/166465278?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zktx-io",
+    "html_url": "https://github.com/zktx-io",
+    "followers_url": "https://api.github.com/users/zktx-io/followers",
+    "following_url": "https://api.github.com/users/zktx-io/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zktx-io/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zktx-io/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zktx-io/subscriptions",
+    "organizations_url": "https://api.github.com/users/zktx-io/orgs",
+    "repos_url": "https://api.github.com/users/zktx-io/repos",
+    "events_url": "https://api.github.com/users/zktx-io/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zktx-io/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "zktx.io",
+    "company": null,
+    "blog": "https://zktx.io",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "Move to OpenID Crypto",
+    "twitter_username": "zktx_io",
+    "public_repos": 57,
+    "public_gists": 0,
+    "followers": 25,
+    "following": 0,
+    "created_at": "2024-04-09T01:49:55Z",
+    "updated_at": "2026-02-26T18:24:30Z"
+  },
+  "readme": "# Sui Extension\n\nThe Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code. It enhances development productivity, especially when using GitHub Codespaces, by enabling unified management of front-end and back-end development within a single repository.\n\n## Features\n\n- **Compile Sui Smart Contracts**: Easily compile your Sui smart contracts from within VS Code.\n- **Deploy and Test**: Deploy and test your smart contracts using the zkLogin-generated wallet, all from within the extension.\n- **GitHub Codespaces Integration**: Increase the efficiency of your development workflow with full support for GitHub Codespaces.\n- **Unified Development**: Manage both front-end and back-end code in a single repository for streamlined development.\n- **Upgrade Smart Contracts**: Seamlessly upgrade and test your smart contracts.\n\n  **Upgrade.toml**\n\n  To upgrade a package, place an `Upgrade.toml` (or `upgrade.toml`) file in the same directory as your `Move.toml`:\n\n  ```toml\n  [upgrade]\n  package_id = \"The address of the deployed package\"\n  upgrade_cap = \"The UpgradeCap is the central type responsible for coordinating package upgrades.\"\n  # policy = \"compatible\" # optional: compatible|additive|dep_only\n  ```\n\n  **UI helpers**\n\n  In **Package Explorer**, each package card shows an **Upgrade Cap Id** field. The extension auto-detects the `UpgradeCap` from the currently logged-in wallet:\n  - If an `UpgradeCap` for that `package_id` is found, the package is upgradeable from that wallet.\n  - If not, upgrading is not available from that wallet.\n\n  The package card’s **Upgrade.toml** button helps you create/update `Upgrade.toml`:\n  - If the package was deployed from the **Workspace** (local folder path is known), it shows a save/document icon (📄) and saves `Upgrade.toml` into that folder (prompts before overwriting).\n  - If the package was loaded by address (no local folder path), it shows a copy icon (📋) and copies the template to your clipboard.\n  - If the package is not upgradeable from the current wallet (no matching `UpgradeCap`), the button is disabled.\n\n  After a successful **publish** from the **Workspace**, the extension automatically creates `Upgrade.toml` in that package folder (if it does not already exist). After a successful **upgrade**, it updates `Upgrade.toml` to point to the newly published `package_id`.\n\n  ![Sui Extension upgrade](https://docs.zktx.io/images/sui-extension-upgrade.png)\n\n## Requirements\n\n- **Sui CLI**: Install the Sui command-line interface to interact with the Sui blockchain.\n  > Note: If you are using GitHub Codespaces, please install Homebrew from https://brew.sh first to manage and [install the Sui CLI](https://docs.sui.io/guides/developer/getting-started/sui-install).\n- **zkLogin**: Set up zkLogin to generate wallets for contract deployment and testing. A Google account is required.\n\n## Quick Start\n\n1. **Install prerequisites** – Make sure the Sui CLI and zkLogin requirements above are met.\n2. **Open a Sui workspace** – Any folder containing a `Move.toml` works, or scaffold one using the built-in templates (see [Templates & Workshops](#templates--workshops)).\n3. **Launch the Activity Bar** – Click the **Sui Extension** icon, log in via Google (zkLogin), and select a network.\n4. **Build/Test/Deploy** – Use the Workspace panel to run build/test or publish/upgrade with `Move.toml` + optional `Upgrade.toml`.\n5. **Explore & Iterate** – Inspect objects/packages, invoke Move functions, or jump into PTB Builder for programmable transaction blocks.\n\n## Interface Overview\n\n![Sui Extension](https://docs.zktx.io/images/sui-extension.png)\n\n1. **Wallet**: This section of the interface is used to manage wallets. You can create a wallet using Sui’s `zkLogin`. After selecting a network, click the `Google Login` button to create a wallet. Please note that wallets created using zkLogin will require re-authentication after a specific period. The currently supported networks are `Devnet` and `Testnet` (accessible via **[Enoki](https://docs.enoki.mystenlabs.com)**).\n1. **Workspace**: This section of the interface allows you to compile or deploy Smart Contracts. If you have multiple smart contracts in your repository, you can select the specific smart contract (`Move.toml`) and proceed with compilation or deployment. If there is an `Upgrade.toml` file in the same folder as the `Move.toml` file, the contract will be upgraded rather than published. Use the `Format` button. This ensures your code adheres to a consistent style, improving readability and maintainability.\n1. **Owner Objects Explorer**: This section of the interface allows you to load and inspect owner objects, one of the key features of Sui. By loading objects, you can check its `type` to verify that it contains the appropriate information required for the function arguments of a deployed smart contract.\n1. **Object Explorer**: This section of the interface allows you to load and inspect objects, one of the key features of Sui. By loading an object, you can check its `type` to verify that it contains the appropriate information required for the function arguments of a deployed smart contract.\n1. **Package Explorer**: This section of the user interface allows you to test smart contracts. When you deploy a Smart Contract, it is automatically registered here. You can also manually enter the address of a previously deployed Smart Contract to register it. If the smart contract is loaded correctly, you will see a list of functions available to interact with the contract. Each package card also includes an **Upgrade Cap Id** field and an **Upgrade** button to help you prepare `Upgrade.toml`.\n1. **Move Call**: Input Format for Multi-Vectors Using JSON Strings. When working with multi-vectors, the input must be provided in JSON string format. JSON is ideal for representing nested structures and allows handling multi-dimensional arrays effectively.\n\n   | Type                           | JSON                                       |\n   | ------------------------------ | ------------------------------------------ |\n   | `Vector<U8>`                   | [1, 2, 3, 255]                             |\n   | `Vector<Vector<U128>>`         | [[\"1\", \"555\"], [\"123\", \"456\", \"789\"]]      |\n   | `Vector<Vector<Vector<Bool>>>` | [[[true, false], [true]], [[false, true]]] |\n\n   ![Vector](https://docs.zktx.io/images/sui-extension-vector.png)\n\n1. **Output**: In this section, you can view the transaction execution data in raw format. Please select `Sui Extension` in the Task.\n1. **PTB-Builder**: **PTB Builder** is a visual development tool for **Programmable Transaction Blocks (PTBs)**, a core technology of the Sui blockchain. Designed to create a powerful synergy with Sui’s PTB capabilities, this tool allows both developers and non-developers to easily construct and manage complex transactions, maximizing the potential of this advanced technology and making it more accessible to a broader audience.\n\n![ptb-builder-editor.png](https://docs.zktx.io/images/sui-extension-menu-4.png)\n\n## Templates & Workshops\n\nJump‑start a new Move package, PTB file, or even a full-stack dApp directly from the Command Palette. All templates live under **Command Palette → “Sui Extension: …”** so you can scaffold into the currently selected folder or workspace root.\n\n![Templates & Workshops](https://docs.zktx.io/images/sui-extension-menu-1.png)\n\n- `Sui Extension: New Move Project…` (`sui-extension.move.new.pick`)\n- `Sui Extension: New PTB File…` (`sui-extension.ptbBuilder.new.pick`)\n- `Sui Extension: New Sui Workshop…` (`sui-extension.workshop.new.pick`)\n\n### Move templates\n\nMore than 30 Move blueprints are bundled, ranging from basics to advanced Mysten Labs samples:\n\n![Move templates](https://docs.zktx.io/images/sui-extension-menu-2.png)\n\n- **Intro series**: Hello World, Transcript, FT, Marketplace, Kiosk, Flashloan.\n- **Mysten samples**: Coin, Color Object, Dynamic Fields, Entry Functions, First Package, Flash Lender, Hero RPG, Locked Stake, NFT Rental, Soulbound/NFT/Testnet templates, Object Bound, Profiles, Random Raffles/NFT/Slot Machine, Reviews & Ratings, Simple Warrior, Token, Trusted Swap, USDC Usage, VDF Lottery, and more.\n- **Empty template** for a clean Move package.\n\n### PTB templates\n\n![PTB templates](https://docs.zktx.io/images/sui-extension-menu-5.png)\n\n- Empty PTB file.\n- Split/Merge programmable transaction blocks.\n- Exchange-all-for-wallet or all-for-SUI automation examples.\n\n### Workshop templates (Move + frontend)\n\nEach workshop unzips a ready-to-run project containing Move code, PTB samples, and a React/Vite frontend (with @mysten/dapp-kit where applicable):\n\n![Workshop templates](https://docs.zktx.io/images/sui-extension-menu-3.png)\n\n- **SuiJapan: NFT Mint Sample** – React UI wired to a pre-deployed NFT contract on Testnet.\n- **Mysten Labs: Distributed Counter** – Full Move + React counter app demonstrating write/read flows end to end.\n- **Mysten Labs: Coffee Club System** – Complete IoT-flavored dApp with memberships, blockchain events, and BLE coffee machine control.\n\nScaffolding finishes with an optional `SOURCE.txt` plus automatic README opening so you can follow each workshop’s guide immediately.\n\n## Extension Settings\n\n- No additional configuration is required.\n\n## Docs\n\n- [link](https://docs.zktx.io/vsce/sui/)\n",
+  "tree_structure": [
+    {
+      "name": ".eslintrc.json",
+      "path": ".eslintrc.json",
+      "sha": "169d02f46b057d9251895e2fd123189763276d67",
+      "size": 823,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.eslintrc.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.eslintrc.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/169d02f46b057d9251895e2fd123189763276d67",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.eslintrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.eslintrc.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/169d02f46b057d9251895e2fd123189763276d67",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.eslintrc.json"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "abbf9a93b3612660bd97b6f55b184a8931120d97",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.github?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/.github",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/abbf9a93b3612660bd97b6f55b184a8931120d97",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/abbf9a93b3612660bd97b6f55b184a8931120d97",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/.github"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "97840060bce4047e8c02f7c95e248a925dd13925",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.github/workflows?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/.github/workflows",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/97840060bce4047e8c02f7c95e248a925dd13925",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.github/workflows?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/97840060bce4047e8c02f7c95e248a925dd13925",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/.github/workflows"
+      }
+    },
+    {
+      "name": "publish.yml",
+      "path": ".github/workflows/publish.yml",
+      "sha": "bb79f8a166cd8054477f5826a6516f6b70a16d74",
+      "size": 3600,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.github/workflows/publish.yml?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.github/workflows/publish.yml",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bb79f8a166cd8054477f5826a6516f6b70a16d74",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.github/workflows/publish.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.github/workflows/publish.yml?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bb79f8a166cd8054477f5826a6516f6b70a16d74",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.github/workflows/publish.yml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "553e39b230f9dd87057279945e5e6408380d4c36",
+      "size": 71,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/553e39b230f9dd87057279945e5e6408380d4c36",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/553e39b230f9dd87057279945e5e6408380d4c36",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".prettierrc.js",
+      "path": ".prettierrc.js",
+      "sha": "c41a1c01ef2166a9ff4bfc40dfd9080179c47517",
+      "size": 81,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.prettierrc.js?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.prettierrc.js",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c41a1c01ef2166a9ff4bfc40dfd9080179c47517",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.prettierrc.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.prettierrc.js?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c41a1c01ef2166a9ff4bfc40dfd9080179c47517",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.prettierrc.js"
+      }
+    },
+    {
+      "name": ".vscode-test.mjs",
+      "path": ".vscode-test.mjs",
+      "sha": "49fac78bec8dc8f15c742a3ce0d08d06b4b1acca",
+      "size": 118,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode-test.mjs?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.vscode-test.mjs",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/49fac78bec8dc8f15c742a3ce0d08d06b4b1acca",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.vscode-test.mjs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode-test.mjs?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/49fac78bec8dc8f15c742a3ce0d08d06b4b1acca",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.vscode-test.mjs"
+      }
+    },
+    {
+      "name": ".vscode",
+      "path": ".vscode",
+      "sha": "d3fa2389dae2db69ed9f983d31ffdc148e5718ca",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/.vscode",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/d3fa2389dae2db69ed9f983d31ffdc148e5718ca",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/d3fa2389dae2db69ed9f983d31ffdc148e5718ca",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/.vscode"
+      }
+    },
+    {
+      "name": "extensions.json",
+      "path": ".vscode/extensions.json",
+      "sha": "9e5e0b733fc2dd793c60e9d3bac2e7bca5b0aaf9",
+      "size": 248,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/extensions.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/extensions.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9e5e0b733fc2dd793c60e9d3bac2e7bca5b0aaf9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.vscode/extensions.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/extensions.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9e5e0b733fc2dd793c60e9d3bac2e7bca5b0aaf9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/extensions.json"
+      }
+    },
+    {
+      "name": "launch.json",
+      "path": ".vscode/launch.json",
+      "sha": "a0ca3cb9346d86059e67faca50cc0c1b658afeb3",
+      "size": 598,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/launch.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/launch.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a0ca3cb9346d86059e67faca50cc0c1b658afeb3",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.vscode/launch.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/launch.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a0ca3cb9346d86059e67faca50cc0c1b658afeb3",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/launch.json"
+      }
+    },
+    {
+      "name": "settings.json",
+      "path": ".vscode/settings.json",
+      "sha": "64ee929665322e5cdd94fb5b7d2ae18f79a27d45",
+      "size": 599,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/settings.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/settings.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/64ee929665322e5cdd94fb5b7d2ae18f79a27d45",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.vscode/settings.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/settings.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/64ee929665322e5cdd94fb5b7d2ae18f79a27d45",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/settings.json"
+      }
+    },
+    {
+      "name": "tasks.json",
+      "path": ".vscode/tasks.json",
+      "sha": "9e3300b04c2e8d44876013ec60dd3df72beeaaeb",
+      "size": 819,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/tasks.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/tasks.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9e3300b04c2e8d44876013ec60dd3df72beeaaeb",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.vscode/tasks.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscode/tasks.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9e3300b04c2e8d44876013ec60dd3df72beeaaeb",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.vscode/tasks.json"
+      }
+    },
+    {
+      "name": ".vscodeignore",
+      "path": ".vscodeignore",
+      "sha": "5fd6438e42feeaf8e7fcbb655b5d0c0efff24c5c",
+      "size": 449,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscodeignore?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/.vscodeignore",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5fd6438e42feeaf8e7fcbb655b5d0c0efff24c5c",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/.vscodeignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/.vscodeignore?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5fd6438e42feeaf8e7fcbb655b5d0c0efff24c5c",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/.vscodeignore"
+      }
+    },
+    {
+      "name": "CHANGELOG.md",
+      "path": "CHANGELOG.md",
+      "sha": "9c5e965963f3406fd83602bc5697b58c69f5634c",
+      "size": 241,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/CHANGELOG.md?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/CHANGELOG.md",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9c5e965963f3406fd83602bc5697b58c69f5634c",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/CHANGELOG.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/CHANGELOG.md?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9c5e965963f3406fd83602bc5697b58c69f5634c",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/CHANGELOG.md"
+      }
+    },
+    {
+      "name": "LICENSE.md",
+      "path": "LICENSE.md",
+      "sha": "bda7877748bb0b6270779ef1bb5d7c6749697e79",
+      "size": 1064,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/LICENSE.md?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/LICENSE.md",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bda7877748bb0b6270779ef1bb5d7c6749697e79",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/LICENSE.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/LICENSE.md?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bda7877748bb0b6270779ef1bb5d7c6749697e79",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/LICENSE.md"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "a79be2c34835efecc2e3a440c1887df66409f60d",
+      "size": 9427,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/README.md?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a79be2c34835efecc2e3a440c1887df66409f60d",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a79be2c34835efecc2e3a440c1887df66409f60d",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/README.md"
+      }
+    },
+    {
+      "name": "icons.json",
+      "path": "icons.json",
+      "sha": "cc736901a0666fe6a403362f6172ef28d2d4ef20",
+      "size": 241,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/icons.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/icons.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/cc736901a0666fe6a403362f6172ef28d2d4ef20",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/icons.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/icons.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/cc736901a0666fe6a403362f6172ef28d2d4ef20",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/icons.json"
+      }
+    },
+    {
+      "name": "media",
+      "path": "media",
+      "sha": "3daa2915836c4238207338425e3aec0059e64588",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/media?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/media",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/3daa2915836c4238207338425e3aec0059e64588",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/media?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/3daa2915836c4238207338425e3aec0059e64588",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/media"
+      }
+    },
+    {
+      "name": "docs-dark.svg",
+      "path": "media/docs-dark.svg",
+      "sha": "89c31d4d3fb451095b4e3f1264ca8626a1a1e5e6",
+      "size": 2108,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/docs-dark.svg?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/media/docs-dark.svg",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/89c31d4d3fb451095b4e3f1264ca8626a1a1e5e6",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/media/docs-dark.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/docs-dark.svg?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/89c31d4d3fb451095b4e3f1264ca8626a1a1e5e6",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/media/docs-dark.svg"
+      }
+    },
+    {
+      "name": "docs-light.svg",
+      "path": "media/docs-light.svg",
+      "sha": "85229091056d71185af32db8a37000dfab2fc8f9",
+      "size": 2108,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/docs-light.svg?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/media/docs-light.svg",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/85229091056d71185af32db8a37000dfab2fc8f9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/media/docs-light.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/docs-light.svg?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/85229091056d71185af32db8a37000dfab2fc8f9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/media/docs-light.svg"
+      }
+    },
+    {
+      "name": "icon-ptb.svg",
+      "path": "media/icon-ptb.svg",
+      "sha": "0e0c324b31f5b1e2eb7f34f17865a3240f0aad58",
+      "size": 1019,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/icon-ptb.svg?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/media/icon-ptb.svg",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0e0c324b31f5b1e2eb7f34f17865a3240f0aad58",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/media/icon-ptb.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/icon-ptb.svg?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0e0c324b31f5b1e2eb7f34f17865a3240f0aad58",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/media/icon-ptb.svg"
+      }
+    },
+    {
+      "name": "icon-side.svg",
+      "path": "media/icon-side.svg",
+      "sha": "f8ba597f4674b6ea4eba3d81a21441582bf24a49",
+      "size": 778,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/icon-side.svg?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/media/icon-side.svg",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f8ba597f4674b6ea4eba3d81a21441582bf24a49",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/media/icon-side.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/icon-side.svg?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f8ba597f4674b6ea4eba3d81a21441582bf24a49",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/media/icon-side.svg"
+      }
+    },
+    {
+      "name": "icon.png",
+      "path": "media/icon.png",
+      "sha": "b7a1c2901659a341f25778bc7c63839ffb5f3324",
+      "size": 3927,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/icon.png?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/media/icon.png",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b7a1c2901659a341f25778bc7c63839ffb5f3324",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/media/icon.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/media/icon.png?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b7a1c2901659a341f25778bc7c63839ffb5f3324",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/media/icon.png"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "3261233fa54d3e92a041011200dc6e55661f1e1d",
+      "size": 216472,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3261233fa54d3e92a041011200dc6e55661f1e1d",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3261233fa54d3e92a041011200dc6e55661f1e1d",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "91821349143f62e768d6ea6f2d2ed6e882a1c881",
+      "size": 5327,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/package.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/91821349143f62e768d6ea6f2d2ed6e882a1c881",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/91821349143f62e768d6ea6f2d2ed6e882a1c881",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "fc498fd799c69e4ab507878a9e275ccbfd2e4bcf",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/fc498fd799c69e4ab507878a9e275ccbfd2e4bcf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/fc498fd799c69e4ab507878a9e275ccbfd2e4bcf",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src"
+      }
+    },
+    {
+      "name": "commands",
+      "path": "src/commands",
+      "sha": "5fd1ce36ff1931e2259c9496d74af032ed634dfb",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/commands",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/5fd1ce36ff1931e2259c9496d74af032ed634dfb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/5fd1ce36ff1931e2259c9496d74af032ed634dfb",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/commands"
+      }
+    },
+    {
+      "name": "contextMenus.ts",
+      "path": "src/commands/contextMenus.ts",
+      "sha": "4388393350d09c3444009e1921ca052067ea2f86",
+      "size": 991,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/contextMenus.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/contextMenus.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/4388393350d09c3444009e1921ca052067ea2f86",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/contextMenus.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/contextMenus.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/4388393350d09c3444009e1921ca052067ea2f86",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/contextMenus.ts"
+      }
+    },
+    {
+      "name": "moveFiles.ts",
+      "path": "src/commands/moveFiles.ts",
+      "sha": "b729700a0b1829fdc2d3ab4d829cff4ffdb95784",
+      "size": 3627,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/moveFiles.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/moveFiles.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b729700a0b1829fdc2d3ab4d829cff4ffdb95784",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/moveFiles.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/moveFiles.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b729700a0b1829fdc2d3ab4d829cff4ffdb95784",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/moveFiles.ts"
+      }
+    },
+    {
+      "name": "ptbFiles.ts",
+      "path": "src/commands/ptbFiles.ts",
+      "sha": "c5b8faff31a9faa1f0f31605f54a88745533d327",
+      "size": 3379,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/ptbFiles.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/ptbFiles.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c5b8faff31a9faa1f0f31605f54a88745533d327",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/ptbFiles.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/ptbFiles.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c5b8faff31a9faa1f0f31605f54a88745533d327",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/ptbFiles.ts"
+      }
+    },
+    {
+      "name": "templates",
+      "path": "src/commands/templates",
+      "sha": "6a14f4ce128cb2f3fcd47a1eaac292dcc6c1be44",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/templates",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/6a14f4ce128cb2f3fcd47a1eaac292dcc6c1be44",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/6a14f4ce128cb2f3fcd47a1eaac292dcc6c1be44",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/templates"
+      }
+    },
+    {
+      "name": "MoveTemplate_Empty.ts",
+      "path": "src/commands/templates/MoveTemplate_Empty.ts",
+      "sha": "f1d0f164f4c464c126d3377dd4770efdfd17dbb3",
+      "size": 2749,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/MoveTemplate_Empty.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/MoveTemplate_Empty.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f1d0f164f4c464c126d3377dd4770efdfd17dbb3",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/MoveTemplate_Empty.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/MoveTemplate_Empty.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f1d0f164f4c464c126d3377dd4770efdfd17dbb3",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/MoveTemplate_Empty.ts"
+      }
+    },
+    {
+      "name": "PTBTemplate_exchange_all_for_sui.ts",
+      "path": "src/commands/templates/PTBTemplate_exchange_all_for_sui.ts",
+      "sha": "0a7c6b2ef3b2e1f54c30eb0a67bc566cd09c6bb9",
+      "size": 23835,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_exchange_all_for_sui.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_exchange_all_for_sui.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0a7c6b2ef3b2e1f54c30eb0a67bc566cd09c6bb9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/PTBTemplate_exchange_all_for_sui.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_exchange_all_for_sui.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0a7c6b2ef3b2e1f54c30eb0a67bc566cd09c6bb9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_exchange_all_for_sui.ts"
+      }
+    },
+    {
+      "name": "PTBTemplate_exchange_all_for_wal.ts",
+      "path": "src/commands/templates/PTBTemplate_exchange_all_for_wal.ts",
+      "sha": "bcbc03c1090650b9f7fb0f062af7de562dfce158",
+      "size": 23543,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_exchange_all_for_wal.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_exchange_all_for_wal.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bcbc03c1090650b9f7fb0f062af7de562dfce158",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/PTBTemplate_exchange_all_for_wal.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_exchange_all_for_wal.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bcbc03c1090650b9f7fb0f062af7de562dfce158",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_exchange_all_for_wal.ts"
+      }
+    },
+    {
+      "name": "PTBTemplate_merge.ts",
+      "path": "src/commands/templates/PTBTemplate_merge.ts",
+      "sha": "ae3b7cc44ba7e956c3cfb2584aceb93ee5b93330",
+      "size": 5061,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_merge.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_merge.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ae3b7cc44ba7e956c3cfb2584aceb93ee5b93330",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/PTBTemplate_merge.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_merge.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ae3b7cc44ba7e956c3cfb2584aceb93ee5b93330",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_merge.ts"
+      }
+    },
+    {
+      "name": "PTBTemplate_split.ts",
+      "path": "src/commands/templates/PTBTemplate_split.ts",
+      "sha": "3f62715b7c3ed7dbaf386c65d2592571ef5cf7b8",
+      "size": 5506,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_split.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_split.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3f62715b7c3ed7dbaf386c65d2592571ef5cf7b8",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/PTBTemplate_split.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/PTBTemplate_split.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3f62715b7c3ed7dbaf386c65d2592571ef5cf7b8",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/PTBTemplate_split.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/commands/templates/index.ts",
+      "sha": "27eb3ce3f4ddca2fbec59d0b5ee3fa17b6565917",
+      "size": 4135,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/index.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/index.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/27eb3ce3f4ddca2fbec59d0b5ee3fa17b6565917",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/index.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/27eb3ce3f4ddca2fbec59d0b5ee3fa17b6565917",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/index.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_01_hello.ts",
+      "path": "src/commands/templates/moveTemplate_01_hello.ts",
+      "sha": "6ed6098cfdd2f3311c4f42e41774b924e9164556",
+      "size": 1845,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_01_hello.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_01_hello.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/6ed6098cfdd2f3311c4f42e41774b924e9164556",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_01_hello.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_01_hello.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/6ed6098cfdd2f3311c4f42e41774b924e9164556",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_01_hello.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_02_transcript.ts",
+      "path": "src/commands/templates/moveTemplate_02_transcript.ts",
+      "sha": "2bdf4916cdab23b667678c94b566b0cad643d107",
+      "size": 11763,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_02_transcript.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_02_transcript.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2bdf4916cdab23b667678c94b566b0cad643d107",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_02_transcript.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_02_transcript.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2bdf4916cdab23b667678c94b566b0cad643d107",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_02_transcript.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_03_ft.ts",
+      "path": "src/commands/templates/moveTemplate_03_ft.ts",
+      "sha": "61070cf35bd5b6419243fd61a62e6a4b44a4fc65",
+      "size": 3535,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_03_ft.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_03_ft.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/61070cf35bd5b6419243fd61a62e6a4b44a4fc65",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_03_ft.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_03_ft.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/61070cf35bd5b6419243fd61a62e6a4b44a4fc65",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_03_ft.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_04_marketplace.ts",
+      "path": "src/commands/templates/moveTemplate_04_marketplace.ts",
+      "sha": "0c9badfbd6dabac077f28f8bc9febef21b088af9",
+      "size": 6757,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_04_marketplace.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_04_marketplace.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0c9badfbd6dabac077f28f8bc9febef21b088af9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_04_marketplace.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_04_marketplace.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0c9badfbd6dabac077f28f8bc9febef21b088af9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_04_marketplace.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_05_kiosk.ts",
+      "path": "src/commands/templates/moveTemplate_05_kiosk.ts",
+      "sha": "c4bba71aca665a2655d5d79cb6e031fe462a7b13",
+      "size": 7525,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_05_kiosk.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_05_kiosk.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c4bba71aca665a2655d5d79cb6e031fe462a7b13",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_05_kiosk.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_05_kiosk.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c4bba71aca665a2655d5d79cb6e031fe462a7b13",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_05_kiosk.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_06_flashloan.ts",
+      "path": "src/commands/templates/moveTemplate_06_flashloan.ts",
+      "sha": "5816563f3e875482909312b834a1cd6f658af4c3",
+      "size": 5679,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_06_flashloan.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_06_flashloan.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5816563f3e875482909312b834a1cd6f658af4c3",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_06_flashloan.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_06_flashloan.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5816563f3e875482909312b834a1cd6f658af4c3",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_06_flashloan.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_07_basics.ts",
+      "path": "src/commands/templates/moveTemplate_07_basics.ts",
+      "sha": "382729ccfd85b20899a82fce18c17664e10db8b9",
+      "size": 6798,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_07_basics.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_07_basics.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/382729ccfd85b20899a82fce18c17664e10db8b9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_07_basics.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_07_basics.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/382729ccfd85b20899a82fce18c17664e10db8b9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_07_basics.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_08_coin.ts",
+      "path": "src/commands/templates/moveTemplate_08_coin.ts",
+      "sha": "57389ddc16eb295ebbfcf90c12154c1d3301c702",
+      "size": 8432,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_08_coin.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_08_coin.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/57389ddc16eb295ebbfcf90c12154c1d3301c702",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_08_coin.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_08_coin.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/57389ddc16eb295ebbfcf90c12154c1d3301c702",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_08_coin.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_09_color_object.ts",
+      "path": "src/commands/templates/moveTemplate_09_color_object.ts",
+      "sha": "f012acc3f2423824c5f5ead4a9c326d3bc825cb3",
+      "size": 5867,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_09_color_object.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_09_color_object.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f012acc3f2423824c5f5ead4a9c326d3bc825cb3",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_09_color_object.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_09_color_object.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f012acc3f2423824c5f5ead4a9c326d3bc825cb3",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_09_color_object.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_10_dynamic_fields.ts",
+      "path": "src/commands/templates/moveTemplate_10_dynamic_fields.ts",
+      "sha": "b82e3f092f2b29818984cff60678a6295132311f",
+      "size": 3929,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_10_dynamic_fields.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_10_dynamic_fields.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b82e3f092f2b29818984cff60678a6295132311f",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_10_dynamic_fields.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_10_dynamic_fields.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b82e3f092f2b29818984cff60678a6295132311f",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_10_dynamic_fields.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_11_entry_functions.ts",
+      "path": "src/commands/templates/moveTemplate_11_entry_functions.ts",
+      "sha": "f96d51e79674505f62630c545c52b3dd125ce069",
+      "size": 2198,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_11_entry_functions.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_11_entry_functions.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f96d51e79674505f62630c545c52b3dd125ce069",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_11_entry_functions.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_11_entry_functions.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f96d51e79674505f62630c545c52b3dd125ce069",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_11_entry_functions.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_12_first_package.ts",
+      "path": "src/commands/templates/moveTemplate_12_first_package.ts",
+      "sha": "462661050c0d42720a4ea7cc300a9e2eafcef021",
+      "size": 7098,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_12_first_package.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_12_first_package.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/462661050c0d42720a4ea7cc300a9e2eafcef021",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_12_first_package.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_12_first_package.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/462661050c0d42720a4ea7cc300a9e2eafcef021",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_12_first_package.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_13_flash_lender.ts",
+      "path": "src/commands/templates/moveTemplate_13_flash_lender.ts",
+      "sha": "d68aefcd863fc7916c3a48c5828bfd09275f0897",
+      "size": 8657,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_13_flash_lender.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_13_flash_lender.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d68aefcd863fc7916c3a48c5828bfd09275f0897",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_13_flash_lender.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_13_flash_lender.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d68aefcd863fc7916c3a48c5828bfd09275f0897",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_13_flash_lender.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_14_hero.ts",
+      "path": "src/commands/templates/moveTemplate_14_hero.ts",
+      "sha": "7a4bd4243e5e652c1c763314802236582ade39b3",
+      "size": 17349,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_14_hero.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_14_hero.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7a4bd4243e5e652c1c763314802236582ade39b3",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_14_hero.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_14_hero.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7a4bd4243e5e652c1c763314802236582ade39b3",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_14_hero.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_15_locked_stake.ts",
+      "path": "src/commands/templates/moveTemplate_15_locked_stake.ts",
+      "sha": "6b0cacc0410dbba64d7447497a2eab993bebe1ef",
+      "size": 12087,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_15_locked_stake.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_15_locked_stake.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/6b0cacc0410dbba64d7447497a2eab993bebe1ef",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_15_locked_stake.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_15_locked_stake.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/6b0cacc0410dbba64d7447497a2eab993bebe1ef",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_15_locked_stake.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_16_nft-rental.ts",
+      "path": "src/commands/templates/moveTemplate_16_nft-rental.ts",
+      "sha": "7f6ab30be7a20a61fc759ffcb9642773a9e367ce",
+      "size": 43998,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_16_nft-rental.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_16_nft-rental.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7f6ab30be7a20a61fc759ffcb9642773a9e367ce",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_16_nft-rental.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_16_nft-rental.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7f6ab30be7a20a61fc759ffcb9642773a9e367ce",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_16_nft-rental.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_17_testnet_soulbound_nft.ts",
+      "path": "src/commands/templates/moveTemplate_17_testnet_soulbound_nft.ts",
+      "sha": "db20ecd5c86d488b74617281233750ea33d0b20c",
+      "size": 4127,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_17_testnet_soulbound_nft.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_17_testnet_soulbound_nft.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/db20ecd5c86d488b74617281233750ea33d0b20c",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_17_testnet_soulbound_nft.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_17_testnet_soulbound_nft.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/db20ecd5c86d488b74617281233750ea33d0b20c",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_17_testnet_soulbound_nft.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_18_testnet_nft.ts",
+      "path": "src/commands/templates/moveTemplate_18_testnet_nft.ts",
+      "sha": "09a1b5557dd69f7c3e91760c430c4807a82f129c",
+      "size": 3668,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_18_testnet_nft.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_18_testnet_nft.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/09a1b5557dd69f7c3e91760c430c4807a82f129c",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_18_testnet_nft.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_18_testnet_nft.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/09a1b5557dd69f7c3e91760c430c4807a82f129c",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_18_testnet_nft.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_19_object_bound.ts",
+      "path": "src/commands/templates/moveTemplate_19_object_bound.ts",
+      "sha": "13c5914d76d4e423da3b1c5a7d23a02697844816",
+      "size": 3462,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_19_object_bound.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_19_object_bound.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/13c5914d76d4e423da3b1c5a7d23a02697844816",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_19_object_bound.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_19_object_bound.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/13c5914d76d4e423da3b1c5a7d23a02697844816",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_19_object_bound.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_20_profiles.ts",
+      "path": "src/commands/templates/moveTemplate_20_profiles.ts",
+      "sha": "c60c72852b06a8ef0cc638cb4357671170c35a50",
+      "size": 10959,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_20_profiles.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_20_profiles.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c60c72852b06a8ef0cc638cb4357671170c35a50",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_20_profiles.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_20_profiles.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c60c72852b06a8ef0cc638cb4357671170c35a50",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_20_profiles.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_21_random_raffles.ts",
+      "path": "src/commands/templates/moveTemplate_21_random_raffles.ts",
+      "sha": "19ac9b89df0d92fd24610b15114b0dc086e286cb",
+      "size": 13413,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_21_random_raffles.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_21_random_raffles.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/19ac9b89df0d92fd24610b15114b0dc086e286cb",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_21_random_raffles.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_21_random_raffles.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/19ac9b89df0d92fd24610b15114b0dc086e286cb",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_21_random_raffles.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_21_random_random_nft.ts",
+      "path": "src/commands/templates/moveTemplate_21_random_random_nft.ts",
+      "sha": "b2c8fea858c06b2664a7ead89a3d12188e498297",
+      "size": 7706,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_21_random_random_nft.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_21_random_random_nft.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b2c8fea858c06b2664a7ead89a3d12188e498297",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_21_random_random_nft.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_21_random_random_nft.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b2c8fea858c06b2664a7ead89a3d12188e498297",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_21_random_random_nft.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_21_random_slot_machine.ts",
+      "path": "src/commands/templates/moveTemplate_21_random_slot_machine.ts",
+      "sha": "52fc888ba933f6585086fefe4dd4cc8a2fca83f9",
+      "size": 6728,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_21_random_slot_machine.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_21_random_slot_machine.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/52fc888ba933f6585086fefe4dd4cc8a2fca83f9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_21_random_slot_machine.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_21_random_slot_machine.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/52fc888ba933f6585086fefe4dd4cc8a2fca83f9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_21_random_slot_machine.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_22_reviews_rating.ts",
+      "path": "src/commands/templates/moveTemplate_22_reviews_rating.ts",
+      "sha": "e14cb1180c28e8c7d1c6027ee33fe45052cc707f",
+      "size": 13444,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_22_reviews_rating.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_22_reviews_rating.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e14cb1180c28e8c7d1c6027ee33fe45052cc707f",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_22_reviews_rating.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_22_reviews_rating.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e14cb1180c28e8c7d1c6027ee33fe45052cc707f",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_22_reviews_rating.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_23_simple_warrior.ts",
+      "path": "src/commands/templates/moveTemplate_23_simple_warrior.ts",
+      "sha": "2c3796494038f20c763b447ea8b8dc8d0de47435",
+      "size": 4093,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_23_simple_warrior.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_23_simple_warrior.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2c3796494038f20c763b447ea8b8dc8d0de47435",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_23_simple_warrior.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_23_simple_warrior.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2c3796494038f20c763b447ea8b8dc8d0de47435",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_23_simple_warrior.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_24_token.ts",
+      "path": "src/commands/templates/moveTemplate_24_token.ts",
+      "sha": "9e8a0297165a7e83fd4832a5a37aeb3bcebdc6a6",
+      "size": 45196,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_24_token.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_24_token.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9e8a0297165a7e83fd4832a5a37aeb3bcebdc6a6",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_24_token.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_24_token.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9e8a0297165a7e83fd4832a5a37aeb3bcebdc6a6",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_24_token.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_26_trusted_swap.ts",
+      "path": "src/commands/templates/moveTemplate_26_trusted_swap.ts",
+      "sha": "01c0a0965f259361bface1e6d354fb61b54dc616",
+      "size": 7304,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_26_trusted_swap.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_26_trusted_swap.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/01c0a0965f259361bface1e6d354fb61b54dc616",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_26_trusted_swap.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_26_trusted_swap.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/01c0a0965f259361bface1e6d354fb61b54dc616",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_26_trusted_swap.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_27_usdc_usage.ts",
+      "path": "src/commands/templates/moveTemplate_27_usdc_usage.ts",
+      "sha": "58abd7f4e3d96fb2cf394cb65e127fa7c17a010c",
+      "size": 3441,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_27_usdc_usage.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_27_usdc_usage.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/58abd7f4e3d96fb2cf394cb65e127fa7c17a010c",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_27_usdc_usage.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_27_usdc_usage.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/58abd7f4e3d96fb2cf394cb65e127fa7c17a010c",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_27_usdc_usage.ts"
+      }
+    },
+    {
+      "name": "moveTemplate_28_vdf.ts",
+      "path": "src/commands/templates/moveTemplate_28_vdf.ts",
+      "sha": "17920dd636c1d2ce35b994bb63b20947a63a8c2a",
+      "size": 12123,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_28_vdf.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_28_vdf.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/17920dd636c1d2ce35b994bb63b20947a63a8c2a",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/moveTemplate_28_vdf.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/moveTemplate_28_vdf.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/17920dd636c1d2ce35b994bb63b20947a63a8c2a",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/moveTemplate_28_vdf.ts"
+      }
+    },
+    {
+      "name": "types.ts",
+      "path": "src/commands/templates/types.ts",
+      "sha": "7730ec0f38ed252eb6f26b1630d92431e2ced51e",
+      "size": 1392,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/types.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/types.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7730ec0f38ed252eb6f26b1630d92431e2ced51e",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/templates/types.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/templates/types.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7730ec0f38ed252eb6f26b1630d92431e2ced51e",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/templates/types.ts"
+      }
+    },
+    {
+      "name": "workshop",
+      "path": "src/commands/workshop",
+      "sha": "ded5e5cfa9e11657b3cbfa6ff6b0e2535266825d",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/workshop",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/ded5e5cfa9e11657b3cbfa6ff6b0e2535266825d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/ded5e5cfa9e11657b3cbfa6ff6b0e2535266825d",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/workshop"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/commands/workshop/index.ts",
+      "sha": "3b44d85d6e9e597abbcefd06346ba3acd82af577",
+      "size": 1807,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/index.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/index.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3b44d85d6e9e597abbcefd06346ba3acd82af577",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/workshop/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/index.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3b44d85d6e9e597abbcefd06346ba3acd82af577",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/index.ts"
+      }
+    },
+    {
+      "name": "mysten",
+      "path": "src/commands/workshop/mysten",
+      "sha": "2f6296cc5ec06f77678ebca21321dd7a47f7142a",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/mysten?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/workshop/mysten",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/2f6296cc5ec06f77678ebca21321dd7a47f7142a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/mysten?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/2f6296cc5ec06f77678ebca21321dd7a47f7142a",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/workshop/mysten"
+      }
+    },
+    {
+      "name": "coffee-club-main.zip",
+      "path": "src/commands/workshop/mysten/coffee-club-main.zip",
+      "sha": "779ace3ab00743336b95ae7a9fb1d1f1ef89600e",
+      "size": 256903,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/mysten/coffee-club-main.zip?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/mysten/coffee-club-main.zip",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/779ace3ab00743336b95ae7a9fb1d1f1ef89600e",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/workshop/mysten/coffee-club-main.zip",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/mysten/coffee-club-main.zip?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/779ace3ab00743336b95ae7a9fb1d1f1ef89600e",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/mysten/coffee-club-main.zip"
+      }
+    },
+    {
+      "name": "react-e2e-counter.zip",
+      "path": "src/commands/workshop/mysten/react-e2e-counter.zip",
+      "sha": "c87fdf37e2e048012a98fc868e4a1c5aab30e208",
+      "size": 9659,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/mysten/react-e2e-counter.zip?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/mysten/react-e2e-counter.zip",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c87fdf37e2e048012a98fc868e4a1c5aab30e208",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/workshop/mysten/react-e2e-counter.zip",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/mysten/react-e2e-counter.zip?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c87fdf37e2e048012a98fc868e4a1c5aab30e208",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/mysten/react-e2e-counter.zip"
+      }
+    },
+    {
+      "name": "sui-japan",
+      "path": "src/commands/workshop/sui-japan",
+      "sha": "da0e6bf013ab58fe7ef7076f42f9ca9dc08513b2",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/sui-japan?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/workshop/sui-japan",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/da0e6bf013ab58fe7ef7076f42f9ca9dc08513b2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/sui-japan?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/da0e6bf013ab58fe7ef7076f42f9ca9dc08513b2",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/commands/workshop/sui-japan"
+      }
+    },
+    {
+      "name": "nft-mint-sample-main.zip",
+      "path": "src/commands/workshop/sui-japan/nft-mint-sample-main.zip",
+      "sha": "9ff060b655178ac5984eb0156dddc336b2fd21c9",
+      "size": 57032,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/sui-japan/nft-mint-sample-main.zip?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/sui-japan/nft-mint-sample-main.zip",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9ff060b655178ac5984eb0156dddc336b2fd21c9",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/workshop/sui-japan/nft-mint-sample-main.zip",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshop/sui-japan/nft-mint-sample-main.zip?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9ff060b655178ac5984eb0156dddc336b2fd21c9",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshop/sui-japan/nft-mint-sample-main.zip"
+      }
+    },
+    {
+      "name": "workshopFiles.ts",
+      "path": "src/commands/workshopFiles.ts",
+      "sha": "e551d11119b2c968676f2e21be655ec2173ff8f8",
+      "size": 9606,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshopFiles.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshopFiles.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e551d11119b2c968676f2e21be655ec2173ff8f8",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/commands/workshopFiles.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/commands/workshopFiles.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e551d11119b2c968676f2e21be655ec2173ff8f8",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/commands/workshopFiles.ts"
+      }
+    },
+    {
+      "name": "extension.ts",
+      "path": "src/extension.ts",
+      "sha": "41906b8588b1445930dd2c7451985b3d8d531793",
+      "size": 666,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/extension.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/extension.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/41906b8588b1445930dd2c7451985b3d8d531793",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/extension.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/extension.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/41906b8588b1445930dd2c7451985b3d8d531793",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/extension.ts"
+      }
+    },
+    {
+      "name": "utilities",
+      "path": "src/utilities",
+      "sha": "eb59ecd744853b9659a21167b8a398791beb969f",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/utilities",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/eb59ecd744853b9659a21167b8a398791beb969f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/eb59ecd744853b9659a21167b8a398791beb969f",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/utilities"
+      }
+    },
+    {
+      "name": "account.ts",
+      "path": "src/utilities/account.ts",
+      "sha": "2fe4af8ce39a108333932de338b1fa209387a0be",
+      "size": 4015,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/account.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/account.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2fe4af8ce39a108333932de338b1fa209387a0be",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/account.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/account.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2fe4af8ce39a108333932de338b1fa209387a0be",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/account.ts"
+      }
+    },
+    {
+      "name": "authCode.ts",
+      "path": "src/utilities/authCode.ts",
+      "sha": "f7af5e2391aaceb3aa8fe7934596028a941c7b33",
+      "size": 2446,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/authCode.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/authCode.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f7af5e2391aaceb3aa8fe7934596028a941c7b33",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/authCode.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/authCode.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f7af5e2391aaceb3aa8fe7934596028a941c7b33",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/authCode.ts"
+      }
+    },
+    {
+      "name": "fileWatcher.ts",
+      "path": "src/utilities/fileWatcher.ts",
+      "sha": "b8de5958d4500dc88df62971462593a0ed424c21",
+      "size": 7833,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/fileWatcher.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/fileWatcher.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b8de5958d4500dc88df62971462593a0ed424c21",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/fileWatcher.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/fileWatcher.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b8de5958d4500dc88df62971462593a0ed424c21",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/fileWatcher.ts"
+      }
+    },
+    {
+      "name": "getMoveFilesFromFolder.ts",
+      "path": "src/utilities/getMoveFilesFromFolder.ts",
+      "sha": "d0689e7d945811859799909da0d64df1bfd8d957",
+      "size": 558,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/getMoveFilesFromFolder.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/getMoveFilesFromFolder.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d0689e7d945811859799909da0d64df1bfd8d957",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/getMoveFilesFromFolder.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/getMoveFilesFromFolder.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d0689e7d945811859799909da0d64df1bfd8d957",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/getMoveFilesFromFolder.ts"
+      }
+    },
+    {
+      "name": "getNonce.ts",
+      "path": "src/utilities/getNonce.ts",
+      "sha": "21c11bb09035cc70649aa6e982de9c64d43bc556",
+      "size": 886,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/getNonce.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/getNonce.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/21c11bb09035cc70649aa6e982de9c64d43bc556",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/getNonce.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/getNonce.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/21c11bb09035cc70649aa6e982de9c64d43bc556",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/getNonce.ts"
+      }
+    },
+    {
+      "name": "getUri.ts",
+      "path": "src/utilities/getUri.ts",
+      "sha": "6cd84fbe527915ae3351c9759a07d3ab4ce79754",
+      "size": 658,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/getUri.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/getUri.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/6cd84fbe527915ae3351c9759a07d3ab4ce79754",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/getUri.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/getUri.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/6cd84fbe527915ae3351c9759a07d3ab4ce79754",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/getUri.ts"
+      }
+    },
+    {
+      "name": "hasTerminal.ts",
+      "path": "src/utilities/hasTerminal.ts",
+      "sha": "0ec3468d2119fda6883e372b3ebbfeb565b2d248",
+      "size": 630,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/hasTerminal.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/hasTerminal.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0ec3468d2119fda6883e372b3ebbfeb565b2d248",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/hasTerminal.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/hasTerminal.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0ec3468d2119fda6883e372b3ebbfeb565b2d248",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/hasTerminal.ts"
+      }
+    },
+    {
+      "name": "prettier-plugin-move.d.ts",
+      "path": "src/utilities/prettier-plugin-move.d.ts",
+      "sha": "60e9f011c75efa0b2e19df8d5ac6b4e72cb97087",
+      "size": 561,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/prettier-plugin-move.d.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/prettier-plugin-move.d.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/60e9f011c75efa0b2e19df8d5ac6b4e72cb97087",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/prettier-plugin-move.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/prettier-plugin-move.d.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/60e9f011c75efa0b2e19df8d5ac6b4e72cb97087",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/prettier-plugin-move.d.ts"
+      }
+    },
+    {
+      "name": "printOutputChannel.ts",
+      "path": "src/utilities/printOutputChannel.ts",
+      "sha": "097ba75e3e7bd8573fcd26b0cc97d7da14fec222",
+      "size": 497,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/printOutputChannel.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/printOutputChannel.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/097ba75e3e7bd8573fcd26b0cc97d7da14fec222",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/printOutputChannel.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/printOutputChannel.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/097ba75e3e7bd8573fcd26b0cc97d7da14fec222",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/printOutputChannel.ts"
+      }
+    },
+    {
+      "name": "signing.ts",
+      "path": "src/utilities/signing.ts",
+      "sha": "c905748b50517c3ae7d63293ba121057c171d441",
+      "size": 2442,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/signing.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/signing.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c905748b50517c3ae7d63293ba121057c171d441",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/signing.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/signing.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c905748b50517c3ae7d63293ba121057c171d441",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/signing.ts"
+      }
+    },
+    {
+      "name": "validator.ts",
+      "path": "src/utilities/validator.ts",
+      "sha": "fba3fa438482baaa2fd2eb97b67772eb52f54a98",
+      "size": 422,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/validator.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/validator.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/fba3fa438482baaa2fd2eb97b67772eb52f54a98",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/utilities/validator.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/utilities/validator.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/fba3fa438482baaa2fd2eb97b67772eb52f54a98",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/utilities/validator.ts"
+      }
+    },
+    {
+      "name": "webview",
+      "path": "src/webview",
+      "sha": "99e641f90e0929301570329899ebcaa87d912acd",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/99e641f90e0929301570329899ebcaa87d912acd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/99e641f90e0929301570329899ebcaa87d912acd",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview"
+      }
+    },
+    {
+      "name": "activitybar",
+      "path": "src/webview/activitybar",
+      "sha": "718848df6e732c588b4f7d1717541bdf25beef44",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/718848df6e732c588b4f7d1717541bdf25beef44",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/718848df6e732c588b4f7d1717541bdf25beef44",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "src/webview/activitybar/.gitignore",
+      "sha": "a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "size": 253,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/.gitignore?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/.gitignore",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a547bf36d8d11a4f89c59c144f24795749086dd1",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "src/webview/activitybar/README.md",
+      "sha": "1e5a46b4e1c5aa27e7bf5c6b1ecdac2ad8071947",
+      "size": 1610,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/README.md?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/README.md",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1e5a46b4e1c5aa27e7bf5c6b1ecdac2ad8071947",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/README.md?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1e5a46b4e1c5aa27e7bf5c6b1ecdac2ad8071947",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/README.md"
+      }
+    },
+    {
+      "name": "eslint.config.js",
+      "path": "src/webview/activitybar/eslint.config.js",
+      "sha": "b8369b2e613a506297d6095b9323c79ac5138549",
+      "size": 942,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/eslint.config.js?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/eslint.config.js",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b8369b2e613a506297d6095b9323c79ac5138549",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/eslint.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/eslint.config.js?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b8369b2e613a506297d6095b9323c79ac5138549",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/eslint.config.js"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "src/webview/activitybar/index.html",
+      "sha": "f2638ce460e82c4fa3086c3eb42c9113cb5211dc",
+      "size": 317,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/index.html?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/index.html",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f2638ce460e82c4fa3086c3eb42c9113cb5211dc",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/index.html?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f2638ce460e82c4fa3086c3eb42c9113cb5211dc",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "src/webview/activitybar/package-lock.json",
+      "sha": "423e9d471f8dcb55c7ab7cbbb472d068532a3c88",
+      "size": 115591,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/package-lock.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/package-lock.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/423e9d471f8dcb55c7ab7cbbb472d068532a3c88",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/423e9d471f8dcb55c7ab7cbbb472d068532a3c88",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "src/webview/activitybar/package.json",
+      "sha": "71daafafdc5b95148615c7e55a850e99c7fedb54",
+      "size": 1108,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/package.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/package.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/71daafafdc5b95148615c7e55a850e99c7fedb54",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/package.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/71daafafdc5b95148615c7e55a850e99c7fedb54",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src/webview/activitybar/src",
+      "sha": "7befbfed8159ec8ea818fe50fd583ba2d56a3750",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/7befbfed8159ec8ea818fe50fd583ba2d56a3750",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/7befbfed8159ec8ea818fe50fd583ba2d56a3750",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/webview/activitybar/src/App.css",
+      "sha": "c8b926846b85c63d3c3ff4a1ce27bbabfddf8c83",
+      "size": 186,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/App.css?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/App.css",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c8b926846b85c63d3c3ff4a1ce27bbabfddf8c83",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c8b926846b85c63d3c3ff4a1ce27bbabfddf8c83",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/App.css"
+      }
+    },
+    {
+      "name": "App.tsx",
+      "path": "src/webview/activitybar/src/App.tsx",
+      "sha": "933b15264bef3b6246e4c7d95c0614af152e9b1d",
+      "size": 2489,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/App.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/App.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/933b15264bef3b6246e4c7d95c0614af152e9b1d",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/App.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/App.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/933b15264bef3b6246e4c7d95c0614af152e9b1d",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/App.tsx"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/webview/activitybar/src/components",
+      "sha": "cb096f2ce05a95392c819ade8da4717ca30e8f74",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/components",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/cb096f2ce05a95392c819ade8da4717ca30e8f74",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/cb096f2ce05a95392c819ade8da4717ca30e8f74",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/components"
+      }
+    },
+    {
+      "name": "Account.tsx",
+      "path": "src/webview/activitybar/src/components/Account.tsx",
+      "sha": "e698d6ded9eceb4c2e3dc7017b3acfdc03cf1913",
+      "size": 7080,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Account.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Account.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e698d6ded9eceb4c2e3dc7017b3acfdc03cf1913",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/Account.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Account.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e698d6ded9eceb4c2e3dc7017b3acfdc03cf1913",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Account.tsx"
+      }
+    },
+    {
+      "name": "ExplorerObject.tsx",
+      "path": "src/webview/activitybar/src/components/ExplorerObject.tsx",
+      "sha": "a48dabe7a4e26cf57c2c17423a4fc10b61958a5e",
+      "size": 5579,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/ExplorerObject.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/ExplorerObject.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a48dabe7a4e26cf57c2c17423a4fc10b61958a5e",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/ExplorerObject.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/ExplorerObject.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a48dabe7a4e26cf57c2c17423a4fc10b61958a5e",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/ExplorerObject.tsx"
+      }
+    },
+    {
+      "name": "ExplorerOwnerObjects.tsx",
+      "path": "src/webview/activitybar/src/components/ExplorerOwnerObjects.tsx",
+      "sha": "b205bbd91c787c74db829a44bc8405038882fb3f",
+      "size": 7276,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/ExplorerOwnerObjects.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/ExplorerOwnerObjects.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b205bbd91c787c74db829a44bc8405038882fb3f",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/ExplorerOwnerObjects.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/ExplorerOwnerObjects.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b205bbd91c787c74db829a44bc8405038882fb3f",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/ExplorerOwnerObjects.tsx"
+      }
+    },
+    {
+      "name": "ExplorerPackage.tsx",
+      "path": "src/webview/activitybar/src/components/ExplorerPackage.tsx",
+      "sha": "3746dbf283d2796afc5396dc1483915fce18d353",
+      "size": 2383,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/ExplorerPackage.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/ExplorerPackage.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3746dbf283d2796afc5396dc1483915fce18d353",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/ExplorerPackage.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/ExplorerPackage.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/3746dbf283d2796afc5396dc1483915fce18d353",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/ExplorerPackage.tsx"
+      }
+    },
+    {
+      "name": "Function.tsx",
+      "path": "src/webview/activitybar/src/components/Function.tsx",
+      "sha": "b2833083426e349f6f8ed18e8cfeb6a91a691b9b",
+      "size": 12315,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Function.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Function.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b2833083426e349f6f8ed18e8cfeb6a91a691b9b",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/Function.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Function.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b2833083426e349f6f8ed18e8cfeb6a91a691b9b",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Function.tsx"
+      }
+    },
+    {
+      "name": "Package.tsx",
+      "path": "src/webview/activitybar/src/components/Package.tsx",
+      "sha": "56ae2507cb8acc7c640115ca6afee0931edc4ed5",
+      "size": 12226,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Package.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Package.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/56ae2507cb8acc7c640115ca6afee0931edc4ed5",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/Package.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Package.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/56ae2507cb8acc7c640115ca6afee0931edc4ed5",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Package.tsx"
+      }
+    },
+    {
+      "name": "SpinButton.tsx",
+      "path": "src/webview/activitybar/src/components/SpinButton.tsx",
+      "sha": "9ab32044cd821df5d0aed18dbe48a15e203f5666",
+      "size": 1733,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/SpinButton.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/SpinButton.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9ab32044cd821df5d0aed18dbe48a15e203f5666",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/SpinButton.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/SpinButton.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9ab32044cd821df5d0aed18dbe48a15e203f5666",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/SpinButton.tsx"
+      }
+    },
+    {
+      "name": "SuiObject.tsx",
+      "path": "src/webview/activitybar/src/components/SuiObject.tsx",
+      "sha": "026e9eb8d48cc8d150c61d930ae0eff73c5875e7",
+      "size": 1632,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/SuiObject.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/SuiObject.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/026e9eb8d48cc8d150c61d930ae0eff73c5875e7",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/SuiObject.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/SuiObject.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/026e9eb8d48cc8d150c61d930ae0eff73c5875e7",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/SuiObject.tsx"
+      }
+    },
+    {
+      "name": "Workspace.tsx",
+      "path": "src/webview/activitybar/src/components/Workspace.tsx",
+      "sha": "a6159963ed97e739f443228c6aa473f6dc39303e",
+      "size": 12901,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Workspace.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Workspace.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a6159963ed97e739f443228c6aa473f6dc39303e",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/components/Workspace.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/components/Workspace.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a6159963ed97e739f443228c6aa473f6dc39303e",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/components/Workspace.tsx"
+      }
+    },
+    {
+      "name": "main.tsx",
+      "path": "src/webview/activitybar/src/main.tsx",
+      "sha": "bff19577b6ffce267bbb19b956efd2d13d0dd933",
+      "size": 387,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/main.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/main.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bff19577b6ffce267bbb19b956efd2d13d0dd933",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/main.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/main.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bff19577b6ffce267bbb19b956efd2d13d0dd933",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/main.tsx"
+      }
+    },
+    {
+      "name": "recoil",
+      "path": "src/webview/activitybar/src/recoil",
+      "sha": "e40cc2123e91fd45945081544e30e9ddc24c4550",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/recoil?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/recoil",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/e40cc2123e91fd45945081544e30e9ddc24c4550",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/recoil?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/e40cc2123e91fd45945081544e30e9ddc24c4550",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/recoil"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/webview/activitybar/src/recoil/index.ts",
+      "sha": "cb183ce768e65c59653826dfc2be0d60b428f845",
+      "size": 1091,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/recoil/index.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/recoil/index.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/cb183ce768e65c59653826dfc2be0d60b428f845",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/recoil/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/recoil/index.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/cb183ce768e65c59653826dfc2be0d60b428f845",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/recoil/index.ts"
+      }
+    },
+    {
+      "name": "utilities",
+      "path": "src/webview/activitybar/src/utilities",
+      "sha": "cd3a37d9c5a602ae236853ef1a922c7281c16193",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/utilities",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/cd3a37d9c5a602ae236853ef1a922c7281c16193",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/cd3a37d9c5a602ae236853ef1a922c7281c16193",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/utilities"
+      }
+    },
+    {
+      "name": "cli.ts",
+      "path": "src/webview/activitybar/src/utilities/cli.ts",
+      "sha": "2361a615db7fcf2489313c5047827a2ef50ccf55",
+      "size": 858,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/cli.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/cli.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2361a615db7fcf2489313c5047827a2ef50ccf55",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/cli.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/cli.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2361a615db7fcf2489313c5047827a2ef50ccf55",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/cli.ts"
+      }
+    },
+    {
+      "name": "commands.ts",
+      "path": "src/webview/activitybar/src/utilities/commands.ts",
+      "sha": "2ca6f0557b48ecfd08ced7ba8a36abc44cd8607b",
+      "size": 991,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/commands.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/commands.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2ca6f0557b48ecfd08ced7ba8a36abc44cd8607b",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/commands.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/commands.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/2ca6f0557b48ecfd08ced7ba8a36abc44cd8607b",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/commands.ts"
+      }
+    },
+    {
+      "name": "createNonce.ts",
+      "path": "src/webview/activitybar/src/utilities/createNonce.ts",
+      "sha": "f08f235128190baba4bfd22feee9e84ae16f8a65",
+      "size": 1181,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/createNonce.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/createNonce.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f08f235128190baba4bfd22feee9e84ae16f8a65",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/createNonce.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/createNonce.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/f08f235128190baba4bfd22feee9e84ae16f8a65",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/createNonce.ts"
+      }
+    },
+    {
+      "name": "createProof.ts",
+      "path": "src/webview/activitybar/src/utilities/createProof.ts",
+      "sha": "89e01fb76911fbddc9c2ae43fae7a5a097f64c21",
+      "size": 2162,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/createProof.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/createProof.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/89e01fb76911fbddc9c2ae43fae7a5a097f64c21",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/createProof.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/createProof.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/89e01fb76911fbddc9c2ae43fae7a5a097f64c21",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/createProof.ts"
+      }
+    },
+    {
+      "name": "deleteTxContext.ts",
+      "path": "src/webview/activitybar/src/utilities/deleteTxContext.ts",
+      "sha": "9c71fdc473ed415dc816db15a534b131f6ab0c0b",
+      "size": 1079,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/deleteTxContext.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/deleteTxContext.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9c71fdc473ed415dc816db15a534b131f6ab0c0b",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/deleteTxContext.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/deleteTxContext.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/9c71fdc473ed415dc816db15a534b131f6ab0c0b",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/deleteTxContext.ts"
+      }
+    },
+    {
+      "name": "enoki",
+      "path": "src/webview/activitybar/src/utilities/enoki",
+      "sha": "5dd3aa41daf278e0a00f5019fa7863e5bc65013e",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/enoki?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/utilities/enoki",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/5dd3aa41daf278e0a00f5019fa7863e5bc65013e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/enoki?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/5dd3aa41daf278e0a00f5019fa7863e5bc65013e",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/activitybar/src/utilities/enoki"
+      }
+    },
+    {
+      "name": "getSault.ts",
+      "path": "src/webview/activitybar/src/utilities/enoki/getSault.ts",
+      "sha": "970d03e9c1b0d83420ac05810b68607abac4eb81",
+      "size": 484,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/enoki/getSault.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/enoki/getSault.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/970d03e9c1b0d83420ac05810b68607abac4eb81",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/enoki/getSault.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/enoki/getSault.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/970d03e9c1b0d83420ac05810b68607abac4eb81",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/enoki/getSault.ts"
+      }
+    },
+    {
+      "name": "faucet.ts",
+      "path": "src/webview/activitybar/src/utilities/faucet.ts",
+      "sha": "853649482aa2d3d0694b1d5ee6d33668c7cba484",
+      "size": 638,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/faucet.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/faucet.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/853649482aa2d3d0694b1d5ee6d33668c7cba484",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/faucet.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/faucet.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/853649482aa2d3d0694b1d5ee6d33668c7cba484",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/faucet.ts"
+      }
+    },
+    {
+      "name": "getBalance.ts",
+      "path": "src/webview/activitybar/src/utilities/getBalance.ts",
+      "sha": "896778fe88b8ae62c2e844bca678e3eb224ff562",
+      "size": 753,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/getBalance.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/getBalance.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/896778fe88b8ae62c2e844bca678e3eb224ff562",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/getBalance.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/getBalance.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/896778fe88b8ae62c2e844bca678e3eb224ff562",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/getBalance.ts"
+      }
+    },
+    {
+      "name": "getObjectType.ts",
+      "path": "src/webview/activitybar/src/utilities/getObjectType.ts",
+      "sha": "c002de3edfef2c2179d9a5d3350aef17e1731694",
+      "size": 648,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/getObjectType.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/getObjectType.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c002de3edfef2c2179d9a5d3350aef17e1731694",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/getObjectType.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/getObjectType.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c002de3edfef2c2179d9a5d3350aef17e1731694",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/getObjectType.ts"
+      }
+    },
+    {
+      "name": "googleLogin.ts",
+      "path": "src/webview/activitybar/src/utilities/googleLogin.ts",
+      "sha": "fe9bd7dc08379f8a4b3a80c794465164621f5d90",
+      "size": 1121,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/googleLogin.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/googleLogin.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/fe9bd7dc08379f8a4b3a80c794465164621f5d90",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/googleLogin.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/googleLogin.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/fe9bd7dc08379f8a4b3a80c794465164621f5d90",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/googleLogin.ts"
+      }
+    },
+    {
+      "name": "helper.ts",
+      "path": "src/webview/activitybar/src/utilities/helper.ts",
+      "sha": "e76aa972dd360b0fffd5a87a2ada371b45e4c26a",
+      "size": 9531,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/helper.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/helper.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e76aa972dd360b0fffd5a87a2ada371b45e4c26a",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/helper.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/helper.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e76aa972dd360b0fffd5a87a2ada371b45e4c26a",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/helper.ts"
+      }
+    },
+    {
+      "name": "loadPackageData.ts",
+      "path": "src/webview/activitybar/src/utilities/loadPackageData.ts",
+      "sha": "0a5549834c477ebbe1f3912e32b70119d8b132db",
+      "size": 761,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/loadPackageData.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/loadPackageData.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0a5549834c477ebbe1f3912e32b70119d8b132db",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/loadPackageData.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/loadPackageData.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/0a5549834c477ebbe1f3912e32b70119d8b132db",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/loadPackageData.ts"
+      }
+    },
+    {
+      "name": "moveCall.ts",
+      "path": "src/webview/activitybar/src/utilities/moveCall.ts",
+      "sha": "d57b81cd956841dc8b2f3972397d0351b51417a8",
+      "size": 1113,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/moveCall.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/moveCall.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d57b81cd956841dc8b2f3972397d0351b51417a8",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/moveCall.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/moveCall.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d57b81cd956841dc8b2f3972397d0351b51417a8",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/moveCall.ts"
+      }
+    },
+    {
+      "name": "packagePublish.ts",
+      "path": "src/webview/activitybar/src/utilities/packagePublish.ts",
+      "sha": "5bac1dbf777ecab2d4fb2f760be3209ce9ffdccf",
+      "size": 2126,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/packagePublish.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/packagePublish.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5bac1dbf777ecab2d4fb2f760be3209ce9ffdccf",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/packagePublish.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/packagePublish.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5bac1dbf777ecab2d4fb2f760be3209ce9ffdccf",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/packagePublish.ts"
+      }
+    },
+    {
+      "name": "packageUpgrade.ts",
+      "path": "src/webview/activitybar/src/utilities/packageUpgrade.ts",
+      "sha": "8afb2d62436f809fb72612dacd60a88cd7347c9f",
+      "size": 4747,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/packageUpgrade.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/packageUpgrade.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/8afb2d62436f809fb72612dacd60a88cd7347c9f",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/packageUpgrade.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/packageUpgrade.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/8afb2d62436f809fb72612dacd60a88cd7347c9f",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/packageUpgrade.ts"
+      }
+    },
+    {
+      "name": "signAndExcute.ts",
+      "path": "src/webview/activitybar/src/utilities/signAndExcute.ts",
+      "sha": "c03e3d58811814301786ce25023df2c635a9d07e",
+      "size": 2683,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/signAndExcute.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/signAndExcute.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c03e3d58811814301786ce25023df2c635a9d07e",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/signAndExcute.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/signAndExcute.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/c03e3d58811814301786ce25023df2c635a9d07e",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/signAndExcute.ts"
+      }
+    },
+    {
+      "name": "stateController.ts",
+      "path": "src/webview/activitybar/src/utilities/stateController.ts",
+      "sha": "7d29d12c221248830e54c14d7c26d440f19970f4",
+      "size": 1898,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/stateController.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/stateController.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7d29d12c221248830e54c14d7c26d440f19970f4",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/stateController.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/stateController.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7d29d12c221248830e54c14d7c26d440f19970f4",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/stateController.ts"
+      }
+    },
+    {
+      "name": "upgradeCap.ts",
+      "path": "src/webview/activitybar/src/utilities/upgradeCap.ts",
+      "sha": "bde8eeb5d6a1bb0f98056f64cdef2f5bf1428e5a",
+      "size": 2188,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/upgradeCap.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/upgradeCap.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bde8eeb5d6a1bb0f98056f64cdef2f5bf1428e5a",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/upgradeCap.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/upgradeCap.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/bde8eeb5d6a1bb0f98056f64cdef2f5bf1428e5a",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/upgradeCap.ts"
+      }
+    },
+    {
+      "name": "vscode.ts",
+      "path": "src/webview/activitybar/src/utilities/vscode.ts",
+      "sha": "ef3c832029edefab0dc286ed877ada5dcc013f05",
+      "size": 2705,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/vscode.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/vscode.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ef3c832029edefab0dc286ed877ada5dcc013f05",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/utilities/vscode.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/utilities/vscode.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ef3c832029edefab0dc286ed877ada5dcc013f05",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/utilities/vscode.ts"
+      }
+    },
+    {
+      "name": "vite-env.d.ts",
+      "path": "src/webview/activitybar/src/vite-env.d.ts",
+      "sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size": 38,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/vite-env.d.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/vite-env.d.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/src/vite-env.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/src/vite-env.d.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/src/vite-env.d.ts"
+      }
+    },
+    {
+      "name": "tsconfig.app.json",
+      "path": "src/webview/activitybar/tsconfig.app.json",
+      "sha": "358ca9ba93f089b0133f05933f133a446402eb17",
+      "size": 665,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/tsconfig.app.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/tsconfig.app.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/358ca9ba93f089b0133f05933f133a446402eb17",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/tsconfig.app.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/tsconfig.app.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/358ca9ba93f089b0133f05933f133a446402eb17",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/tsconfig.app.json"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "src/webview/activitybar/tsconfig.json",
+      "sha": "1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+      "size": 119,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/tsconfig.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/tsconfig.json"
+      }
+    },
+    {
+      "name": "tsconfig.node.json",
+      "path": "src/webview/activitybar/tsconfig.node.json",
+      "sha": "db0becc8b033a4a78144f4a3bb852082fe91cd62",
+      "size": 593,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/tsconfig.node.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/tsconfig.node.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/db0becc8b033a4a78144f4a3bb852082fe91cd62",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/tsconfig.node.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/tsconfig.node.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/db0becc8b033a4a78144f4a3bb852082fe91cd62",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/tsconfig.node.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "src/webview/activitybar/vite.config.ts",
+      "sha": "58d253d0a5f837d62c27d7c3d6cfa42a27c7a338",
+      "size": 521,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/vite.config.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/vite.config.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/58d253d0a5f837d62c27d7c3d6cfa42a27c7a338",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybar/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybar/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/58d253d0a5f837d62c27d7c3d6cfa42a27c7a338",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybar/vite.config.ts"
+      }
+    },
+    {
+      "name": "activitybarProvider.ts",
+      "path": "src/webview/activitybarProvider.ts",
+      "sha": "70dda5a2e51bb9b8d38da2463655bcefb9362ca1",
+      "size": 13404,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybarProvider.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybarProvider.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/70dda5a2e51bb9b8d38da2463655bcefb9362ca1",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/activitybarProvider.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/activitybarProvider.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/70dda5a2e51bb9b8d38da2463655bcefb9362ca1",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/activitybarProvider.ts"
+      }
+    },
+    {
+      "name": "ptb-builder",
+      "path": "src/webview/ptb-builder",
+      "sha": "24510e9dc178d5802e6a4b07f5d7e3a104f36ebf",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/ptb-builder",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/24510e9dc178d5802e6a4b07f5d7e3a104f36ebf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/24510e9dc178d5802e6a4b07f5d7e3a104f36ebf",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/ptb-builder"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "src/webview/ptb-builder/.gitignore",
+      "sha": "a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "size": 253,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/.gitignore?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/.gitignore",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/a547bf36d8d11a4f89c59c144f24795749086dd1",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "src/webview/ptb-builder/README.md",
+      "sha": "1e5a46b4e1c5aa27e7bf5c6b1ecdac2ad8071947",
+      "size": 1610,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/README.md?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/README.md",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1e5a46b4e1c5aa27e7bf5c6b1ecdac2ad8071947",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/README.md?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1e5a46b4e1c5aa27e7bf5c6b1ecdac2ad8071947",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/README.md"
+      }
+    },
+    {
+      "name": "eslint.config.js",
+      "path": "src/webview/ptb-builder/eslint.config.js",
+      "sha": "b8369b2e613a506297d6095b9323c79ac5138549",
+      "size": 942,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/eslint.config.js?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/eslint.config.js",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b8369b2e613a506297d6095b9323c79ac5138549",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/eslint.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/eslint.config.js?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b8369b2e613a506297d6095b9323c79ac5138549",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/eslint.config.js"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "src/webview/ptb-builder/index.html",
+      "sha": "13e47b68dfb57e516921945bd2f9a4105b2b5007",
+      "size": 317,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/index.html?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/index.html",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/13e47b68dfb57e516921945bd2f9a4105b2b5007",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/index.html?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/13e47b68dfb57e516921945bd2f9a4105b2b5007",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "src/webview/ptb-builder/package-lock.json",
+      "sha": "1cd8e447bfaa37c94240b37f4d3492bd11fc4612",
+      "size": 122104,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/package-lock.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/package-lock.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1cd8e447bfaa37c94240b37f4d3492bd11fc4612",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1cd8e447bfaa37c94240b37f4d3492bd11fc4612",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "src/webview/ptb-builder/package.json",
+      "sha": "e5a6beaad35c2d6d5cc05eb20f42a0e6c7a9a008",
+      "size": 886,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/package.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/package.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e5a6beaad35c2d6d5cc05eb20f42a0e6c7a9a008",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/package.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e5a6beaad35c2d6d5cc05eb20f42a0e6c7a9a008",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src/webview/ptb-builder/src",
+      "sha": "c003e79945654b3d6d2ef7959f61e9874dc9dad6",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/ptb-builder/src",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/c003e79945654b3d6d2ef7959f61e9874dc9dad6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/c003e79945654b3d6d2ef7959f61e9874dc9dad6",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/ptb-builder/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/webview/ptb-builder/src/App.css",
+      "sha": "5d7497386ab2af6de5f1a10e146d685823bb3a87",
+      "size": 49,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/App.css?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/App.css",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5d7497386ab2af6de5f1a10e146d685823bb3a87",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/5d7497386ab2af6de5f1a10e146d685823bb3a87",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/App.css"
+      }
+    },
+    {
+      "name": "App.tsx",
+      "path": "src/webview/ptb-builder/src/App.tsx",
+      "sha": "ec4a25b34ba5dda8086b12b67e9687dc01088fbc",
+      "size": 9295,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/App.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/App.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ec4a25b34ba5dda8086b12b67e9687dc01088fbc",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/App.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/App.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ec4a25b34ba5dda8086b12b67e9687dc01088fbc",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/App.tsx"
+      }
+    },
+    {
+      "name": "main.tsx",
+      "path": "src/webview/ptb-builder/src/main.tsx",
+      "sha": "d297f2799db855f3653fb67b1195948c61c751c5",
+      "size": 272,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/main.tsx?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/main.tsx",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d297f2799db855f3653fb67b1195948c61c751c5",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/main.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/main.tsx?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/d297f2799db855f3653fb67b1195948c61c751c5",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/main.tsx"
+      }
+    },
+    {
+      "name": "utilities",
+      "path": "src/webview/ptb-builder/src/utilities",
+      "sha": "2f8ceac535da73fdcc93a0e8042e244c392ee0e0",
+      "size": 0,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/ptb-builder/src/utilities",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/2f8ceac535da73fdcc93a0e8042e244c392ee0e0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/trees/2f8ceac535da73fdcc93a0e8042e244c392ee0e0",
+        "html": "https://github.com/zktx-io/sui-extension/tree/main/src/webview/ptb-builder/src/utilities"
+      }
+    },
+    {
+      "name": "account.ts",
+      "path": "src/webview/ptb-builder/src/utilities/account.ts",
+      "sha": "37b79a8c236995802f370a27c23a3e6685bb7e9b",
+      "size": 397,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/account.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/account.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/37b79a8c236995802f370a27c23a3e6685bb7e9b",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/utilities/account.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/account.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/37b79a8c236995802f370a27c23a3e6685bb7e9b",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/account.ts"
+      }
+    },
+    {
+      "name": "commands.ts",
+      "path": "src/webview/ptb-builder/src/utilities/commands.ts",
+      "sha": "893a35f476b592b7b8b77cbc373e7df15d2e0299",
+      "size": 405,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/commands.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/commands.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/893a35f476b592b7b8b77cbc373e7df15d2e0299",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/utilities/commands.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/commands.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/893a35f476b592b7b8b77cbc373e7df15d2e0299",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/commands.ts"
+      }
+    },
+    {
+      "name": "postMessage.ts",
+      "path": "src/webview/ptb-builder/src/utilities/postMessage.ts",
+      "sha": "820e0d247fa830d47873af5456333b6d70ca7098",
+      "size": 542,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/postMessage.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/postMessage.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/820e0d247fa830d47873af5456333b6d70ca7098",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/utilities/postMessage.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/postMessage.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/820e0d247fa830d47873af5456333b6d70ca7098",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/postMessage.ts"
+      }
+    },
+    {
+      "name": "vscode.ts",
+      "path": "src/webview/ptb-builder/src/utilities/vscode.ts",
+      "sha": "ef3c832029edefab0dc286ed877ada5dcc013f05",
+      "size": 2705,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/vscode.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/vscode.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ef3c832029edefab0dc286ed877ada5dcc013f05",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/utilities/vscode.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/utilities/vscode.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/ef3c832029edefab0dc286ed877ada5dcc013f05",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/utilities/vscode.ts"
+      }
+    },
+    {
+      "name": "vite-env.d.ts",
+      "path": "src/webview/ptb-builder/src/vite-env.d.ts",
+      "sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size": 38,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/vite-env.d.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/vite-env.d.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/src/vite-env.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/src/vite-env.d.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/src/vite-env.d.ts"
+      }
+    },
+    {
+      "name": "tsconfig.app.json",
+      "path": "src/webview/ptb-builder/tsconfig.app.json",
+      "sha": "358ca9ba93f089b0133f05933f133a446402eb17",
+      "size": 665,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/tsconfig.app.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/tsconfig.app.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/358ca9ba93f089b0133f05933f133a446402eb17",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/tsconfig.app.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/tsconfig.app.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/358ca9ba93f089b0133f05933f133a446402eb17",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/tsconfig.app.json"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "src/webview/ptb-builder/tsconfig.json",
+      "sha": "1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+      "size": 119,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/tsconfig.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/tsconfig.json"
+      }
+    },
+    {
+      "name": "tsconfig.node.json",
+      "path": "src/webview/ptb-builder/tsconfig.node.json",
+      "sha": "db0becc8b033a4a78144f4a3bb852082fe91cd62",
+      "size": 593,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/tsconfig.node.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/tsconfig.node.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/db0becc8b033a4a78144f4a3bb852082fe91cd62",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/tsconfig.node.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/tsconfig.node.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/db0becc8b033a4a78144f4a3bb852082fe91cd62",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/tsconfig.node.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "src/webview/ptb-builder/vite.config.ts",
+      "sha": "58d253d0a5f837d62c27d7c3d6cfa42a27c7a338",
+      "size": 521,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/vite.config.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/vite.config.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/58d253d0a5f837d62c27d7c3d6cfa42a27c7a338",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptb-builder/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptb-builder/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/58d253d0a5f837d62c27d7c3d6cfa42a27c7a338",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptb-builder/vite.config.ts"
+      }
+    },
+    {
+      "name": "ptbBuilderProvider.ts",
+      "path": "src/webview/ptbBuilderProvider.ts",
+      "sha": "7dc50bc371200d86b0860f27ca8888fd989166aa",
+      "size": 15114,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptbBuilderProvider.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptbBuilderProvider.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7dc50bc371200d86b0860f27ca8888fd989166aa",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/src/webview/ptbBuilderProvider.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/src/webview/ptbBuilderProvider.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7dc50bc371200d86b0860f27ca8888fd989166aa",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/src/webview/ptbBuilderProvider.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "b544e5b85fc6bbd4fc25f3804a56dba16acf7f85",
+      "size": 536,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b544e5b85fc6bbd4fc25f3804a56dba16acf7f85",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/b544e5b85fc6bbd4fc25f3804a56dba16acf7f85",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "tsconfig.node.json",
+      "path": "tsconfig.node.json",
+      "sha": "7bce4073f96a498386746bc9147eac4e89facb34",
+      "size": 140,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/tsconfig.node.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/tsconfig.node.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7bce4073f96a498386746bc9147eac4e89facb34",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/tsconfig.node.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/tsconfig.node.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/7bce4073f96a498386746bc9147eac4e89facb34",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/tsconfig.node.json"
+      }
+    },
+    {
+      "name": "tsconfig.web.json",
+      "path": "tsconfig.web.json",
+      "sha": "353b837cd7622d8225b542ffbce48eef437efb01",
+      "size": 137,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/tsconfig.web.json?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/tsconfig.web.json",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/353b837cd7622d8225b542ffbce48eef437efb01",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/tsconfig.web.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/tsconfig.web.json?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/353b837cd7622d8225b542ffbce48eef437efb01",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/tsconfig.web.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "vite.config.ts",
+      "sha": "1fcd9b0bb0c453002459bdfdb30167d74db0bf38",
+      "size": 1153,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/vite.config.ts?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/vite.config.ts",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1fcd9b0bb0c453002459bdfdb30167d74db0bf38",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/1fcd9b0bb0c453002459bdfdb30167d74db0bf38",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/vite.config.ts"
+      }
+    },
+    {
+      "name": "vsc-extension-quickstart.md",
+      "path": "vsc-extension-quickstart.md",
+      "sha": "e2d793c200256f864bb0fce852fae988c30fe789",
+      "size": 2893,
+      "url": "https://api.github.com/repos/zktx-io/sui-extension/contents/vsc-extension-quickstart.md?ref=main",
+      "html_url": "https://github.com/zktx-io/sui-extension/blob/main/vsc-extension-quickstart.md",
+      "git_url": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e2d793c200256f864bb0fce852fae988c30fe789",
+      "download_url": "https://raw.githubusercontent.com/zktx-io/sui-extension/main/vsc-extension-quickstart.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zktx-io/sui-extension/contents/vsc-extension-quickstart.md?ref=main",
+        "git": "https://api.github.com/repos/zktx-io/sui-extension/git/blobs/e2d793c200256f864bb0fce852fae988c30fe789",
+        "html": "https://github.com/zktx-io/sui-extension/blob/main/vsc-extension-quickstart.md"
+      }
+    }
+  ],
+  "external_domains": {
+    "docs.enoki.mystenlabs.com": 1674,
+    "brew.sh": 4738,
+    "docs.zktx.io": 704,
+    "docs.sui.io": 2199
+  },
+  "collected_at": "2026-03-13T21:20:49.202839"
+}

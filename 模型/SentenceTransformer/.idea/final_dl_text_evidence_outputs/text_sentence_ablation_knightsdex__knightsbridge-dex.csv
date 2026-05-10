@@ -1,0 +1,12 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+README,technologies used built vite typescript react shadcn-ui tailwind css,0.9945889339773287,0.9938571790161712,0.0007317549611575158
+README,npm run dev edit file directly navigate desired file click edit button pencil icon right file view.,0.9945889339773287,0.9939105701327261,0.0006783638446026252
+README,npm step start development server auto-reloading instant preview.,0.9945889339773287,0.9942496036220055,0.00033933035532318634
+README,cd knightsbridge-dex-ui step install necessary dependencies.,0.9945889339773287,0.9943685548310415,0.00022037914628725286
+README,make changes commit changes.,0.9945889339773287,0.9944133290494722,0.00017560492785650972
+README,welcome knightsbridge dex platform info url edit use preferred ide step navigate directory.,0.9945889339773287,0.9944342703976936,0.000154663579635117
+README,edit files directly codespace commit push changes done.,0.9945889339773287,0.9945134294744381,7.550450289062205e-05
+README,use codespaces navigate main page repository.,0.9945889339773287,0.9945466793440607,4.225463326801293e-05
+README,select codespaces tab.,0.9945889339773287,0.9945751666971538,1.3767280174881158e-05
+README,click button green button near right.,0.9945889339773287,0.994631517371397,-4.258339406826295e-05
+README,click new codespace launch new codespace environment.,0.9945889339773287,0.9948665781226019,-0.0002776441452732037

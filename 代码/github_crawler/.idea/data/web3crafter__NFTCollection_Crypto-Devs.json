@@ -1,0 +1,1150 @@
+{
+  "repo_full_name": "web3crafter/NFTCollection_Crypto-Devs",
+  "repo_detail": {
+    "id": 614035346,
+    "node_id": "R_kgDOJJlvkg",
+    "name": "NFTCollection_Crypto-Devs",
+    "full_name": "web3crafter/NFTCollection_Crypto-Devs",
+    "private": false,
+    "owner": {
+      "login": "web3crafter",
+      "id": 126097382,
+      "node_id": "U_kgDOB4QX5g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126097382?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web3crafter",
+      "html_url": "https://github.com/web3crafter",
+      "followers_url": "https://api.github.com/users/web3crafter/followers",
+      "following_url": "https://api.github.com/users/web3crafter/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web3crafter/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web3crafter/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web3crafter/subscriptions",
+      "organizations_url": "https://api.github.com/users/web3crafter/orgs",
+      "repos_url": "https://api.github.com/users/web3crafter/repos",
+      "events_url": "https://api.github.com/users/web3crafter/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web3crafter/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs",
+    "description": "Learning web3 with learnweb3.io",
+    "fork": false,
+    "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs",
+    "forks_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/forks",
+    "keys_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/teams",
+    "hooks_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/hooks",
+    "issue_events_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/events",
+    "assignees_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/tags",
+    "blobs_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/languages",
+    "stargazers_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/stargazers",
+    "contributors_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contributors",
+    "subscribers_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/subscribers",
+    "subscription_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/subscription",
+    "commits_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/merges",
+    "archive_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/downloads",
+    "issues_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/labels{/name}",
+    "releases_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/deployments",
+    "created_at": "2023-03-14T19:00:08Z",
+    "updated_at": "2023-03-14T19:06:46Z",
+    "pushed_at": "2023-03-14T19:23:14Z",
+    "git_url": "git://github.com/web3crafter/NFTCollection_Crypto-Devs.git",
+    "ssh_url": "git@github.com:web3crafter/NFTCollection_Crypto-Devs.git",
+    "clone_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs.git",
+    "svn_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs",
+    "homepage": "https://nft-collection-crypto-devs-gamma.vercel.app",
+    "size": 137,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "web3crafter",
+    "id": 126097382,
+    "node_id": "U_kgDOB4QX5g",
+    "avatar_url": "https://avatars.githubusercontent.com/u/126097382?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web3crafter",
+    "html_url": "https://github.com/web3crafter",
+    "followers_url": "https://api.github.com/users/web3crafter/followers",
+    "following_url": "https://api.github.com/users/web3crafter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web3crafter/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web3crafter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web3crafter/subscriptions",
+    "organizations_url": "https://api.github.com/users/web3crafter/orgs",
+    "repos_url": "https://api.github.com/users/web3crafter/repos",
+    "events_url": "https://api.github.com/users/web3crafter/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web3crafter/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "web3crafter",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 29,
+    "public_gists": 0,
+    "followers": 1,
+    "following": 6,
+    "created_at": "2023-02-22T16:23:22Z",
+    "updated_at": "2026-01-18T11:25:11Z"
+  },
+  "readme": "# Build an NFT Collection\n\nNow it's time for you to launch your own NFT collection - `Crypto Devs`.\n\n![](https://i.imgur.com/fVxV66f.png)\n\n## Requirements\n\n- There should only exist 20 Crypto Dev NFT's and each one of them should be unique.\n- User's should be able to mint only 1 NFT with one transaction.\n- Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.\n- There should be a website for your NFT Collection.\n\nLet's start building 🚀\n\n## Prerequisites\n\n- You should have completed the `Whitelist dApp` tutorial from earlier.\n\n## Theory\n\n- What is a Non-Fungible Token?\n  Fungible means to be the same or interchangeable eg. Eth is fungible. With this in mind, NFTs are unique; each one is different. Every single token has unique characteristics and values. They are all distinguishable from one another and are not interchangeable eg Unique Art\n\n- What is ERC-721?\n  ERC-721 is an open standard that describes how to build Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible blockchains; it is a standard interface for Non-Fungible tokens; it has a set of rules which make it easy to work with NFTs. Before moving ahead have a look at all the functions supported by [ERC721](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721)\n\n## Build\n\n## Prefer a Video?\n\nIf you would rather learn from a video, we have a recording available of this tutorial on our YouTube. Watch the video by clicking on the screenshot below, or go ahead and read the tutorial!\n[![NFT-Collection Tutorial Part-1](https://i.imgur.com/IwUQ60q.png)](https://youtu.be/VocEb6qYXKs \"NFT-Collection Tutorial\")\n[![NFT-Collection Tutorial Part-2](https://i.imgur.com/PuXpET6.png)](https://youtu.be/_g4UQHxhvPo \"NFT-Collection Tutorial\")\n\n### Smart Contract\n\nWe will be using [`Ownable.sol`](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol) from Openzeppelin which helps you manage the `Ownership` of a contract\n\n- By default, the owner of an Ownable contract is the account that deployed it, which is usually exactly what you want.\n- Ownable also lets you:\n  - transferOwnership from the owner account to a new one, and\n  - renounceOwnership for the owner to relinquish this administrative privilege, a common pattern after an initial stage with centralized administration is over.\n\nWe will also be using an extension of ERC721 known as [ERC721 Enumerable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol)\n\n- ERC721 Enumerable helps you to keep track of all the tokenIds in the contract and also the tokensIds held by an address for a given contract.\n- Please have a look at the [functions](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable) it implements before moving ahead\n\nTo build the smart contract we would be using [Hardhat](https://hardhat.org/). Hardhat is an Ethereum development environment and framework designed for full stack development in Solidity. In simple words you can write your smart contract, deploy them, run tests, and debug your code.\n\nTo setup a Hardhat project, Open up a terminal and execute these commands\n\n```bash\nmkdir NFT-Collection\ncd NFT-Collection\nmkdir hardhat-tutorial\ncd hardhat-tutorial\nnpm init --yes\nnpm install --save-dev hardhat\n```\n\nIf you are a Windows user, you'll have to add one more dependency. so in the terminal, add the following command :\n\n```bash\nnpm install --save-dev @nomicfoundation/hardhat-toolbox\n```\n\nIn the same directory where you installed Hardhat run:\n\n```bash\nnpx hardhat\n```\n\nMake sure you select `Create a Javascript Project` and then follow the steps in the terminal to complete your Hardhat setup.\n\nIn the same terminal now install `@openzeppelin/contracts` as we would be importing [Openzeppelin's ERC721Enumerable Contract](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol) in our `CryptoDevs` contract.\n\n```bash\nnpm install @openzeppelin/contracts\n```\n\nWe will need to call the `Whitelist Contract` that you deployed for your previous level to check for addresses that were whitelisted and give them presale access. As we only need to call `mapping(address => bool) public whitelistedAddresses;` We can create an interface for `Whitelist contract` with a function only for this mapping, this way we would save `gas` as we would not need to inherit and deploy the entire `Whitelist Contract` but only a part of it.\n\nCreate a new file inside the `contracts` directory and call it `IWhitelist.sol`.\n\n> Note: Solidity files which only include interfaces are often prefixed with `I` to signify they're only an interface.\n\n```go\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.4;\n\ninterface IWhitelist {\n    function whitelistedAddresses(address) external view returns (bool);\n}\n```\n\nNow let's create a new file inside the `contracts` directory and call it `CryptoDevs.sol`\n\n```go\n// SPDX-License-Identifier: MIT\npragma solidity ^0.8.4;\n\nimport \"@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol\";\nimport \"@openzeppelin/contracts/access/Ownable.sol\";\nimport \"./IWhitelist.sol\";\n\ncontract CryptoDevs is ERC721Enumerable, Ownable {\n    /**\n      * @dev _baseTokenURI for computing {tokenURI}. If set, the resulting URI for each\n      * token will be the concatenation of the `baseURI` and the `tokenId`.\n      */\n    string _baseTokenURI;\n\n    //  _price is the price of one Crypto Dev NFT\n    uint256 public _price = 0.01 ether;\n\n    // _paused is used to pause the contract in case of an emergency\n    bool public _paused;\n\n    // max number of CryptoDevs\n    uint256 public maxTokenIds = 20;\n\n    // total number of tokenIds minted\n    uint256 public tokenIds;\n\n    // Whitelist contract instance\n    IWhitelist whitelist;\n\n    // boolean to keep track of whether presale started or not\n    bool public presaleStarted;\n\n    // timestamp for when presale would end\n    uint256 public presaleEnded;\n\n    modifier onlyWhenNotPaused {\n        require(!_paused, \"Contract currently paused\");\n        _;\n    }\n\n    /**\n      * @dev ERC721 constructor takes in a `name` and a `symbol` to the token collection.\n      * name in our case is `Crypto Devs` and symbol is `CD`.\n      * Constructor for Crypto Devs takes in the baseURI to set _baseTokenURI for the collection.\n      * It also initializes an instance of whitelist interface.\n      */\n    constructor (string memory baseURI, address whitelistContract) ERC721(\"Crypto Devs\", \"CD\") {\n        _baseTokenURI = baseURI;\n        whitelist = IWhitelist(whitelistContract);\n    }\n\n    /**\n    * @dev startPresale starts a presale for the whitelisted addresses\n      */\n    function startPresale() public onlyOwner {\n        presaleStarted = true;\n        // Set presaleEnded time as current timestamp + 5 minutes\n        // Solidity has cool syntax for timestamps (seconds, minutes, hours, days, years)\n        presaleEnded = block.timestamp + 5 minutes;\n    }\n\n    /**\n      * @dev presaleMint allows a user to mint one NFT per transaction during the presale.\n      */\n    function presaleMint() public payable onlyWhenNotPaused {\n        require(presaleStarted && block.timestamp < presaleEnded, \"Presale is not running\");\n        require(whitelist.whitelistedAddresses(msg.sender), \"You are not whitelisted\");\n        require(tokenIds < maxTokenIds, \"Exceeded maximum Crypto Devs supply\");\n        require(msg.value >= _price, \"Ether sent is not correct\");\n        tokenIds += 1;\n        //_safeMint is a safer version of the _mint function as it ensures that\n        // if the address being minted to is a contract, then it knows how to deal with ERC721 tokens\n        // If the address being minted to is not a contract, it works the same way as _mint\n        _safeMint(msg.sender, tokenIds);\n    }\n\n    /**\n    * @dev mint allows a user to mint 1 NFT per transaction after the presale has ended.\n    */\n    function mint() public payable onlyWhenNotPaused {\n        require(presaleStarted && block.timestamp >=  presaleEnded, \"Presale has not ended yet\");\n        require(tokenIds < maxTokenIds, \"Exceed maximum Crypto Devs supply\");\n        require(msg.value >= _price, \"Ether sent is not correct\");\n        tokenIds += 1;\n        _safeMint(msg.sender, tokenIds);\n    }\n\n    /**\n    * @dev _baseURI overrides the Openzeppelin's ERC721 implementation which by default\n    * returned an empty string for the baseURI\n    */\n    function _baseURI() internal view virtual override returns (string memory) {\n        return _baseTokenURI;\n    }\n\n    /**\n    * @dev setPaused makes the contract paused or unpaused\n      */\n    function setPaused(bool val) public onlyOwner {\n        _paused = val;\n    }\n\n    /**\n    * @dev withdraw sends all the ether in the contract\n    * to the owner of the contract\n      */\n    function withdraw() public onlyOwner  {\n        address _owner = owner();\n        uint256 amount = address(this).balance;\n        (bool sent, ) =  _owner.call{value: amount}(\"\");\n        require(sent, \"Failed to send Ether\");\n    }\n\n      // Function to receive Ether. msg.data must be empty\n    receive() external payable {}\n\n    // Fallback function is called when msg.data is not empty\n    fallback() external payable {}\n}\n```\n\nNow let's install `dotenv` package to be able to import the env file and use it in our config. Open up a terminal pointing at `hardhat-tutorial` directory and execute this command\n\n```bash\nnpm install dotenv\n```\n\nNow create a `.env` file in the `hardhat-tutorial` folder and add the following lines. Follow the instructions below.\n\nGo to [Quicknode](https://www.quicknode.com/?utm_source=learnweb3&utm_campaign=generic&utm_content=sign-up&utm_medium=learnweb3) and sign up for an account. If you already have an account, log in. Quicknode is a node provider that lets you connect to various different blockchains. We will be using it to deploy our contract through Hardhat. After creating an account, `Create an endpoint` on Quicknode, select `Ethereum`, and then select the `Goerli` network. Click `Continue` in the bottom right and then click on `Create Endpoint`. Copy the link given to you in `HTTP Provider` and add it to the `.env` file below for `QUICKNODE_HTTP_URL`.\n\n> NOTE: If you previously set up a Goerli Endpoint on Quicknode during the Freshman Track, you can use the same URL as before. No need to delete it and set up a new one.\n\nTo get your private key, you need to export it from Metamask. Open Metamask, click on the three dots, click on `Account Details` and then `Export Private Key`. MAKE SURE YOU ARE USING A TEST ACCOUNT THAT DOES NOT HAVE MAINNET FUNDS FOR THIS. Add this Private Key below in your `.env` file for `PRIVATE_KEY` variable.\n\n```\nQUICKNODE_HTTP_URL=\"add-quicknode-http-provider-url-here\"\n\nPRIVATE_KEY=\"add-the-private-key-here\"\n```\n\nLet's deploy the contract to the `goerli` network. Create a new file, or replace the default file, named `deploy.js` under the `scripts` folder\n\nLet's write some code to deploy the contract in `deploy.js` file.\n\n```js\nconst { ethers } = require(\"hardhat\");\nrequire(\"dotenv\").config({ path: \".env\" });\nconst { WHITELIST_CONTRACT_ADDRESS, METADATA_URL } = require(\"../constants\");\n\nasync function main() {\n  // Address of the whitelist contract that you deployed in the previous module\n  const whitelistContract = WHITELIST_CONTRACT_ADDRESS;\n  // URL from where we can extract the metadata for a Crypto Dev NFT\n  const metadataURL = METADATA_URL;\n  /*\n  A ContractFactory in ethers.js is an abstraction used to deploy new smart contracts,\n  so cryptoDevsContract here is a factory for instances of our CryptoDevs contract.\n  */\n  const cryptoDevsContract = await ethers.getContractFactory(\"CryptoDevs\");\n\n  // deploy the contract\n  const deployedCryptoDevsContract = await cryptoDevsContract.deploy(\n    metadataURL,\n    whitelistContract\n  );\n\n  // Wait for it to finish deploying\n  await deployedCryptoDevsContract.deployed();\n\n  // print the address of the deployed contract\n  console.log(\n    \"Crypto Devs Contract Address:\",\n    deployedCryptoDevsContract.address\n  );\n}\n\n// Call the main function and catch if there is any error\nmain()\n  .then(() => process.exit(0))\n  .catch((error) => {\n    console.error(error);\n    process.exit(1);\n  });\n```\n\nAs you can see, `deploy.js` requires some constants. Let's create a folder named `constants` under the `hardhat-tutorial` folder. Create an `index.js` file inside the `constants` folder and add the following lines to the file. Replace \"address-of-the-whitelist-contract\" with the address of the whitelist contract that you deployed in the previous tutorial. For Metadata_URL, just copy the sample one that has been provided. We would replace this further down in the tutorial.\n\n```js\n// Address of the Whitelist Contract that you deployed\nconst WHITELIST_CONTRACT_ADDRESS = \"address-of-the-whitelist-contract\";\n// URL to extract Metadata for a Crypto Dev NFT\nconst METADATA_URL = \"https://nft-collection-sneh1999.vercel.app/api/\";\n\nmodule.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL };\n```\n\nNow open the `hardhat.config.js` file, we'll set-up the `goerli` network here so that we can deploy our contract to the Goerli network. Replace all the lines in the `hardhat.config.js` file with the given below lines\n\n```js\nrequire(\"@nomicfoundation/hardhat-toolbox\");\nrequire(\"dotenv\").config({ path: \".env\" });\n\nconst QUICKNODE_HTTP_URL = process.env.QUICKNODE_HTTP_URL;\nconst PRIVATE_KEY = process.env.PRIVATE_KEY;\n\nmodule.exports = {\n  solidity: \"0.8.4\",\n  networks: {\n    goerli: {\n      url: QUICKNODE_HTTP_URL,\n      accounts: [PRIVATE_KEY],\n    },\n  },\n};\n```\n\nCompile the contract, open up a terminal pointing at `hardhat-tutorial` directory and execute this command\n\n```bash\nnpx hardhat compile\n```\n\nTo deploy, open up a terminal pointing at `hardhat-tutorial` directory and execute this command\n\n```bash\nnpx hardhat run scripts/deploy.js --network goerli\n```\n\nSave the Crypto Devs Contract Address that was printed on your terminal in your notepad, you would need it further down in the tutorial.\n\n### Website\n\nTo develop the website we would be using [React](https://reactjs.org/) and [Next Js](https://nextjs.org/). React is a javascript framework which is used to make websites and Next Js is built on top of React.\nFirst, You would need to create a new `next` app. Your folder structure should look something like\n\n```\n   - NFT-Collection\n       - hardhat-tutorial\n       - my-app\n```\n\nTo create this `my-app`, in the terminal point to NFT-Collection folder and type\n\n```bash\n  npx create-next-app@latest\n```\n\nand press `enter` for all the questions\n\nNow to run the app, execute these commands in the terminal\n\n```\ncd my-app\nnpm run dev\n```\n\nNow go to `http://localhost:3000`, your app should be running 🤘\n\nNow let's install Web3Modal library(https://github.com/Web3Modal/web3modal). Web3Modal is an easy-to-use library to help developers add support for multiple providers in their apps with a simple customizable configuration. By default Web3Modal Library supports injected providers like (Metamask, Dapper, Gnosis Safe, Frame, Web3 Browsers, etc), You can also easily configure the library to support Portis, Fortmatic, Squarelink, Torus, Authereum, D'CENT Wallet and Arkane.\nOpen up a terminal pointing at `my-app` directory and execute this command\n\n```bash\n  npm install web3modal\n```\n\nIn the same terminal also install `ethers.js`\n\n> Note : We install v5 specifically since the new v6 has breaking changes to the code.\n\n```bash\nnpm install ethers@5\n```\n\nIn your public folder, download this folder and all the images in it ([Download Link](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLearnWeb3DAO%2FNFT-Collection%2Ftree%2Fmain%2Fmy-app%2Fpublic%2Fcryptodevs)). Make sure that the name of the downloaded folder is `cryptodevs`\n\nNow go to styles folder and replace all the contents of `Home.modules.css` file with the following code, this would add some styling to your dapp:\n\n```css\n.main {\n  min-height: 90vh;\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  align-items: center;\n  font-family: \"Courier New\", Courier, monospace;\n}\n\n.footer {\n  display: flex;\n  padding: 2rem 0;\n  border-top: 1px solid #eaeaea;\n  justify-content: center;\n  align-items: center;\n}\n\n.image {\n  width: 70%;\n  height: 50%;\n  margin-left: 20%;\n}\n\n.title {\n  font-size: 2rem;\n  margin: 2rem 0;\n}\n\n.description {\n  line-height: 1;\n  margin: 2rem 0;\n  font-size: 1.2rem;\n}\n\n.button {\n  border-radius: 4px;\n  background-color: blue;\n  border: none;\n  color: #ffffff;\n  font-size: 15px;\n  padding: 20px;\n  width: 200px;\n  cursor: pointer;\n  margin-bottom: 2%;\n}\n@media (max-width: 1000px) {\n  .main {\n    width: 100%;\n    flex-direction: column;\n    justify-content: center;\n    align-items: center;\n  }\n}\n```\n\nOpen your index.js file under the pages folder and paste the following code, explanation of the code can be found in the comments.\n\n```js\nimport { Contract, providers, utils } from \"ethers\";\nimport Head from \"next/head\";\nimport React, { useEffect, useRef, useState } from \"react\";\nimport Web3Modal from \"web3modal\";\nimport { abi, NFT_CONTRACT_ADDRESS } from \"../constants\";\nimport styles from \"../styles/Home.module.css\";\n\nexport default function Home() {\n  // walletConnected keep track of whether the user's wallet is connected or not\n  const [walletConnected, setWalletConnected] = useState(false);\n  // presaleStarted keeps track of whether the presale has started or not\n  const [presaleStarted, setPresaleStarted] = useState(false);\n  // presaleEnded keeps track of whether the presale ended\n  const [presaleEnded, setPresaleEnded] = useState(false);\n  // loading is set to true when we are waiting for a transaction to get mined\n  const [loading, setLoading] = useState(false);\n  // checks if the currently connected MetaMask wallet is the owner of the contract\n  const [isOwner, setIsOwner] = useState(false);\n  // tokenIdsMinted keeps track of the number of tokenIds that have been minted\n  const [tokenIdsMinted, setTokenIdsMinted] = useState(\"0\");\n  // Create a reference to the Web3 Modal (used for connecting to Metamask) which persists as long as the page is open\n  const web3ModalRef = useRef();\n\n  /**\n   * presaleMint: Mint an NFT during the presale\n   */\n  const presaleMint = async () => {\n    try {\n      // We need a Signer here since this is a 'write' transaction.\n      const signer = await getProviderOrSigner(true);\n      // Create a new instance of the Contract with a Signer, which allows\n      // update methods\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, signer);\n      // call the presaleMint from the contract, only whitelisted addresses would be able to mint\n      const tx = await nftContract.presaleMint({\n        // value signifies the cost of one crypto dev which is \"0.01\" eth.\n        // We are parsing `0.01` string to ether using the utils library from ethers.js\n        value: utils.parseEther(\"0.01\"),\n      });\n      setLoading(true);\n      // wait for the transaction to get mined\n      await tx.wait();\n      setLoading(false);\n      window.alert(\"You successfully minted a Crypto Dev!\");\n    } catch (err) {\n      console.error(err);\n    }\n  };\n\n  /**\n   * publicMint: Mint an NFT after the presale\n   */\n  const publicMint = async () => {\n    try {\n      // We need a Signer here since this is a 'write' transaction.\n      const signer = await getProviderOrSigner(true);\n      // Create a new instance of the Contract with a Signer, which allows\n      // update methods\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, signer);\n      // call the mint from the contract to mint the Crypto Dev\n      const tx = await nftContract.mint({\n        // value signifies the cost of one crypto dev which is \"0.01\" eth.\n        // We are parsing `0.01` string to ether using the utils library from ethers.js\n        value: utils.parseEther(\"0.01\"),\n      });\n      setLoading(true);\n      // wait for the transaction to get mined\n      await tx.wait();\n      setLoading(false);\n      window.alert(\"You successfully minted a Crypto Dev!\");\n    } catch (err) {\n      console.error(err);\n    }\n  };\n\n  /*\n      connectWallet: Connects the MetaMask wallet\n    */\n  const connectWallet = async () => {\n    try {\n      // Get the provider from web3Modal, which in our case is MetaMask\n      // When used for the first time, it prompts the user to connect their wallet\n      await getProviderOrSigner();\n      setWalletConnected(true);\n    } catch (err) {\n      console.error(err);\n    }\n  };\n\n  /**\n   * startPresale: starts the presale for the NFT Collection\n   */\n  const startPresale = async () => {\n    try {\n      // We need a Signer here since this is a 'write' transaction.\n      const signer = await getProviderOrSigner(true);\n      // Create a new instance of the Contract with a Signer, which allows\n      // update methods\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, signer);\n      // call the startPresale from the contract\n      const tx = await nftContract.startPresale();\n      setLoading(true);\n      // wait for the transaction to get mined\n      await tx.wait();\n      setLoading(false);\n      // set the presale started to true\n      await checkIfPresaleStarted();\n    } catch (err) {\n      console.error(err);\n    }\n  };\n\n  /**\n   * checkIfPresaleStarted: checks if the presale has started by querying the `presaleStarted`\n   * variable in the contract\n   */\n  const checkIfPresaleStarted = async () => {\n    try {\n      // Get the provider from web3Modal, which in our case is MetaMask\n      // No need for the Signer here, as we are only reading state from the blockchain\n      const provider = await getProviderOrSigner();\n      // We connect to the Contract using a Provider, so we will only\n      // have read-only access to the Contract\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, provider);\n      // call the presaleStarted from the contract\n      const _presaleStarted = await nftContract.presaleStarted();\n      if (!_presaleStarted) {\n        await getOwner();\n      }\n      setPresaleStarted(_presaleStarted);\n      return _presaleStarted;\n    } catch (err) {\n      console.error(err);\n      return false;\n    }\n  };\n\n  /**\n   * checkIfPresaleEnded: checks if the presale has ended by querying the `presaleEnded`\n   * variable in the contract\n   */\n  const checkIfPresaleEnded = async () => {\n    try {\n      // Get the provider from web3Modal, which in our case is MetaMask\n      // No need for the Signer here, as we are only reading state from the blockchain\n      const provider = await getProviderOrSigner();\n      // We connect to the Contract using a Provider, so we will only\n      // have read-only access to the Contract\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, provider);\n      // call the presaleEnded from the contract\n      const _presaleEnded = await nftContract.presaleEnded();\n      // _presaleEnded is a Big Number, so we are using the lt(less than function) instead of `<`\n      // Date.now()/1000 returns the current time in seconds\n      // We compare if the _presaleEnded timestamp is less than the current time\n      // which means presale has ended\n      const hasEnded = _presaleEnded.lt(Math.floor(Date.now() / 1000));\n      if (hasEnded) {\n        setPresaleEnded(true);\n      } else {\n        setPresaleEnded(false);\n      }\n      return hasEnded;\n    } catch (err) {\n      console.error(err);\n      return false;\n    }\n  };\n\n  /**\n   * getOwner: calls the contract to retrieve the owner\n   */\n  const getOwner = async () => {\n    try {\n      // Get the provider from web3Modal, which in our case is MetaMask\n      // No need for the Signer here, as we are only reading state from the blockchain\n      const provider = await getProviderOrSigner();\n      // We connect to the Contract using a Provider, so we will only\n      // have read-only access to the Contract\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, provider);\n      // call the owner function from the contract\n      const _owner = await nftContract.owner();\n      // We will get the signer now to extract the address of the currently connected MetaMask account\n      const signer = await getProviderOrSigner(true);\n      // Get the address associated to the signer which is connected to  MetaMask\n      const address = await signer.getAddress();\n      if (address.toLowerCase() === _owner.toLowerCase()) {\n        setIsOwner(true);\n      }\n    } catch (err) {\n      console.error(err.message);\n    }\n  };\n\n  /**\n   * getTokenIdsMinted: gets the number of tokenIds that have been minted\n   */\n  const getTokenIdsMinted = async () => {\n    try {\n      // Get the provider from web3Modal, which in our case is MetaMask\n      // No need for the Signer here, as we are only reading state from the blockchain\n      const provider = await getProviderOrSigner();\n      // We connect to the Contract using a Provider, so we will only\n      // have read-only access to the Contract\n      const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, provider);\n      // call the tokenIds from the contract\n      const _tokenIds = await nftContract.tokenIds();\n      //_tokenIds is a `Big Number`. We need to convert the Big Number to a string\n      setTokenIdsMinted(_tokenIds.toString());\n    } catch (err) {\n      console.error(err);\n    }\n  };\n\n  /**\n   * Returns a Provider or Signer object representing the Ethereum RPC with or without the\n   * signing capabilities of metamask attached\n   *\n   * A `Provider` is needed to interact with the blockchain - reading transactions, reading balances, reading state, etc.\n   *\n   * A `Signer` is a special type of Provider used in case a `write` transaction needs to be made to the blockchain, which involves the connected account\n   * needing to make a digital signature to authorize the transaction being sent. Metamask exposes a Signer API to allow your website to\n   * request signatures from the user using Signer functions.\n   *\n   * @param {*} needSigner - True if you need the signer, default false otherwise\n   */\n  const getProviderOrSigner = async (needSigner = false) => {\n    // Connect to Metamask\n    // Since we store `web3Modal` as a reference, we need to access the `current` value to get access to the underlying object\n    const provider = await web3ModalRef.current.connect();\n    const web3Provider = new providers.Web3Provider(provider);\n\n    // If user is not connected to the Goerli network, let them know and throw an error\n    const { chainId } = await web3Provider.getNetwork();\n    if (chainId !== 5) {\n      window.alert(\"Change the network to Goerli\");\n      throw new Error(\"Change network to Goerli\");\n    }\n\n    if (needSigner) {\n      const signer = web3Provider.getSigner();\n      return signer;\n    }\n    return web3Provider;\n  };\n\n  // useEffects are used to react to changes in state of the website\n  // The array at the end of function call represents what state changes will trigger this effect\n  // In this case, whenever the value of `walletConnected` changes - this effect will be called\n  useEffect(() => {\n    // if wallet is not connected, create a new instance of Web3Modal and connect the MetaMask wallet\n    if (!walletConnected) {\n      // Assign the Web3Modal class to the reference object by setting it's `current` value\n      // The `current` value is persisted throughout as long as this page is open\n      web3ModalRef.current = new Web3Modal({\n        network: \"goerli\",\n        providerOptions: {},\n        disableInjectedProvider: false,\n      });\n      connectWallet();\n\n      // Check if presale has started and ended\n      const _presaleStarted = checkIfPresaleStarted();\n      if (_presaleStarted) {\n        checkIfPresaleEnded();\n      }\n\n      getTokenIdsMinted();\n\n      // Set an interval which gets called every 5 seconds to check presale has ended\n      const presaleEndedInterval = setInterval(async function () {\n        const _presaleStarted = await checkIfPresaleStarted();\n        if (_presaleStarted) {\n          const _presaleEnded = await checkIfPresaleEnded();\n          if (_presaleEnded) {\n            clearInterval(presaleEndedInterval);\n          }\n        }\n      }, 5 * 1000);\n\n      // set an interval to get the number of token Ids minted every 5 seconds\n      setInterval(async function () {\n        await getTokenIdsMinted();\n      }, 5 * 1000);\n    }\n  }, [walletConnected]);\n\n  /*\n      renderButton: Returns a button based on the state of the dapp\n    */\n  const renderButton = () => {\n    // If wallet is not connected, return a button which allows them to connect their wallet\n    if (!walletConnected) {\n      return (\n        <button onClick={connectWallet} className={styles.button}>\n          Connect your wallet\n        </button>\n      );\n    }\n\n    // If we are currently waiting for something, return a loading button\n    if (loading) {\n      return <button className={styles.button}>Loading...</button>;\n    }\n\n    // If connected user is the owner, and presale hasn't started yet, allow them to start the presale\n    if (isOwner && !presaleStarted) {\n      return (\n        <button className={styles.button} onClick={startPresale}>\n          Start Presale!\n        </button>\n      );\n    }\n\n    // If connected user is not the owner but presale hasn't started yet, tell them that\n    if (!presaleStarted) {\n      return (\n        <div>\n          <div className={styles.description}>Presale hasn&#39;t started!</div>\n        </div>\n      );\n    }\n\n    // If presale started, but hasn't ended yet, allow for minting during the presale period\n    if (presaleStarted && !presaleEnded) {\n      return (\n        <div>\n          <div className={styles.description}>\n            Presale has started!!! If your address is whitelisted, Mint a Crypto\n            Dev 🥳\n          </div>\n          <button className={styles.button} onClick={presaleMint}>\n            Presale Mint 🚀\n          </button>\n        </div>\n      );\n    }\n\n    // If presale started and has ended, it's time for public minting\n    if (presaleStarted && presaleEnded) {\n      return (\n        <button className={styles.button} onClick={publicMint}>\n          Public Mint 🚀\n        </button>\n      );\n    }\n  };\n\n  return (\n    <div>\n      <Head>\n        <title>Crypto Devs</title>\n        <meta name=\"description\" content=\"Whitelist-Dapp\" />\n        <link rel=\"icon\" href=\"/favicon.ico\" />\n      </Head>\n      <div className={styles.main}>\n        <div>\n          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>\n          <div className={styles.description}>\n            It&#39;s an NFT collection for developers in Crypto.\n          </div>\n          <div className={styles.description}>\n            {tokenIdsMinted}/20 have been minted\n          </div>\n          {renderButton()}\n        </div>\n        <div>\n          <img className={styles.image} src=\"./cryptodevs/0.svg\" />\n        </div>\n      </div>\n\n      <footer className={styles.footer}>\n        Made with &#10084; by Crypto Devs\n      </footer>\n    </div>\n  );\n}\n```\n\nYou might have noticed the `&#39;` in the code. These are called [HTML Entities](https://www.w3schools.com/html/html_entities.asp). As an experiment, try what would happen if you wrote `hasn't` instead of `hasn&#39;t` when building or deploying to vercel.\n\nNow create a new folder under the `my-app` folder and name it `constants`. In the `constants` folder create a file, `index.js` and paste the following code.\n\nReplace `\"address of your NFT contract\"` with the address of the CryptoDevs contract that you deployed and saved to your notepad. Replace `---your abi---` with the abi of your CryptoDevs Contract. To get the abi for your contract, go to your `hardhat-tutorial/artifacts/contracts/CryptoDevs.sol` folder and from your `CryptoDevs.json` file get the array marked under the `\"abi\"` key.\n\n```js\nexport const abi =---your abi---\nexport const NFT_CONTRACT_ADDRESS = \"address of your NFT contract\"\n```\n\nNow in your terminal which is pointing to `my-app` folder, execute\n\n```bash\nnpm run dev\n```\n\nYour Crypto Devs NFT dapp should now work without errors 🚀\n\n---\n\n### Push to github\n\nMake sure before proceeding you have [pushed all your code to github](https://medium.com/hackernoon/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4) :)\n\n---\n\n## Deploying your dApp\n\nWe will now deploy your dApp, so that everyone can see your website and you can share it with all of your LearnWeb3 DAO friends.\n\n- Go to https://vercel.com/ and sign in with your GitHub\n- Then click on `New Project` button and then select your NFT-Collection repo\n- When configuring your new project, Vercel will allow you to customize your `Root Directory`\n- Click `Edit` next to `Root Directory` and set it to `my-app`\n- Select the Framework as `Next.js`\n- Click `Deploy`\n  ![](https://i.imgur.com/oaEt3Tj.png)\n\nNow you can see your deployed website by going to your dashboard, selecting your project, and copying the `domain` from there! Save the `domain` on notepad, you would need it later.\n\n## View your Collection on Opensea\n\nNow let's make sure your collection is available on Opensea\n\nTo make the collection available on Opensea, we would need to create a metadata endpoint. This endpoint would return the metadata for an NFT given its `tokenId`.\n\nOpen your `my-app` folder and under`pages/api` folder, create a new file named `[tokenId].js`(Make sure the name has the brackets as well). Adding the brackets helps create dynamic routes in [next js](https://nextjs.org/docs/routing/dynamic-routes)\n\nAdd the following lines to `[tokenId].js` file. Read about adding API routes in `next js` [here](https://nextjs.org/docs/api-routes/introduction)\n\n```js\nexport default function handler(req, res) {\n  // get the tokenId from the query params\n  const tokenId = req.query.tokenId;\n  // As all the images are uploaded on github, we can extract the images from github directly.\n  const image_url =\n    \"https://raw.githubusercontent.com/LearnWeb3DAO/NFT-Collection/main/my-app/public/cryptodevs/\";\n  // The api is sending back metadata for a Crypto Dev\n  // To make our collection compatible with Opensea, we need to follow some Metadata standards\n  // when sending back the response from the api\n  // More info can be found here: https://docs.opensea.io/docs/metadata-standards\n  res.status(200).json({\n    name: \"Crypto Dev #\" + tokenId,\n    description: \"Crypto Dev is a collection of developers in crypto\",\n    image: image_url + tokenId + \".svg\",\n  });\n}\n```\n\nNow you have an API route that OpenSea, and other websites, can call to retrieve the metadata for the NFT. Those websites first call `tokenURI` on the smart contract to get the link of where the NFT metadata is stored. `tokenURI` will give them your API route we just created. Then, they can call this API route to get the name, description, and image for the NFT.\n\nLet's deploy a new version of the `Crypto Devs` contract with this new API route as your `METADATA_URL`\n\nOpen your `hardhat-tutorial/constants` folder and inside your `index.js` file, replace \"https://nft-collection-sneh1999.vercel.app/api/\" with the domain which you saved to notepad and add \"/api/\" to its end.\n\nSave the file and open up a new terminal pointing to `hardhat-tutorial` folder and deploy a new contract\n\n```bash\n  npx hardhat run scripts/deploy.js --network goerli\n```\n\nSave the new NFT contract address to a notepad as we will need it later. Open up \"my-app/constants\" folder and inside the `index.js` file replace the old NFT contract address with the new one\n\nPush all the code to github and wait for Vercel to deploy the new code. After vercel has deployed your code, open up your website and mint an NFT. After your transaction gets successful, in your browser open up this link by replacing `your-nft-contract-address` with the address of your NFT contract (https://testnets.opensea.io/assets/goerli/your-nft-contract-address/1)\n\nYour NFT is now available on Opensea 🚀 🥳 Share your Opensea link with everyone on discord :) and spread happiness.\n",
+  "tree_structure": [
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "95fd61f0935507afaabaaf73c076de4aa01421be",
+      "size": 36278,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/README.md?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/95fd61f0935507afaabaaf73c076de4aa01421be",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/95fd61f0935507afaabaaf73c076de4aa01421be",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/README.md"
+      }
+    },
+    {
+      "name": "hardhat-tutorial",
+      "path": "hardhat-tutorial",
+      "sha": "030c1188acfb52b09a090d591db0d69c060195b8",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/030c1188acfb52b09a090d591db0d69c060195b8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/030c1188acfb52b09a090d591db0d69c060195b8",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "hardhat-tutorial/.gitignore",
+      "sha": "00dad773492c83d56efe897dd6d8c2945a199580",
+      "size": 101,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/.gitignore?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/.gitignore",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/00dad773492c83d56efe897dd6d8c2945a199580",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/00dad773492c83d56efe897dd6d8c2945a199580",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "hardhat-tutorial/README.md",
+      "sha": "e9dd5f34853b61ef08582792bfca9abb891acb72",
+      "size": 352,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/README.md?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/README.md",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/e9dd5f34853b61ef08582792bfca9abb891acb72",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/README.md?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/e9dd5f34853b61ef08582792bfca9abb891acb72",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/README.md"
+      }
+    },
+    {
+      "name": "constants",
+      "path": "hardhat-tutorial/constants",
+      "sha": "d963ee4bed93907c55413a9d44a6b34c24492270",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/constants?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/constants",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/d963ee4bed93907c55413a9d44a6b34c24492270",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/constants?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/d963ee4bed93907c55413a9d44a6b34c24492270",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/constants"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "hardhat-tutorial/constants/index.js",
+      "sha": "653e56d1cf0f6b4743141d71169f0c4751e2acb8",
+      "size": 329,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/constants/index.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/constants/index.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/653e56d1cf0f6b4743141d71169f0c4751e2acb8",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/constants/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/constants/index.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/653e56d1cf0f6b4743141d71169f0c4751e2acb8",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/constants/index.js"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "hardhat-tutorial/contracts",
+      "sha": "f21b520e2d129429a5c7b70c2ca343e23be19258",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/contracts?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/contracts",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/f21b520e2d129429a5c7b70c2ca343e23be19258",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/contracts?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/f21b520e2d129429a5c7b70c2ca343e23be19258",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/contracts"
+      }
+    },
+    {
+      "name": "CryptoDevs.sol",
+      "path": "hardhat-tutorial/contracts/CryptoDevs.sol",
+      "sha": "4de93d5eb2c8393b295e4218584d70ace0957518",
+      "size": 4430,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/contracts/CryptoDevs.sol?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/contracts/CryptoDevs.sol",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/4de93d5eb2c8393b295e4218584d70ace0957518",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/contracts/CryptoDevs.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/contracts/CryptoDevs.sol?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/4de93d5eb2c8393b295e4218584d70ace0957518",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/contracts/CryptoDevs.sol"
+      }
+    },
+    {
+      "name": "IWhitelist.sol",
+      "path": "hardhat-tutorial/contracts/IWhitelist.sol",
+      "sha": "a41405b7b5640005937295f14815ef61b616e1d7",
+      "size": 155,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/contracts/IWhitelist.sol?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/contracts/IWhitelist.sol",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a41405b7b5640005937295f14815ef61b616e1d7",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/contracts/IWhitelist.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/contracts/IWhitelist.sol?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a41405b7b5640005937295f14815ef61b616e1d7",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/contracts/IWhitelist.sol"
+      }
+    },
+    {
+      "name": "hardhat.config.js",
+      "path": "hardhat-tutorial/hardhat.config.js",
+      "sha": "94e99e38fd79d737b5f58797eb6dab706e83d050",
+      "size": 683,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/hardhat.config.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/hardhat.config.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/94e99e38fd79d737b5f58797eb6dab706e83d050",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/hardhat.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/hardhat.config.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/94e99e38fd79d737b5f58797eb6dab706e83d050",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/hardhat.config.js"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "hardhat-tutorial/package-lock.json",
+      "sha": "04793f22ce6eedc164f2657d1b59d5f79def1242",
+      "size": 336575,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/package-lock.json?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/package-lock.json",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/04793f22ce6eedc164f2657d1b59d5f79def1242",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/04793f22ce6eedc164f2657d1b59d5f79def1242",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "hardhat-tutorial/package.json",
+      "sha": "1786aaac8808466b351f19d3bb022093a936a648",
+      "size": 469,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/package.json?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/package.json",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/1786aaac8808466b351f19d3bb022093a936a648",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/package.json?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/1786aaac8808466b351f19d3bb022093a936a648",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/package.json"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "hardhat-tutorial/scripts",
+      "sha": "19b31d1ce0b54f784492c183ec0375115e227a93",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/scripts?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/scripts",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/19b31d1ce0b54f784492c183ec0375115e227a93",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/scripts?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/19b31d1ce0b54f784492c183ec0375115e227a93",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/scripts"
+      }
+    },
+    {
+      "name": "deploy.js",
+      "path": "hardhat-tutorial/scripts/deploy.js",
+      "sha": "eada177836898c3425541e431ac0ced6d996c164",
+      "size": 1126,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/scripts/deploy.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/scripts/deploy.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/eada177836898c3425541e431ac0ced6d996c164",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/scripts/deploy.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/scripts/deploy.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/eada177836898c3425541e431ac0ced6d996c164",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/scripts/deploy.js"
+      }
+    },
+    {
+      "name": "test",
+      "path": "hardhat-tutorial/test",
+      "sha": "8abc1a8f9f1f803e9ad08a15c338e0ca477c11e3",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/test?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/test",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/8abc1a8f9f1f803e9ad08a15c338e0ca477c11e3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/test?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/8abc1a8f9f1f803e9ad08a15c338e0ca477c11e3",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/hardhat-tutorial/test"
+      }
+    },
+    {
+      "name": "Lock.js",
+      "path": "hardhat-tutorial/test/Lock.js",
+      "sha": "6a161e6d448e311dcb52760603dfcc8526501029",
+      "size": 4310,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/test/Lock.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/test/Lock.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/6a161e6d448e311dcb52760603dfcc8526501029",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/hardhat-tutorial/test/Lock.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/hardhat-tutorial/test/Lock.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/6a161e6d448e311dcb52760603dfcc8526501029",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/hardhat-tutorial/test/Lock.js"
+      }
+    },
+    {
+      "name": "my-app",
+      "path": "my-app",
+      "sha": "fe0b768ce2aa8e0cca15efe5507023b1c8e02002",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/fe0b768ce2aa8e0cca15efe5507023b1c8e02002",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/fe0b768ce2aa8e0cca15efe5507023b1c8e02002",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "my-app/.gitignore",
+      "sha": "55175ef867e0b00bfa00790a695ee82eb671254d",
+      "size": 343,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/.gitignore?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/.gitignore",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/55175ef867e0b00bfa00790a695ee82eb671254d",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/55175ef867e0b00bfa00790a695ee82eb671254d",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "my-app/README.md",
+      "sha": "ca8a3a21288872f749db7f23e3f78209a55ba656",
+      "size": 1750,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/README.md?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/README.md",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/ca8a3a21288872f749db7f23e3f78209a55ba656",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/README.md?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/ca8a3a21288872f749db7f23e3f78209a55ba656",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/README.md"
+      }
+    },
+    {
+      "name": "constants",
+      "path": "my-app/constants",
+      "sha": "2d09ce0e3bf79c18cd411c573c5560a993d285ef",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/constants?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/constants",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/2d09ce0e3bf79c18cd411c573c5560a993d285ef",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/constants?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/2d09ce0e3bf79c18cd411c573c5560a993d285ef",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/constants"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "my-app/constants/index.js",
+      "sha": "e95a7478b15a5f00167be99b750f91f7e49a8008",
+      "size": 10225,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/constants/index.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/constants/index.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/e95a7478b15a5f00167be99b750f91f7e49a8008",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/constants/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/constants/index.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/e95a7478b15a5f00167be99b750f91f7e49a8008",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/constants/index.js"
+      }
+    },
+    {
+      "name": "jsconfig.json",
+      "path": "my-app/jsconfig.json",
+      "sha": "2a2e4b3bf8ba1c86d96fc2f5786597ad77a0e5e9",
+      "size": 73,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/jsconfig.json?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/jsconfig.json",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/2a2e4b3bf8ba1c86d96fc2f5786597ad77a0e5e9",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/jsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/jsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/2a2e4b3bf8ba1c86d96fc2f5786597ad77a0e5e9",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/jsconfig.json"
+      }
+    },
+    {
+      "name": "next.config.js",
+      "path": "my-app/next.config.js",
+      "sha": "a843cbee09afaadbf9c8dd1477dcccf7eb56af50",
+      "size": 118,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/next.config.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/next.config.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a843cbee09afaadbf9c8dd1477dcccf7eb56af50",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/next.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/next.config.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a843cbee09afaadbf9c8dd1477dcccf7eb56af50",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/next.config.js"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "my-app/package-lock.json",
+      "sha": "048b49834ff4b05dfd1a59f5ff225bf4d3ad114e",
+      "size": 67983,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/package-lock.json?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/package-lock.json",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/048b49834ff4b05dfd1a59f5ff225bf4d3ad114e",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/048b49834ff4b05dfd1a59f5ff225bf4d3ad114e",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "my-app/package.json",
+      "sha": "8f3080e586fda6ad61bdca69f50ecf690100be0a",
+      "size": 333,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/package.json?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/package.json",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8f3080e586fda6ad61bdca69f50ecf690100be0a",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/package.json?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8f3080e586fda6ad61bdca69f50ecf690100be0a",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/package.json"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "my-app/pages",
+      "sha": "22bf82f68480146b3e6cfe33ffdef6c5530d3b13",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/pages",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/22bf82f68480146b3e6cfe33ffdef6c5530d3b13",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/22bf82f68480146b3e6cfe33ffdef6c5530d3b13",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/pages"
+      }
+    },
+    {
+      "name": "_app.js",
+      "path": "my-app/pages/_app.js",
+      "sha": "23002013d70aa52189700305aacd93dba6849067",
+      "size": 127,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/_app.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/_app.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/23002013d70aa52189700305aacd93dba6849067",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/pages/_app.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/_app.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/23002013d70aa52189700305aacd93dba6849067",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/_app.js"
+      }
+    },
+    {
+      "name": "_document.js",
+      "path": "my-app/pages/_document.js",
+      "sha": "54e8bf3e2a29015a45e11cdc279e06b459890d8b",
+      "size": 231,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/_document.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/_document.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/54e8bf3e2a29015a45e11cdc279e06b459890d8b",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/pages/_document.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/_document.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/54e8bf3e2a29015a45e11cdc279e06b459890d8b",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/_document.js"
+      }
+    },
+    {
+      "name": "api",
+      "path": "my-app/pages/api",
+      "sha": "96188c5c9fb42f97c0b70ed989429e03b8e89005",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/api?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/pages/api",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/96188c5c9fb42f97c0b70ed989429e03b8e89005",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/api?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/96188c5c9fb42f97c0b70ed989429e03b8e89005",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/pages/api"
+      }
+    },
+    {
+      "name": "[tokenId].js",
+      "path": "my-app/pages/api/[tokenId].js",
+      "sha": "a91dcd319f6bbeba092987b1fea1cdc9f5bf350e",
+      "size": 801,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/api/[tokenId].js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/api/[tokenId].js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a91dcd319f6bbeba092987b1fea1cdc9f5bf350e",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/pages/api/%5BtokenId%5D.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/api/[tokenId].js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a91dcd319f6bbeba092987b1fea1cdc9f5bf350e",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/api/[tokenId].js"
+      }
+    },
+    {
+      "name": "hello.js",
+      "path": "my-app/pages/api/hello.js",
+      "sha": "df63de88fa67cb006e692cc789caea580ba3697e",
+      "size": 170,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/api/hello.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/api/hello.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/df63de88fa67cb006e692cc789caea580ba3697e",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/pages/api/hello.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/api/hello.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/df63de88fa67cb006e692cc789caea580ba3697e",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/api/hello.js"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "my-app/pages/index.js",
+      "sha": "ffc12c72c552587669e6112d2c09be1a850c0d4f",
+      "size": 10243,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/index.js?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/index.js",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/ffc12c72c552587669e6112d2c09be1a850c0d4f",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/pages/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/pages/index.js?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/ffc12c72c552587669e6112d2c09be1a850c0d4f",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/pages/index.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "my-app/public",
+      "sha": "bab806080adf387fe33717c4ee089f66f2befc6b",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/public",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/bab806080adf387fe33717c4ee089f66f2befc6b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/bab806080adf387fe33717c4ee089f66f2befc6b",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/public"
+      }
+    },
+    {
+      "name": "cryptodevs",
+      "path": "my-app/public/cryptodevs",
+      "sha": "e61e73ec38f56fed221c64397b6e3e153e8dde7f",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/public/cryptodevs",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/e61e73ec38f56fed221c64397b6e3e153e8dde7f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/e61e73ec38f56fed221c64397b6e3e153e8dde7f",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/public/cryptodevs"
+      }
+    },
+    {
+      "name": "0.svg",
+      "path": "my-app/public/cryptodevs/0.svg",
+      "sha": "51ed160a89d91912a6a244760466980fcb55b178",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/0.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/0.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/51ed160a89d91912a6a244760466980fcb55b178",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/0.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/0.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/51ed160a89d91912a6a244760466980fcb55b178",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/0.svg"
+      }
+    },
+    {
+      "name": "1.svg",
+      "path": "my-app/public/cryptodevs/1.svg",
+      "sha": "8c8fb342d075d0fa190db2e78d5789a065d38e2d",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/1.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/1.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8c8fb342d075d0fa190db2e78d5789a065d38e2d",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/1.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/1.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8c8fb342d075d0fa190db2e78d5789a065d38e2d",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/1.svg"
+      }
+    },
+    {
+      "name": "10.svg",
+      "path": "my-app/public/cryptodevs/10.svg",
+      "sha": "58b6adba4d27c8650a6df9377b582e1d8f60353b",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/10.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/10.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/58b6adba4d27c8650a6df9377b582e1d8f60353b",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/10.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/10.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/58b6adba4d27c8650a6df9377b582e1d8f60353b",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/10.svg"
+      }
+    },
+    {
+      "name": "11.svg",
+      "path": "my-app/public/cryptodevs/11.svg",
+      "sha": "5cc6e3cdb576b7b871c8b3a96181d29f6352b5c1",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/11.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/11.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/5cc6e3cdb576b7b871c8b3a96181d29f6352b5c1",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/11.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/11.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/5cc6e3cdb576b7b871c8b3a96181d29f6352b5c1",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/11.svg"
+      }
+    },
+    {
+      "name": "12.svg",
+      "path": "my-app/public/cryptodevs/12.svg",
+      "sha": "baef6208ab6523f8deff5074b619124f0307cc41",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/12.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/12.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/baef6208ab6523f8deff5074b619124f0307cc41",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/12.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/12.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/baef6208ab6523f8deff5074b619124f0307cc41",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/12.svg"
+      }
+    },
+    {
+      "name": "13.svg",
+      "path": "my-app/public/cryptodevs/13.svg",
+      "sha": "9581051399cfa5b4226950124eb90d5bbe6d5d36",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/13.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/13.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/9581051399cfa5b4226950124eb90d5bbe6d5d36",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/13.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/13.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/9581051399cfa5b4226950124eb90d5bbe6d5d36",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/13.svg"
+      }
+    },
+    {
+      "name": "14.svg",
+      "path": "my-app/public/cryptodevs/14.svg",
+      "sha": "b40a4cc9376262ae720510db156372b8bf406414",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/14.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/14.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/b40a4cc9376262ae720510db156372b8bf406414",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/14.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/14.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/b40a4cc9376262ae720510db156372b8bf406414",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/14.svg"
+      }
+    },
+    {
+      "name": "15.svg",
+      "path": "my-app/public/cryptodevs/15.svg",
+      "sha": "a7c3409d1a4b2417a6e10cde4e82defb4f16dd6e",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/15.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/15.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a7c3409d1a4b2417a6e10cde4e82defb4f16dd6e",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/15.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/15.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/a7c3409d1a4b2417a6e10cde4e82defb4f16dd6e",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/15.svg"
+      }
+    },
+    {
+      "name": "16.svg",
+      "path": "my-app/public/cryptodevs/16.svg",
+      "sha": "e5a34521005fbc5f83244e76436d81c970983a93",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/16.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/16.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/e5a34521005fbc5f83244e76436d81c970983a93",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/16.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/16.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/e5a34521005fbc5f83244e76436d81c970983a93",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/16.svg"
+      }
+    },
+    {
+      "name": "17.svg",
+      "path": "my-app/public/cryptodevs/17.svg",
+      "sha": "9b481c76e6464e178524d654ff898297ac7f5046",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/17.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/17.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/9b481c76e6464e178524d654ff898297ac7f5046",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/17.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/17.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/9b481c76e6464e178524d654ff898297ac7f5046",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/17.svg"
+      }
+    },
+    {
+      "name": "18.svg",
+      "path": "my-app/public/cryptodevs/18.svg",
+      "sha": "915df00764a7585a0f3790d6812d5b8f8441706c",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/18.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/18.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/915df00764a7585a0f3790d6812d5b8f8441706c",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/18.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/18.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/915df00764a7585a0f3790d6812d5b8f8441706c",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/18.svg"
+      }
+    },
+    {
+      "name": "19.svg",
+      "path": "my-app/public/cryptodevs/19.svg",
+      "sha": "16fbb930d1a79adce4256dd96187528b345de36e",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/19.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/19.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/16fbb930d1a79adce4256dd96187528b345de36e",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/19.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/19.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/16fbb930d1a79adce4256dd96187528b345de36e",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/19.svg"
+      }
+    },
+    {
+      "name": "2.svg",
+      "path": "my-app/public/cryptodevs/2.svg",
+      "sha": "cbd502d3107550a90bb9fcd09dc90a12b978d355",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/2.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/2.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/cbd502d3107550a90bb9fcd09dc90a12b978d355",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/2.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/2.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/cbd502d3107550a90bb9fcd09dc90a12b978d355",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/2.svg"
+      }
+    },
+    {
+      "name": "3.svg",
+      "path": "my-app/public/cryptodevs/3.svg",
+      "sha": "65c2b6564456e89a1782ae569a75c324ab156edb",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/3.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/3.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/65c2b6564456e89a1782ae569a75c324ab156edb",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/3.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/3.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/65c2b6564456e89a1782ae569a75c324ab156edb",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/3.svg"
+      }
+    },
+    {
+      "name": "4.svg",
+      "path": "my-app/public/cryptodevs/4.svg",
+      "sha": "22bc24589b4d366010f772fa0e05ea8bee494662",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/4.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/4.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/22bc24589b4d366010f772fa0e05ea8bee494662",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/4.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/4.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/22bc24589b4d366010f772fa0e05ea8bee494662",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/4.svg"
+      }
+    },
+    {
+      "name": "5.svg",
+      "path": "my-app/public/cryptodevs/5.svg",
+      "sha": "7bc9f34073fd6e35d7111b2b552e5b863e404bcc",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/5.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/5.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/7bc9f34073fd6e35d7111b2b552e5b863e404bcc",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/5.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/5.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/7bc9f34073fd6e35d7111b2b552e5b863e404bcc",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/5.svg"
+      }
+    },
+    {
+      "name": "6.svg",
+      "path": "my-app/public/cryptodevs/6.svg",
+      "sha": "96ca28f54385bbcce4ab2d883c74d5fe25e4b4bb",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/6.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/6.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/96ca28f54385bbcce4ab2d883c74d5fe25e4b4bb",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/6.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/6.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/96ca28f54385bbcce4ab2d883c74d5fe25e4b4bb",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/6.svg"
+      }
+    },
+    {
+      "name": "7.svg",
+      "path": "my-app/public/cryptodevs/7.svg",
+      "sha": "d7225378d2dc5f7de26b7ed9e0eaf1f47c6ce604",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/7.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/7.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/d7225378d2dc5f7de26b7ed9e0eaf1f47c6ce604",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/7.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/7.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/d7225378d2dc5f7de26b7ed9e0eaf1f47c6ce604",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/7.svg"
+      }
+    },
+    {
+      "name": "8.svg",
+      "path": "my-app/public/cryptodevs/8.svg",
+      "sha": "5907106f1ebb6558b604026f343dad7d986e2c02",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/8.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/8.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/5907106f1ebb6558b604026f343dad7d986e2c02",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/8.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/8.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/5907106f1ebb6558b604026f343dad7d986e2c02",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/8.svg"
+      }
+    },
+    {
+      "name": "9.svg",
+      "path": "my-app/public/cryptodevs/9.svg",
+      "sha": "8e6cfb09eb301f661bdf71add6372f2af5348406",
+      "size": 14383,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/9.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/9.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8e6cfb09eb301f661bdf71add6372f2af5348406",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/cryptodevs/9.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/cryptodevs/9.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8e6cfb09eb301f661bdf71add6372f2af5348406",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/cryptodevs/9.svg"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "my-app/public/favicon.ico",
+      "sha": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "size": 25931,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/favicon.ico"
+      }
+    },
+    {
+      "name": "next.svg",
+      "path": "my-app/public/next.svg",
+      "sha": "5174b28c565c285e3e312ec5178be64fbeca8398",
+      "size": 1375,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/next.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/next.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/5174b28c565c285e3e312ec5178be64fbeca8398",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/next.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/next.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/5174b28c565c285e3e312ec5178be64fbeca8398",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/next.svg"
+      }
+    },
+    {
+      "name": "thirteen.svg",
+      "path": "my-app/public/thirteen.svg",
+      "sha": "8977c1bd123cbe4a9f7b32c63594921688275cdd",
+      "size": 1138,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/thirteen.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/thirteen.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8977c1bd123cbe4a9f7b32c63594921688275cdd",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/thirteen.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/thirteen.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/8977c1bd123cbe4a9f7b32c63594921688275cdd",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/thirteen.svg"
+      }
+    },
+    {
+      "name": "vercel.svg",
+      "path": "my-app/public/vercel.svg",
+      "sha": "d2f84222734f27b623d1c80dda3561b04d1284af",
+      "size": 629,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/vercel.svg?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/vercel.svg",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/d2f84222734f27b623d1c80dda3561b04d1284af",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/public/vercel.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/public/vercel.svg?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/d2f84222734f27b623d1c80dda3561b04d1284af",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/public/vercel.svg"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "my-app/styles",
+      "sha": "a6e195a614aa46c493cdbf10bf856fb6f66777b3",
+      "size": 0,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/styles?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/styles",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/a6e195a614aa46c493cdbf10bf856fb6f66777b3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/styles?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/trees/a6e195a614aa46c493cdbf10bf856fb6f66777b3",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/tree/main/my-app/styles"
+      }
+    },
+    {
+      "name": "Home.module.css",
+      "path": "my-app/styles/Home.module.css",
+      "sha": "4dd0fc5480796d4db6ab978aa1a6611cf0c8dd8d",
+      "size": 1206,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/styles/Home.module.css?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/styles/Home.module.css",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/4dd0fc5480796d4db6ab978aa1a6611cf0c8dd8d",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/styles/Home.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/styles/Home.module.css?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/4dd0fc5480796d4db6ab978aa1a6611cf0c8dd8d",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/styles/Home.module.css"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "my-app/styles/globals.css",
+      "sha": "d4f491e152dd0aaca7ba3ffd87ed3300955a3620",
+      "size": 2206,
+      "url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/styles/globals.css?ref=main",
+      "html_url": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/styles/globals.css",
+      "git_url": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/d4f491e152dd0aaca7ba3ffd87ed3300955a3620",
+      "download_url": "https://raw.githubusercontent.com/web3crafter/NFTCollection_Crypto-Devs/main/my-app/styles/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/contents/my-app/styles/globals.css?ref=main",
+        "git": "https://api.github.com/repos/web3crafter/NFTCollection_Crypto-Devs/git/blobs/d4f491e152dd0aaca7ba3ffd87ed3300955a3620",
+        "html": "https://github.com/web3crafter/NFTCollection_Crypto-Devs/blob/main/my-app/styles/globals.css"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6733,
+    "hardhat.org": 9012,
+    "localhost:3000`,": null,
+    "www.quicknode.com": 5395,
+    "download-directory.github.io": null,
+    "raw.githubusercontent.com": null,
+    "i.imgur.com": 6275,
+    "docs.openzeppelin.com": 3512,
+    "nft-collection-sneh1999.vercel.app": null,
+    "nextjs.org": 3452,
+    "vercel.com": 9660,
+    "youtu.be": 6658,
+    "testnets.opensea.io": 3001,
+    "reactjs.org": 4674,
+    "www.w3schools.com": 9491,
+    "medium.com": 10156,
+    "docs.opensea.io": 3001
+  },
+  "collected_at": "2026-03-17T17:38:50.904564"
+}

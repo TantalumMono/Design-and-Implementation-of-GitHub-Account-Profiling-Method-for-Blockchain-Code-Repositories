@@ -1,0 +1,637 @@
+{
+  "repo_full_name": "YosephKS/moralis-opensea-plugins",
+  "repo_detail": {
+    "id": 420331329,
+    "node_id": "R_kgDOGQ2_QQ",
+    "name": "moralis-opensea-plugins",
+    "full_name": "YosephKS/moralis-opensea-plugins",
+    "private": false,
+    "owner": {
+      "login": "YosephKS",
+      "id": 48710170,
+      "node_id": "MDQ6VXNlcjQ4NzEwMTcw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48710170?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YosephKS",
+      "html_url": "https://github.com/YosephKS",
+      "followers_url": "https://api.github.com/users/YosephKS/followers",
+      "following_url": "https://api.github.com/users/YosephKS/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YosephKS/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YosephKS/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YosephKS/subscriptions",
+      "organizations_url": "https://api.github.com/users/YosephKS/orgs",
+      "repos_url": "https://api.github.com/users/YosephKS/repos",
+      "events_url": "https://api.github.com/users/YosephKS/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YosephKS/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/YosephKS/moralis-opensea-plugins",
+    "description": "Simple NFT Marketplace dApp using Moralis OpenSea Plugin",
+    "fork": false,
+    "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins",
+    "forks_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/forks",
+    "keys_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/teams",
+    "hooks_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/hooks",
+    "issue_events_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/events",
+    "assignees_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/tags",
+    "blobs_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/languages",
+    "stargazers_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/stargazers",
+    "contributors_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contributors",
+    "subscribers_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/subscribers",
+    "subscription_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/subscription",
+    "commits_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/merges",
+    "archive_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/downloads",
+    "issues_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/labels{/name}",
+    "releases_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/deployments",
+    "created_at": "2021-10-23T06:18:17Z",
+    "updated_at": "2025-12-09T13:48:34Z",
+    "pushed_at": "2021-11-04T05:24:05Z",
+    "git_url": "git://github.com/YosephKS/moralis-opensea-plugins.git",
+    "ssh_url": "git@github.com:YosephKS/moralis-opensea-plugins.git",
+    "clone_url": "https://github.com/YosephKS/moralis-opensea-plugins.git",
+    "svn_url": "https://github.com/YosephKS/moralis-opensea-plugins",
+    "homepage": "https://www.youtube.com/watch?v=r2YFhfjIb3k",
+    "size": 79,
+    "stargazers_count": 28,
+    "watchers_count": 28,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 12,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "dapp",
+      "dapps",
+      "dapps-development",
+      "erc1155",
+      "erc721",
+      "ethereum",
+      "fleek-hosting",
+      "ipfs",
+      "metamask",
+      "moralis",
+      "nft",
+      "nftmar",
+      "nfts",
+      "opensea",
+      "react",
+      "react-hooks",
+      "reactjs",
+      "web3"
+    ],
+    "visibility": "public",
+    "forks": 12,
+    "open_issues": 2,
+    "watchers": 28,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 12,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "YosephKS",
+    "id": 48710170,
+    "node_id": "MDQ6VXNlcjQ4NzEwMTcw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48710170?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/YosephKS",
+    "html_url": "https://github.com/YosephKS",
+    "followers_url": "https://api.github.com/users/YosephKS/followers",
+    "following_url": "https://api.github.com/users/YosephKS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/YosephKS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/YosephKS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/YosephKS/subscriptions",
+    "organizations_url": "https://api.github.com/users/YosephKS/orgs",
+    "repos_url": "https://api.github.com/users/YosephKS/repos",
+    "events_url": "https://api.github.com/users/YosephKS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/YosephKS/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yoseph Kurnia S.",
+    "company": "@senpi-ai",
+    "blog": "https://linktr.ee/yosephks",
+    "location": "Dubai, United Arab Emirates",
+    "email": null,
+    "hireable": true,
+    "bio": null,
+    "twitter_username": "YSoenggoro",
+    "public_repos": 89,
+    "public_gists": 0,
+    "followers": 121,
+    "following": 47,
+    "created_at": "2019-03-19T07:28:27Z",
+    "updated_at": "2026-03-18T18:08:39Z"
+  },
+  "readme": "# Moralis OpenSea Plugins\n\nThis repository contains the code for the [Moralis OpenSea Youtube tutorial](https://www.youtube.com/watch?v=r2YFhfjIb3k&t=35s). It is a simple implementation of an NFT Marketplace dApp using React framework, mainly to showcase the simplicity of using Moralis OpenSea Plugin.\n\n---\n\n## Table of Contents\n\n- [Deployment](https://github.com/YosephKS/moralis-opensea-plugins#deployment)\n- [Branches](https://github.com/YosephKS/moralis-opensea-plugins#branches)\n- [Pre-requisites](https://github.com/YosephKS/moralis-opensea-plugins#pre-requisites)\n\t- [Node.js](https://github.com/YosephKS/moralis-opensea-plugins#1-nodejs)\n\t- [NPM/Yarn](https://github.com/YosephKS/moralis-opensea-plugins#2-npmyarn)\n\t- [Moralis Account](https://github.com/YosephKS/moralis-opensea-plugins#3-moralis-account)\n- [Getting Started](https://github.com/YosephKS/moralis-opensea-plugins#getting-started)\n\t- [Clone Project](https://github.com/YosephKS/moralis-opensea-plugins#1-clone-project)\n\t- [Install Dependencies](https://github.com/YosephKS/moralis-opensea-plugins#2-install-dependencies)\n\t- [Add Moralis `appId` and `serverUrl`](https://github.com/YosephKS/moralis-opensea-plugins#3-add-moralis-appid-and-serverurl)\n\t- [Run The Project](https://github.com/YosephKS/moralis-opensea-plugins#3-add-moralis-appid-and-serverurl)\n- [Production](https://github.com/YosephKS/moralis-opensea-plugins#3-production)\n- [Related Repository](https://github.com/YosephKS/moralis-opensea-plugins#related-repository)\n- [License](https://github.com/YosephKS/moralis-opensea-plugins#license)\n\n---\n\n### Deployment\n\n- IPFS (Fleek): [https://moralis-opensea-plugins.on.fleek.co/](https://moralis-opensea-plugins.on.fleek.co/)\n\n---\n\n### Branches\n\n- [main](https://github.com/YosephKS/moralis-opensea-plugins/tree/main): This is the end result of the project\n- [empty-project](https://github.com/YosephKS/moralis-opensea-plugins/tree/empty-project): This branch is suitable for those who want to follow the Youtube tutorial\n\n---\n\n### Pre-requisites\n\n#### 1. Node.js\n\nCheck whether you have Node.js in your machine with the following command, otherwise click [here](https://nodejs.org/en/) to install it.\n\n```bash\nnode -v\n```\n\n#### 2. NPM/Yarn\n\nIf you have installed Node.js in your machine, NPM will already be installed along with it. Check whether NPM is installed within your machine with the following command. \n\n```bash\nnpm -v\n```\n\nOtherwise, if you want to use Yarn as your package manager. Go to its [official website](https://yarnpkg.com/) and follow the installation process. Once installed, check Yarn with the following command.\n\n```bash\nyarn -v\n```\n\n#### 3. Moralis Account\n\nIf you have not signed up to Moralis yet, click [here](https://admin.moralis.io/register) to register and get your free Moralis Admin account in just a few minutes!\n\n---\n\n### Getting Started\n\n#### 1. Clone Project\n\n```bash\ngit clone https://github.com/YosephKS/moralis-opensea-plugins.git\n```\n\n#### 2. Install Dependencies\n\n```bash\n# NPM\nnpm i\n\n# Yarn\nyarn\n```\n\n#### 3. Add Moralis `appId` and `serverUrl`\n\nCreate a `.env` file by copying `.env.example` and fill in these environment variables.\n\n```\nREACT_APP_MORALIS_APP_ID=xxx\nREACT_APP_MORALIS_SERVER_URL=xxx\n```\n\nIf you would like to hardcode the `appId` and `serverUrl`, go to `src/index.js` and place those variables directly in the file.\n\n```js\n<MoralisProvider appId=\"xxx\" serverUrl=\"xxx\">\n\t<App />\n</MoralisProvider>\n```\n\n#### 4. Run The Project\n\nIf you would like to follow the Youtube tutorial and get an empty template instead, go to the `empty-project` branch instead.\n\n```bash\n# NPM\nnpm run start\n\n# Yarn\nyarn start\n```\n---\n\n### Production\n\nTo use the code for production, compile the build version and run the following command\n\n```bash\n# NPM\nnpm run build\n\n# Yarn\nyarn build\n```\n\nOnce the building process is completed (whether locally or remotely in CI/CD), deploy the build version to your favorite hosting service.\n\n---\n\n### Related Repository\n\n- [truffle-opensea-nft](https://github.com/YosephKS/truffle-opensea-nft): Building NFTs (ERC721 & ERC1155) for OpenSea using Truffle, Moralis, and Openzeppelin\n\n---\n\n### License\n\n[GNU GPL v3.0](https://github.com/YosephKS/moralis-opensea-plugins/blob/main/LICENSE)\n",
+  "tree_structure": [
+    {
+      "name": ".env.example",
+      "path": ".env.example",
+      "sha": "8f4364856776924358ad93c5c7b527f3e5703e04",
+      "size": 61,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.env.example?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.env.example",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/8f4364856776924358ad93c5c7b527f3e5703e04",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.env.example",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.env.example?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/8f4364856776924358ad93c5c7b527f3e5703e04",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.env.example"
+      }
+    },
+    {
+      "name": ".eslintignore",
+      "path": ".eslintignore",
+      "sha": "fb2e52289473f50881d99a423c9e0d61222cd6a8",
+      "size": 76,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.eslintignore?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.eslintignore",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/fb2e52289473f50881d99a423c9e0d61222cd6a8",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.eslintignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.eslintignore?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/fb2e52289473f50881d99a423c9e0d61222cd6a8",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.eslintignore"
+      }
+    },
+    {
+      "name": ".eslintrc.json",
+      "path": ".eslintrc.json",
+      "sha": "39e7210121c0d671ea22f496fef23748b3357463",
+      "size": 626,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.eslintrc.json?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.eslintrc.json",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/39e7210121c0d671ea22f496fef23748b3357463",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.eslintrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.eslintrc.json?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/39e7210121c0d671ea22f496fef23748b3357463",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.eslintrc.json"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "b7cd2a6e4076b5c438e9edde644380d4ac4f40e6",
+      "size": 325,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/b7cd2a6e4076b5c438e9edde644380d4ac4f40e6",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/b7cd2a6e4076b5c438e9edde644380d4ac4f40e6",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".prettierignore",
+      "path": ".prettierignore",
+      "sha": "fb2e52289473f50881d99a423c9e0d61222cd6a8",
+      "size": 76,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.prettierignore?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.prettierignore",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/fb2e52289473f50881d99a423c9e0d61222cd6a8",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.prettierignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.prettierignore?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/fb2e52289473f50881d99a423c9e0d61222cd6a8",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.prettierignore"
+      }
+    },
+    {
+      "name": ".prettierrc",
+      "path": ".prettierrc",
+      "sha": "c81fcdeb3f5bb0b53768d1c892ed3ab016807006",
+      "size": 164,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.prettierrc?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.prettierrc",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/c81fcdeb3f5bb0b53768d1c892ed3ab016807006",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.prettierrc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.prettierrc?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/c81fcdeb3f5bb0b53768d1c892ed3ab016807006",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.prettierrc"
+      }
+    },
+    {
+      "name": ".vscode",
+      "path": ".vscode",
+      "sha": "80b466b1d5e63454dca3b6aaa791fed8d88325c7",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.vscode?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/.vscode",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/80b466b1d5e63454dca3b6aaa791fed8d88325c7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.vscode?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/80b466b1d5e63454dca3b6aaa791fed8d88325c7",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/.vscode"
+      }
+    },
+    {
+      "name": "settings.json",
+      "path": ".vscode/settings.json",
+      "sha": "79d85c6dcd41f338779c894d5d857c9951e84962",
+      "size": 170,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.vscode/settings.json?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.vscode/settings.json",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/79d85c6dcd41f338779c894d5d857c9951e84962",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/.vscode/settings.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/.vscode/settings.json?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/79d85c6dcd41f338779c894d5d857c9951e84962",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/.vscode/settings.json"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "c8790fe7e9759f11535d91d3e1a0beeebee425a3",
+      "size": 4249,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/README.md?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/c8790fe7e9759f11535d91d3e1a0beeebee425a3",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/c8790fe7e9759f11535d91d3e1a0beeebee425a3",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/README.md"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "f0797f9b3c7aa444adf325cf367afe02d8b8193c",
+      "size": 1677,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/package.json?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/f0797f9b3c7aa444adf325cf367afe02d8b8193c",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/f0797f9b3c7aa444adf325cf367afe02d8b8193c",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/package.json"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "fb0ed370e27056f5e434b96956103bf8d5aa2564",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/public",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/fb0ed370e27056f5e434b96956103bf8d5aa2564",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/fb0ed370e27056f5e434b96956103bf8d5aa2564",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/public"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "public/favicon.ico",
+      "sha": "21449cc52f2ca67745bd39f5b3c0b865beaa9c2d",
+      "size": 1150,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/21449cc52f2ca67745bd39f5b3c0b865beaa9c2d",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/21449cc52f2ca67745bd39f5b3c0b865beaa9c2d",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/favicon.ico"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "public/index.html",
+      "sha": "2bbbb21cd0b401ae05bf7fd4c6b7630f4c5f7a3b",
+      "size": 1798,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/index.html?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/index.html",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/2bbbb21cd0b401ae05bf7fd4c6b7630f4c5f7a3b",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/index.html?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/2bbbb21cd0b401ae05bf7fd4c6b7630f4c5f7a3b",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/index.html"
+      }
+    },
+    {
+      "name": "logo192.png",
+      "path": "public/logo192.png",
+      "sha": "fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+      "size": 5347,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/logo192.png?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/logo192.png",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/public/logo192.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/logo192.png?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/logo192.png"
+      }
+    },
+    {
+      "name": "logo512.png",
+      "path": "public/logo512.png",
+      "sha": "a4e47a6545bc15971f8f63fba70e4013df88a664",
+      "size": 9664,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/logo512.png?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/logo512.png",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/a4e47a6545bc15971f8f63fba70e4013df88a664",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/public/logo512.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/logo512.png?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/a4e47a6545bc15971f8f63fba70e4013df88a664",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/logo512.png"
+      }
+    },
+    {
+      "name": "manifest.json",
+      "path": "public/manifest.json",
+      "sha": "080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+      "size": 492,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/manifest.json?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/manifest.json",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/public/manifest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/manifest.json?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/manifest.json"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "public/robots.txt",
+      "sha": "e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "size": 67,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/robots.txt?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/robots.txt",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/public/robots.txt?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/public/robots.txt"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "2ddc114059f5d7d071dd53131875635049c4436d",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/src",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/2ddc114059f5d7d071dd53131875635049c4436d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/2ddc114059f5d7d071dd53131875635049c4436d",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/App.css",
+      "sha": "83b7c5ec14ada7c681401b7951fdca5da0b28269",
+      "size": 540,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/App.css?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/App.css",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/83b7c5ec14ada7c681401b7951fdca5da0b28269",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/83b7c5ec14ada7c681401b7951fdca5da0b28269",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/App.css"
+      }
+    },
+    {
+      "name": "App.js",
+      "path": "src/App.js",
+      "sha": "2819cf508a04db91ce255aec2fe82ea4b3320fc3",
+      "size": 3763,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/App.js?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/App.js",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/2819cf508a04db91ce255aec2fe82ea4b3320fc3",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/App.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/App.js?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/2819cf508a04db91ce255aec2fe82ea4b3320fc3",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/App.js"
+      }
+    },
+    {
+      "name": "App.test.js",
+      "path": "src/App.test.js",
+      "sha": "f9f7b24779bbddd7b29dc8adfd521017a5dc23d8",
+      "size": 243,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/App.test.js?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/App.test.js",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/f9f7b24779bbddd7b29dc8adfd521017a5dc23d8",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/App.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/App.test.js?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/f9f7b24779bbddd7b29dc8adfd521017a5dc23d8",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/App.test.js"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "src/assets",
+      "sha": "b03d4c41344d1d6b92a7eba105d5a72766767c1f",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/assets?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/src/assets",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/b03d4c41344d1d6b92a7eba105d5a72766767c1f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/assets?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/trees/b03d4c41344d1d6b92a7eba105d5a72766767c1f",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/tree/main/src/assets"
+      }
+    },
+    {
+      "name": "logo.png",
+      "path": "src/assets/logo.png",
+      "sha": "d01360ab58519c1101ab8fc7b6041d996a98049f",
+      "size": 14414,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/assets/logo.png?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/assets/logo.png",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/d01360ab58519c1101ab8fc7b6041d996a98049f",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/assets/logo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/assets/logo.png?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/d01360ab58519c1101ab8fc7b6041d996a98049f",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/assets/logo.png"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "src/index.css",
+      "sha": "e0684378dc03cc857869644e04ce218518359ecb",
+      "size": 355,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/index.css?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/index.css",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/e0684378dc03cc857869644e04ce218518359ecb",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/index.css?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/e0684378dc03cc857869644e04ce218518359ecb",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/index.css"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "src/index.js",
+      "sha": "5563505a7a0a3045e51c04e265808e4d1052f920",
+      "size": 790,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/index.js?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/index.js",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/5563505a7a0a3045e51c04e265808e4d1052f920",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/index.js?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/5563505a7a0a3045e51c04e265808e4d1052f920",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/index.js"
+      }
+    },
+    {
+      "name": "reportWebVitals.js",
+      "path": "src/reportWebVitals.js",
+      "sha": "45a848b46296509853a839f6b9b5d143aac0de46",
+      "size": 343,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/reportWebVitals.js?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/reportWebVitals.js",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/45a848b46296509853a839f6b9b5d143aac0de46",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/reportWebVitals.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/reportWebVitals.js?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/45a848b46296509853a839f6b9b5d143aac0de46",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/reportWebVitals.js"
+      }
+    },
+    {
+      "name": "setupTests.js",
+      "path": "src/setupTests.js",
+      "sha": "1dd407a63ef3dfe125f2044471689923a3c507a9",
+      "size": 241,
+      "url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/setupTests.js?ref=main",
+      "html_url": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/setupTests.js",
+      "git_url": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/1dd407a63ef3dfe125f2044471689923a3c507a9",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/moralis-opensea-plugins/main/src/setupTests.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/contents/src/setupTests.js?ref=main",
+        "git": "https://api.github.com/repos/YosephKS/moralis-opensea-plugins/git/blobs/1dd407a63ef3dfe125f2044471689923a3c507a9",
+        "html": "https://github.com/YosephKS/moralis-opensea-plugins/blob/main/src/setupTests.js"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6754,
+    "www.youtube.com": 7720,
+    "admin.moralis.io": 1899,
+    "yarnpkg.com": 3483,
+    "moralis-opensea-plugins.on.fleek.co": 2222,
+    "nodejs.org": 6033
+  },
+  "collected_at": "2026-04-07T12:49:55.119337"
+}

@@ -1,0 +1,10 @@
+﻿label,y_proba,y_pred,repo_full_name,family_id,is_real_positive,is_generated_positive,case_type
+1,0.9960304,1,2723799947qq2022/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,0.9960304,1,2kwkkk/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,0.9960304,1,790659193qqch/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,0.9511646,1,SuperDev313/Trading_Platform_Ultrax,F3_web3_platform_app,1,0,hard_real_positive
+1,0.9523845,1,clixlogix/blockchain-dev,F3_web3_platform_app,1,0,hard_real_positive
+1,0.96022826,1,FaceOFWood/SniperBot-Solana-PumpSwap,F2_crypto_trading_bot,1,0,hard_real_positive
+0,0.25003663,1,Fida-Kainth/Block-Chain-A-Decentralized-Cryptocurrency-Wallet-System-with-Automated-Zakat-Deduction,NEG_00711,0,0,hard_negative
+0,0.22836116,1,Jared351/Blockchain-crypto-currencies,NEG_00933,0,0,hard_negative
+0,0.22694041,1,DixDev1621/BLOCKCHAIN-DeFi-Router,NEG_00590,0,0,hard_negative

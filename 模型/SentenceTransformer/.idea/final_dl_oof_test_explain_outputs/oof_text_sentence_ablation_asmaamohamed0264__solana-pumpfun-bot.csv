@@ -1,0 +1,66 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+AUX,used snipe new tokens pump.fun raydium profit.,0.9997856357367824,0.9996560044731895,0.00012963126359288868
+README,solana pumpfun bot listens new pump.fun raydium pools buys tokens fixed wsol.,0.9997856357367824,0.9997463306855848,3.930505119753569e-05
+README,runtime environment terminal vscode.,0.9997856357367824,0.9997770226658632,8.61307091915009e-06
+README,configure script updating .env.example file remove .example file 2.,0.9997856357367824,0.9997796005256883,6.035211094101989e-06
+README,depending speed rpc node purchase usually happens token available ui swapping.,0.9997856357367824,0.9997800566937893,5.579042993031358e-06
+README,rpc websocket endpoint websocket rpc endpoint 5.,0.9997856357367824,0.9997825831085185,3.0526282638332347e-06
+README,convert sol wsol trading.,0.9997856357367824,0.9997851516045957,4.841321866733139e-07
+README,check mint renounced script buy mint renounced 13.,0.9997856357367824,0.9997856357367824,0.0
+README,profit 50 15.,0.9997856357367824,0.9997856357367824,0.0
+README,snipe list refresh interval snipe list refreshed milliseconds 12.,0.9997856357367824,0.9997856357367824,0.0
+README,use snipe list buy tokens listed snipe-list.txt 11.,0.9997856357367824,0.9997856357367824,0.0
+README,check burned liquidity burn check 9.,0.9997856357367824,0.9997856357367824,0.0
+README,check locked liquidity lock check 10.,0.9997856357367824,0.9997856357367824,0.0
+README,commitment level modification required 8.,0.9997856357367824,0.9997856357367824,0.0
+README,quote used buy new token 7.,0.9997856357367824,0.9997856357367824,0.0
+README,quote mint use wsol default 6.,0.9997856357367824,0.9997856357367824,0.0
+README,min pool size script buy pool size greater specified 14.,0.9997856357367824,0.9997856357367824,0.0
+README,want generate don forget check birdeye api api key working bot functions tp sl min max liquidity work correctly work all.,0.9997856357367824,0.9997856357367824,0.0
+README,birdeye api key tp sl burn lock use default link .env file works fine does need changed.,0.9997856357367824,0.9997856357367824,0.0
+README,follow instructions errors.,0.9997856357367824,0.9997856357367824,0.0
+README,achieve ll use snipe list.,0.9997856357367824,0.9997856357367824,0.0
+README,scenarios want buy specific token soon possible launch event.,0.9997856357367824,0.9997856357367824,0.0
+README,snipe list default script buys token new liquidity pool created open trading.,0.9997856357367824,0.9997856357367824,0.0
+README,developer responsible losses incurred using feature.,0.9997856357367824,0.9997856357367824,0.0
+README,guarantee token sold profit sold all.,0.9997856357367824,0.9997856357367824,0.0
+README,want disable need 1.,0.9997856357367824,0.9997856357367824,0.0
+README,update auto sell delay number milliseconds want wait selling token sell token specified delay.,0.9997856357367824,0.9997856357367824,0.0
+README,update max sell retries set maximum number retries selling token 3.,0.9997856357367824,0.9997856357367824,0.0
+README,change variable auto sell false 2.,0.9997856357367824,0.9997856357367824,0.0
+README,install dependencies typing npm install 2.,0.9997856357367824,0.9997856357367824,0.0
+README,run script typing npm run buy terminal profit note default 50 stop loss note default 30 auto sell default auto sell enabled.,0.9997856357367824,0.9997856357367824,0.0
+README,install 1.,0.9997856357367824,0.9997856357367824,0.0
+README,stop loss 30 16.,0.9997856357367824,0.9997856357367824,0.0
+README,add token mint addresses wish buy snipe-list.txt file add address new line prevent script buying instead buy just listed tokens.,0.9997856357367824,0.9997856357367824,0.0
+README,update list script running.,0.9997856357367824,0.9997856357367824,0.0
+README,buy new pool open trading.,0.9997856357367824,0.9997856357367824,0.0
+README,script check new values specified interval snipe list refresh interval pool exist script starts.,0.9997856357367824,0.9997856357367824,0.0
+README,common issues important error listed create new issue repository.,0.9997856357367824,0.9997856357367824,0.0
+README,collect information issue change log level debug transaction transactions solscan likely fix change commitment level finalized unsopported rpc node following error log file error 410 gone jsonrpc 2.0 error 410 message rpc parameters disabled.,0.9997856357367824,0.9997856357367824,0.0
+README,id 986f3599-b2b7-47c4-b951-074c19842bad means rpc node doesn support methods needed execute script.,0.9997856357367824,0.9997856357367824,0.0
+README,want buy token launched future make sure script running launch.,0.9997856357367824,0.9997856357367824,0.0
+README,fix change rpc node.,0.9997856357367824,0.9997856357367824,0.0
+README,use shyft helius quicknode.,0.9997856357367824,0.9997856357367824,0.0
+README,fix dex swap sol usdc wsol.,0.9997856357367824,0.9997856357367824,0.0
+README,token account following error log file error sol token account wallet means wallet provided doesn usdc wsol token account.,0.9997856357367824,0.9997856357367824,0.0
+README,swap sol wsol wallet.,0.9997856357367824,0.9997856357367824,0.0
+README,1.,0.9997856357367824,0.9997856357367824,0.0
+README,change variable use snipe list true 2.,0.9997856357367824,0.9997856357367824,0.0
+README,+- rpc node speed set auto sell delay token sold immediately bought.,0.9997856357367824,0.9997856357367824,0.0
+README,suggestions contact discord zldp 2002 disclaimer important use bot risk responsible losses incurred using bot.,0.9997856357367824,0.9997856357367824,0.0
+README,contact program undergone multiple audits tests demonstrating strong profitability.,0.9997856357367824,0.9997856357367824,0.0
+README,config 1.,0.9997856357367824,0.9997868506496991,-1.2149129167138284e-06
+README,4.,0.9997856357367824,0.9997874469091682,-1.8111723858460493e-06
+README,wsol snipe auto-sell tp sl min liq burn lock check renounce check fast buy note provided learning purposes.,0.9997856357367824,0.9997878548838419,-2.2191470595567253e-06
+README,configuration example sol 0.1 wsol quote 0.01 adjust according situation.,0.9997856357367824,0.9997880681760916,-2.4324393091967877e-06
+README,download extract files use command git clone click green button select download zip 2.,0.9997856357367824,0.9997884049628655,-2.7692260831102544e-06
+README,rpc endpoint https rpc endpoint 4.,0.9997856357367824,0.9997887055585231,-3.069821740697698e-06
+README,program took months complete hope helpful looking snipe tokens solana note testing using wsol exchange token important sol transaction fees.,0.9997856357367824,0.9997898590013826,-4.223264600256016e-06
+README,detailed steps provided read carefully.,0.9997856357367824,0.9997904092806771,-4.773543894720511e-06
+README,note want run test hour need retain sol gas fees paid sol.,0.9997856357367824,0.9997909100785789,-5.274341796535076e-06
+README,example 10 sol wsol quote 0.1 +- jupiter wrap click manual set use wsol finally click manage convert sol wsol.,0.9997856357367824,0.9997914534303936,-5.817693611187558e-06
+README,private key wallet private key 3.,0.9997856357367824,0.9997917091857393,-6.073448956978034e-06
+README,setup run script need 1.,0.9997856357367824,0.999795775630803,-1.0139894020655404e-05
+README,install node.js environment computer 3.,0.9997856357367824,0.999798394671115,-1.2758934332612881e-05
+AUX,error free requires careful reading use it.,0.9997856357367824,0.9998009626717778,-1.5326934995396613e-05

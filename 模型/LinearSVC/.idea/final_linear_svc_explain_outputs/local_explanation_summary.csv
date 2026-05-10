@@ -1,0 +1,10 @@
+﻿row_index,repo_full_name,case_type,label,y_proba,y_pred,decision_score_linear,top_feature_1,top_contribution_1
+43,Zeeeepa/spyder-osint,high_score_real_positive,1,0.9999251449258738,1,1.3087519648600856,repo_is_fork,0.8058493571895261
+7,arliawhite/rentverse,high_score_real_positive,1,0.9998808785342095,1,1.552572357132207,repo_is_fork,0.8058493571895261
+25,mdemetrial26rvk9w/solana-pumpfun-bot,high_score_real_positive,1,0.9998596182908027,1,1.3401243949602395,repo_is_fork,0.8058493571895261
+29,Morning-Star213/Solana-pumpfun-bot,hard_real_positive,1,0.1853143160102532,0,-0.14454165964640586,has_env_file,0.20997569394308524
+21,knightsdex/knightsbridge-dex,hard_real_positive,1,0.33306751494139697,1,-0.09044610729010893,description_has_blockchain_keyword,0.3079806907137313
+14,FaceOFWood/SniperBot-Solana-PumpSwap,hard_real_positive,1,0.3938322284442841,1,-0.0004143547590554908,has_env_file,0.20997569394308524
+547,axiomchronicles/blockchain_simulation,hard_negative,0,0.6210608564190826,1,0.09540763055504731,has_env_file,0.20997569394308524
+1546,mrkkyatilla/omus-wallet,hard_negative,0,0.6160945972709176,1,0.06596591792638029,has_env_file,0.20997569394308524
+1544,mrfomoweb3/nft-wallet-tracker,hard_negative,0,0.5420073644291507,1,0.04901232040516523,description_has_blockchain_keyword,0.3079806907137313

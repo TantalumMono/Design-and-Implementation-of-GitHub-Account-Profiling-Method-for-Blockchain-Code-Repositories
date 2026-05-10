@@ -1,0 +1,565 @@
+{
+  "repo_full_name": "xavierzho/dex-sdk",
+  "repo_detail": {
+    "id": 545203035,
+    "node_id": "R_kgDOIH8jWw",
+    "name": "dex-sdk",
+    "full_name": "xavierzho/dex-sdk",
+    "private": false,
+    "owner": {
+      "login": "xavierzho",
+      "id": 58173674,
+      "node_id": "MDQ6VXNlcjU4MTczNjc0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58173674?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xavierzho",
+      "html_url": "https://github.com/xavierzho",
+      "followers_url": "https://api.github.com/users/xavierzho/followers",
+      "following_url": "https://api.github.com/users/xavierzho/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xavierzho/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xavierzho/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xavierzho/subscriptions",
+      "organizations_url": "https://api.github.com/users/xavierzho/orgs",
+      "repos_url": "https://api.github.com/users/xavierzho/repos",
+      "events_url": "https://api.github.com/users/xavierzho/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xavierzho/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xavierzho/dex-sdk",
+    "description": "ethereum collections public blockchain  Dex sdk",
+    "fork": false,
+    "url": "https://api.github.com/repos/xavierzho/dex-sdk",
+    "forks_url": "https://api.github.com/repos/xavierzho/dex-sdk/forks",
+    "keys_url": "https://api.github.com/repos/xavierzho/dex-sdk/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xavierzho/dex-sdk/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xavierzho/dex-sdk/teams",
+    "hooks_url": "https://api.github.com/repos/xavierzho/dex-sdk/hooks",
+    "issue_events_url": "https://api.github.com/repos/xavierzho/dex-sdk/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xavierzho/dex-sdk/events",
+    "assignees_url": "https://api.github.com/repos/xavierzho/dex-sdk/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xavierzho/dex-sdk/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xavierzho/dex-sdk/tags",
+    "blobs_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xavierzho/dex-sdk/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xavierzho/dex-sdk/languages",
+    "stargazers_url": "https://api.github.com/repos/xavierzho/dex-sdk/stargazers",
+    "contributors_url": "https://api.github.com/repos/xavierzho/dex-sdk/contributors",
+    "subscribers_url": "https://api.github.com/repos/xavierzho/dex-sdk/subscribers",
+    "subscription_url": "https://api.github.com/repos/xavierzho/dex-sdk/subscription",
+    "commits_url": "https://api.github.com/repos/xavierzho/dex-sdk/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xavierzho/dex-sdk/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xavierzho/dex-sdk/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xavierzho/dex-sdk/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xavierzho/dex-sdk/merges",
+    "archive_url": "https://api.github.com/repos/xavierzho/dex-sdk/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xavierzho/dex-sdk/downloads",
+    "issues_url": "https://api.github.com/repos/xavierzho/dex-sdk/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xavierzho/dex-sdk/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xavierzho/dex-sdk/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xavierzho/dex-sdk/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xavierzho/dex-sdk/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xavierzho/dex-sdk/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xavierzho/dex-sdk/deployments",
+    "created_at": "2022-10-04T00:43:37Z",
+    "updated_at": "2023-02-03T17:30:10Z",
+    "pushed_at": "2023-02-03T11:31:54Z",
+    "git_url": "git://github.com/xavierzho/dex-sdk.git",
+    "ssh_url": "git@github.com:xavierzho/dex-sdk.git",
+    "clone_url": "https://github.com/xavierzho/dex-sdk.git",
+    "svn_url": "https://github.com/xavierzho/dex-sdk",
+    "homepage": "",
+    "size": 51,
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "language": "Go",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "xavierzho",
+    "id": 58173674,
+    "node_id": "MDQ6VXNlcjU4MTczNjc0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/58173674?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xavierzho",
+    "html_url": "https://github.com/xavierzho",
+    "followers_url": "https://api.github.com/users/xavierzho/followers",
+    "following_url": "https://api.github.com/users/xavierzho/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xavierzho/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xavierzho/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xavierzho/subscriptions",
+    "organizations_url": "https://api.github.com/users/xavierzho/orgs",
+    "repos_url": "https://api.github.com/users/xavierzho/repos",
+    "events_url": "https://api.github.com/users/xavierzho/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xavierzho/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Xavier",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": "XavierZho",
+    "public_repos": 27,
+    "public_gists": 0,
+    "followers": 6,
+    "following": 5,
+    "created_at": "2019-11-25T12:13:43Z",
+    "updated_at": "2026-02-02T16:24:57Z"
+  },
+  "readme": "# dex-sdk\n[![Go Reference](https://pkg.go.dev/badge/github.com/Jonescy/dex-sdk#section-readme.svg)](https://pkg.go.dev/github.com/Jonescy/dex-sdk#section-readme)\n\nA dex(Decentralized Exchange) that supports the uniswap v2 contract variant\n- [x] BSC(Pancake Swap V2)\n- [x] ETH(Uniswap V2)\n\n# Installation\ngo version >= 1.18\nLatest version\n```shell\ngo get github.com/Jonescy/dex-sdk\n```\nOr Special version\n```shell\ngo get github.com/Jonescy/dex-sdk@<version tag>\n```\n# Usage\nMore example see `examples/`\n\n# Contribution\nPlease make sure your contributions adhere to our coding guidelines:\n\n* Code must adhere to the official Go [formatting](https://golang.org/doc/effective_go.html#formatting)\n  guidelines (i.e. uses [gofmt](https://golang.org/cmd/gofmt/)).\n* Code must be documented adhering to the official Go [commentary](https://golang.org/doc/effective_go.html#commentary)\n  guidelines.\n* Pull requests need to be based on and opened against the `master` branch.\n* Commit messages should be prefixed with the operation and package(s) they modify.\n    * E.g. \"fix(examples/fetchPrice), del: make trace configs optional\"\n\nAll issues and PR these welcome to contribute it, thanks.\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "aafda3a6cb87481f6d1dedfd16345082268d689f",
+      "size": 14,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/aafda3a6cb87481f6d1dedfd16345082268d689f",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/aafda3a6cb87481f6d1dedfd16345082268d689f",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "19fe1c9c02b99e84cc6166debe7e4108082acf5b",
+      "size": 1182,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/README.md?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/19fe1c9c02b99e84cc6166debe7e4108082acf5b",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/19fe1c9c02b99e84cc6166debe7e4108082acf5b",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/README.md"
+      }
+    },
+    {
+      "name": "abi",
+      "path": "abi",
+      "sha": "397cab3011ce0044b1008b0f2ef5224989cad495",
+      "size": 0,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/tree/main/abi",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/397cab3011ce0044b1008b0f2ef5224989cad495",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/397cab3011ce0044b1008b0f2ef5224989cad495",
+        "html": "https://github.com/xavierzho/dex-sdk/tree/main/abi"
+      }
+    },
+    {
+      "name": "erc20",
+      "path": "abi/erc20",
+      "sha": "f983e81aaac39aa5e582d58dc09058830cbee604",
+      "size": 0,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/erc20?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/tree/main/abi/erc20",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/f983e81aaac39aa5e582d58dc09058830cbee604",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/erc20?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/f983e81aaac39aa5e582d58dc09058830cbee604",
+        "html": "https://github.com/xavierzho/dex-sdk/tree/main/abi/erc20"
+      }
+    },
+    {
+      "name": "abi.json",
+      "path": "abi/erc20/abi.json",
+      "sha": "888840d78104770ee8652d6d719701794b9c1fab",
+      "size": 3848,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/erc20/abi.json?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/abi/erc20/abi.json",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/888840d78104770ee8652d6d719701794b9c1fab",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/abi/erc20/abi.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/erc20/abi.json?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/888840d78104770ee8652d6d719701794b9c1fab",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/abi/erc20/abi.json"
+      }
+    },
+    {
+      "name": "erc20.go",
+      "path": "abi/erc20/erc20.go",
+      "sha": "896fe7bd94646cc546ea8a09c1ca62ca18fbf3d5",
+      "size": 34734,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/erc20/erc20.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/abi/erc20/erc20.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/896fe7bd94646cc546ea8a09c1ca62ca18fbf3d5",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/abi/erc20/erc20.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/erc20/erc20.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/896fe7bd94646cc546ea8a09c1ca62ca18fbf3d5",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/abi/erc20/erc20.go"
+      }
+    },
+    {
+      "name": "pair-bsc",
+      "path": "abi/pair-bsc",
+      "sha": "fc769894393b7a5cb40fce35ac43e557ccbcf538",
+      "size": 0,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/pair-bsc?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/tree/main/abi/pair-bsc",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/fc769894393b7a5cb40fce35ac43e557ccbcf538",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/pair-bsc?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/fc769894393b7a5cb40fce35ac43e557ccbcf538",
+        "html": "https://github.com/xavierzho/dex-sdk/tree/main/abi/pair-bsc"
+      }
+    },
+    {
+      "name": "abi.json",
+      "path": "abi/pair-bsc/abi.json",
+      "sha": "6a6ef031f32ea64cdbe1e58a67b3849178819cf9",
+      "size": 8280,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/pair-bsc/abi.json?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/abi/pair-bsc/abi.json",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/6a6ef031f32ea64cdbe1e58a67b3849178819cf9",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/abi/pair-bsc/abi.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/pair-bsc/abi.json?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/6a6ef031f32ea64cdbe1e58a67b3849178819cf9",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/abi/pair-bsc/abi.json"
+      }
+    },
+    {
+      "name": "pair.go",
+      "path": "abi/pair-bsc/pair.go",
+      "sha": "51ef862a8a5cacf062e5565fa4169cddbf85b412",
+      "size": 73662,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/pair-bsc/pair.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/abi/pair-bsc/pair.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/51ef862a8a5cacf062e5565fa4169cddbf85b412",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/abi/pair-bsc/pair.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/abi/pair-bsc/pair.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/51ef862a8a5cacf062e5565fa4169cddbf85b412",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/abi/pair-bsc/pair.go"
+      }
+    },
+    {
+      "name": "caller.go",
+      "path": "caller.go",
+      "sha": "bac2fdbb47ddf75be2a53fb490e44ad2a3253a8a",
+      "size": 484,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/caller.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/caller.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/bac2fdbb47ddf75be2a53fb490e44ad2a3253a8a",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/caller.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/caller.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/bac2fdbb47ddf75be2a53fb490e44ad2a3253a8a",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/caller.go"
+      }
+    },
+    {
+      "name": "chain.go",
+      "path": "chain.go",
+      "sha": "63101c387dcf09024611645d16a0374fdfaf0356",
+      "size": 3182,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/chain.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/chain.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/63101c387dcf09024611645d16a0374fdfaf0356",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/chain.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/chain.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/63101c387dcf09024611645d16a0374fdfaf0356",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/chain.go"
+      }
+    },
+    {
+      "name": "constants.go",
+      "path": "constants.go",
+      "sha": "6bc0c6527684fda19049caf967ab300252c30b02",
+      "size": 842,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/constants.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/constants.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/6bc0c6527684fda19049caf967ab300252c30b02",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/constants.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/constants.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/6bc0c6527684fda19049caf967ab300252c30b02",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/constants.go"
+      }
+    },
+    {
+      "name": "examples",
+      "path": "examples",
+      "sha": "6ac175e277fbfff47ecfe211bc6f3c7ec3f1880a",
+      "size": 0,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/examples?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/tree/main/examples",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/6ac175e277fbfff47ecfe211bc6f3c7ec3f1880a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/examples?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/6ac175e277fbfff47ecfe211bc6f3c7ec3f1880a",
+        "html": "https://github.com/xavierzho/dex-sdk/tree/main/examples"
+      }
+    },
+    {
+      "name": "fetchPrice",
+      "path": "examples/fetchPrice",
+      "sha": "e804f4f9bded3badd3cddec907ab1b9716a9561e",
+      "size": 0,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/examples/fetchPrice?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/tree/main/examples/fetchPrice",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/e804f4f9bded3badd3cddec907ab1b9716a9561e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/examples/fetchPrice?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/trees/e804f4f9bded3badd3cddec907ab1b9716a9561e",
+        "html": "https://github.com/xavierzho/dex-sdk/tree/main/examples/fetchPrice"
+      }
+    },
+    {
+      "name": "main.go",
+      "path": "examples/fetchPrice/main.go",
+      "sha": "58e48d921b2a0be7b72e66c0557c3aeb45ba5541",
+      "size": 1400,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/examples/fetchPrice/main.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/examples/fetchPrice/main.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/58e48d921b2a0be7b72e66c0557c3aeb45ba5541",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/examples/fetchPrice/main.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/examples/fetchPrice/main.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/58e48d921b2a0be7b72e66c0557c3aeb45ba5541",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/examples/fetchPrice/main.go"
+      }
+    },
+    {
+      "name": "fetcher.go",
+      "path": "fetcher.go",
+      "sha": "52e957e8d615c89a085e27766d936a5120019228",
+      "size": 2423,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/fetcher.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/fetcher.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/52e957e8d615c89a085e27766d936a5120019228",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/fetcher.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/fetcher.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/52e957e8d615c89a085e27766d936a5120019228",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/fetcher.go"
+      }
+    },
+    {
+      "name": "go.mod",
+      "path": "go.mod",
+      "sha": "3fd0c724e0f3ddac902a1e7bfd2699e6b5d99def",
+      "size": 1030,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/go.mod?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/go.mod",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/3fd0c724e0f3ddac902a1e7bfd2699e6b5d99def",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/go.mod",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/go.mod?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/3fd0c724e0f3ddac902a1e7bfd2699e6b5d99def",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/go.mod"
+      }
+    },
+    {
+      "name": "go.sum",
+      "path": "go.sum",
+      "sha": "91699727205fee546be1ab0a0645dba82d77037f",
+      "size": 5136,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/go.sum?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/go.sum",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/91699727205fee546be1ab0a0645dba82d77037f",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/go.sum",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/go.sum?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/91699727205fee546be1ab0a0645dba82d77037f",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/go.sum"
+      }
+    },
+    {
+      "name": "pair.go",
+      "path": "pair.go",
+      "sha": "f2f7c82998b5a9c398a3662d7e993340975e3ea4",
+      "size": 6456,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/pair.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/pair.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/f2f7c82998b5a9c398a3662d7e993340975e3ea4",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/pair.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/pair.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/f2f7c82998b5a9c398a3662d7e993340975e3ea4",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/pair.go"
+      }
+    },
+    {
+      "name": "pair_test.go",
+      "path": "pair_test.go",
+      "sha": "38283e8a9052dfb0da119b248a2b44d4a1a84e24",
+      "size": 471,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/pair_test.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/pair_test.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/38283e8a9052dfb0da119b248a2b44d4a1a84e24",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/pair_test.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/pair_test.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/38283e8a9052dfb0da119b248a2b44d4a1a84e24",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/pair_test.go"
+      }
+    },
+    {
+      "name": "token.go",
+      "path": "token.go",
+      "sha": "6786e2be242431cad354044b76390fe3d53eeed2",
+      "size": 1308,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/token.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/token.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/6786e2be242431cad354044b76390fe3d53eeed2",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/token.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/token.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/6786e2be242431cad354044b76390fe3d53eeed2",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/token.go"
+      }
+    },
+    {
+      "name": "tokenAmount.go",
+      "path": "tokenAmount.go",
+      "sha": "b3d87574dc0b8edf5aa6d0ba208bacf16aa08474",
+      "size": 475,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/tokenAmount.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/tokenAmount.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/b3d87574dc0b8edf5aa6d0ba208bacf16aa08474",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/tokenAmount.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/tokenAmount.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/b3d87574dc0b8edf5aa6d0ba208bacf16aa08474",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/tokenAmount.go"
+      }
+    },
+    {
+      "name": "tokens.go",
+      "path": "tokens.go",
+      "sha": "fc905988738ece80199991c9bc930039b95f6fe5",
+      "size": 1673,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/tokens.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/tokens.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/fc905988738ece80199991c9bc930039b95f6fe5",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/tokens.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/tokens.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/fc905988738ece80199991c9bc930039b95f6fe5",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/tokens.go"
+      }
+    },
+    {
+      "name": "utils.go",
+      "path": "utils.go",
+      "sha": "db21305c80e90a1cdc6d39f2589c5e23920a498d",
+      "size": 677,
+      "url": "https://api.github.com/repos/xavierzho/dex-sdk/contents/utils.go?ref=main",
+      "html_url": "https://github.com/xavierzho/dex-sdk/blob/main/utils.go",
+      "git_url": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/db21305c80e90a1cdc6d39f2589c5e23920a498d",
+      "download_url": "https://raw.githubusercontent.com/xavierzho/dex-sdk/main/utils.go",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xavierzho/dex-sdk/contents/utils.go?ref=main",
+        "git": "https://api.github.com/repos/xavierzho/dex-sdk/git/blobs/db21305c80e90a1cdc6d39f2589c5e23920a498d",
+        "html": "https://github.com/xavierzho/dex-sdk/blob/main/utils.go"
+      }
+    }
+  ],
+  "external_domains": {
+    "golang.org": 6052,
+    "pkg.go.dev": null
+  },
+  "collected_at": "2026-03-18T18:02:46.261519"
+}

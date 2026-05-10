@@ -1,0 +1,24 @@
+{
+  "repo_full_name": "drak6y/Trading-Bot-For-Binance-Future",
+  "owner": "drak6y",
+  "is_repo_deleted": true,
+  "snapshot_time": "20251209090853",
+  "metrics": {
+    "stars": 121,
+    "forks": 35000,
+    "watches": 0
+  },
+  "readme_full_text": "Binance Futures Trading Bot (Python)\n\n\nTechnical-analysis–driven crypto trading bot for \nBinance Futures\n.\n\n\nStatus\n\n\n\n\nOS\n: Windows 7,8,10,11 only\n\n\nTime sync (critical for live trading on Windows):\n Configure Windows to sync time daily or Binance may reject orders due to timestamp drift. Example guide: \nhttps://www.makeuseof.com/tag/synchronise-computer-time-internet-custom-schedule-windows-7/#:~:text=Go%20to%20%3E%20Start%20and%20type,on%20the%20right%20hand%20side\n\n\n\n\nFeatures\n\n\n\n\n11 prebuilt strategies\n\n\nSingle or multi-symbol trading\n\n\nTrailing stop (configurable)\n\n\nFlexible TP/SL modes and multipliers\n\n\n\n\nQuick Start\n\n\npip install -r requirements.txt\n\n\npython LiveTrading.py\n\n\n\n\nRisk notice:\n Use strategies at your own risk. Futures are highly leveraged; always apply strict risk management and use stop losses.\n\n\n\n\nBinance Setup\n\n\n\n\nCreate a Binance account.\n\n\nIn \nAPI Management\n, create a new API key.\n\n\nEnable permissions: \nRead\n, \nTrade\n, \nFutures\n, \nWithdrawals\n.\n\n\nPut \napi_key\n and \napi_secret\n into \nliveTradingConfig.py\n.\n\n\n\n\nConfiguration (\nLiveTradingConfig.py\n)\n\n\n\n\nmax_number_of_positions\n: Set to \n1\n for single-position trading; increase to trade multiple symbols.\n\n\nleverage\n, \norder_size\n: Adjust to preference.\n\n\nsymbols_to_trade\n: List of symbols. To trade all, set \ntrade_all_symbols = True\n.\n\n\nTrailing stop\n: Set \nuse_trailing_stop = True\n; tune \ntrailing_stop_callback\n (min \n0.001\n = 0.1%, max \n5\n = 5%). The trailing stop is armed when the strategy’s take‑profit margin is reached.\n\n\nClose conditions\n: \ncheck_close_pos()\n must return a \nclose_pos\n flag. (Currently \nnot functional\n; requires update for new bot.)\n\n\nStrategy\n: Set \ntrading_strategy\n to one of the built-ins or your custom function.\n\n\nBuilt‑in strategies (11)\n: \nStochRSIMACD\n, \ntripleEMAStochasticRSIATR\n, \ntripleEMA\n, \nbreakout\n, \nstochBB\n, \ngoldenCross\n, \ncandle_wick\n, \nfibMACD\n, \nEMA_cross\n, \nheikin_ashi_ema2\n, \nheikin_ashi_ema\n.\n\n\nTP/SL mode — \nTP_SL_choice\n: One of\n\n\nUSDT\n, \n%\n, \nx (ATR)\n, \nx (Swing High/Low) level 1/2/3\n, \nx (Swing Close) level 1/2/3\n.\n\n\nMultipliers\n: \nSL_mult\n, \nTP_mult\n scale the chosen \nTP_SL_choice\n.\n\n\nExample:\n \nTP_SL_choice='USDT'\n, \nSL_mult=1\n, \nTP_mult=2\n → SL = $1, TP = $2.\n\n\ninterval\n: One of \n1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 6h, 8h, 12h, 1d\n.\n\n\n\n\nCustom Strategies\n\n\n\n\nImplement strategy functions in \nTradingStrats.py\n.\n\n\nReference them in \nBot_Class.Bot.make_decision()\n.\n\n\nYour \nmake_decision()\n \nmust return\n:\n\n\nTrade_Direction, stop_loss_val, take_profit_val\n.\n\n\n\n\nShare\n\n\nIf you find this useful, please share the repository.\n\n",
+  "external_assets": {
+    "domains": {
+      "www.makeuseof.com": {
+        "age_days": 7177
+      }
+    },
+    "solana_wallets": []
+  },
+  "owner_current_status": {
+    "account_status": "deleted_or_banned",
+    "account_info": null
+  }
+}

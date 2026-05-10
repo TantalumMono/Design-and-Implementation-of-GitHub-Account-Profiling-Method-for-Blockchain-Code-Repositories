@@ -1,0 +1,12 @@
+{
+  "threshold": 0.005434935446828604,
+  "baseline_metrics_on_trainset": {
+    "threshold": 0.005434935446828604,
+    "pr_auc": 1.0,
+    "roc_auc": 1.0,
+    "precision": 0.9966777408637874,
+    "recall": 1.0,
+    "f1": 0.9983361064891847
+  },
+  "note": "For the final deep model with frozen SentenceTransformer embeddings, global explanation is provided via branch ablation and structured-feature permutation importance; local explanation is provided via branch ablation and grad×input on structured features. This is explanation evidence on the training set, not a separate holdout."
+}

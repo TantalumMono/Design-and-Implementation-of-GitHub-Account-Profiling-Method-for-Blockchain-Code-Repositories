@@ -1,0 +1,127 @@
+{
+  "config": {
+    "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\SentenceTransformer\\.idea\\family_prepared_v3\\family_dataset_train_ready.csv",
+    "outer_n_splits": 5,
+    "inner_n_splits": 3,
+    "n_trials": 40,
+    "allow_generated_positives_in_outer_test": true,
+    "model": "SentenceTransformer+MLP+Optuna (offline)",
+    "encoder_local_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\SentenceTransformer\\models\\all-MiniLM-L6-v2"
+  },
+  "pooled_oof_foldwise_threshold": {
+    "pr_auc": 0.857962154856836,
+    "roc_auc": 0.9778172671210645,
+    "precision": 0.7757352941176471,
+    "recall": 0.7033333333333334,
+    "f1": 0.7377622377622378,
+    "fbeta": 0.7167119565217391,
+    "confusion_matrix": [
+      [
+        1993,
+        61
+      ],
+      [
+        89,
+        211
+      ]
+    ]
+  },
+  "pooled_oof_global_threshold": {
+    "threshold": 0.04483526200056076,
+    "threshold_info": {
+      "threshold": 0.04483526200056076,
+      "precision": 0.8214285714285714,
+      "recall": 0.7666666666666667,
+      "f1": 0.7931034482758621,
+      "f_beta": 0.7770270270270271
+    },
+    "pr_auc": 0.857962154856836,
+    "roc_auc": 0.9778172671210645,
+    "precision": 0.8214285714285714,
+    "recall": 0.7666666666666667,
+    "f1": 0.7931034482758621,
+    "fbeta": 0.7770270270270271,
+    "confusion_matrix": [
+      [
+        2004,
+        50
+      ],
+      [
+        70,
+        230
+      ]
+    ]
+  },
+  "best_params_by_fold": [
+    {
+      "outer_fold": 1,
+      "hidden_dim": 128,
+      "num_layers": 3,
+      "dropout": 0.2695433625260503,
+      "lr": 0.0008422159429846379,
+      "weight_decay": 0.0009300596805746264,
+      "batch_size": 64,
+      "pos_weight_scale": 1.2075416041745852,
+      "threshold": 0.01824333891272545,
+      "inner_precision": 0.9230769230769231,
+      "inner_recall": 0.8780487804878049,
+      "inner_f1": 0.9
+    },
+    {
+      "outer_fold": 2,
+      "hidden_dim": 256,
+      "num_layers": 3,
+      "dropout": 0.10752410596414685,
+      "lr": 0.0011677535718237332,
+      "weight_decay": 3.17624992092726e-05,
+      "batch_size": 16,
+      "pos_weight_scale": 1.2896165942270794,
+      "threshold": 0.43351635336875916,
+      "inner_precision": 0.9655172413793104,
+      "inner_recall": 0.6829268292682927,
+      "inner_f1": 0.8
+    },
+    {
+      "outer_fold": 3,
+      "hidden_dim": 384,
+      "num_layers": 3,
+      "dropout": 0.26922185894752176,
+      "lr": 0.0005695545660405968,
+      "weight_decay": 4.621641376794139e-05,
+      "batch_size": 64,
+      "pos_weight_scale": 1.0435496430423012,
+      "threshold": 0.020716210827231407,
+      "inner_precision": 0.9142857142857143,
+      "inner_recall": 0.8648648648648649,
+      "inner_f1": 0.8888888888888888
+    },
+    {
+      "outer_fold": 4,
+      "hidden_dim": 256,
+      "num_layers": 2,
+      "dropout": 0.29299166482099553,
+      "lr": 0.0017444082919604498,
+      "weight_decay": 0.0009788533763199771,
+      "batch_size": 32,
+      "pos_weight_scale": 1.1135469877347761,
+      "threshold": 0.6219559907913208,
+      "inner_precision": 0.9285714285714286,
+      "inner_recall": 0.6190476190476191,
+      "inner_f1": 0.7428571428571429
+    },
+    {
+      "outer_fold": 5,
+      "hidden_dim": 384,
+      "num_layers": 3,
+      "dropout": 0.10667478841006292,
+      "lr": 0.0024304896272970547,
+      "weight_decay": 0.00020458814610146647,
+      "batch_size": 32,
+      "pos_weight_scale": 1.0730561612218996,
+      "threshold": 0.037215620279312134,
+      "inner_precision": 0.8421052631578947,
+      "inner_recall": 0.8,
+      "inner_f1": 0.8205128205128205
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "input_positive_file": "augmented_300_with_meta.json",
+  "input_negative_file": "negative_github_dataset_cleaned.json",
+  "n_total": 2354,
+  "n_positive": 300,
+  "n_negative": 2054,
+  "n_real_positive": 45,
+  "n_generated_positive": 255,
+  "n_positive_families": 5,
+  "numeric_feature_count": 159,
+  "tfidf_main_text_column": "text_for_tfidf_clean",
+  "tfidf_text_priority": [
+    "combined_text",
+    "fallback_merge(readme+description+topics)",
+    "empty"
+  ],
+  "negative_family_strategy": "each negative sample gets a unique family_id/group_id",
+  "stopword_filtering": true,
+  "custom_stopwords": [
+    "code",
+    "github",
+    "project",
+    "repo",
+    "repository",
+    "source"
+  ],
+  "output_full_csv": "family_prepared_v3\\family_dataset_full.csv",
+  "output_train_ready_csv": "family_prepared_v3\\family_dataset_train_ready.csv"
+}

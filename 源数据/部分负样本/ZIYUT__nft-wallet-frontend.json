@@ -1,0 +1,800 @@
+{
+  "repo_full_name": "ZIYUT/nft-wallet-frontend",
+  "repo_detail": {
+    "id": 1098970459,
+    "node_id": "R_kgDOQYD1Ww",
+    "name": "nft-wallet-frontend",
+    "full_name": "ZIYUT/nft-wallet-frontend",
+    "private": false,
+    "owner": {
+      "login": "ZIYUT",
+      "id": 111171845,
+      "node_id": "U_kgDOBqBZBQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111171845?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ZIYUT",
+      "html_url": "https://github.com/ZIYUT",
+      "followers_url": "https://api.github.com/users/ZIYUT/followers",
+      "following_url": "https://api.github.com/users/ZIYUT/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ZIYUT/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ZIYUT/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ZIYUT/subscriptions",
+      "organizations_url": "https://api.github.com/users/ZIYUT/orgs",
+      "repos_url": "https://api.github.com/users/ZIYUT/repos",
+      "events_url": "https://api.github.com/users/ZIYUT/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ZIYUT/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/ZIYUT/nft-wallet-frontend",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend",
+    "forks_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/forks",
+    "keys_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/teams",
+    "hooks_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/hooks",
+    "issue_events_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/events",
+    "assignees_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/tags",
+    "blobs_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/languages",
+    "stargazers_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/stargazers",
+    "contributors_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contributors",
+    "subscribers_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/subscribers",
+    "subscription_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/subscription",
+    "commits_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/merges",
+    "archive_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/downloads",
+    "issues_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/deployments",
+    "created_at": "2025-11-18T11:36:24Z",
+    "updated_at": "2025-12-07T04:28:20Z",
+    "pushed_at": "2025-11-18T12:27:28Z",
+    "git_url": "git://github.com/ZIYUT/nft-wallet-frontend.git",
+    "ssh_url": "git@github.com:ZIYUT/nft-wallet-frontend.git",
+    "clone_url": "https://github.com/ZIYUT/nft-wallet-frontend.git",
+    "svn_url": "https://github.com/ZIYUT/nft-wallet-frontend",
+    "homepage": null,
+    "size": 1107,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "ZIYUT",
+    "id": 111171845,
+    "node_id": "U_kgDOBqBZBQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/111171845?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZIYUT",
+    "html_url": "https://github.com/ZIYUT",
+    "followers_url": "https://api.github.com/users/ZIYUT/followers",
+    "following_url": "https://api.github.com/users/ZIYUT/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZIYUT/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZIYUT/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZIYUT/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZIYUT/orgs",
+    "repos_url": "https://api.github.com/users/ZIYUT/repos",
+    "events_url": "https://api.github.com/users/ZIYUT/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZIYUT/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Sheldon",
+    "company": null,
+    "blog": "",
+    "location": "Melbourne",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 13,
+    "public_gists": 0,
+    "followers": 3,
+    "following": 9,
+    "created_at": "2022-08-13T07:00:54Z",
+    "updated_at": "2026-04-01T08:18:59Z"
+  },
+  "readme": "# NFT 钱包应用\n\n*Automatically synced with your [v0.app](https://v0.app) deployments*\n\n[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ziyut-s-project/v0-nft)\n[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/mVMfcGMkvQk)\n\n## Overview\n\nThis repository will stay in sync with your deployed chats on [v0.app](https://v0.app).\nAny changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).\n\n## Deployment\n\nYour project is live at:\n\n**[https://vercel.com/ziyut-s-project/v0-nft](https://vercel.com/ziyut-s-project/v0-nft)**\n\n## Build your app\n\nContinue building your app on:\n\n**[https://v0.app/chat/mVMfcGMkvQk](https://v0.app/chat/mVMfcGMkvQk)**\n\n## How It Works\n\n1. Create and modify your project using [v0.app](https://v0.app)\n2. Deploy your chats from the v0 interface\n3. Changes are automatically pushed to this repository\n4. Vercel deploys the latest version from this repository\n",
+  "tree_structure": [
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "c59f0530ec74f1ce3c4e783f05ccbd635be24fcf",
+      "size": 1093,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/README.md?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/c59f0530ec74f1ce3c4e783f05ccbd635be24fcf",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/c59f0530ec74f1ce3c4e783f05ccbd635be24fcf",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/README.md"
+      }
+    },
+    {
+      "name": "app",
+      "path": "app",
+      "sha": "3cfbae38aa9802e88a053c03df81ced2e426fd65",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/app",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/3cfbae38aa9802e88a053c03df81ced2e426fd65",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/3cfbae38aa9802e88a053c03df81ced2e426fd65",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/app"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "app/globals.css",
+      "sha": "80e9d35fc9026c4c4355dab515434c0de85ec762",
+      "size": 3213,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app/globals.css?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/app/globals.css",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/80e9d35fc9026c4c4355dab515434c0de85ec762",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/app/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app/globals.css?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/80e9d35fc9026c4c4355dab515434c0de85ec762",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/app/globals.css"
+      }
+    },
+    {
+      "name": "layout.tsx",
+      "path": "app/layout.tsx",
+      "sha": "4489638dbbd77a9cc1c43c88a1d08c11b66d3e1f",
+      "size": 976,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app/layout.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/app/layout.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/4489638dbbd77a9cc1c43c88a1d08c11b66d3e1f",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/app/layout.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app/layout.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/4489638dbbd77a9cc1c43c88a1d08c11b66d3e1f",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/app/layout.tsx"
+      }
+    },
+    {
+      "name": "page.tsx",
+      "path": "app/page.tsx",
+      "sha": "c742832b592cf2c502a005e9d9e4dcf0fd727d64",
+      "size": 3233,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app/page.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/app/page.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/c742832b592cf2c502a005e9d9e4dcf0fd727d64",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/app/page.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/app/page.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/c742832b592cf2c502a005e9d9e4dcf0fd727d64",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/app/page.tsx"
+      }
+    },
+    {
+      "name": "components.json",
+      "path": "components.json",
+      "sha": "4ee62ee10547066d7ee70f94d79c786226c3c12c",
+      "size": 427,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components.json?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components.json",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/4ee62ee10547066d7ee70f94d79c786226c3c12c",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components.json?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/4ee62ee10547066d7ee70f94d79c786226c3c12c",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components.json"
+      }
+    },
+    {
+      "name": "components",
+      "path": "components",
+      "sha": "9b65181fea731f0416d3f292c3bd73c266ffe159",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/components",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/9b65181fea731f0416d3f292c3bd73c266ffe159",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/9b65181fea731f0416d3f292c3bd73c266ffe159",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/components"
+      }
+    },
+    {
+      "name": "bottom-tab-bar.tsx",
+      "path": "components/bottom-tab-bar.tsx",
+      "sha": "95ce53d762f49b9bd84e2560fd50f1bad820767a",
+      "size": 2697,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/bottom-tab-bar.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/bottom-tab-bar.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/95ce53d762f49b9bd84e2560fd50f1bad820767a",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/bottom-tab-bar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/bottom-tab-bar.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/95ce53d762f49b9bd84e2560fd50f1bad820767a",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/bottom-tab-bar.tsx"
+      }
+    },
+    {
+      "name": "expanded-ticket-view.tsx",
+      "path": "components/expanded-ticket-view.tsx",
+      "sha": "196391e228f3a246aed61f41118d2861713a6c40",
+      "size": 7967,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/expanded-ticket-view.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/expanded-ticket-view.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/196391e228f3a246aed61f41118d2861713a6c40",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/expanded-ticket-view.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/expanded-ticket-view.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/196391e228f3a246aed61f41118d2861713a6c40",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/expanded-ticket-view.tsx"
+      }
+    },
+    {
+      "name": "nft-detail-page.tsx",
+      "path": "components/nft-detail-page.tsx",
+      "sha": "aa84163c31c3776749e0e1d434e82776784ffc7c",
+      "size": 8825,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/nft-detail-page.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/nft-detail-page.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/aa84163c31c3776749e0e1d434e82776784ffc7c",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/nft-detail-page.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/nft-detail-page.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/aa84163c31c3776749e0e1d434e82776784ffc7c",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/nft-detail-page.tsx"
+      }
+    },
+    {
+      "name": "profile-page.tsx",
+      "path": "components/profile-page.tsx",
+      "sha": "6472d0c1681e4e118a9b7d7b492e351d650296b9",
+      "size": 4864,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/profile-page.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/profile-page.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/6472d0c1681e4e118a9b7d7b492e351d650296b9",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/profile-page.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/profile-page.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/6472d0c1681e4e118a9b7d7b492e351d650296b9",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/profile-page.tsx"
+      }
+    },
+    {
+      "name": "stacked-ticket-list.tsx",
+      "path": "components/stacked-ticket-list.tsx",
+      "sha": "0fb7a12e07639ef78dbfc4372008a678e3c4d08a",
+      "size": 6002,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/stacked-ticket-list.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/stacked-ticket-list.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/0fb7a12e07639ef78dbfc4372008a678e3c4d08a",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/stacked-ticket-list.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/stacked-ticket-list.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/0fb7a12e07639ef78dbfc4372008a678e3c4d08a",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/stacked-ticket-list.tsx"
+      }
+    },
+    {
+      "name": "theme-provider.tsx",
+      "path": "components/theme-provider.tsx",
+      "sha": "55c2f6eb60b22a313a4c27bd0b2d728063cb8ab9",
+      "size": 292,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/theme-provider.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/theme-provider.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/55c2f6eb60b22a313a4c27bd0b2d728063cb8ab9",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/theme-provider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/theme-provider.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/55c2f6eb60b22a313a4c27bd0b2d728063cb8ab9",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/theme-provider.tsx"
+      }
+    },
+    {
+      "name": "ticket-card.tsx",
+      "path": "components/ticket-card.tsx",
+      "sha": "45c5e6107ebdb952fceb3f7d14b23104a8b39b35",
+      "size": 3743,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ticket-card.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/ticket-card.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/45c5e6107ebdb952fceb3f7d14b23104a8b39b35",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/ticket-card.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ticket-card.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/45c5e6107ebdb952fceb3f7d14b23104a8b39b35",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/ticket-card.tsx"
+      }
+    },
+    {
+      "name": "ticket-list.tsx",
+      "path": "components/ticket-list.tsx",
+      "sha": "fcef781b2f772023badad9cbc87e654cb546ef71",
+      "size": 1223,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ticket-list.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/ticket-list.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/fcef781b2f772023badad9cbc87e654cb546ef71",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/ticket-list.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ticket-list.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/fcef781b2f772023badad9cbc87e654cb546ef71",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/ticket-list.tsx"
+      }
+    },
+    {
+      "name": "ui",
+      "path": "components/ui",
+      "sha": "bebd91cf6f464fee028ed065f7905cc50addeef9",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ui?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/components/ui",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/bebd91cf6f464fee028ed065f7905cc50addeef9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ui?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/bebd91cf6f464fee028ed065f7905cc50addeef9",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/components/ui"
+      }
+    },
+    {
+      "name": "button.tsx",
+      "path": "components/ui/button.tsx",
+      "sha": "f64632d152a02f587eb5d01268c05b26b66e2716",
+      "size": 2143,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ui/button.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/ui/button.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/f64632d152a02f587eb5d01268c05b26b66e2716",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/ui/button.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/ui/button.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/f64632d152a02f587eb5d01268c05b26b66e2716",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/ui/button.tsx"
+      }
+    },
+    {
+      "name": "wallet-header.tsx",
+      "path": "components/wallet-header.tsx",
+      "sha": "012e3d804dbeb9ad69b10cb488727fb02f35a977",
+      "size": 1924,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/wallet-header.tsx?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/wallet-header.tsx",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/012e3d804dbeb9ad69b10cb488727fb02f35a977",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/components/wallet-header.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/components/wallet-header.tsx?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/012e3d804dbeb9ad69b10cb488727fb02f35a977",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/components/wallet-header.tsx"
+      }
+    },
+    {
+      "name": "lib",
+      "path": "lib",
+      "sha": "75c67a19fe15016bad8aaf3be0c68f5982dff301",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/lib?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/lib",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/75c67a19fe15016bad8aaf3be0c68f5982dff301",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/lib?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/75c67a19fe15016bad8aaf3be0c68f5982dff301",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/lib"
+      }
+    },
+    {
+      "name": "utils.ts",
+      "path": "lib/utils.ts",
+      "sha": "fed2fe91e4d2321f997c0209881db87fe0d07ba9",
+      "size": 166,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/lib/utils.ts?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/lib/utils.ts",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/fed2fe91e4d2321f997c0209881db87fe0d07ba9",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/lib/utils.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/lib/utils.ts?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/fed2fe91e4d2321f997c0209881db87fe0d07ba9",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/lib/utils.ts"
+      }
+    },
+    {
+      "name": "next.config.mjs",
+      "path": "next.config.mjs",
+      "sha": "cd7723aabdf530a9595788100e61716315c89757",
+      "size": 183,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/next.config.mjs?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/next.config.mjs",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/cd7723aabdf530a9595788100e61716315c89757",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/next.config.mjs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/next.config.mjs?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/cd7723aabdf530a9595788100e61716315c89757",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/next.config.mjs"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "7db663b98904d459fac405b30a8a2f2fa2ec2ea3",
+      "size": 2299,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/package.json?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/7db663b98904d459fac405b30a8a2f2fa2ec2ea3",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/7db663b98904d459fac405b30a8a2f2fa2ec2ea3",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/package.json"
+      }
+    },
+    {
+      "name": "pnpm-lock.yaml",
+      "path": "pnpm-lock.yaml",
+      "sha": "e806b069ba2a20aa18e3b2b27a775104dae4b22a",
+      "size": 129364,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/pnpm-lock.yaml?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/pnpm-lock.yaml",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/e806b069ba2a20aa18e3b2b27a775104dae4b22a",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/pnpm-lock.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/pnpm-lock.yaml?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/e806b069ba2a20aa18e3b2b27a775104dae4b22a",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/pnpm-lock.yaml"
+      }
+    },
+    {
+      "name": "postcss.config.mjs",
+      "path": "postcss.config.mjs",
+      "sha": "a869506ee48c89838ee770863c5d99ba97eeb930",
+      "size": 144,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/postcss.config.mjs?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/postcss.config.mjs",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/a869506ee48c89838ee770863c5d99ba97eeb930",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/postcss.config.mjs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/postcss.config.mjs?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/a869506ee48c89838ee770863c5d99ba97eeb930",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/postcss.config.mjs"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "b72d73d46760459e88421b12c60d05e48a671472",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/public",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/b72d73d46760459e88421b12c60d05e48a671472",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/b72d73d46760459e88421b12c60d05e48a671472",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/public"
+      }
+    },
+    {
+      "name": "apple-icon.png",
+      "path": "public/apple-icon.png",
+      "sha": "f9418b406bdb93a28dfc30c2ea61bef97b9d7c22",
+      "size": 2626,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/apple-icon.png?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/apple-icon.png",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/f9418b406bdb93a28dfc30c2ea61bef97b9d7c22",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/apple-icon.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/apple-icon.png?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/f9418b406bdb93a28dfc30c2ea61bef97b9d7c22",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/apple-icon.png"
+      }
+    },
+    {
+      "name": "icon-dark-32x32.png",
+      "path": "public/icon-dark-32x32.png",
+      "sha": "12c825a109e3c3b7941d957d8a2ac936d5717c5b",
+      "size": 585,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/icon-dark-32x32.png?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/icon-dark-32x32.png",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/12c825a109e3c3b7941d957d8a2ac936d5717c5b",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/icon-dark-32x32.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/icon-dark-32x32.png?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/12c825a109e3c3b7941d957d8a2ac936d5717c5b",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/icon-dark-32x32.png"
+      }
+    },
+    {
+      "name": "icon-light-32x32.png",
+      "path": "public/icon-light-32x32.png",
+      "sha": "a3462ccd8a6f9c1da6893d213f8868200cf3c80a",
+      "size": 566,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/icon-light-32x32.png?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/icon-light-32x32.png",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/a3462ccd8a6f9c1da6893d213f8868200cf3c80a",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/icon-light-32x32.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/icon-light-32x32.png?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/a3462ccd8a6f9c1da6893d213f8868200cf3c80a",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/icon-light-32x32.png"
+      }
+    },
+    {
+      "name": "icon.svg",
+      "path": "public/icon.svg",
+      "sha": "5c11e6c50d2df379c5018d3bca984c866097ad58",
+      "size": 1304,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/icon.svg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/icon.svg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/5c11e6c50d2df379c5018d3bca984c866097ad58",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/icon.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/icon.svg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/5c11e6c50d2df379c5018d3bca984c866097ad58",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/icon.svg"
+      }
+    },
+    {
+      "name": "jazz-band-performing-on-stage.jpg",
+      "path": "public/jazz-band-performing-on-stage.jpg",
+      "sha": "65cf354d4cd3b1dddbc7b0141147124998fb18b5",
+      "size": 117980,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/jazz-band-performing-on-stage.jpg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/jazz-band-performing-on-stage.jpg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/65cf354d4cd3b1dddbc7b0141147124998fb18b5",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/jazz-band-performing-on-stage.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/jazz-band-performing-on-stage.jpg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/65cf354d4cd3b1dddbc7b0141147124998fb18b5",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/jazz-band-performing-on-stage.jpg"
+      }
+    },
+    {
+      "name": "outdoor-music-festival-crowd.jpg",
+      "path": "public/outdoor-music-festival-crowd.jpg",
+      "sha": "7f35b8b8b17e5fa1efe1beb6b1e6d5f1b70c578a",
+      "size": 237537,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/outdoor-music-festival-crowd.jpg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/outdoor-music-festival-crowd.jpg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/7f35b8b8b17e5fa1efe1beb6b1e6d5f1b70c578a",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/outdoor-music-festival-crowd.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/outdoor-music-festival-crowd.jpg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/7f35b8b8b17e5fa1efe1beb6b1e6d5f1b70c578a",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/outdoor-music-festival-crowd.jpg"
+      }
+    },
+    {
+      "name": "placeholder-logo.png",
+      "path": "public/placeholder-logo.png",
+      "sha": "8a792ac2ddfbe047639f7907c82f14c73e3de3d9",
+      "size": 568,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder-logo.png?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder-logo.png",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/8a792ac2ddfbe047639f7907c82f14c73e3de3d9",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/placeholder-logo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder-logo.png?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/8a792ac2ddfbe047639f7907c82f14c73e3de3d9",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder-logo.png"
+      }
+    },
+    {
+      "name": "placeholder-logo.svg",
+      "path": "public/placeholder-logo.svg",
+      "sha": "b1695aafcd5925a0b3eb122b9e553b8a0f4a0d47",
+      "size": 3208,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder-logo.svg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder-logo.svg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/b1695aafcd5925a0b3eb122b9e553b8a0f4a0d47",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/placeholder-logo.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder-logo.svg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/b1695aafcd5925a0b3eb122b9e553b8a0f4a0d47",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder-logo.svg"
+      }
+    },
+    {
+      "name": "placeholder-user.jpg",
+      "path": "public/placeholder-user.jpg",
+      "sha": "6fa7543d38ed8fdb38f03b5c0f40ad2d66827d4a",
+      "size": 1635,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder-user.jpg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder-user.jpg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/6fa7543d38ed8fdb38f03b5c0f40ad2d66827d4a",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/placeholder-user.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder-user.jpg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/6fa7543d38ed8fdb38f03b5c0f40ad2d66827d4a",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder-user.jpg"
+      }
+    },
+    {
+      "name": "placeholder.jpg",
+      "path": "public/placeholder.jpg",
+      "sha": "6bfe96336dbe567f5f1e9129f5bccdc78b114bba",
+      "size": 1064,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder.jpg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder.jpg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/6bfe96336dbe567f5f1e9129f5bccdc78b114bba",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/placeholder.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder.jpg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/6bfe96336dbe567f5f1e9129f5bccdc78b114bba",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder.jpg"
+      }
+    },
+    {
+      "name": "placeholder.svg",
+      "path": "public/placeholder.svg",
+      "sha": "e763910b27fdd9ac872f56baede51bc839402347",
+      "size": 3253,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder.svg?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder.svg",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/e763910b27fdd9ac872f56baede51bc839402347",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/placeholder.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/placeholder.svg?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/e763910b27fdd9ac872f56baede51bc839402347",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/placeholder.svg"
+      }
+    },
+    {
+      "name": "rock-concert-stage.png",
+      "path": "public/rock-concert-stage.png",
+      "sha": "0744ba3b6ed84ee03a32df0d5d66ed11cb30d120",
+      "size": 692417,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/rock-concert-stage.png?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/rock-concert-stage.png",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/0744ba3b6ed84ee03a32df0d5d66ed11cb30d120",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/public/rock-concert-stage.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/public/rock-concert-stage.png?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/0744ba3b6ed84ee03a32df0d5d66ed11cb30d120",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/public/rock-concert-stage.png"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "styles",
+      "sha": "8405a0e536b3a7067ab5a66ba48f09025b9b2483",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/styles?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/styles",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/8405a0e536b3a7067ab5a66ba48f09025b9b2483",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/styles?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/trees/8405a0e536b3a7067ab5a66ba48f09025b9b2483",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/tree/main/styles"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "styles/globals.css",
+      "sha": "dc2aea17f375cac837b8e17755926ca8564c68f1",
+      "size": 4353,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/styles/globals.css?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/styles/globals.css",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/dc2aea17f375cac837b8e17755926ca8564c68f1",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/styles/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/styles/globals.css?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/dc2aea17f375cac837b8e17755926ca8564c68f1",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/styles/globals.css"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "4b2dc7ba6272c0b64b5638838d179ba93896ad80",
+      "size": 595,
+      "url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/4b2dc7ba6272c0b64b5638838d179ba93896ad80",
+      "download_url": "https://raw.githubusercontent.com/ZIYUT/nft-wallet-frontend/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/ZIYUT/nft-wallet-frontend/git/blobs/4b2dc7ba6272c0b64b5638838d179ba93896ad80",
+        "html": "https://github.com/ZIYUT/nft-wallet-frontend/blob/main/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "v0.app": null,
+    "vercel.com": 9681,
+    "img.shields.io": 4795
+  },
+  "collected_at": "2026-04-07T13:36:42.150622"
+}

@@ -1,0 +1,1613 @@
+{
+  "repo_full_name": "wsdt/WavectToken",
+  "repo_detail": {
+    "id": 318900866,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzMTg5MDA4NjY=",
+    "name": "WavectToken",
+    "full_name": "wsdt/WavectToken",
+    "private": false,
+    "owner": {
+      "login": "wsdt",
+      "id": 28724551,
+      "node_id": "MDQ6VXNlcjI4NzI0NTUx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28724551?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wsdt",
+      "html_url": "https://github.com/wsdt",
+      "followers_url": "https://api.github.com/users/wsdt/followers",
+      "following_url": "https://api.github.com/users/wsdt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wsdt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wsdt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wsdt/subscriptions",
+      "organizations_url": "https://api.github.com/users/wsdt/orgs",
+      "repos_url": "https://api.github.com/users/wsdt/repos",
+      "events_url": "https://api.github.com/users/wsdt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wsdt/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/wsdt/WavectToken",
+    "description": "Blockchain-based voucher system for Wavect. Customers who pay in crypto currencies are rewarded with WACT tokens, which can be redeemed in future projects. UI made with NextJS / React, Tailwind & TypeScript.",
+    "fork": false,
+    "url": "https://api.github.com/repos/wsdt/WavectToken",
+    "forks_url": "https://api.github.com/repos/wsdt/WavectToken/forks",
+    "keys_url": "https://api.github.com/repos/wsdt/WavectToken/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/wsdt/WavectToken/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/wsdt/WavectToken/teams",
+    "hooks_url": "https://api.github.com/repos/wsdt/WavectToken/hooks",
+    "issue_events_url": "https://api.github.com/repos/wsdt/WavectToken/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/wsdt/WavectToken/events",
+    "assignees_url": "https://api.github.com/repos/wsdt/WavectToken/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/wsdt/WavectToken/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/wsdt/WavectToken/tags",
+    "blobs_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/wsdt/WavectToken/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/wsdt/WavectToken/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/wsdt/WavectToken/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/wsdt/WavectToken/languages",
+    "stargazers_url": "https://api.github.com/repos/wsdt/WavectToken/stargazers",
+    "contributors_url": "https://api.github.com/repos/wsdt/WavectToken/contributors",
+    "subscribers_url": "https://api.github.com/repos/wsdt/WavectToken/subscribers",
+    "subscription_url": "https://api.github.com/repos/wsdt/WavectToken/subscription",
+    "commits_url": "https://api.github.com/repos/wsdt/WavectToken/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/wsdt/WavectToken/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/wsdt/WavectToken/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/wsdt/WavectToken/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/wsdt/WavectToken/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/wsdt/WavectToken/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/wsdt/WavectToken/merges",
+    "archive_url": "https://api.github.com/repos/wsdt/WavectToken/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/wsdt/WavectToken/downloads",
+    "issues_url": "https://api.github.com/repos/wsdt/WavectToken/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/wsdt/WavectToken/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/wsdt/WavectToken/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/wsdt/WavectToken/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/wsdt/WavectToken/labels{/name}",
+    "releases_url": "https://api.github.com/repos/wsdt/WavectToken/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/wsdt/WavectToken/deployments",
+    "created_at": "2020-12-05T22:21:28Z",
+    "updated_at": "2022-05-30T22:59:45Z",
+    "pushed_at": "2021-01-23T15:45:35Z",
+    "git_url": "git://github.com/wsdt/WavectToken.git",
+    "ssh_url": "git@github.com:wsdt/WavectToken.git",
+    "clone_url": "https://github.com/wsdt/WavectToken.git",
+    "svn_url": "https://github.com/wsdt/WavectToken",
+    "homepage": "https://token.wavect.io",
+    "size": 20605,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 2,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 3,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "crypto",
+      "cryptocurrency",
+      "dapp",
+      "defi",
+      "ethereum",
+      "invoice",
+      "nextjs",
+      "react",
+      "smart-contracts",
+      "solidity",
+      "startup",
+      "tailwindcss",
+      "token",
+      "typescript"
+    ],
+    "visibility": "public",
+    "forks": 2,
+    "open_issues": 3,
+    "watchers": 1,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 2,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "wsdt",
+    "id": 28724551,
+    "node_id": "MDQ6VXNlcjI4NzI0NTUx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/28724551?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wsdt",
+    "html_url": "https://github.com/wsdt",
+    "followers_url": "https://api.github.com/users/wsdt/followers",
+    "following_url": "https://api.github.com/users/wsdt/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wsdt/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wsdt/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wsdt/subscriptions",
+    "organizations_url": "https://api.github.com/users/wsdt/orgs",
+    "repos_url": "https://api.github.com/users/wsdt/repos",
+    "events_url": "https://api.github.com/users/wsdt/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wsdt/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Riedl Kevin, Bsc.",
+    "company": "@wavect.io",
+    "blog": "https://wavect.io",
+    "location": "Innsbruck, Tirol, Austria",
+    "email": "kevin.riedl@wavect.io",
+    "hireable": true,
+    "bio": "Technology is a Tool, use it where it makes sense. ",
+    "twitter_username": "wavect_eth",
+    "public_repos": 56,
+    "public_gists": 0,
+    "followers": 101,
+    "following": 27,
+    "created_at": "2017-05-16T06:45:24Z",
+    "updated_at": "2026-02-10T07:46:50Z"
+  },
+  "readme": "# Wavect Token [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Generic badge](https://img.shields.io/badge/Made%20with-NextJS-9cf)](https://nextjs.org/) [![Generic badge](https://img.shields.io/badge/Made%20with-TailwindCSS-pink.svg)](https://tailwindcss.com/) [![Donate](https://img.shields.io/badge/Donate-Pay%20me%20a%20coffee-3cf)](https://github.com/wsdt/Global/wiki/Donation) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kevin.riedl.privat%40gmail.com)\n\n## The decentralized web, also called Web 3.0 is here!\nWe at Wavect.io  have released today our new Blockchain-based voucher system.\n\n* Take a look here: https://token.wavect.io\n* More Details also on our main website: https://wavect.io\n\n## But what is this about?\nSettle invoices in a cryptocurrency & earn so-called Wavect-Tokens. These tokens can then be redeemed in future projects. Basically it's just a futuristic & decentralized voucher :-).\n\n## Behind the scences\nThe above web-application relies on so-called smart-contracts (= intelligent & decentralized contracts executed on the Blockchain).\n\nThere are still a lot of opportunities in the Blockchain world, don't wait too long and contact us today to discuss interesting use-cases for your organization.\noffice@wavect.io\n<hr />\n\n## Contribution [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)\n\nThis project is licensed under GNU V3, so contributions/pull-requests are welcome. All contributors get listed here. \n\n**Contributors**\n- Kevin Riedl ([WSDT](https://github.com/wsdt))\n\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "1437c53f70bc211ec65739ec4a8c2a4db5874c73",
+      "size": 386,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/1437c53f70bc211ec65739ec4a8c2a4db5874c73",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/1437c53f70bc211ec65739ec4a8c2a4db5874c73",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".nojekyll",
+      "path": ".nojekyll",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/.nojekyll?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/.nojekyll",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/.nojekyll",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/.nojekyll?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/.nojekyll"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "04a05d991a2e450f33e5360872b5a4e9d609923b",
+      "size": 1829,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/README.md?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/04a05d991a2e450f33e5360872b5a4e9d609923b",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/04a05d991a2e450f33e5360872b5a4e9d609923b",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/README.md"
+      }
+    },
+    {
+      "name": "dist",
+      "path": "dist",
+      "sha": "53f8c3ca794352fd41db32338dcb45dbbbe3c208",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/dist?ref=main",
+      "html_url": null,
+      "git_url": null,
+      "download_url": null,
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/dist?ref=main",
+        "git": null,
+        "html": null
+      }
+    },
+    {
+      "name": "migrations",
+      "path": "migrations",
+      "sha": "044e5e3849824072e4a83ba2e9933f4ea7e25973",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/migrations?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/migrations",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/044e5e3849824072e4a83ba2e9933f4ea7e25973",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/migrations?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/044e5e3849824072e4a83ba2e9933f4ea7e25973",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/migrations"
+      }
+    },
+    {
+      "name": "1_initial_migration.js",
+      "path": "migrations/1_initial_migration.js",
+      "sha": "ee2135d2952eac46f0ed105282b87d68e8fae869",
+      "size": 125,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/migrations/1_initial_migration.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/migrations/1_initial_migration.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/ee2135d2952eac46f0ed105282b87d68e8fae869",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/migrations/1_initial_migration.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/migrations/1_initial_migration.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/ee2135d2952eac46f0ed105282b87d68e8fae869",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/migrations/1_initial_migration.js"
+      }
+    },
+    {
+      "name": "2_deploy_contracts.js",
+      "path": "migrations/2_deploy_contracts.js",
+      "sha": "f53856337571e50b2d755c4181b5ff156e37f647",
+      "size": 860,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/migrations/2_deploy_contracts.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/migrations/2_deploy_contracts.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f53856337571e50b2d755c4181b5ff156e37f647",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/migrations/2_deploy_contracts.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/migrations/2_deploy_contracts.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f53856337571e50b2d755c4181b5ff156e37f647",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/migrations/2_deploy_contracts.js"
+      }
+    },
+    {
+      "name": "next-env.d.ts",
+      "path": "next-env.d.ts",
+      "sha": "7b7aa2c7727d88b33b62bee640d607d57cc79599",
+      "size": 75,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/next-env.d.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/next-env.d.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/7b7aa2c7727d88b33b62bee640d607d57cc79599",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/next-env.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/next-env.d.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/7b7aa2c7727d88b33b62bee640d607d57cc79599",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/next-env.d.ts"
+      }
+    },
+    {
+      "name": "next.config.js",
+      "path": "next.config.js",
+      "sha": "f89981c9cfb089eb16e4873f8d82e8d75b0a8a3f",
+      "size": 219,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/next.config.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/next.config.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f89981c9cfb089eb16e4873f8d82e8d75b0a8a3f",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/next.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/next.config.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f89981c9cfb089eb16e4873f8d82e8d75b0a8a3f",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/next.config.js"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "5fb5babf9faab0a0f3e2dce3aaf49dfba41bb81a",
+      "size": 398120,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5fb5babf9faab0a0f3e2dce3aaf49dfba41bb81a",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5fb5babf9faab0a0f3e2dce3aaf49dfba41bb81a",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "5c0006faf242ee73abcf5e76352275a44e96e069",
+      "size": 1563,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/package.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5c0006faf242ee73abcf5e76352275a44e96e069",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5c0006faf242ee73abcf5e76352275a44e96e069",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "postcss.config.js",
+      "sha": "c7a28389091a2da8afd78fe5f62ff44e414d0b45",
+      "size": 75,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/postcss.config.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/postcss.config.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/c7a28389091a2da8afd78fe5f62ff44e414d0b45",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/postcss.config.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/c7a28389091a2da8afd78fe5f62ff44e414d0b45",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/postcss.config.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "28d056de16ba741ecb50032bdcc3f432765c2abc",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/public?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/public",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/28d056de16ba741ecb50032bdcc3f432765c2abc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/public?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/28d056de16ba741ecb50032bdcc3f432765c2abc",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/public"
+      }
+    },
+    {
+      "name": "Logo_WAVECT_white_sym.png",
+      "path": "public/Logo_WAVECT_white_sym.png",
+      "sha": "5459a70ec48e1724ab14936ab281d1c62d1ad578",
+      "size": 3212,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/public/Logo_WAVECT_white_sym.png?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/public/Logo_WAVECT_white_sym.png",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5459a70ec48e1724ab14936ab281d1c62d1ad578",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/public/Logo_WAVECT_white_sym.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/public/Logo_WAVECT_white_sym.png?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5459a70ec48e1724ab14936ab281d1c62d1ad578",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/public/Logo_WAVECT_white_sym.png"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "public/favicon.ico",
+      "sha": "0233fee4ed634c8f564060d321372759a2b3e867",
+      "size": 19566,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0233fee4ed634c8f564060d321372759a2b3e867",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0233fee4ed634c8f564060d321372759a2b3e867",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/public/favicon.ico"
+      }
+    },
+    {
+      "name": "logo_combination_registered.png",
+      "path": "public/logo_combination_registered.png",
+      "sha": "5a846c07b10deed641b7fddc072f232de9c44d6d",
+      "size": 21563,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/public/logo_combination_registered.png?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/public/logo_combination_registered.png",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5a846c07b10deed641b7fddc072f232de9c44d6d",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/public/logo_combination_registered.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/public/logo_combination_registered.png?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5a846c07b10deed641b7fddc072f232de9c44d6d",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/public/logo_combination_registered.png"
+      }
+    },
+    {
+      "name": "vercel.svg",
+      "path": "public/vercel.svg",
+      "sha": "fbf0e25a651c28931b2fe8afa2947e124eebc74f",
+      "size": 1101,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/public/vercel.svg?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/public/vercel.svg",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/fbf0e25a651c28931b2fe8afa2947e124eebc74f",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/public/vercel.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/public/vercel.svg?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/fbf0e25a651c28931b2fe8afa2947e124eebc74f",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/public/vercel.svg"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "3153241281401e5d1fb0177d608d8d8b473dfd6d",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/scripts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/scripts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/3153241281401e5d1fb0177d608d8d8b473dfd6d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/scripts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/3153241281401e5d1fb0177d608d8d8b473dfd6d",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/scripts"
+      }
+    },
+    {
+      "name": "issue-token.js",
+      "path": "scripts/issue-token.js",
+      "sha": "9addf890687bb1fe31bb38ce8ecc5a6d2eda3b3d",
+      "size": 241,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/scripts/issue-token.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/scripts/issue-token.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/9addf890687bb1fe31bb38ce8ecc5a6d2eda3b3d",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/scripts/issue-token.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/scripts/issue-token.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/9addf890687bb1fe31bb38ce8ecc5a6d2eda3b3d",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/scripts/issue-token.js"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "2acbe81ab2c0fac00e0769ac057165d54150e74d",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/2acbe81ab2c0fac00e0769ac057165d54150e74d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/2acbe81ab2c0fac00e0769ac057165d54150e74d",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src"
+      }
+    },
+    {
+      "name": "abis",
+      "path": "src/abis",
+      "sha": "bbc410064d580d31cdff6c23357b0d6766a5f2e7",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/abis",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/bbc410064d580d31cdff6c23357b0d6766a5f2e7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/bbc410064d580d31cdff6c23357b0d6766a5f2e7",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/abis"
+      }
+    },
+    {
+      "name": "Context.json",
+      "path": "src/abis/Context.json",
+      "sha": "419d8472f064c3268c957f99a495a5eb1e4a9116",
+      "size": 19096,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/Context.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/Context.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/419d8472f064c3268c957f99a495a5eb1e4a9116",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/Context.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/Context.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/419d8472f064c3268c957f99a495a5eb1e4a9116",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/Context.json"
+      }
+    },
+    {
+      "name": "ERC20.json",
+      "path": "src/abis/ERC20.json",
+      "sha": "278b554f0d017d5c3f2a8e5c5ea5b2e94006b876",
+      "size": 595525,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/ERC20.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/ERC20.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/278b554f0d017d5c3f2a8e5c5ea5b2e94006b876",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/ERC20.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/ERC20.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/278b554f0d017d5c3f2a8e5c5ea5b2e94006b876",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/ERC20.json"
+      }
+    },
+    {
+      "name": "IERC20.json",
+      "path": "src/abis/IERC20.json",
+      "sha": "5698ebbe281594bebf1384f1639f70798e16a255",
+      "size": 76833,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/IERC20.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/IERC20.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5698ebbe281594bebf1384f1639f70798e16a255",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/IERC20.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/IERC20.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/5698ebbe281594bebf1384f1639f70798e16a255",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/IERC20.json"
+      }
+    },
+    {
+      "name": "Migrations.json",
+      "path": "src/abis/Migrations.json",
+      "sha": "f962de5194296b25fca19c1be18ec81ac1cbe9cc",
+      "size": 55333,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/Migrations.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/Migrations.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f962de5194296b25fca19c1be18ec81ac1cbe9cc",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/Migrations.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/Migrations.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f962de5194296b25fca19c1be18ec81ac1cbe9cc",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/Migrations.json"
+      }
+    },
+    {
+      "name": "SafeMath.json",
+      "path": "src/abis/SafeMath.json",
+      "sha": "4d18e81872b6f5ea4e44a50b9d387420840eaf89",
+      "size": 204867,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/SafeMath.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/SafeMath.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/4d18e81872b6f5ea4e44a50b9d387420840eaf89",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/SafeMath.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/SafeMath.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/4d18e81872b6f5ea4e44a50b9d387420840eaf89",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/SafeMath.json"
+      }
+    },
+    {
+      "name": "TokenFarm.json",
+      "path": "src/abis/TokenFarm.json",
+      "sha": "f0a5c8747598400add7fdcff25a2d095df92343d",
+      "size": 370011,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/TokenFarm.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/TokenFarm.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f0a5c8747598400add7fdcff25a2d095df92343d",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/TokenFarm.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/TokenFarm.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f0a5c8747598400add7fdcff25a2d095df92343d",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/TokenFarm.json"
+      }
+    },
+    {
+      "name": "WavectToken.json",
+      "path": "src/abis/WavectToken.json",
+      "sha": "2ac825f29c5b5bcf364b5a5afc2d7dd105e7756c",
+      "size": 69864,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/WavectToken.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/abis/WavectToken.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/2ac825f29c5b5bcf364b5a5afc2d7dd105e7756c",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/abis/WavectToken.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/abis/WavectToken.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/2ac825f29c5b5bcf364b5a5afc2d7dd105e7756c",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/abis/WavectToken.json"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "src/contracts",
+      "sha": "fde472e5e5d17acb4223d9a2423c5ca97f14d4b5",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/contracts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/fde472e5e5d17acb4223d9a2423c5ca97f14d4b5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/fde472e5e5d17acb4223d9a2423c5ca97f14d4b5",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/contracts"
+      }
+    },
+    {
+      "name": "Migrations.sol",
+      "path": "src/contracts/Migrations.sol",
+      "sha": "9b6ff083d91be3689f5d47564d64c0128186bd80",
+      "size": 506,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts/Migrations.sol?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/contracts/Migrations.sol",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/9b6ff083d91be3689f5d47564d64c0128186bd80",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/contracts/Migrations.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts/Migrations.sol?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/9b6ff083d91be3689f5d47564d64c0128186bd80",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/contracts/Migrations.sol"
+      }
+    },
+    {
+      "name": "TokenFarm.sol",
+      "path": "src/contracts/TokenFarm.sol",
+      "sha": "4deae47b33e935cb9d80930fe89da2882d35ffe1",
+      "size": 3075,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts/TokenFarm.sol?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/contracts/TokenFarm.sol",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/4deae47b33e935cb9d80930fe89da2882d35ffe1",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/contracts/TokenFarm.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts/TokenFarm.sol?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/4deae47b33e935cb9d80930fe89da2882d35ffe1",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/contracts/TokenFarm.sol"
+      }
+    },
+    {
+      "name": "WavectToken.sol",
+      "path": "src/contracts/WavectToken.sol",
+      "sha": "dce32bd432d915888c31a3afdb2d061fb16f6223",
+      "size": 2011,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts/WavectToken.sol?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/contracts/WavectToken.sol",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/dce32bd432d915888c31a3afdb2d061fb16f6223",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/contracts/WavectToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/contracts/WavectToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/dce32bd432d915888c31a3afdb2d061fb16f6223",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/contracts/WavectToken.sol"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "src/pages",
+      "sha": "9b6a2e675bc0e7b5036fb41f336aaa5ed364e031",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/pages?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/pages",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/9b6a2e675bc0e7b5036fb41f336aaa5ed364e031",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/pages?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/9b6a2e675bc0e7b5036fb41f336aaa5ed364e031",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/pages"
+      }
+    },
+    {
+      "name": "_app.tsx",
+      "path": "src/pages/_app.tsx",
+      "sha": "2bb39e8ab2e7e9d50c51a1428e6e90a2753f904b",
+      "size": 3817,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/pages/_app.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/pages/_app.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/2bb39e8ab2e7e9d50c51a1428e6e90a2753f904b",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/pages/_app.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/pages/_app.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/2bb39e8ab2e7e9d50c51a1428e6e90a2753f904b",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/pages/_app.tsx"
+      }
+    },
+    {
+      "name": "services",
+      "path": "src/services",
+      "sha": "304a039529921113502b666de40660937d977bf4",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/services",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/304a039529921113502b666de40660937d977bf4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/304a039529921113502b666de40660937d977bf4",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/services"
+      }
+    },
+    {
+      "name": "Asset.service.ts",
+      "path": "src/services/Asset.service.ts",
+      "sha": "ac98855e013f45f8e7da717540e4e4cd64726871",
+      "size": 388,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Asset.service.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/services/Asset.service.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/ac98855e013f45f8e7da717540e4e4cd64726871",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/services/Asset.service.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Asset.service.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/ac98855e013f45f8e7da717540e4e4cd64726871",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/services/Asset.service.ts"
+      }
+    },
+    {
+      "name": "Blockchain.service.ts",
+      "path": "src/services/Blockchain.service.ts",
+      "sha": "b46c9ffc7901828206e76b41f329d738b2c4993e",
+      "size": 6900,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Blockchain.service.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/services/Blockchain.service.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/b46c9ffc7901828206e76b41f329d738b2c4993e",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/services/Blockchain.service.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Blockchain.service.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/b46c9ffc7901828206e76b41f329d738b2c4993e",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/services/Blockchain.service.ts"
+      }
+    },
+    {
+      "name": "Environment.service.ts",
+      "path": "src/services/Environment.service.ts",
+      "sha": "05dd378aa28c3cc55b2dd0e439cb5a456e8f9cac",
+      "size": 134,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Environment.service.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/services/Environment.service.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/05dd378aa28c3cc55b2dd0e439cb5a456e8f9cac",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/services/Environment.service.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Environment.service.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/05dd378aa28c3cc55b2dd0e439cb5a456e8f9cac",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/services/Environment.service.ts"
+      }
+    },
+    {
+      "name": "Event.service.ts",
+      "path": "src/services/Event.service.ts",
+      "sha": "b3e89a081046279127688481af0370f1d8b59115",
+      "size": 475,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Event.service.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/services/Event.service.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/b3e89a081046279127688481af0370f1d8b59115",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/services/Event.service.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Event.service.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/b3e89a081046279127688481af0370f1d8b59115",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/services/Event.service.ts"
+      }
+    },
+    {
+      "name": "Notification.service.ts",
+      "path": "src/services/Notification.service.ts",
+      "sha": "daf0bc031ade02b91d6ff354b05367a6049e95b7",
+      "size": 1709,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Notification.service.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/services/Notification.service.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/daf0bc031ade02b91d6ff354b05367a6049e95b7",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/services/Notification.service.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/services/Notification.service.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/daf0bc031ade02b91d6ff354b05367a6049e95b7",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/services/Notification.service.ts"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "src/styles",
+      "sha": "fc7b3f02988edf2145b543e390ae2d15d8d80152",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/styles?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/styles",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/fc7b3f02988edf2145b543e390ae2d15d8d80152",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/styles?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/fc7b3f02988edf2145b543e390ae2d15d8d80152",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/styles"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "src/styles/globals.css",
+      "sha": "e5e2dcc23baf1920751f342781603919aaaab462",
+      "size": 275,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/styles/globals.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/styles/globals.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e5e2dcc23baf1920751f342781603919aaaab462",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/styles/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/styles/globals.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e5e2dcc23baf1920751f342781603919aaaab462",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/styles/globals.css"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "src/styles/index.css",
+      "sha": "86618a69ab19106b4868b07088e381f3e02f5da1",
+      "size": 267,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/styles/index.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/styles/index.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/86618a69ab19106b4868b07088e381f3e02f5da1",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/styles/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/styles/index.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/86618a69ab19106b4868b07088e381f3e02f5da1",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/styles/index.css"
+      }
+    },
+    {
+      "name": "subcomponents",
+      "path": "src/subcomponents",
+      "sha": "cd9c5262345d2d1196033a0cb162c08b4fa102f0",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/cd9c5262345d2d1196033a0cb162c08b4fa102f0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/cd9c5262345d2d1196033a0cb162c08b4fa102f0",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents"
+      }
+    },
+    {
+      "name": "BgParticles",
+      "path": "src/subcomponents/BgParticles",
+      "sha": "a375b80c5a408f7a2aa9da61b6ddebc274c83727",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgParticles?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/BgParticles",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/a375b80c5a408f7a2aa9da61b6ddebc274c83727",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgParticles?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/a375b80c5a408f7a2aa9da61b6ddebc274c83727",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/BgParticles"
+      }
+    },
+    {
+      "name": "BgParticles.module.css",
+      "path": "src/subcomponents/BgParticles/BgParticles.module.css",
+      "sha": "a805cec14cb9de92fddffd7aa0e1b9b98805a4c0",
+      "size": 456,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgParticles/BgParticles.module.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgParticles/BgParticles.module.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/a805cec14cb9de92fddffd7aa0e1b9b98805a4c0",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/BgParticles/BgParticles.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgParticles/BgParticles.module.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/a805cec14cb9de92fddffd7aa0e1b9b98805a4c0",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgParticles/BgParticles.module.css"
+      }
+    },
+    {
+      "name": "BgParticles.tsx",
+      "path": "src/subcomponents/BgParticles/BgParticles.tsx",
+      "sha": "812c6168322e421609e0f230f2eef622f052ef46",
+      "size": 847,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgParticles/BgParticles.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgParticles/BgParticles.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/812c6168322e421609e0f230f2eef622f052ef46",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/BgParticles/BgParticles.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgParticles/BgParticles.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/812c6168322e421609e0f230f2eef622f052ef46",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgParticles/BgParticles.tsx"
+      }
+    },
+    {
+      "name": "BgVideo",
+      "path": "src/subcomponents/BgVideo",
+      "sha": "655053966175189dca80e4a4651cd3247e82bb16",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgVideo?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/BgVideo",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/655053966175189dca80e4a4651cd3247e82bb16",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgVideo?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/655053966175189dca80e4a4651cd3247e82bb16",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/BgVideo"
+      }
+    },
+    {
+      "name": "BgVideo.module.css",
+      "path": "src/subcomponents/BgVideo/BgVideo.module.css",
+      "sha": "cbe40840e267bb6eec67d00b950918c1ddd57dd5",
+      "size": 445,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgVideo/BgVideo.module.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgVideo/BgVideo.module.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/cbe40840e267bb6eec67d00b950918c1ddd57dd5",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/BgVideo/BgVideo.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgVideo/BgVideo.module.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/cbe40840e267bb6eec67d00b950918c1ddd57dd5",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgVideo/BgVideo.module.css"
+      }
+    },
+    {
+      "name": "BgVideo.tsx",
+      "path": "src/subcomponents/BgVideo/BgVideo.tsx",
+      "sha": "f904e61c967a7d428b42f10e84c2f3f8db93e063",
+      "size": 428,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgVideo/BgVideo.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgVideo/BgVideo.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f904e61c967a7d428b42f10e84c2f3f8db93e063",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/BgVideo/BgVideo.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/BgVideo/BgVideo.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f904e61c967a7d428b42f10e84c2f3f8db93e063",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/BgVideo/BgVideo.tsx"
+      }
+    },
+    {
+      "name": "ControlPanel",
+      "path": "src/subcomponents/ControlPanel",
+      "sha": "939a8df52cbbf138cef2ba3e67e4efe6a64efbb2",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/ControlPanel",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/939a8df52cbbf138cef2ba3e67e4efe6a64efbb2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/939a8df52cbbf138cef2ba3e67e4efe6a64efbb2",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/ControlPanel"
+      }
+    },
+    {
+      "name": "ControlPanel.module.css",
+      "path": "src/subcomponents/ControlPanel/ControlPanel.module.css",
+      "sha": "7adf070a6275ea770467e62b039e915bb0649d90",
+      "size": 152,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/ControlPanel.module.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/ControlPanel.module.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/7adf070a6275ea770467e62b039e915bb0649d90",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanel/ControlPanel.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/ControlPanel.module.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/7adf070a6275ea770467e62b039e915bb0649d90",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/ControlPanel.module.css"
+      }
+    },
+    {
+      "name": "ControlPanel.tsx",
+      "path": "src/subcomponents/ControlPanel/ControlPanel.tsx",
+      "sha": "723d965602974385ba2a66f38325f040d09e39dd",
+      "size": 5586,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/ControlPanel.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/ControlPanel.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/723d965602974385ba2a66f38325f040d09e39dd",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanel/ControlPanel.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/ControlPanel.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/723d965602974385ba2a66f38325f040d09e39dd",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/ControlPanel.tsx"
+      }
+    },
+    {
+      "name": "IControlPanel.props.ts",
+      "path": "src/subcomponents/ControlPanel/IControlPanel.props.ts",
+      "sha": "c4fcc0ab0d297c48a91693b972aa09f4d11f4788",
+      "size": 101,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/IControlPanel.props.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/IControlPanel.props.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/c4fcc0ab0d297c48a91693b972aa09f4d11f4788",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanel/IControlPanel.props.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/IControlPanel.props.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/c4fcc0ab0d297c48a91693b972aa09f4d11f4788",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/IControlPanel.props.ts"
+      }
+    },
+    {
+      "name": "IControlPanel.state.ts",
+      "path": "src/subcomponents/ControlPanel/IControlPanel.state.ts",
+      "sha": "d8152cb7e1eacda7202f7b36035d4add09c9971f",
+      "size": 121,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/IControlPanel.state.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/IControlPanel.state.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/d8152cb7e1eacda7202f7b36035d4add09c9971f",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanel/IControlPanel.state.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanel/IControlPanel.state.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/d8152cb7e1eacda7202f7b36035d4add09c9971f",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanel/IControlPanel.state.ts"
+      }
+    },
+    {
+      "name": "ControlPanelHeader",
+      "path": "src/subcomponents/ControlPanelHeader",
+      "sha": "0083b14a20a1aef788a05d07a264671e59662453",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/ControlPanelHeader",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/0083b14a20a1aef788a05d07a264671e59662453",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/0083b14a20a1aef788a05d07a264671e59662453",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/ControlPanelHeader"
+      }
+    },
+    {
+      "name": "ControlPanelHeader.tsx",
+      "path": "src/subcomponents/ControlPanelHeader/ControlPanelHeader.tsx",
+      "sha": "266e18a7b2e93c7963b5bedff78bd108166b36b7",
+      "size": 4634,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader/ControlPanelHeader.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanelHeader/ControlPanelHeader.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/266e18a7b2e93c7963b5bedff78bd108166b36b7",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanelHeader/ControlPanelHeader.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader/ControlPanelHeader.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/266e18a7b2e93c7963b5bedff78bd108166b36b7",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanelHeader/ControlPanelHeader.tsx"
+      }
+    },
+    {
+      "name": "IControlPanelHeader.props.ts",
+      "path": "src/subcomponents/ControlPanelHeader/IControlPanelHeader.props.ts",
+      "sha": "e618502c7b2c67933b841bb857fce9ba2731a6fc",
+      "size": 105,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader/IControlPanelHeader.props.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanelHeader/IControlPanelHeader.props.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e618502c7b2c67933b841bb857fce9ba2731a6fc",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanelHeader/IControlPanelHeader.props.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader/IControlPanelHeader.props.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e618502c7b2c67933b841bb857fce9ba2731a6fc",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanelHeader/IControlPanelHeader.props.ts"
+      }
+    },
+    {
+      "name": "IControlPanelHeader.state.ts",
+      "path": "src/subcomponents/ControlPanelHeader/IControlPanelHeader.state.ts",
+      "sha": "c053ecd65db978090d44d89f854f39d5cfe3031e",
+      "size": 119,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader/IControlPanelHeader.state.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanelHeader/IControlPanelHeader.state.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/c053ecd65db978090d44d89f854f39d5cfe3031e",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/ControlPanelHeader/IControlPanelHeader.state.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/ControlPanelHeader/IControlPanelHeader.state.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/c053ecd65db978090d44d89f854f39d5cfe3031e",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/ControlPanelHeader/IControlPanelHeader.state.ts"
+      }
+    },
+    {
+      "name": "FAQs",
+      "path": "src/subcomponents/FAQs",
+      "sha": "3c9341edb365ebc974804b0a1b8390951991618a",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/FAQs",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/3c9341edb365ebc974804b0a1b8390951991618a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/3c9341edb365ebc974804b0a1b8390951991618a",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/FAQs"
+      }
+    },
+    {
+      "name": "FAQ",
+      "path": "src/subcomponents/FAQs/FAQ",
+      "sha": "76192fc1272d894e772863b5d640f4ff228b14c7",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/FAQs/FAQ",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/76192fc1272d894e772863b5d640f4ff228b14c7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/76192fc1272d894e772863b5d640f4ff228b14c7",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/FAQs/FAQ"
+      }
+    },
+    {
+      "name": "FAQ.tsx",
+      "path": "src/subcomponents/FAQs/FAQ/FAQ.tsx",
+      "sha": "3d62b4d7196ad96321f2c595efa3f76f64cc870e",
+      "size": 1396,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ/FAQ.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQ/FAQ.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/3d62b4d7196ad96321f2c595efa3f76f64cc870e",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/FAQs/FAQ/FAQ.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ/FAQ.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/3d62b4d7196ad96321f2c595efa3f76f64cc870e",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQ/FAQ.tsx"
+      }
+    },
+    {
+      "name": "IFAQ.props.ts",
+      "path": "src/subcomponents/FAQs/FAQ/IFAQ.props.ts",
+      "sha": "e8199c2b2ab3ab1241067ce3aa0e8db0f9df0397",
+      "size": 86,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ/IFAQ.props.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQ/IFAQ.props.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e8199c2b2ab3ab1241067ce3aa0e8db0f9df0397",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/FAQs/FAQ/IFAQ.props.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ/IFAQ.props.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/e8199c2b2ab3ab1241067ce3aa0e8db0f9df0397",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQ/IFAQ.props.ts"
+      }
+    },
+    {
+      "name": "IFAQ.state.ts",
+      "path": "src/subcomponents/FAQs/FAQ/IFAQ.state.ts",
+      "sha": "33fc54dad8b773e329f345cc2a25718401d402e1",
+      "size": 54,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ/IFAQ.state.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQ/IFAQ.state.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/33fc54dad8b773e329f345cc2a25718401d402e1",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/FAQs/FAQ/IFAQ.state.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQ/IFAQ.state.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/33fc54dad8b773e329f345cc2a25718401d402e1",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQ/IFAQ.state.ts"
+      }
+    },
+    {
+      "name": "FAQs.tsx",
+      "path": "src/subcomponents/FAQs/FAQs.tsx",
+      "sha": "495ce5c9c3f0ad39373ec1339066da78c12ab58d",
+      "size": 5021,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQs.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQs.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/495ce5c9c3f0ad39373ec1339066da78c12ab58d",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/FAQs/FAQs.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FAQs/FAQs.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/495ce5c9c3f0ad39373ec1339066da78c12ab58d",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FAQs/FAQs.tsx"
+      }
+    },
+    {
+      "name": "FacebookMessenger",
+      "path": "src/subcomponents/FacebookMessenger",
+      "sha": "ffc620f92307315c1780bf2cb9eff891732a3ba3",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FacebookMessenger?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/FacebookMessenger",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/ffc620f92307315c1780bf2cb9eff891732a3ba3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FacebookMessenger?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/ffc620f92307315c1780bf2cb9eff891732a3ba3",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/FacebookMessenger"
+      }
+    },
+    {
+      "name": "FacebookMessenger.tsx",
+      "path": "src/subcomponents/FacebookMessenger/FacebookMessenger.tsx",
+      "sha": "0da0b11720b09898ef1f415e366089528f27dbe6",
+      "size": 581,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FacebookMessenger/FacebookMessenger.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FacebookMessenger/FacebookMessenger.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0da0b11720b09898ef1f415e366089528f27dbe6",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/FacebookMessenger/FacebookMessenger.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/FacebookMessenger/FacebookMessenger.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0da0b11720b09898ef1f415e366089528f27dbe6",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/FacebookMessenger/FacebookMessenger.tsx"
+      }
+    },
+    {
+      "name": "LoadingIndicator",
+      "path": "src/subcomponents/LoadingIndicator",
+      "sha": "293ee452ab4da24c4626c5701900a6bbe836bdc2",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/LoadingIndicator",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/293ee452ab4da24c4626c5701900a6bbe836bdc2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/293ee452ab4da24c4626c5701900a6bbe836bdc2",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/LoadingIndicator"
+      }
+    },
+    {
+      "name": "LoadingIndicator.module.css",
+      "path": "src/subcomponents/LoadingIndicator/LoadingIndicator.module.css",
+      "sha": "0f80a99890384411d0d6883e82f262d53c29edb2",
+      "size": 381,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicator.module.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicator.module.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0f80a99890384411d0d6883e82f262d53c29edb2",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/LoadingIndicator/LoadingIndicator.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicator.module.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0f80a99890384411d0d6883e82f262d53c29edb2",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicator.module.css"
+      }
+    },
+    {
+      "name": "LoadingIndicator.tsx",
+      "path": "src/subcomponents/LoadingIndicator/LoadingIndicator.tsx",
+      "sha": "a9b8c4e8575b3b4702615b1d2ddd2f214357be60",
+      "size": 399,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicator.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicator.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/a9b8c4e8575b3b4702615b1d2ddd2f214357be60",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/LoadingIndicator/LoadingIndicator.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicator.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/a9b8c4e8575b3b4702615b1d2ddd2f214357be60",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicator.tsx"
+      }
+    },
+    {
+      "name": "LoadingIndicatorSmall",
+      "path": "src/subcomponents/LoadingIndicator/LoadingIndicatorSmall",
+      "sha": "be981e76a98065b09e8132e6c9fbbd73d28a851a",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/be981e76a98065b09e8132e6c9fbbd73d28a851a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/be981e76a98065b09e8132e6c9fbbd73d28a851a",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall"
+      }
+    },
+    {
+      "name": "LoadingIndicatorSmall.module.css",
+      "path": "src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.module.css",
+      "sha": "0fd428e0afb21033c6810094750946f93954e71c",
+      "size": 591,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.module.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.module.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0fd428e0afb21033c6810094750946f93954e71c",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.module.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/0fd428e0afb21033c6810094750946f93954e71c",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.module.css"
+      }
+    },
+    {
+      "name": "LoadingIndicatorSmall.tsx",
+      "path": "src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.tsx",
+      "sha": "68f3485d3b9429c5591774c14e5ac22f5d874a39",
+      "size": 196,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/68f3485d3b9429c5591774c14e5ac22f5d874a39",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/68f3485d3b9429c5591774c14e5ac22f5d874a39",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/LoadingIndicator/LoadingIndicatorSmall/LoadingIndicatorSmall.tsx"
+      }
+    },
+    {
+      "name": "Main",
+      "path": "src/subcomponents/Main",
+      "sha": "34421c67ba9d8afc2c40da554c32e2bc9193ff18",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/Main",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/34421c67ba9d8afc2c40da554c32e2bc9193ff18",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/34421c67ba9d8afc2c40da554c32e2bc9193ff18",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/Main"
+      }
+    },
+    {
+      "name": "IMain.props.ts",
+      "path": "src/subcomponents/Main/IMain.props.ts",
+      "sha": "3bdb411149f20252406498a2296421c50437170d",
+      "size": 179,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/IMain.props.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/IMain.props.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/3bdb411149f20252406498a2296421c50437170d",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/Main/IMain.props.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/IMain.props.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/3bdb411149f20252406498a2296421c50437170d",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/IMain.props.ts"
+      }
+    },
+    {
+      "name": "IMain.state.ts",
+      "path": "src/subcomponents/Main/IMain.state.ts",
+      "sha": "159c81150c750e3b59f50ea11ca29701991431db",
+      "size": 115,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/IMain.state.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/IMain.state.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/159c81150c750e3b59f50ea11ca29701991431db",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/Main/IMain.state.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/IMain.state.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/159c81150c750e3b59f50ea11ca29701991431db",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/IMain.state.ts"
+      }
+    },
+    {
+      "name": "Main.module.css",
+      "path": "src/subcomponents/Main/Main.module.css",
+      "sha": "caa650b7476299687bebd6b19e1c68af42c75d95",
+      "size": 308,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/Main.module.css?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/Main.module.css",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/caa650b7476299687bebd6b19e1c68af42c75d95",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/Main/Main.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/Main.module.css?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/caa650b7476299687bebd6b19e1c68af42c75d95",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/Main.module.css"
+      }
+    },
+    {
+      "name": "Main.tsx",
+      "path": "src/subcomponents/Main/Main.tsx",
+      "sha": "545fe80ad2e708c2208c9cf3d6b9b17cc1ebb116",
+      "size": 2406,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/Main.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/Main.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/545fe80ad2e708c2208c9cf3d6b9b17cc1ebb116",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/Main/Main.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Main/Main.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/545fe80ad2e708c2208c9cf3d6b9b17cc1ebb116",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Main/Main.tsx"
+      }
+    },
+    {
+      "name": "Navbar",
+      "path": "src/subcomponents/Navbar",
+      "sha": "25f5903da9cc713f553bb3bb0e72e96b5799ded5",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Navbar?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/Navbar",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/25f5903da9cc713f553bb3bb0e72e96b5799ded5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Navbar?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/25f5903da9cc713f553bb3bb0e72e96b5799ded5",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/Navbar"
+      }
+    },
+    {
+      "name": "INavbar.props.ts",
+      "path": "src/subcomponents/Navbar/INavbar.props.ts",
+      "sha": "d3ae79adb30ccd7fa351a4bc8a0292cc9916e980",
+      "size": 51,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Navbar/INavbar.props.ts?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Navbar/INavbar.props.ts",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/d3ae79adb30ccd7fa351a4bc8a0292cc9916e980",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/Navbar/INavbar.props.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Navbar/INavbar.props.ts?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/d3ae79adb30ccd7fa351a4bc8a0292cc9916e980",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Navbar/INavbar.props.ts"
+      }
+    },
+    {
+      "name": "Navbar.tsx",
+      "path": "src/subcomponents/Navbar/Navbar.tsx",
+      "sha": "ae30bed2d08c8252a668b75624707a625497240f",
+      "size": 1349,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Navbar/Navbar.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Navbar/Navbar.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/ae30bed2d08c8252a668b75624707a625497240f",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/Navbar/Navbar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/Navbar/Navbar.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/ae30bed2d08c8252a668b75624707a625497240f",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/Navbar/Navbar.tsx"
+      }
+    },
+    {
+      "name": "StepByStepGuide",
+      "path": "src/subcomponents/StepByStepGuide",
+      "sha": "e0b85c33fd84d71dbc0ee980935b15eccef78dcf",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/StepByStepGuide?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/StepByStepGuide",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/e0b85c33fd84d71dbc0ee980935b15eccef78dcf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/StepByStepGuide?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/e0b85c33fd84d71dbc0ee980935b15eccef78dcf",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/src/subcomponents/StepByStepGuide"
+      }
+    },
+    {
+      "name": "StepByStepGuide.tsx",
+      "path": "src/subcomponents/StepByStepGuide/StepByStepGuide.tsx",
+      "sha": "af44a54b187e0937548f13db9524edebdb9aafd8",
+      "size": 2698,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/StepByStepGuide/StepByStepGuide.tsx?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/StepByStepGuide/StepByStepGuide.tsx",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/af44a54b187e0937548f13db9524edebdb9aafd8",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/src/subcomponents/StepByStepGuide/StepByStepGuide.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/src/subcomponents/StepByStepGuide/StepByStepGuide.tsx?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/af44a54b187e0937548f13db9524edebdb9aafd8",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/src/subcomponents/StepByStepGuide/StepByStepGuide.tsx"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "tailwind.config.js",
+      "sha": "f1280c9914cd798cc83c3e8178b36f2c726448d6",
+      "size": 366,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/tailwind.config.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f1280c9914cd798cc83c3e8178b36f2c726448d6",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/tailwind.config.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/f1280c9914cd798cc83c3e8178b36f2c726448d6",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/tailwind.config.js"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "04e37e25ca835056e657b686483056aeb62c1bc9",
+      "size": 0,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/test?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/tree/main/test",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/trees/04e37e25ca835056e657b686483056aeb62c1bc9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/test?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/trees/04e37e25ca835056e657b686483056aeb62c1bc9",
+        "html": "https://github.com/wsdt/WavectToken/tree/main/test"
+      }
+    },
+    {
+      "name": "TokenFarm.test.js",
+      "path": "test/TokenFarm.test.js",
+      "sha": "3f50bfa3c9a6f35a3a679c364df3f626a2bc7032",
+      "size": 6757,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/test/TokenFarm.test.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/test/TokenFarm.test.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/3f50bfa3c9a6f35a3a679c364df3f626a2bc7032",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/test/TokenFarm.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/test/TokenFarm.test.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/3f50bfa3c9a6f35a3a679c364df3f626a2bc7032",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/test/TokenFarm.test.js"
+      }
+    },
+    {
+      "name": "truffle-config.js",
+      "path": "truffle-config.js",
+      "sha": "9f5213162c667e08a1e2826a4199d5a569b7048a",
+      "size": 460,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/truffle-config.js?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/truffle-config.js",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/9f5213162c667e08a1e2826a4199d5a569b7048a",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/truffle-config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/truffle-config.js?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/9f5213162c667e08a1e2826a4199d5a569b7048a",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/truffle-config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "303a0009344be8c90cfc8c41c9a1366ad810c491",
+      "size": 579,
+      "url": "https://api.github.com/repos/wsdt/WavectToken/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/wsdt/WavectToken/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/303a0009344be8c90cfc8c41c9a1366ad810c491",
+      "download_url": "https://raw.githubusercontent.com/wsdt/WavectToken/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wsdt/WavectToken/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/wsdt/WavectToken/git/blobs/303a0009344be8c90cfc8c41c9a1366ad810c491",
+        "html": "https://github.com/wsdt/WavectToken/blob/main/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "img.shields.io": 4767,
+    "github.com": 6726,
+    "tailwindcss.com": 3154,
+    "makeapullrequest.com": 313,
+    "saythanks.io": 2249,
+    "token.wavect.io": 2447,
+    "wavect.io": 2447,
+    "nextjs.org": 3445,
+    "badges.frapsoft.com": 5599,
+    "bitbucket.org": 10333
+  },
+  "collected_at": "2026-03-10T16:06:06.878982"
+}

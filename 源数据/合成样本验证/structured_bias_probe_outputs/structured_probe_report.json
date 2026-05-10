@@ -1,0 +1,99 @@
+{
+  "input_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\augmented_300_with_meta.json",
+  "output_dir": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\structured_bias_probe_outputs",
+  "n_samples": 300,
+  "n_original": 45,
+  "n_synthetic": 255,
+  "n_structured_features": 149,
+  "cv": {
+    "n_splits": 5,
+    "random_state": 42,
+    "mean_roc_auc": 0.49106753812636167,
+    "std_roc_auc": 0.04880368810315701
+  },
+  "interpretation": "AUC 越接近 0.50，说明 original 与 synthetic 越不容易仅凭结构化特征被区分，结构化合成偏置越弱；若 AUC 明显高于 0.60，则提示存在可识别的结构化合成痕迹。",
+  "top10_positive_coefficients": [
+    {
+      "feature": "repo_name_entropy",
+      "coef": 0.7006285391268602
+    },
+    {
+      "feature": "hidden_file_count",
+      "coef": -0.6381993112728758
+    },
+    {
+      "feature": "file_extension_diversity",
+      "coef": 0.47593545707158286
+    },
+    {
+      "feature": "avg_path_depth",
+      "coef": -0.4732249979985023
+    },
+    {
+      "feature": "top_level_dir_count",
+      "coef": 0.472473809118218
+    },
+    {
+      "feature": "owner_repo_density",
+      "coef": -0.45064455453965885
+    },
+    {
+      "feature": "go_file_count",
+      "coef": -0.44959250710189663
+    },
+    {
+      "feature": "large_file_count_ge_1mb",
+      "coef": 0.42155976497375763
+    },
+    {
+      "feature": "avg_file_size_bytes",
+      "coef": -0.4184426525862441
+    },
+    {
+      "feature": "public_gists_count",
+      "coef": 0.3942317077190167
+    }
+  ],
+  "top10_negative_coefficients": [
+    {
+      "feature": "hidden_file_count",
+      "coef": -0.6381993112728758
+    },
+    {
+      "feature": "avg_path_depth",
+      "coef": -0.4732249979985023
+    },
+    {
+      "feature": "owner_repo_density",
+      "coef": -0.45064455453965885
+    },
+    {
+      "feature": "go_file_count",
+      "coef": -0.44959250710189663
+    },
+    {
+      "feature": "avg_file_size_bytes",
+      "coef": -0.4184426525862441
+    },
+    {
+      "feature": "public_repos_count",
+      "coef": -0.3508437310650463
+    },
+    {
+      "feature": "has_env_file",
+      "coef": -0.33386283504226644
+    },
+    {
+      "feature": "readme_has_wallet_connect_keywords",
+      "coef": -0.30790304877981506
+    },
+    {
+      "feature": "has_package_lock_json",
+      "coef": -0.3078710845124997
+    },
+    {
+      "feature": "default_branch_is_main",
+      "coef": -0.29210614192081846
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "repo_full_name": "xqyet/BlockchainAddressSpoofer",
+  "repo_detail": {
+    "id": 885716737,
+    "node_id": "R_kgDONMr3AQ",
+    "name": "BlockchainAddressSpoofer",
+    "full_name": "xqyet/BlockchainAddressSpoofer",
+    "private": false,
+    "owner": {
+      "login": "xqyet",
+      "id": 112708953,
+      "node_id": "U_kgDOBrfNWQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112708953?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xqyet",
+      "html_url": "https://github.com/xqyet",
+      "followers_url": "https://api.github.com/users/xqyet/followers",
+      "following_url": "https://api.github.com/users/xqyet/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xqyet/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xqyet/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xqyet/subscriptions",
+      "organizations_url": "https://api.github.com/users/xqyet/orgs",
+      "repos_url": "https://api.github.com/users/xqyet/repos",
+      "events_url": "https://api.github.com/users/xqyet/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xqyet/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer",
+    "description": "proof of concept wallet address spoofer for binance smart chain and ethereum blockchain addresses",
+    "fork": false,
+    "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer",
+    "forks_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/forks",
+    "keys_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/teams",
+    "hooks_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/hooks",
+    "issue_events_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/events",
+    "assignees_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/tags",
+    "blobs_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/languages",
+    "stargazers_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/stargazers",
+    "contributors_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contributors",
+    "subscribers_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/subscribers",
+    "subscription_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/subscription",
+    "commits_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/merges",
+    "archive_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/downloads",
+    "issues_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/deployments",
+    "created_at": "2024-11-09T07:44:05Z",
+    "updated_at": "2025-09-09T06:38:32Z",
+    "pushed_at": "2025-09-09T06:38:28Z",
+    "git_url": "git://github.com/xqyet/BlockchainAddressSpoofer.git",
+    "ssh_url": "git@github.com:xqyet/BlockchainAddressSpoofer.git",
+    "clone_url": "https://github.com/xqyet/BlockchainAddressSpoofer.git",
+    "svn_url": "https://github.com/xqyet/BlockchainAddressSpoofer",
+    "homepage": null,
+    "size": 383,
+    "stargazers_count": 5,
+    "watchers_count": 5,
+    "language": "C#",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 5,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "xqyet",
+    "id": 112708953,
+    "node_id": "U_kgDOBrfNWQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/112708953?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xqyet",
+    "html_url": "https://github.com/xqyet",
+    "followers_url": "https://api.github.com/users/xqyet/followers",
+    "following_url": "https://api.github.com/users/xqyet/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xqyet/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xqyet/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xqyet/subscriptions",
+    "organizations_url": "https://api.github.com/users/xqyet/orgs",
+    "repos_url": "https://api.github.com/users/xqyet/repos",
+    "events_url": "https://api.github.com/users/xqyet/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xqyet/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "gio",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 67,
+    "public_gists": 0,
+    "followers": 30,
+    "following": 9,
+    "created_at": "2022-09-02T13:45:33Z",
+    "updated_at": "2026-01-27T08:54:12Z"
+  },
+  "readme": "# Blockchain Address Spoofer Tool\n\nA C# WinForms application that generates target wallet addresses based on initial prefix and grabs from Ethereum transaction history. developed by [xqyet](https://xqyet.dev/).\n\n\n---\n## Interface\n\n![address_spoofer_GUI](AddressSpoofer/example_gui2.png)\n\n## Features\n\n- **Address Generation:** Search for wallet addresses matching prefix characters. Displays best matches in order of matched characters\n- **Transaction Analytics:** Fetch and display transaction history for any Ethereum & Binance address.\n\n## Requirements\n\n- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) (4.8 or later)\n- Packages:\n  - `Newtonsoft.Json`\n  - `Nethereum`\n  - `System.Net.Http`\n\n---\n\n## Installation\n\n1. Clone the repository:\n   ```bash\n   git clone https://github.com/username/AddressSpoofer.git\n'''\n2. Open the project in Visual Studio.\n\n3. Restore NuGet packages by navigating to the **Solution Explorer** and right-clicking the project, then selecting **Manage NuGet Packages** -> **Restore**.\n\n## How to use\n\n1. **Generate Address:**\n   - Enter the target wallet address in the input field.\n   - Click **Start** to search for matching addresses.\n   - Click **Abort** to stop searching. \n\n2. **Fetch Transactions:**\n   - Enter an Ethereum address in the **Analytics** section.\n   - Click **Fetch Transactions** to load transaction history in the table.\n\n## Code Structure\n\n- **Form1.cs**: Main application logic, including the address generator and API calls.\n- **Form1.Designer.cs**: UI components and layout.\n\n## License\n\nMIT License\n",
+  "tree_structure": [
+    {
+      "name": ".gitattributes",
+      "path": ".gitattributes",
+      "sha": "1ff0c423042b46cb1d617b81efb715defbe8054d",
+      "size": 2518,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/.gitattributes?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/.gitattributes",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1ff0c423042b46cb1d617b81efb715defbe8054d",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/.gitattributes",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/.gitattributes?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1ff0c423042b46cb1d617b81efb715defbe8054d",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/.gitattributes"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "9491a2fda28342ab358eaf234e1afe0c07a53d62",
+      "size": 6223,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/9491a2fda28342ab358eaf234e1afe0c07a53d62",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/9491a2fda28342ab358eaf234e1afe0c07a53d62",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": "AddressSpoofer.sln",
+      "path": "AddressSpoofer.sln",
+      "sha": "e55aef23d4606eb99213111ff4cb78942b9770a3",
+      "size": 1125,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer.sln?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer.sln",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/e55aef23d4606eb99213111ff4cb78942b9770a3",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer.sln",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer.sln?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/e55aef23d4606eb99213111ff4cb78942b9770a3",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer.sln"
+      }
+    },
+    {
+      "name": "AddressSpoofer",
+      "path": "AddressSpoofer",
+      "sha": "639f64e922bece02cefd85b9f2104aa8b819038b",
+      "size": 0,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/tree/master/AddressSpoofer",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees/639f64e922bece02cefd85b9f2104aa8b819038b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees/639f64e922bece02cefd85b9f2104aa8b819038b",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/tree/master/AddressSpoofer"
+      }
+    },
+    {
+      "name": "AddressSpoofer.csproj",
+      "path": "AddressSpoofer/AddressSpoofer.csproj",
+      "sha": "9a153aef93c8059cffda71ec58947dc5469baa51",
+      "size": 7744,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/AddressSpoofer.csproj?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/AddressSpoofer.csproj",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/9a153aef93c8059cffda71ec58947dc5469baa51",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/AddressSpoofer.csproj",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/AddressSpoofer.csproj?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/9a153aef93c8059cffda71ec58947dc5469baa51",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/AddressSpoofer.csproj"
+      }
+    },
+    {
+      "name": "App.config",
+      "path": "AddressSpoofer/App.config",
+      "sha": "92691b0327a8f017422b704c4fd38fb37607b55f",
+      "size": 531,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/App.config?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/App.config",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/92691b0327a8f017422b704c4fd38fb37607b55f",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/App.config",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/App.config?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/92691b0327a8f017422b704c4fd38fb37607b55f",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/App.config"
+      }
+    },
+    {
+      "name": "Form1.Designer.cs",
+      "path": "AddressSpoofer/Form1.Designer.cs",
+      "sha": "89ac7bbaa16e717767e63cc4a3afb04950862188",
+      "size": 18093,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Form1.Designer.cs?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Form1.Designer.cs",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/89ac7bbaa16e717767e63cc4a3afb04950862188",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Form1.Designer.cs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Form1.Designer.cs?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/89ac7bbaa16e717767e63cc4a3afb04950862188",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Form1.Designer.cs"
+      }
+    },
+    {
+      "name": "Form1.cs",
+      "path": "AddressSpoofer/Form1.cs",
+      "sha": "6c11c11575ba4e5f061a1045ba0ce278e1a9fbab",
+      "size": 11957,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Form1.cs?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Form1.cs",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/6c11c11575ba4e5f061a1045ba0ce278e1a9fbab",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Form1.cs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Form1.cs?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/6c11c11575ba4e5f061a1045ba0ce278e1a9fbab",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Form1.cs"
+      }
+    },
+    {
+      "name": "Form1.resx",
+      "path": "AddressSpoofer/Form1.resx",
+      "sha": "1af7de150c99c12dd67a509fe57c10d63e4eeb04",
+      "size": 5698,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Form1.resx?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Form1.resx",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1af7de150c99c12dd67a509fe57c10d63e4eeb04",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Form1.resx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Form1.resx?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1af7de150c99c12dd67a509fe57c10d63e4eeb04",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Form1.resx"
+      }
+    },
+    {
+      "name": "Program.cs",
+      "path": "AddressSpoofer/Program.cs",
+      "sha": "1baedfade4c63c16cacc2253a80090cf46f35e86",
+      "size": 441,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Program.cs?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Program.cs",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1baedfade4c63c16cacc2253a80090cf46f35e86",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Program.cs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Program.cs?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1baedfade4c63c16cacc2253a80090cf46f35e86",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Program.cs"
+      }
+    },
+    {
+      "name": "Properties",
+      "path": "AddressSpoofer/Properties",
+      "sha": "05328d680cb244bfa866d8452e832847b73da71f",
+      "size": 0,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/tree/master/AddressSpoofer/Properties",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees/05328d680cb244bfa866d8452e832847b73da71f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees/05328d680cb244bfa866d8452e832847b73da71f",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/tree/master/AddressSpoofer/Properties"
+      }
+    },
+    {
+      "name": "AssemblyInfo.cs",
+      "path": "AddressSpoofer/Properties/AssemblyInfo.cs",
+      "sha": "dc9e73aa9349791ad9b1731eb63952c7c86ed439",
+      "size": 1239,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/AssemblyInfo.cs?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/AssemblyInfo.cs",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/dc9e73aa9349791ad9b1731eb63952c7c86ed439",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Properties/AssemblyInfo.cs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/AssemblyInfo.cs?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/dc9e73aa9349791ad9b1731eb63952c7c86ed439",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/AssemblyInfo.cs"
+      }
+    },
+    {
+      "name": "Resources.Designer.cs",
+      "path": "AddressSpoofer/Properties/Resources.Designer.cs",
+      "sha": "f32a5ecaff3f2cf8c59ec3a5eb1b6a6f6a95b797",
+      "size": 2787,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Resources.Designer.cs?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Resources.Designer.cs",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/f32a5ecaff3f2cf8c59ec3a5eb1b6a6f6a95b797",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Properties/Resources.Designer.cs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Resources.Designer.cs?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/f32a5ecaff3f2cf8c59ec3a5eb1b6a6f6a95b797",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Resources.Designer.cs"
+      }
+    },
+    {
+      "name": "Resources.resx",
+      "path": "AddressSpoofer/Properties/Resources.resx",
+      "sha": "af7dbebbacef595e3089c01c05671016c21a8304",
+      "size": 5496,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Resources.resx?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Resources.resx",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/af7dbebbacef595e3089c01c05671016c21a8304",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Properties/Resources.resx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Resources.resx?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/af7dbebbacef595e3089c01c05671016c21a8304",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Resources.resx"
+      }
+    },
+    {
+      "name": "Settings.Designer.cs",
+      "path": "AddressSpoofer/Properties/Settings.Designer.cs",
+      "sha": "f62596b33a41fc7bac0c90e6da460c4578abc1b8",
+      "size": 1071,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Settings.Designer.cs?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Settings.Designer.cs",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/f62596b33a41fc7bac0c90e6da460c4578abc1b8",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Properties/Settings.Designer.cs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Settings.Designer.cs?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/f62596b33a41fc7bac0c90e6da460c4578abc1b8",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Settings.Designer.cs"
+      }
+    },
+    {
+      "name": "Settings.settings",
+      "path": "AddressSpoofer/Properties/Settings.settings",
+      "sha": "39645652af62950ebf3b28ec3a5400dcec30b1c4",
+      "size": 242,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Settings.settings?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Settings.settings",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/39645652af62950ebf3b28ec3a5400dcec30b1c4",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/Properties/Settings.settings",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/Properties/Settings.settings?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/39645652af62950ebf3b28ec3a5400dcec30b1c4",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/Properties/Settings.settings"
+      }
+    },
+    {
+      "name": "example_gui2.png",
+      "path": "AddressSpoofer/example_gui2.png",
+      "sha": "466600c604b0be5cb071ef3d8cb0f06a384e57ef",
+      "size": 114179,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/example_gui2.png?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/example_gui2.png",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/466600c604b0be5cb071ef3d8cb0f06a384e57ef",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/example_gui2.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/example_gui2.png?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/466600c604b0be5cb071ef3d8cb0f06a384e57ef",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/example_gui2.png"
+      }
+    },
+    {
+      "name": "images",
+      "path": "AddressSpoofer/images",
+      "sha": "b3f68ff57dfcac232757303178010e7fbee467af",
+      "size": 0,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/tree/master/AddressSpoofer/images",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees/b3f68ff57dfcac232757303178010e7fbee467af",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/trees/b3f68ff57dfcac232757303178010e7fbee467af",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/tree/master/AddressSpoofer/images"
+      }
+    },
+    {
+      "name": "address_spoofer_logo.jpg",
+      "path": "AddressSpoofer/images/address_spoofer_logo.jpg",
+      "sha": "49b2ddcd54fc1ed2cbccdee95437fccd3f180e47",
+      "size": 60512,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/address_spoofer_logo.jpg?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/address_spoofer_logo.jpg",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/49b2ddcd54fc1ed2cbccdee95437fccd3f180e47",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/images/address_spoofer_logo.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/address_spoofer_logo.jpg?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/49b2ddcd54fc1ed2cbccdee95437fccd3f180e47",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/address_spoofer_logo.jpg"
+      }
+    },
+    {
+      "name": "bscscan.png",
+      "path": "AddressSpoofer/images/bscscan.png",
+      "sha": "7c6b1718a04dd696fde646cd969b95de98998c94",
+      "size": 67455,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/bscscan.png?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/bscscan.png",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/7c6b1718a04dd696fde646cd969b95de98998c94",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/images/bscscan.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/bscscan.png?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/7c6b1718a04dd696fde646cd969b95de98998c94",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/bscscan.png"
+      }
+    },
+    {
+      "name": "etherscan-logo.png",
+      "path": "AddressSpoofer/images/etherscan-logo.png",
+      "sha": "017199271781da407287b7212f2c1a2d4c369b68",
+      "size": 8646,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/etherscan-logo.png?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/etherscan-logo.png",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/017199271781da407287b7212f2c1a2d4c369b68",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/images/etherscan-logo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/etherscan-logo.png?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/017199271781da407287b7212f2c1a2d4c369b68",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/etherscan-logo.png"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "AddressSpoofer/images/favicon.ico",
+      "sha": "b5ad44cbfa78d649ce532a3beeab83dbb0b60c0a",
+      "size": 4286,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/favicon.ico?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/favicon.ico",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/b5ad44cbfa78d649ce532a3beeab83dbb0b60c0a",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/images/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/images/favicon.ico?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/b5ad44cbfa78d649ce532a3beeab83dbb0b60c0a",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/images/favicon.ico"
+      }
+    },
+    {
+      "name": "packages.config",
+      "path": "AddressSpoofer/packages.config",
+      "sha": "1fb0284936a58be7e987cb9106d256b467e85b04",
+      "size": 1220,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/packages.config?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/packages.config",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1fb0284936a58be7e987cb9106d256b467e85b04",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/AddressSpoofer/packages.config",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/AddressSpoofer/packages.config?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/1fb0284936a58be7e987cb9106d256b467e85b04",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/AddressSpoofer/packages.config"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "523037f775f109656e83b7d193060c2884102d95",
+      "size": 1581,
+      "url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/README.md?ref=master",
+      "html_url": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/523037f775f109656e83b7d193060c2884102d95",
+      "download_url": "https://raw.githubusercontent.com/xqyet/BlockchainAddressSpoofer/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/xqyet/BlockchainAddressSpoofer/git/blobs/523037f775f109656e83b7d193060c2884102d95",
+        "html": "https://github.com/xqyet/BlockchainAddressSpoofer/blob/master/README.md"
+      }
+    }
+  ],
+  "external_domains": {
+    "dotnet.microsoft.com": 12696,
+    "xqyet.dev": null,
+    "github.com": 6692
+  },
+  "collected_at": "2026-02-04T03:51:07.412723"
+}

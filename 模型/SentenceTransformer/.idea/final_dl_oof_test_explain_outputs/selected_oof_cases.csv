@@ -1,0 +1,10 @@
+﻿family_id,label,is_real_positive,is_generated_positive,row_index,outer_fold,y_proba,y_pred,threshold,model,repo_full_name,case_type
+F1_pumpfun_clone,1,1,0,8,4,0.9997856,1,0.0485415570437908,"SentenceTransformer+MLP (fixed params, offline)",asmaamohamed0264/solana-pumpfun-bot,high_score_real_positive
+F1_pumpfun_clone,1,1,0,9,4,0.9997631,1,0.0485415570437908,"SentenceTransformer+MLP (fixed params, offline)",bog-us/solana-pumpfun-bot,high_score_real_positive
+F1_pumpfun_clone,1,1,0,25,4,0.99976176,1,0.0485415570437908,"SentenceTransformer+MLP (fixed params, offline)",mdemetrial26rvk9w/solana-pumpfun-bot,high_score_real_positive
+F2_crypto_trading_bot,1,1,0,14,1,7.3936275e-07,0,0.0547998510301113,"SentenceTransformer+MLP (fixed params, offline)",FaceOFWood/SniperBot-Solana-PumpSwap,hard_real_positive
+F2_crypto_trading_bot,1,1,0,11,1,1.1487499e-06,0,0.0547998510301113,"SentenceTransformer+MLP (fixed params, offline)",dev-protocol/polymarket-copytrading-bot-sport,hard_real_positive
+F2_crypto_trading_bot,1,1,0,29,1,6.5226035e-05,0,0.0547998510301113,"SentenceTransformer+MLP (fixed params, offline)",Morning-Star213/Solana-pumpfun-bot,hard_real_positive
+NEG_00768,0,0,0,1068,4,1.0,1,0.0485415570437908,"SentenceTransformer+MLP (fixed params, offline)",gmh5225/awesome-crypto-wallet-address,hard_negative
+NEG_01244,0,0,0,1544,3,0.9241981,1,0.0079823024570941,"SentenceTransformer+MLP (fixed params, offline)",mrfomoweb3/nft-wallet-tracker,hard_negative
+NEG_01118,0,0,0,1418,2,0.85817873,0,0.985877275466919,"SentenceTransformer+MLP (fixed params, offline)",luca-nik/Blockchain_ResearchLead_Assignements,hard_negative

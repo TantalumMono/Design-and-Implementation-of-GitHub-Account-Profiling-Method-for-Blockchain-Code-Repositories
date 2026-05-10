@@ -1,0 +1,9 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+README,snip snip snip prerequisites node.js yarn bun installed nextjs tailwind css transak setup 1.,0.0033571877359018713,0.001963670606939097,0.0013935171289627744
+README,commands development npm run dev technology stack next.js server-side rendering typescript type safety improved tooling tailwind css responsive efficient styling,0.0033571877359018713,0.002359415985608754,0.0009977717502931173
+README,clone git clone 2.,0.0033571877359018713,0.002392662980670968,0.0009645247552309034
+README,view application open browser application action.,0.0033571877359018713,0.002422633743210936,0.0009345539926909354
+README,install dependencies npm install 3.,0.0033571877359018713,0.0026261053330795185,0.0007310824028223528
+README,run development server 4.,0.0033571877359018713,0.002660415408136896,0.0006967723277649753
+README,getting started overview blockchain sdk transak next.js next.js application integrates blockchain sdk transak managing cryptocurrency transactions.,0.0033571877359018713,0.0031175282211707046,0.00023965951473116668
+README,platform allows users perform crypto transactions easily using transak fiat-to-crypto on-ramp solution.,0.0033571877359018713,0.0031776361235960893,0.00017955161230578205

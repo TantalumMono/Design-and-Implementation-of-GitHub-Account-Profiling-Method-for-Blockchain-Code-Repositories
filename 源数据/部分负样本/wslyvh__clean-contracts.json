@@ -1,0 +1,552 @@
+{
+  "repo_full_name": "wslyvh/clean-contracts",
+  "repo_detail": {
+    "id": 284676925,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyODQ2NzY5MjU=",
+    "name": "clean-contracts",
+    "full_name": "wslyvh/clean-contracts",
+    "private": false,
+    "owner": {
+      "login": "wslyvh",
+      "id": 25974464,
+      "node_id": "MDQ6VXNlcjI1OTc0NDY0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25974464?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wslyvh",
+      "html_url": "https://github.com/wslyvh",
+      "followers_url": "https://api.github.com/users/wslyvh/followers",
+      "following_url": "https://api.github.com/users/wslyvh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wslyvh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wslyvh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wslyvh/subscriptions",
+      "organizations_url": "https://api.github.com/users/wslyvh/orgs",
+      "repos_url": "https://api.github.com/users/wslyvh/repos",
+      "events_url": "https://api.github.com/users/wslyvh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wslyvh/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/wslyvh/clean-contracts",
+    "description": "A guide on smart contract patterns & practices",
+    "fork": false,
+    "url": "https://api.github.com/repos/wslyvh/clean-contracts",
+    "forks_url": "https://api.github.com/repos/wslyvh/clean-contracts/forks",
+    "keys_url": "https://api.github.com/repos/wslyvh/clean-contracts/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/wslyvh/clean-contracts/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/wslyvh/clean-contracts/teams",
+    "hooks_url": "https://api.github.com/repos/wslyvh/clean-contracts/hooks",
+    "issue_events_url": "https://api.github.com/repos/wslyvh/clean-contracts/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/wslyvh/clean-contracts/events",
+    "assignees_url": "https://api.github.com/repos/wslyvh/clean-contracts/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/wslyvh/clean-contracts/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/wslyvh/clean-contracts/tags",
+    "blobs_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/wslyvh/clean-contracts/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/wslyvh/clean-contracts/languages",
+    "stargazers_url": "https://api.github.com/repos/wslyvh/clean-contracts/stargazers",
+    "contributors_url": "https://api.github.com/repos/wslyvh/clean-contracts/contributors",
+    "subscribers_url": "https://api.github.com/repos/wslyvh/clean-contracts/subscribers",
+    "subscription_url": "https://api.github.com/repos/wslyvh/clean-contracts/subscription",
+    "commits_url": "https://api.github.com/repos/wslyvh/clean-contracts/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/wslyvh/clean-contracts/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/wslyvh/clean-contracts/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/wslyvh/clean-contracts/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/wslyvh/clean-contracts/merges",
+    "archive_url": "https://api.github.com/repos/wslyvh/clean-contracts/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/wslyvh/clean-contracts/downloads",
+    "issues_url": "https://api.github.com/repos/wslyvh/clean-contracts/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/wslyvh/clean-contracts/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/wslyvh/clean-contracts/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/wslyvh/clean-contracts/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/wslyvh/clean-contracts/labels{/name}",
+    "releases_url": "https://api.github.com/repos/wslyvh/clean-contracts/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/wslyvh/clean-contracts/deployments",
+    "created_at": "2020-08-03T11:01:47Z",
+    "updated_at": "2026-02-24T02:11:33Z",
+    "pushed_at": "2020-08-07T09:02:37Z",
+    "git_url": "git://github.com/wslyvh/clean-contracts.git",
+    "ssh_url": "git@github.com:wslyvh/clean-contracts.git",
+    "clone_url": "https://github.com/wslyvh/clean-contracts.git",
+    "svn_url": "https://github.com/wslyvh/clean-contracts",
+    "homepage": "https://www.wslyvh.com/clean-contracts/",
+    "size": 9,
+    "stargazers_count": 31,
+    "watchers_count": 31,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 7,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "ethereum",
+      "smart-contracts",
+      "solidity"
+    ],
+    "visibility": "public",
+    "forks": 7,
+    "open_issues": 0,
+    "watchers": 31,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 7,
+    "subscribers_count": 4
+  },
+  "user_detail": {
+    "login": "wslyvh",
+    "id": 25974464,
+    "node_id": "MDQ6VXNlcjI1OTc0NDY0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25974464?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wslyvh",
+    "html_url": "https://github.com/wslyvh",
+    "followers_url": "https://api.github.com/users/wslyvh/followers",
+    "following_url": "https://api.github.com/users/wslyvh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wslyvh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wslyvh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wslyvh/subscriptions",
+    "organizations_url": "https://api.github.com/users/wslyvh/orgs",
+    "repos_url": "https://api.github.com/users/wslyvh/repos",
+    "events_url": "https://api.github.com/users/wslyvh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wslyvh/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Wesley",
+    "company": "@Ethereum",
+    "blog": "",
+    "location": "Amsterdam, NL",
+    "email": null,
+    "hireable": true,
+    "bio": "Events @ethereum @efdevcon @efdevconnect  🦄 Web3 | OSS | Decentralization | Privacy 🛠️ Indie Maker ",
+    "twitter_username": "wslyvh",
+    "public_repos": 116,
+    "public_gists": 7,
+    "followers": 530,
+    "following": 66,
+    "created_at": "2017-02-23T07:05:15Z",
+    "updated_at": "2026-03-14T11:30:34Z"
+  },
+  "readme": "# Clean Contracts - a guide on smart contract patterns & practices\n\nBlockchain and smart contract development require solid engineering practices, rigorous testing, and a strong security mindset. This guide covers several patterns, practices, and principles to reduce the risks associated with it.\n\nFull blog post at: https://www.wslyvh.com/clean-contracts/\n\n## Examples \n\n1. [Naming](./1-naming/README.md) \n1. [Structure & Ordering](./2-structure/README.md)\n1. [Documentation & Natspec](./3-documentation/README.md)\n1. [Formatting](./4-formatting/README.md)\n1. [Contracts & Data structures](./5-contracts/README.md)\n1. [Systems](./6-systems/README.md)\n1. [Standards & Libraries](./7-standards/README.md)\n1. [Error handling](./8-error/README.md)\n1. [Testing](./9-testing/README.md)\n1. [Security & code analysis](./10-analysis/README.md)\n1. [Continuous Integration](./11-integration/README.md)\n",
+  "tree_structure": [
+    {
+      "name": "1-naming",
+      "path": "1-naming",
+      "sha": "ec255b83241609302e2c358e07124c6c1077d160",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/1-naming?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/1-naming",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/ec255b83241609302e2c358e07124c6c1077d160",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/1-naming?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/ec255b83241609302e2c358e07124c6c1077d160",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/1-naming"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "1-naming/README.md",
+      "sha": "955861a66ddf6f6797c799cee30088263e8ce5fa",
+      "size": 1101,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/1-naming/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/1-naming/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/955861a66ddf6f6797c799cee30088263e8ce5fa",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/1-naming/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/1-naming/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/955861a66ddf6f6797c799cee30088263e8ce5fa",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/1-naming/README.md"
+      }
+    },
+    {
+      "name": "10-analysis",
+      "path": "10-analysis",
+      "sha": "8a85372cc02f7e2cd7df9b71d8a7fa25207a7aba",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/10-analysis?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/10-analysis",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/8a85372cc02f7e2cd7df9b71d8a7fa25207a7aba",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/10-analysis?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/8a85372cc02f7e2cd7df9b71d8a7fa25207a7aba",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/10-analysis"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "10-analysis/README.md",
+      "sha": "202bf6983428ff332688c4eef1567f6ee6e96ff0",
+      "size": 902,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/10-analysis/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/10-analysis/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/202bf6983428ff332688c4eef1567f6ee6e96ff0",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/10-analysis/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/10-analysis/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/202bf6983428ff332688c4eef1567f6ee6e96ff0",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/10-analysis/README.md"
+      }
+    },
+    {
+      "name": "11-integration",
+      "path": "11-integration",
+      "sha": "7301d3002a8b8e6e280a3b3ab55af9952c46369c",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/11-integration?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/11-integration",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/7301d3002a8b8e6e280a3b3ab55af9952c46369c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/11-integration?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/7301d3002a8b8e6e280a3b3ab55af9952c46369c",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/11-integration"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "11-integration/README.md",
+      "sha": "021c20f36bc9518172fa4bce5c5d7b28680a3ed6",
+      "size": 770,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/11-integration/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/11-integration/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/021c20f36bc9518172fa4bce5c5d7b28680a3ed6",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/11-integration/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/11-integration/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/021c20f36bc9518172fa4bce5c5d7b28680a3ed6",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/11-integration/README.md"
+      }
+    },
+    {
+      "name": "2-structure",
+      "path": "2-structure",
+      "sha": "84242b4e0b53d402d11b3f250693d6d309b65932",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/2-structure?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/2-structure",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/84242b4e0b53d402d11b3f250693d6d309b65932",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/2-structure?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/84242b4e0b53d402d11b3f250693d6d309b65932",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/2-structure"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "2-structure/README.md",
+      "sha": "fa04d8c29847833bdabfa83549dffc26f0d9aca5",
+      "size": 1033,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/2-structure/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/2-structure/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/fa04d8c29847833bdabfa83549dffc26f0d9aca5",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/2-structure/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/2-structure/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/fa04d8c29847833bdabfa83549dffc26f0d9aca5",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/2-structure/README.md"
+      }
+    },
+    {
+      "name": "3-documentation",
+      "path": "3-documentation",
+      "sha": "03826850eb5050446d63f0a6d66c6afdf329320a",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/3-documentation?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/3-documentation",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/03826850eb5050446d63f0a6d66c6afdf329320a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/3-documentation?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/03826850eb5050446d63f0a6d66c6afdf329320a",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/3-documentation"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "3-documentation/README.md",
+      "sha": "d5b66e760f03b00181d2b34e625f34dd24ed0e6f",
+      "size": 1226,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/3-documentation/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/3-documentation/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/d5b66e760f03b00181d2b34e625f34dd24ed0e6f",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/3-documentation/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/3-documentation/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/d5b66e760f03b00181d2b34e625f34dd24ed0e6f",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/3-documentation/README.md"
+      }
+    },
+    {
+      "name": "4-formatting",
+      "path": "4-formatting",
+      "sha": "23beca71d63d6d04bf723165c270f53cf08b15ba",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/4-formatting?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/4-formatting",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/23beca71d63d6d04bf723165c270f53cf08b15ba",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/4-formatting?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/23beca71d63d6d04bf723165c270f53cf08b15ba",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/4-formatting"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "4-formatting/README.md",
+      "sha": "a291c11fdec707201bde402c2cd5a72a4c9a73d8",
+      "size": 351,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/4-formatting/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/4-formatting/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/a291c11fdec707201bde402c2cd5a72a4c9a73d8",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/4-formatting/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/4-formatting/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/a291c11fdec707201bde402c2cd5a72a4c9a73d8",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/4-formatting/README.md"
+      }
+    },
+    {
+      "name": "5-contracts",
+      "path": "5-contracts",
+      "sha": "68e279ed364dd49d40ecbfb75a79aee629816698",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/5-contracts?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/5-contracts",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/68e279ed364dd49d40ecbfb75a79aee629816698",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/5-contracts?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/68e279ed364dd49d40ecbfb75a79aee629816698",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/5-contracts"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "5-contracts/README.md",
+      "sha": "256b9fa60026ac6982678c0edf0246ac3c2151f6",
+      "size": 1327,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/5-contracts/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/5-contracts/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/256b9fa60026ac6982678c0edf0246ac3c2151f6",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/5-contracts/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/5-contracts/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/256b9fa60026ac6982678c0edf0246ac3c2151f6",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/5-contracts/README.md"
+      }
+    },
+    {
+      "name": "6-systems",
+      "path": "6-systems",
+      "sha": "f712050a31c9c88748d5619ad7bc7b0221869d4e",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/6-systems?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/6-systems",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/f712050a31c9c88748d5619ad7bc7b0221869d4e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/6-systems?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/f712050a31c9c88748d5619ad7bc7b0221869d4e",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/6-systems"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "6-systems/README.md",
+      "sha": "1a67dc631e297442512dfce45454d29248f1e5ff",
+      "size": 14,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/6-systems/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/6-systems/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/1a67dc631e297442512dfce45454d29248f1e5ff",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/6-systems/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/6-systems/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/1a67dc631e297442512dfce45454d29248f1e5ff",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/6-systems/README.md"
+      }
+    },
+    {
+      "name": "7-standards",
+      "path": "7-standards",
+      "sha": "99e213c23fac43da6512a38de777f304945f5b1c",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/7-standards?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/7-standards",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/99e213c23fac43da6512a38de777f304945f5b1c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/7-standards?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/99e213c23fac43da6512a38de777f304945f5b1c",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/7-standards"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "7-standards/README.md",
+      "sha": "c08c08ed0e96be64bb763961768a7aff8ba85376",
+      "size": 865,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/7-standards/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/7-standards/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/c08c08ed0e96be64bb763961768a7aff8ba85376",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/7-standards/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/7-standards/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/c08c08ed0e96be64bb763961768a7aff8ba85376",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/7-standards/README.md"
+      }
+    },
+    {
+      "name": "8-error",
+      "path": "8-error",
+      "sha": "be987b62a8b699deb6ed0bd8499213be23d9151a",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/8-error?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/8-error",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/be987b62a8b699deb6ed0bd8499213be23d9151a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/8-error?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/be987b62a8b699deb6ed0bd8499213be23d9151a",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/8-error"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "8-error/README.md",
+      "sha": "0f94ea385421fe4777424bac8b9050581f388fc4",
+      "size": 257,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/8-error/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/8-error/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/0f94ea385421fe4777424bac8b9050581f388fc4",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/8-error/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/8-error/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/0f94ea385421fe4777424bac8b9050581f388fc4",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/8-error/README.md"
+      }
+    },
+    {
+      "name": "9-testing",
+      "path": "9-testing",
+      "sha": "d61e41ba0885aefe8471d8bf2d7c33ed5b70aef7",
+      "size": 0,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/9-testing?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/tree/master/9-testing",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/d61e41ba0885aefe8471d8bf2d7c33ed5b70aef7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/9-testing?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/trees/d61e41ba0885aefe8471d8bf2d7c33ed5b70aef7",
+        "html": "https://github.com/wslyvh/clean-contracts/tree/master/9-testing"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "9-testing/README.md",
+      "sha": "77afb3a7893ae45fef285cacd62e93ea2f0439e8",
+      "size": 1395,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/9-testing/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/9-testing/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/77afb3a7893ae45fef285cacd62e93ea2f0439e8",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/9-testing/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/9-testing/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/77afb3a7893ae45fef285cacd62e93ea2f0439e8",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/9-testing/README.md"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "f3dc1c25dd5da78808cd2c1659a4435f57614064",
+      "size": 1073,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/f3dc1c25dd5da78808cd2c1659a4435f57614064",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/f3dc1c25dd5da78808cd2c1659a4435f57614064",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "2383b93698e8e0e691f80d3b821d1bac858e9b5b",
+      "size": 893,
+      "url": "https://api.github.com/repos/wslyvh/clean-contracts/contents/README.md?ref=master",
+      "html_url": "https://github.com/wslyvh/clean-contracts/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/2383b93698e8e0e691f80d3b821d1bac858e9b5b",
+      "download_url": "https://raw.githubusercontent.com/wslyvh/clean-contracts/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wslyvh/clean-contracts/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/wslyvh/clean-contracts/git/blobs/2383b93698e8e0e691f80d3b821d1bac858e9b5b",
+        "html": "https://github.com/wslyvh/clean-contracts/blob/master/README.md"
+      }
+    }
+  ],
+  "external_domains": {
+    "www.wslyvh.com": 136
+  },
+  "collected_at": "2026-04-07T13:42:46.560970"
+}

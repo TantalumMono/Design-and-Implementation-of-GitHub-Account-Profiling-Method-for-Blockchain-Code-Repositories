@@ -1,0 +1,16 @@
+﻿feature,shap_value,abs_shap
+description_has_blockchain_keyword,0.9049578,0.9049578
+tfidf_readme::dex,0.73748547,0.73748547
+tfidf_readme::install,-0.5821682,0.5821682
+tfidf_readme::trading,0.5509393,0.5509393
+has_env_file,0.54074395,0.54074395
+tfidf_readme::buy,0.34130326,0.34130326
+topic_has_blockchain_keyword,0.33795398,0.33795398
+tfidf_readme::launch,-0.2928502,0.2928502
+tfidf_readme::market,0.22482586,0.22482586
+repo_age_days,0.21363406,0.21363406
+repo_is_fork,-0.20128572,0.20128572
+tfidf_readme::smart,0.1994355,0.1994355
+repo_name_has_blockchain_keyword,0.18713185,0.18713185
+tfidf_readme::support,0.17812839,0.17812839
+tfidf_readme::btc,0.16180442,0.16180442

@@ -1,0 +1,341 @@
+{
+  "config": {
+    "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\family_prepared_v3\\family_dataset_train_ready.csv",
+    "outer_n_splits": 5,
+    "inner_n_splits": 3,
+    "n_trials": 150,
+    "allow_generated_positives_in_outer_test": true,
+    "text_mode": "dual_text",
+    "readme_text_col": "readme_text_clean",
+    "aux_text_cols": [
+      "description_text_clean",
+      "topics_text_clean"
+    ],
+    "min_f1_target": 0.8,
+    "base_weights": {
+      "real_positive": 3.0,
+      "generated_positive": 1.25,
+      "negative": 1.0
+    },
+    "meta_leaky_prefixes": [
+      "meta_",
+      "meta__",
+      "source_",
+      "generated_",
+      "augmentation_"
+    ]
+  },
+  "pooled_oof": {
+    "threshold": 0.12565019726753235,
+    "threshold_info": {
+      "threshold": 0.12565019726753235,
+      "precision": 0.9324324324324325,
+      "recall": 0.69,
+      "f1": 0.7931034482758621,
+      "f_beta": 0.7278481012658229
+    },
+    "pr_auc": 0.8461878858502795,
+    "roc_auc": 0.9413356053229471,
+    "precision": 0.9324324324324325,
+    "recall": 0.69,
+    "f1": 0.7931034482758621,
+    "fbeta": 0.7278481012658229,
+    "confusion_matrix": [
+      [
+        2039,
+        15
+      ],
+      [
+        93,
+        207
+      ]
+    ]
+  },
+  "best_params_by_fold": [
+    {
+      "outer_fold": 1,
+      "text_mode": "dual_text",
+      "readme_text_col": "readme_text_clean",
+      "aux_text_cols": [
+        "description_text_clean",
+        "topics_text_clean"
+      ],
+      "readme_max_features": 400,
+      "readme_min_df": 3,
+      "readme_ngram_range": [
+        1,
+        1
+      ],
+      "aux_max_features": 200,
+      "aux_min_df": 3,
+      "aux_ngram_range": [
+        1,
+        2
+      ],
+      "xgb_best_params": {
+        "objective": "binary:logistic",
+        "eval_metric": "aucpr",
+        "tree_method": "hist",
+        "random_state": 42,
+        "n_jobs": -1,
+        "importance_type": "gain",
+        "n_estimators": 500,
+        "learning_rate": 0.009253787836618173,
+        "max_depth": 3,
+        "min_child_weight": 1,
+        "subsample": 0.8602125435210617,
+        "colsample_bytree": 0.9601058255964231,
+        "reg_alpha": 0.013426953511740093,
+        "reg_lambda": 0.026749306426344842,
+        "gamma": 0.9311852839184247,
+        "max_delta_step": 1.9961676589455677
+      },
+      "best_inner_objective": 0.8367690186924739,
+      "threshold": 0.1127496212720871,
+      "weights": {
+        "real_positive": 3.683614931509375,
+        "generated_positive": 0.9713813849524949,
+        "negative": 1.3214923941612784
+      },
+      "optuna_user_attrs": {
+        "text_mode": "dual_text",
+        "val_best_threshold": 0.1127496212720871,
+        "val_f1": 0.8157894736842105,
+        "val_precision": 0.8857142857142857,
+        "val_recall": 0.7560975609756098,
+        "val_ap": 0.6993181669421126,
+        "actual_w_real_pos": 3.683614931509375,
+        "actual_w_generated_pos": 0.9713813849524949,
+        "actual_w_neg": 1.3214923941612784
+      }
+    },
+    {
+      "outer_fold": 2,
+      "text_mode": "dual_text",
+      "readme_text_col": "readme_text_clean",
+      "aux_text_cols": [
+        "description_text_clean",
+        "topics_text_clean"
+      ],
+      "readme_max_features": 350,
+      "readme_min_df": 3,
+      "readme_ngram_range": [
+        1,
+        2
+      ],
+      "aux_max_features": 200,
+      "aux_min_df": 1,
+      "aux_ngram_range": [
+        1,
+        2
+      ],
+      "xgb_best_params": {
+        "objective": "binary:logistic",
+        "eval_metric": "aucpr",
+        "tree_method": "hist",
+        "random_state": 42,
+        "n_jobs": -1,
+        "importance_type": "gain",
+        "n_estimators": 1300,
+        "learning_rate": 0.020813882151373097,
+        "max_depth": 2,
+        "min_child_weight": 6,
+        "subsample": 0.6945894099135822,
+        "colsample_bytree": 0.8037958136583058,
+        "reg_alpha": 3.482670865259022e-05,
+        "reg_lambda": 0.45227360299773606,
+        "gamma": 5.4832344701209745,
+        "max_delta_step": 1.996868607002076
+      },
+      "best_inner_objective": 0.6347799173987262,
+      "threshold": 0.840569019317627,
+      "weights": {
+        "real_positive": 5.525162126662198,
+        "generated_positive": 0.65320302121405,
+        "negative": 1.1879108224038708
+      },
+      "optuna_user_attrs": {
+        "text_mode": "dual_text",
+        "val_best_threshold": 0.840569019317627,
+        "val_f1": 0.7384615384615385,
+        "val_precision": 1.0,
+        "val_recall": 0.5853658536585366,
+        "val_ap": 0.6465100671370265,
+        "actual_w_real_pos": 5.525162126662198,
+        "actual_w_generated_pos": 0.65320302121405,
+        "actual_w_neg": 1.1879108224038708
+      }
+    },
+    {
+      "outer_fold": 3,
+      "text_mode": "dual_text",
+      "readme_text_col": "readme_text_clean",
+      "aux_text_cols": [
+        "description_text_clean",
+        "topics_text_clean"
+      ],
+      "readme_max_features": 400,
+      "readme_min_df": 3,
+      "readme_ngram_range": [
+        1,
+        1
+      ],
+      "aux_max_features": 200,
+      "aux_min_df": 3,
+      "aux_ngram_range": [
+        1,
+        2
+      ],
+      "xgb_best_params": {
+        "objective": "binary:logistic",
+        "eval_metric": "aucpr",
+        "tree_method": "hist",
+        "random_state": 42,
+        "n_jobs": -1,
+        "importance_type": "gain",
+        "n_estimators": 800,
+        "learning_rate": 0.07072999728944324,
+        "max_depth": 2,
+        "min_child_weight": 1,
+        "subsample": 0.9117176345301297,
+        "colsample_bytree": 0.9781828746958958,
+        "reg_alpha": 0.14714472334071138,
+        "reg_lambda": 0.07497323635534696,
+        "gamma": 2.8096167101957246,
+        "max_delta_step": 1.95137869248471
+      },
+      "best_inner_objective": 0.2376408707842088,
+      "threshold": 0.03865650296211243,
+      "weights": {
+        "real_positive": 3.8382034876377205,
+        "generated_positive": 1.1699284317618828,
+        "negative": 1.4156429842251244
+      },
+      "optuna_user_attrs": {
+        "text_mode": "dual_text",
+        "val_best_threshold": 0.03865650296211243,
+        "val_f1": 0.6086956521739131,
+        "val_precision": 0.509090909090909,
+        "val_recall": 0.7567567567567568,
+        "val_ap": 0.38513047541565576,
+        "actual_w_real_pos": 3.8382034876377205,
+        "actual_w_generated_pos": 1.1699284317618828,
+        "actual_w_neg": 1.4156429842251244
+      }
+    },
+    {
+      "outer_fold": 4,
+      "text_mode": "dual_text",
+      "readme_text_col": "readme_text_clean",
+      "aux_text_cols": [
+        "description_text_clean",
+        "topics_text_clean"
+      ],
+      "readme_max_features": 500,
+      "readme_min_df": 2,
+      "readme_ngram_range": [
+        1,
+        1
+      ],
+      "aux_max_features": 150,
+      "aux_min_df": 2,
+      "aux_ngram_range": [
+        1,
+        2
+      ],
+      "xgb_best_params": {
+        "objective": "binary:logistic",
+        "eval_metric": "aucpr",
+        "tree_method": "hist",
+        "random_state": 42,
+        "n_jobs": -1,
+        "importance_type": "gain",
+        "n_estimators": 600,
+        "learning_rate": 0.012711571924346441,
+        "max_depth": 4,
+        "min_child_weight": 5,
+        "subsample": 0.7843106894036144,
+        "colsample_bytree": 0.7567864431101312,
+        "reg_alpha": 0.924937147818817,
+        "reg_lambda": 0.23339823405432672,
+        "gamma": 1.9587600848334847,
+        "max_delta_step": 1.7095600615979176
+      },
+      "best_inner_objective": 0.5705911256900987,
+      "threshold": 0.17223642766475677,
+      "weights": {
+        "real_positive": 4.493530442184339,
+        "generated_positive": 1.001558109056705,
+        "negative": 1.2850064998967128
+      },
+      "optuna_user_attrs": {
+        "text_mode": "dual_text",
+        "val_best_threshold": 0.17223642766475677,
+        "val_f1": 0.717948717948718,
+        "val_precision": 0.7777777777777778,
+        "val_recall": 0.6666666666666666,
+        "val_ap": 0.5581657281314996,
+        "actual_w_real_pos": 4.493530442184339,
+        "actual_w_generated_pos": 1.001558109056705,
+        "actual_w_neg": 1.2850064998967128
+      }
+    },
+    {
+      "outer_fold": 5,
+      "text_mode": "dual_text",
+      "readme_text_col": "readme_text_clean",
+      "aux_text_cols": [
+        "description_text_clean",
+        "topics_text_clean"
+      ],
+      "readme_max_features": 650,
+      "readme_min_df": 3,
+      "readme_ngram_range": [
+        1,
+        1
+      ],
+      "aux_max_features": 100,
+      "aux_min_df": 2,
+      "aux_ngram_range": [
+        1,
+        2
+      ],
+      "xgb_best_params": {
+        "objective": "binary:logistic",
+        "eval_metric": "aucpr",
+        "tree_method": "hist",
+        "random_state": 42,
+        "n_jobs": -1,
+        "importance_type": "gain",
+        "n_estimators": 500,
+        "learning_rate": 0.07160328600091438,
+        "max_depth": 4,
+        "min_child_weight": 1,
+        "subsample": 0.9209747134962928,
+        "colsample_bytree": 0.9443659119753064,
+        "reg_alpha": 0.0042675482294949555,
+        "reg_lambda": 0.3447861205882645,
+        "gamma": 5.769785423339923,
+        "max_delta_step": 1.2642396462892447
+      },
+      "best_inner_objective": 0.6245568026285451,
+      "threshold": 0.4002154469490051,
+      "weights": {
+        "real_positive": 5.225629005487519,
+        "generated_positive": 0.9008336745262076,
+        "negative": 1.0134498806847596
+      },
+      "optuna_user_attrs": {
+        "text_mode": "dual_text",
+        "val_best_threshold": 0.4002154469490051,
+        "val_f1": 0.7352941176470589,
+        "val_precision": 0.8928571428571429,
+        "val_recall": 0.625,
+        "val_ap": 0.6224816562456159,
+        "actual_w_real_pos": 5.225629005487519,
+        "actual_w_generated_pos": 0.9008336745262076,
+        "actual_w_neg": 1.0134498806847596
+      }
+    }
+  ]
+}

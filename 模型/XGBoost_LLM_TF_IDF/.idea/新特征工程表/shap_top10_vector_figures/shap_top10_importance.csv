@@ -1,0 +1,11 @@
+﻿rank,feature,mean_abs_shap
+1,repo_age_days,1.0349338
+2,description_has_blockchain_keyword,0.80894005
+3,tfidf_readme::install,0.6053209
+4,tfidf_readme::launch,0.54576516
+5,topic_has_blockchain_keyword,0.52633554
+6,repo_is_fork,0.34339067
+7,has_env_file,0.32120892
+8,blockchain_keyword_count,0.2919812
+9,time_to_last_push_days,0.26811984
+10,subscribers_count,0.22344099

@@ -1,0 +1,1912 @@
+{
+  "repo_full_name": "yessGlory17/nft-marketplace",
+  "repo_detail": {
+    "id": 442779951,
+    "node_id": "R_kgDOGmRJLw",
+    "name": "nft-marketplace",
+    "full_name": "yessGlory17/nft-marketplace",
+    "private": false,
+    "owner": {
+      "login": "yessGlory17",
+      "id": 52113663,
+      "node_id": "MDQ6VXNlcjUyMTEzNjYz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52113663?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yessGlory17",
+      "html_url": "https://github.com/yessGlory17",
+      "followers_url": "https://api.github.com/users/yessGlory17/followers",
+      "following_url": "https://api.github.com/users/yessGlory17/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yessGlory17/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yessGlory17/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yessGlory17/subscriptions",
+      "organizations_url": "https://api.github.com/users/yessGlory17/orgs",
+      "repos_url": "https://api.github.com/users/yessGlory17/repos",
+      "events_url": "https://api.github.com/users/yessGlory17/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yessGlory17/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yessGlory17/nft-marketplace",
+    "description": "Reactjs And Smart Contracts Open Source Basic Nft Marketplace App",
+    "fork": false,
+    "url": "https://api.github.com/repos/yessGlory17/nft-marketplace",
+    "forks_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/forks",
+    "keys_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/teams",
+    "hooks_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/hooks",
+    "issue_events_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/events",
+    "assignees_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/tags",
+    "blobs_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/languages",
+    "stargazers_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/stargazers",
+    "contributors_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contributors",
+    "subscribers_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/subscribers",
+    "subscription_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/subscription",
+    "commits_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/merges",
+    "archive_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/downloads",
+    "issues_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/deployments",
+    "created_at": "2021-12-29T13:23:56Z",
+    "updated_at": "2026-01-05T19:02:02Z",
+    "pushed_at": "2025-11-01T21:15:25Z",
+    "git_url": "git://github.com/yessGlory17/nft-marketplace.git",
+    "ssh_url": "git@github.com:yessGlory17/nft-marketplace.git",
+    "clone_url": "https://github.com/yessGlory17/nft-marketplace.git",
+    "svn_url": "https://github.com/yessGlory17/nft-marketplace",
+    "homepage": "",
+    "size": 57559,
+    "stargazers_count": 408,
+    "watchers_count": 408,
+    "language": "CSS",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": true,
+    "forks_count": 219,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 14,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+      "blockchain",
+      "dapp",
+      "dapps",
+      "eth",
+      "ethereum",
+      "ethereum-dapp",
+      "nft",
+      "nft-marketplace",
+      "react",
+      "react-js",
+      "reactjs",
+      "smart-contracts",
+      "web3",
+      "web3js"
+    ],
+    "visibility": "public",
+    "forks": 219,
+    "open_issues": 14,
+    "watchers": 408,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 219,
+    "subscribers_count": 29
+  },
+  "user_detail": {
+    "login": "yessGlory17",
+    "id": 52113663,
+    "node_id": "MDQ6VXNlcjUyMTEzNjYz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/52113663?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yessGlory17",
+    "html_url": "https://github.com/yessGlory17",
+    "followers_url": "https://api.github.com/users/yessGlory17/followers",
+    "following_url": "https://api.github.com/users/yessGlory17/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yessGlory17/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yessGlory17/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yessGlory17/subscriptions",
+    "organizations_url": "https://api.github.com/users/yessGlory17/orgs",
+    "repos_url": "https://api.github.com/users/yessGlory17/repos",
+    "events_url": "https://api.github.com/users/yessGlory17/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yessGlory17/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Özgür",
+    "company": "Trapmine",
+    "blog": "https://www.linkedin.com/in/ozgurkurucan/",
+    "location": "Turkey / Çanakkale",
+    "email": null,
+    "hireable": true,
+    "bio": "A passionate fullstack developer from Turkey\r\n",
+    "twitter_username": null,
+    "public_repos": 38,
+    "public_gists": 3,
+    "followers": 235,
+    "following": 174,
+    "created_at": "2019-06-22T21:07:20Z",
+    "updated_at": "2025-11-29T15:29:36Z"
+  },
+  "readme": "# Open Source Nft Marketplace [Onprogress %10]\n<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->\n[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)\n<!-- ALL-CONTRIBUTORS-BADGE:END -->\nReactjs And Smart Contracts Open Source Basic Nft Marketplace App\n\n> ## ⭐ Support Us\n> If you like our project, do not forget to give stars. So we can get more attention and get more support from the community. Don't underestimate one star, one  star you give will convince others to give the project another star.\n\n\n## 💪 Motivation\n\n<p>\nI aim to create an open and safe nft marketplace for everyone. This will be a challenge for both me and the contributors. Together we will create an open source, reliable and beautiful nft marketplace example. The purpose of this project is not to operate an nft marketplace, but to create a template for nft marketplaces. Thus, many nft marketplaces can be easily created by forking and modifying this template. This will be beneficial for us to support the artists. We can only succeed in the world by coming from different areas and joining our forces.\n</p>\n\n## 🖥️ Screenshoots \n\n### Home\n\n![](docs/images/home.png)\n\n### Explore\n\n![explore](docs/images/explore.png)\n\n### Nft Detail\n![detail](docs/images/nft-detail.png)\n\n### Augmented Reality Support\n![ar](https://user-images.githubusercontent.com/52113663/158027335-daa154ab-4f15-4cdb-82b8-9cabd4f415e9.png)\n![ar](https://user-images.githubusercontent.com/52113663/158027735-91607437-b157-4076-996f-e0825745fbaf.png)\n[![NFT Marketplace Augmented Reality Support Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1647124081/video_to_markdown/images/youtube--Ch-1Hmz1NwU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Ch-1Hmz1NwU \"NFT Marketplace Augmented Reality Support Video\")\n## 🎉 Roadmap\n\n\n\n - [x] Base Components (9/9) (Base components of the project )\n - [ ] Search Filters for Explore Page\n - [x] Connect Wallet (ETH Wallets)(Supports Other Wallets 🚀)\n - [x] NFT Detail Page\n - [ ] Smartcontract Backend (Truffle)\n - [ ] Community Page\n - [x] Login\n - [ ] NFT Create Page\n - [ ] Users Pages\n - [ ] User Collections\n - [ ] Connect Wallet Popup\n - [ ] Supported Mobile Devices\n - [x] AR supports for 3d NFTs\n\n## 🔮 Usage\nIn the project directory, you can run:\n\n### `npm install (for first running)`\n### `npm start`\n\n\n## 🗞️ Docs\n - [Base Components](https://github.com/yessGlory17/nft-marketplace/blob/main/docs/design/BaseComponents.md)\n\n## 🤝 Contribute\nIf you want to contribute to this project, simply follow the steps in the contribution guide. I look forward to your contributions. 😊\n[CONTRIBUTING.md](https://github.com/yessGlory17/nft-marketplace/blob/main/CONTRIBUTING.md)\n\n\n## Contributors ✨\n\nThanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):\n\n<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->\n<!-- prettier-ignore-start -->\n<!-- markdownlint-disable -->\n<table>\n  <tbody>\n    <tr>\n      <td align=\"center\" valign=\"top\" width=\"14.28%\"><a href=\"https://github.com/GehadSalemFekry\"><img src=\"https://avatars.githubusercontent.com/u/57755639?v=4?s=100\" width=\"100px;\" alt=\"Gehad Salem Fekry\"/><br /><sub><b>Gehad Salem Fekry</b></sub></a><br /><a href=\"#content-GehadSalemFekry\" title=\"Content\">🖋</a></td>\n      <td align=\"center\" valign=\"top\" width=\"14.28%\"><a href=\"https://github.com/digambar-t7\"><img src=\"https://avatars.githubusercontent.com/u/92970968?v=4?s=100\" width=\"100px;\" alt=\"Digambar Tupurwadi\"/><br /><sub><b>Digambar Tupurwadi</b></sub></a><br /><a href=\"https://github.com/yessGlory17/nft-marketplace/issues?q=author%3Adigambar-t7\" title=\"Bug reports\">🐛</a></td>\n      <td align=\"center\" valign=\"top\" width=\"14.28%\"><a href=\"https://github.com/burakkaraceylan\"><img src=\"https://avatars.githubusercontent.com/u/84451726?v=4?s=100\" width=\"100px;\" alt=\"burakkaraceylan\"/><br /><sub><b>burakkaraceylan</b></sub></a><br /><a href=\"https://github.com/yessGlory17/nft-marketplace/commits?author=burakkaraceylan\" title=\"Code\">💻</a></td>\n      <td align=\"center\" valign=\"top\" width=\"14.28%\"><a href=\"https://bandism.net/\"><img src=\"https://avatars.githubusercontent.com/u/22633385?v=4?s=100\" width=\"100px;\" alt=\"Ikko Ashimine\"/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href=\"#content-eltociear\" title=\"Content\">🖋</a></td>\n      <td align=\"center\" valign=\"top\" width=\"14.28%\"><a href=\"https://github.com/Vansh-Baghel\"><img src=\"https://avatars.githubusercontent.com/u/103327712?v=4?s=100\" width=\"100px;\" alt=\"Vansh Baghel\"/><br /><sub><b>Vansh Baghel</b></sub></a><br /><a href=\"https://github.com/yessGlory17/nft-marketplace/commits?author=Vansh-Baghel\" title=\"Code\">💻</a></td>\n    </tr>\n  </tbody>\n</table>\n\n<!-- markdownlint-restore -->\n<!-- prettier-ignore-end -->\n\n<!-- ALL-CONTRIBUTORS-LIST:END -->\n\nThis project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!\n",
+  "tree_structure": [
+    {
+      "name": ".all-contributorsrc",
+      "path": ".all-contributorsrc",
+      "sha": "45d99b21d9aad29c031cf01e1269408c505450b0",
+      "size": 1575,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.all-contributorsrc?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/.all-contributorsrc",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/45d99b21d9aad29c031cf01e1269408c505450b0",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/.all-contributorsrc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.all-contributorsrc?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/45d99b21d9aad29c031cf01e1269408c505450b0",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/.all-contributorsrc"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "0080f82d6a26bb4324af1300cebbb1ee467b6700",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/.github",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/0080f82d6a26bb4324af1300cebbb1ee467b6700",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/0080f82d6a26bb4324af1300cebbb1ee467b6700",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/.github"
+      }
+    },
+    {
+      "name": "ISSUE_TEMPLATE",
+      "path": ".github/ISSUE_TEMPLATE",
+      "sha": "297071d972c79764ba659d5a30f16877c96bdeca",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github/ISSUE_TEMPLATE?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/.github/ISSUE_TEMPLATE",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/297071d972c79764ba659d5a30f16877c96bdeca",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github/ISSUE_TEMPLATE?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/297071d972c79764ba659d5a30f16877c96bdeca",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/.github/ISSUE_TEMPLATE"
+      }
+    },
+    {
+      "name": "bug_report.md",
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "sha": "dd84ea7824f11be1eeda22377549cbc1aec7f980",
+      "size": 834,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github/ISSUE_TEMPLATE/bug_report.md?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/.github/ISSUE_TEMPLATE/bug_report.md",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/dd84ea7824f11be1eeda22377549cbc1aec7f980",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/.github/ISSUE_TEMPLATE/bug_report.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github/ISSUE_TEMPLATE/bug_report.md?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/dd84ea7824f11be1eeda22377549cbc1aec7f980",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/.github/ISSUE_TEMPLATE/bug_report.md"
+      }
+    },
+    {
+      "name": "feature_request.md",
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "sha": "bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "size": 595,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github/ISSUE_TEMPLATE/feature_request.md?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/.github/ISSUE_TEMPLATE/feature_request.md",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/.github/ISSUE_TEMPLATE/feature_request.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.github/ISSUE_TEMPLATE/feature_request.md?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/.github/ISSUE_TEMPLATE/feature_request.md"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "6ec345e172e5e034cf68ef9c4a9c34fd8043da95",
+      "size": 881,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/6ec345e172e5e034cf68ef9c4a9c34fd8043da95",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/6ec345e172e5e034cf68ef9c4a9c34fd8043da95",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "CODE_OF_CONDUCT.md",
+      "path": "CODE_OF_CONDUCT.md",
+      "sha": "18c91471812cb6f4c4e8d0fc407f70c4612e1648",
+      "size": 5202,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/CODE_OF_CONDUCT.md?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/CODE_OF_CONDUCT.md",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/18c91471812cb6f4c4e8d0fc407f70c4612e1648",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/CODE_OF_CONDUCT.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/CODE_OF_CONDUCT.md?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/18c91471812cb6f4c4e8d0fc407f70c4612e1648",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/CODE_OF_CONDUCT.md"
+      }
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "path": "CONTRIBUTING.md",
+      "sha": "125e80f945d7aa9a1350e3de4544eaef1aed2bfb",
+      "size": 1992,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/CONTRIBUTING.md?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/CONTRIBUTING.md",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/125e80f945d7aa9a1350e3de4544eaef1aed2bfb",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/CONTRIBUTING.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/CONTRIBUTING.md?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/125e80f945d7aa9a1350e3de4544eaef1aed2bfb",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/CONTRIBUTING.md"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "2e52ba7dfb7e1ef306450fefe6709202944fd65a",
+      "size": 1068,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/2e52ba7dfb7e1ef306450fefe6709202944fd65a",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/2e52ba7dfb7e1ef306450fefe6709202944fd65a",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "06646093dd1f8f2c8a2dd80eaf4fb69bd0a16b91",
+      "size": 5111,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/README.md?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/06646093dd1f8f2c8a2dd80eaf4fb69bd0a16b91",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/06646093dd1f8f2c8a2dd80eaf4fb69bd0a16b91",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/README.md"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "assets",
+      "sha": "c7ed16450ca4121742af5ad40ee6aa743947fa02",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/assets",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/c7ed16450ca4121742af5ad40ee6aa743947fa02",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/c7ed16450ca4121742af5ad40ee6aa743947fa02",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/assets"
+      }
+    },
+    {
+      "name": "clone.png",
+      "path": "assets/clone.png",
+      "sha": "e92a6ac3a38351d03100dc83178e4729533f21a1",
+      "size": 17792,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/clone.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/clone.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e92a6ac3a38351d03100dc83178e4729533f21a1",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/assets/clone.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/clone.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e92a6ac3a38351d03100dc83178e4729533f21a1",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/clone.png"
+      }
+    },
+    {
+      "name": "fork.png",
+      "path": "assets/fork.png",
+      "sha": "013a387616d388d075a5c20d74d601698fddc63e",
+      "size": 6873,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/fork.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/fork.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/013a387616d388d075a5c20d74d601698fddc63e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/assets/fork.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/fork.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/013a387616d388d075a5c20d74d601698fddc63e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/fork.png"
+      }
+    },
+    {
+      "name": "models",
+      "path": "assets/models",
+      "sha": "519d49f3a9862cbfdc5b6a5bdd60d0bb7cfd9ca5",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/models?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/assets/models",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/519d49f3a9862cbfdc5b6a5bdd60d0bb7cfd9ca5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/models?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/519d49f3a9862cbfdc5b6a5bdd60d0bb7cfd9ca5",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/assets/models"
+      }
+    },
+    {
+      "name": "burger.glb",
+      "path": "assets/models/burger.glb",
+      "sha": "3e6e9e0171e506e7e7e6f1d0e3aeb3602d993501",
+      "size": 23910804,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/models/burger.glb?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/models/burger.glb",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/3e6e9e0171e506e7e7e6f1d0e3aeb3602d993501",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/assets/models/burger.glb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/models/burger.glb?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/3e6e9e0171e506e7e7e6f1d0e3aeb3602d993501",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/models/burger.glb"
+      }
+    },
+    {
+      "name": "pull.png",
+      "path": "assets/pull.png",
+      "sha": "19aa36fe49e69d3cbc220c8272ff3cc3478aa015",
+      "size": 18172,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/pull.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/pull.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/19aa36fe49e69d3cbc220c8272ff3cc3478aa015",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/assets/pull.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/assets/pull.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/19aa36fe49e69d3cbc220c8272ff3cc3478aa015",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/assets/pull.png"
+      }
+    },
+    {
+      "name": "docs",
+      "path": "docs",
+      "sha": "fcca3f50a09bb48cd0bf3f3792c5b9760d17da76",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/fcca3f50a09bb48cd0bf3f3792c5b9760d17da76",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/fcca3f50a09bb48cd0bf3f3792c5b9760d17da76",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs"
+      }
+    },
+    {
+      "name": "design",
+      "path": "docs/design",
+      "sha": "7130b59ae1abde9e5659b6db89dd34a2eb7fe5ba",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/design?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs/design",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/7130b59ae1abde9e5659b6db89dd34a2eb7fe5ba",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/design?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/7130b59ae1abde9e5659b6db89dd34a2eb7fe5ba",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs/design"
+      }
+    },
+    {
+      "name": "BaseComponents.md",
+      "path": "docs/design/BaseComponents.md",
+      "sha": "1af8a9f3d39a8ee37703420c0a4f7acdaf31b61f",
+      "size": 7009,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/design/BaseComponents.md?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/design/BaseComponents.md",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/1af8a9f3d39a8ee37703420c0a4f7acdaf31b61f",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/design/BaseComponents.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/design/BaseComponents.md?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/1af8a9f3d39a8ee37703420c0a4f7acdaf31b61f",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/design/BaseComponents.md"
+      }
+    },
+    {
+      "name": "images",
+      "path": "docs/images",
+      "sha": "18c2220d087771805081015fd9f2d96328e49bbb",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs/images",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/18c2220d087771805081015fd9f2d96328e49bbb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/18c2220d087771805081015fd9f2d96328e49bbb",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs/images"
+      }
+    },
+    {
+      "name": "base",
+      "path": "docs/images/base",
+      "sha": "25c5f54dac1824bd2a8258140b585e4b93abe0eb",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs/images/base",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/25c5f54dac1824bd2a8258140b585e4b93abe0eb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/25c5f54dac1824bd2a8258140b585e4b93abe0eb",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/docs/images/base"
+      }
+    },
+    {
+      "name": "accordion-basic.png",
+      "path": "docs/images/base/accordion-basic.png",
+      "sha": "f91292f8c7d8bc707411059669873a3de649b5d3",
+      "size": 15049,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/accordion-basic.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/accordion-basic.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/f91292f8c7d8bc707411059669873a3de649b5d3",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/accordion-basic.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/accordion-basic.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/f91292f8c7d8bc707411059669873a3de649b5d3",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/accordion-basic.png"
+      }
+    },
+    {
+      "name": "accordion-child-example.png",
+      "path": "docs/images/base/accordion-child-example.png",
+      "sha": "d6bff0588c1b2bc1b4122ca5308815acdf2281bc",
+      "size": 54253,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/accordion-child-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/accordion-child-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/d6bff0588c1b2bc1b4122ca5308815acdf2281bc",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/accordion-child-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/accordion-child-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/d6bff0588c1b2bc1b4122ca5308815acdf2281bc",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/accordion-child-example.png"
+      }
+    },
+    {
+      "name": "button-basic-example.png",
+      "path": "docs/images/base/button-basic-example.png",
+      "sha": "ff2dd0b2100c0d4b5e47ef6a467133325e428c0a",
+      "size": 2699,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/button-basic-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/button-basic-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/ff2dd0b2100c0d4b5e47ef6a467133325e428c0a",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/button-basic-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/button-basic-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/ff2dd0b2100c0d4b5e47ef6a467133325e428c0a",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/button-basic-example.png"
+      }
+    },
+    {
+      "name": "button-color-example.png",
+      "path": "docs/images/base/button-color-example.png",
+      "sha": "387615cbf16b69b12a5fa35f7900af1ec4721a12",
+      "size": 3180,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/button-color-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/button-color-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/387615cbf16b69b12a5fa35f7900af1ec4721a12",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/button-color-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/button-color-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/387615cbf16b69b12a5fa35f7900af1ec4721a12",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/button-color-example.png"
+      }
+    },
+    {
+      "name": "button-textColor-example.png",
+      "path": "docs/images/base/button-textColor-example.png",
+      "sha": "8b50a7bd1e7005264a5b1c6f482175a8665e4a54",
+      "size": 2703,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/button-textColor-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/button-textColor-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/8b50a7bd1e7005264a5b1c6f482175a8665e4a54",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/button-textColor-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/button-textColor-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/8b50a7bd1e7005264a5b1c6f482175a8665e4a54",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/button-textColor-example.png"
+      }
+    },
+    {
+      "name": "car-child-example.png",
+      "path": "docs/images/base/car-child-example.png",
+      "sha": "e55872905bff4d95c02bc91f99460fb1153af4f0",
+      "size": 43381,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/car-child-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/car-child-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e55872905bff4d95c02bc91f99460fb1153af4f0",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/car-child-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/car-child-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e55872905bff4d95c02bc91f99460fb1153af4f0",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/car-child-example.png"
+      }
+    },
+    {
+      "name": "card-basic-example.png",
+      "path": "docs/images/base/card-basic-example.png",
+      "sha": "b945727e40a1d73277e0d5672fb8d51f940894d9",
+      "size": 34313,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/card-basic-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/card-basic-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b945727e40a1d73277e0d5672fb8d51f940894d9",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/card-basic-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/card-basic-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b945727e40a1d73277e0d5672fb8d51f940894d9",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/card-basic-example.png"
+      }
+    },
+    {
+      "name": "card-blurColor-example.png",
+      "path": "docs/images/base/card-blurColor-example.png",
+      "sha": "cab5869c8cdc07ef739b45275e125c2d79201be0",
+      "size": 37848,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/card-blurColor-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/card-blurColor-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/cab5869c8cdc07ef739b45275e125c2d79201be0",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/card-blurColor-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/card-blurColor-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/cab5869c8cdc07ef739b45275e125c2d79201be0",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/card-blurColor-example.png"
+      }
+    },
+    {
+      "name": "checkbox-name-example.png",
+      "path": "docs/images/base/checkbox-name-example.png",
+      "sha": "0c718c485722b1a940d2e6831483c6e822aec7f6",
+      "size": 9063,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/checkbox-name-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/checkbox-name-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/0c718c485722b1a940d2e6831483c6e822aec7f6",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/checkbox-name-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/checkbox-name-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/0c718c485722b1a940d2e6831483c6e822aec7f6",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/checkbox-name-example.png"
+      }
+    },
+    {
+      "name": "image-basic-example.png",
+      "path": "docs/images/base/image-basic-example.png",
+      "sha": "224f4bb8e12ecd835ff759fabd544a5395ab95ab",
+      "size": 169177,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/image-basic-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/image-basic-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/224f4bb8e12ecd835ff759fabd544a5395ab95ab",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/image-basic-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/image-basic-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/224f4bb8e12ecd835ff759fabd544a5395ab95ab",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/image-basic-example.png"
+      }
+    },
+    {
+      "name": "select-after-example.png",
+      "path": "docs/images/base/select-after-example.png",
+      "sha": "665e2a1b7c15a215d4667d809354ca85acc1f10f",
+      "size": 40391,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/select-after-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/select-after-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/665e2a1b7c15a215d4667d809354ca85acc1f10f",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/select-after-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/select-after-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/665e2a1b7c15a215d4667d809354ca85acc1f10f",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/select-after-example.png"
+      }
+    },
+    {
+      "name": "select-after-select-example.png",
+      "path": "docs/images/base/select-after-select-example.png",
+      "sha": "c660132a7a40ff9846d05ec07ae9ee11f061589e",
+      "size": 12473,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/select-after-select-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/select-after-select-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/c660132a7a40ff9846d05ec07ae9ee11f061589e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/select-after-select-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/select-after-select-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/c660132a7a40ff9846d05ec07ae9ee11f061589e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/select-after-select-example.png"
+      }
+    },
+    {
+      "name": "select-before-example.png",
+      "path": "docs/images/base/select-before-example.png",
+      "sha": "0acbe479e0b01f7b03fe6c203b3e9222871ec1ab",
+      "size": 13894,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/select-before-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/select-before-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/0acbe479e0b01f7b03fe6c203b3e9222871ec1ab",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/select-before-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/select-before-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/0acbe479e0b01f7b03fe6c203b3e9222871ec1ab",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/select-before-example.png"
+      }
+    },
+    {
+      "name": "textinput-basic-example.png",
+      "path": "docs/images/base/textinput-basic-example.png",
+      "sha": "198871d55cc065ff168e25842b734a7ab4df4713",
+      "size": 10615,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/textinput-basic-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/textinput-basic-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/198871d55cc065ff168e25842b734a7ab4df4713",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/textinput-basic-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/textinput-basic-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/198871d55cc065ff168e25842b734a7ab4df4713",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/textinput-basic-example.png"
+      }
+    },
+    {
+      "name": "textinput-icon-example.png",
+      "path": "docs/images/base/textinput-icon-example.png",
+      "sha": "05cac554c7408b0b326d6b0cbcabc59ae44d8180",
+      "size": 10674,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/textinput-icon-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/textinput-icon-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/05cac554c7408b0b326d6b0cbcabc59ae44d8180",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/textinput-icon-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/textinput-icon-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/05cac554c7408b0b326d6b0cbcabc59ae44d8180",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/textinput-icon-example.png"
+      }
+    },
+    {
+      "name": "textinput-placeholder-example.png",
+      "path": "docs/images/base/textinput-placeholder-example.png",
+      "sha": "a855172d6ebfce8d659463d0b124f7720d66cefa",
+      "size": 11653,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/textinput-placeholder-example.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/textinput-placeholder-example.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a855172d6ebfce8d659463d0b124f7720d66cefa",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/base/textinput-placeholder-example.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/base/textinput-placeholder-example.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a855172d6ebfce8d659463d0b124f7720d66cefa",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/base/textinput-placeholder-example.png"
+      }
+    },
+    {
+      "name": "explore.png",
+      "path": "docs/images/explore.png",
+      "sha": "e2d3d912d5e8ff444ac8ecee17e0d1f5fa9801fc",
+      "size": 1417283,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/explore.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/explore.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e2d3d912d5e8ff444ac8ecee17e0d1f5fa9801fc",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/explore.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/explore.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e2d3d912d5e8ff444ac8ecee17e0d1f5fa9801fc",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/explore.png"
+      }
+    },
+    {
+      "name": "home.png",
+      "path": "docs/images/home.png",
+      "sha": "41ed5251e2526c3aa5f78ad6b1dd8cba462c42eb",
+      "size": 549415,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/home.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/home.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/41ed5251e2526c3aa5f78ad6b1dd8cba462c42eb",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/home.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/home.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/41ed5251e2526c3aa5f78ad6b1dd8cba462c42eb",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/home.png"
+      }
+    },
+    {
+      "name": "nft-detail-mobile.png",
+      "path": "docs/images/nft-detail-mobile.png",
+      "sha": "0b22b1a1d013483166f1b13fee7633517e365a0d",
+      "size": 222529,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/nft-detail-mobile.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/nft-detail-mobile.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/0b22b1a1d013483166f1b13fee7633517e365a0d",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/nft-detail-mobile.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/nft-detail-mobile.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/0b22b1a1d013483166f1b13fee7633517e365a0d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/nft-detail-mobile.png"
+      }
+    },
+    {
+      "name": "nft-detail.png",
+      "path": "docs/images/nft-detail.png",
+      "sha": "53a42dc9797f5dcd491bfa9b94e8bbc0816656e4",
+      "size": 703340,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/nft-detail.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/nft-detail.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/53a42dc9797f5dcd491bfa9b94e8bbc0816656e4",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/docs/images/nft-detail.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/docs/images/nft-detail.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/53a42dc9797f5dcd491bfa9b94e8bbc0816656e4",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/docs/images/nft-detail.png"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "29f594495557532cd0382d825c3853897574a07d",
+      "size": 1110734,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/29f594495557532cd0382d825c3853897574a07d",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/29f594495557532cd0382d825c3853897574a07d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "37b93b8b5ef7b4ef82b08badece34c5c503952ad",
+      "size": 1099,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/package.json?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/37b93b8b5ef7b4ef82b08badece34c5c503952ad",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/37b93b8b5ef7b4ef82b08badece34c5c503952ad",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/package.json"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "e4cf9f35435cc02ae2b2ceb3830cb73cc1855f55",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/public",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/e4cf9f35435cc02ae2b2ceb3830cb73cc1855f55",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/e4cf9f35435cc02ae2b2ceb3830cb73cc1855f55",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/public"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "public/favicon.ico",
+      "sha": "a11777cc471a4344702741ab1c8a588998b1311a",
+      "size": 3870,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a11777cc471a4344702741ab1c8a588998b1311a",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a11777cc471a4344702741ab1c8a588998b1311a",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/favicon.ico"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "public/index.html",
+      "sha": "404dcefe931f778319fcc99da49f3feec97aff5b",
+      "size": 1923,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/index.html?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/index.html",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/404dcefe931f778319fcc99da49f3feec97aff5b",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/index.html?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/404dcefe931f778319fcc99da49f3feec97aff5b",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/index.html"
+      }
+    },
+    {
+      "name": "logo192.png",
+      "path": "public/logo192.png",
+      "sha": "fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+      "size": 5347,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/logo192.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/logo192.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/public/logo192.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/logo192.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/logo192.png"
+      }
+    },
+    {
+      "name": "logo512.png",
+      "path": "public/logo512.png",
+      "sha": "a4e47a6545bc15971f8f63fba70e4013df88a664",
+      "size": 9664,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/logo512.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/logo512.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a4e47a6545bc15971f8f63fba70e4013df88a664",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/public/logo512.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/logo512.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a4e47a6545bc15971f8f63fba70e4013df88a664",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/logo512.png"
+      }
+    },
+    {
+      "name": "manifest.json",
+      "path": "public/manifest.json",
+      "sha": "080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+      "size": 492,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/manifest.json?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/manifest.json",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/public/manifest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/manifest.json?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/manifest.json"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "public/robots.txt",
+      "sha": "e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "size": 67,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/robots.txt?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/robots.txt",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/public/robots.txt?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/public/robots.txt"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "14a7a9b4ae9d7a569f0fa28bfb13da8a0ace1e38",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/14a7a9b4ae9d7a569f0fa28bfb13da8a0ace1e38",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/14a7a9b4ae9d7a569f0fa28bfb13da8a0ace1e38",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/App.css",
+      "sha": "142a4c6aa623d93a06a3203895e48f5ec144c11e",
+      "size": 110,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/App.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/App.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/142a4c6aa623d93a06a3203895e48f5ec144c11e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/142a4c6aa623d93a06a3203895e48f5ec144c11e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/App.css"
+      }
+    },
+    {
+      "name": "App.js",
+      "path": "src/App.js",
+      "sha": "37845757234ccb68531c10cf7a2ffc589c47e342",
+      "size": 528,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/App.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/App.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/37845757234ccb68531c10cf7a2ffc589c47e342",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/App.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/App.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/37845757234ccb68531c10cf7a2ffc589c47e342",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/App.js"
+      }
+    },
+    {
+      "name": "App.test.js",
+      "path": "src/App.test.js",
+      "sha": "1f03afeece5ac28064fa3c73a29215037465f789",
+      "size": 246,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/App.test.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/App.test.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/1f03afeece5ac28064fa3c73a29215037465f789",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/App.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/App.test.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/1f03afeece5ac28064fa3c73a29215037465f789",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/App.test.js"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "src/assets",
+      "sha": "52a61ed1e202d1f371aeb543617b599f3e92af0d",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/assets",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/52a61ed1e202d1f371aeb543617b599f3e92af0d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/52a61ed1e202d1f371aeb543617b599f3e92af0d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/assets"
+      }
+    },
+    {
+      "name": "models",
+      "path": "src/assets/models",
+      "sha": "d8f9d4dfe8b54eb857d28cefee30cad735fa6ac6",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/assets/models",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/d8f9d4dfe8b54eb857d28cefee30cad735fa6ac6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/d8f9d4dfe8b54eb857d28cefee30cad735fa6ac6",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/assets/models"
+      }
+    },
+    {
+      "name": "AntiqueCamera.glb",
+      "path": "src/assets/models/AntiqueCamera.glb",
+      "sha": "a45f1343aff97999cfea0665c75be2e012bdff00",
+      "size": 20199648,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models/AntiqueCamera.glb?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/models/AntiqueCamera.glb",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a45f1343aff97999cfea0665c75be2e012bdff00",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/assets/models/AntiqueCamera.glb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models/AntiqueCamera.glb?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a45f1343aff97999cfea0665c75be2e012bdff00",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/models/AntiqueCamera.glb"
+      }
+    },
+    {
+      "name": "Avocado.glb",
+      "path": "src/assets/models/Avocado.glb",
+      "sha": "006b79c395eb297e2b309f358cecb2412de071bb",
+      "size": 8328156,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models/Avocado.glb?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/models/Avocado.glb",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/006b79c395eb297e2b309f358cecb2412de071bb",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/assets/models/Avocado.glb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models/Avocado.glb?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/006b79c395eb297e2b309f358cecb2412de071bb",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/models/Avocado.glb"
+      }
+    },
+    {
+      "name": "BarramundiFish.glb",
+      "path": "src/assets/models/BarramundiFish.glb",
+      "sha": "3f47ada08e3f1dbf3c52ae9cedbfbd881008413e",
+      "size": 12521196,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models/BarramundiFish.glb?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/models/BarramundiFish.glb",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/3f47ada08e3f1dbf3c52ae9cedbfbd881008413e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/assets/models/BarramundiFish.glb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/models/BarramundiFish.glb?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/3f47ada08e3f1dbf3c52ae9cedbfbd881008413e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/models/BarramundiFish.glb"
+      }
+    },
+    {
+      "name": "splash.png",
+      "path": "src/assets/splash.png",
+      "sha": "018ce6b98671e08b04a7327989de821946511884",
+      "size": 211983,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/splash.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/splash.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/018ce6b98671e08b04a7327989de821946511884",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/assets/splash.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/assets/splash.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/018ce6b98671e08b04a7327989de821946511884",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/assets/splash.png"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/components",
+      "sha": "b0ffbf6f0df6c06f41d8c293556f46c3701cf10c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/components",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/b0ffbf6f0df6c06f41d8c293556f46c3701cf10c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/b0ffbf6f0df6c06f41d8c293556f46c3701cf10c",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/components"
+      }
+    },
+    {
+      "name": "CardList.js",
+      "path": "src/components/CardList.js",
+      "sha": "7c023731b08c269997bf49a678d243712588580d",
+      "size": 1318,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/CardList.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/CardList.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/7c023731b08c269997bf49a678d243712588580d",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/CardList.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/CardList.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/7c023731b08c269997bf49a678d243712588580d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/CardList.js"
+      }
+    },
+    {
+      "name": "Header.js",
+      "path": "src/components/Header.js",
+      "sha": "2cd92bd2cf31355786ea1eb58070b2526bb4e918",
+      "size": 757,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/Header.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/Header.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/2cd92bd2cf31355786ea1eb58070b2526bb4e918",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/Header.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/Header.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/2cd92bd2cf31355786ea1eb58070b2526bb4e918",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/Header.js"
+      }
+    },
+    {
+      "name": "Hero.js",
+      "path": "src/components/Hero.js",
+      "sha": "3dd568d05682583eba6b8292be4082134eacd7b8",
+      "size": 856,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/Hero.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/Hero.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/3dd568d05682583eba6b8292be4082134eacd7b8",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/Hero.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/Hero.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/3dd568d05682583eba6b8292be4082134eacd7b8",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/Hero.js"
+      }
+    },
+    {
+      "name": "NFTCard.js",
+      "path": "src/components/NFTCard.js",
+      "sha": "82ccc60c393ea3a714567edcc6712418a8fb0873",
+      "size": 2525,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/NFTCard.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/NFTCard.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/82ccc60c393ea3a714567edcc6712418a8fb0873",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/NFTCard.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/NFTCard.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/82ccc60c393ea3a714567edcc6712418a8fb0873",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/NFTCard.js"
+      }
+    },
+    {
+      "name": "Search.js",
+      "path": "src/components/Search.js",
+      "sha": "abfbdabbcfdc3077bd5321591433c10985437843",
+      "size": 311,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/Search.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/Search.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/abfbdabbcfdc3077bd5321591433c10985437843",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/Search.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/Search.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/abfbdabbcfdc3077bd5321591433c10985437843",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/Search.js"
+      }
+    },
+    {
+      "name": "base",
+      "path": "src/components/base",
+      "sha": "d50b1d80b6e4e1d9c0f3aa77bce87edf6075b1f4",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/components/base",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/d50b1d80b6e4e1d9c0f3aa77bce87edf6075b1f4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/d50b1d80b6e4e1d9c0f3aa77bce87edf6075b1f4",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/components/base"
+      }
+    },
+    {
+      "name": "Accordion.js",
+      "path": "src/components/base/Accordion.js",
+      "sha": "59feb5411ea886be8663f02c94498bf7df609198",
+      "size": 912,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Accordion.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Accordion.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/59feb5411ea886be8663f02c94498bf7df609198",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/Accordion.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Accordion.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/59feb5411ea886be8663f02c94498bf7df609198",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Accordion.js"
+      }
+    },
+    {
+      "name": "AccordionHeader.js",
+      "path": "src/components/base/AccordionHeader.js",
+      "sha": "c167fec42c7f6486bb010b0f384e5d7a9b2115f7",
+      "size": 415,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/AccordionHeader.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/AccordionHeader.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/c167fec42c7f6486bb010b0f384e5d7a9b2115f7",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/AccordionHeader.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/AccordionHeader.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/c167fec42c7f6486bb010b0f384e5d7a9b2115f7",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/AccordionHeader.js"
+      }
+    },
+    {
+      "name": "Button.js",
+      "path": "src/components/base/Button.js",
+      "sha": "55e487996e64a658c1b4c8fe7139effc30b9cab6",
+      "size": 814,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Button.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Button.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/55e487996e64a658c1b4c8fe7139effc30b9cab6",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/Button.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Button.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/55e487996e64a658c1b4c8fe7139effc30b9cab6",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Button.js"
+      }
+    },
+    {
+      "name": "Card.js",
+      "path": "src/components/base/Card.js",
+      "sha": "dab6b99e0368cc05a9d4d04293fd1990eca58661",
+      "size": 677,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Card.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Card.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/dab6b99e0368cc05a9d4d04293fd1990eca58661",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/Card.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Card.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/dab6b99e0368cc05a9d4d04293fd1990eca58661",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Card.js"
+      }
+    },
+    {
+      "name": "Checkbox.js",
+      "path": "src/components/base/Checkbox.js",
+      "sha": "da24d0b24754a2de5a9a862de66439b900430b19",
+      "size": 308,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Checkbox.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Checkbox.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/da24d0b24754a2de5a9a862de66439b900430b19",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/Checkbox.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Checkbox.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/da24d0b24754a2de5a9a862de66439b900430b19",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Checkbox.js"
+      }
+    },
+    {
+      "name": "Image.js",
+      "path": "src/components/base/Image.js",
+      "sha": "56e50c71eabf316edfcf22b041e9ccab6df47a6a",
+      "size": 295,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Image.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Image.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/56e50c71eabf316edfcf22b041e9ccab6df47a6a",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/Image.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Image.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/56e50c71eabf316edfcf22b041e9ccab6df47a6a",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Image.js"
+      }
+    },
+    {
+      "name": "Select.js",
+      "path": "src/components/base/Select.js",
+      "sha": "c7bac3453c445a797b77d89d6fbf4243b5aded7b",
+      "size": 1109,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Select.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Select.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/c7bac3453c445a797b77d89d6fbf4243b5aded7b",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/Select.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/Select.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/c7bac3453c445a797b77d89d6fbf4243b5aded7b",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/Select.js"
+      }
+    },
+    {
+      "name": "TextInput.js",
+      "path": "src/components/base/TextInput.js",
+      "sha": "bd66c2888513b49d258000907cbcab7ef248cafd",
+      "size": 785,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/TextInput.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/TextInput.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/bd66c2888513b49d258000907cbcab7ef248cafd",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/components/base/TextInput.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/components/base/TextInput.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/bd66c2888513b49d258000907cbcab7ef248cafd",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/components/base/TextInput.js"
+      }
+    },
+    {
+      "name": "constants",
+      "path": "src/constants",
+      "sha": "bbf208bd35c4c77dace563b7b41f45b168ae1039",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/constants?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/constants",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/bbf208bd35c4c77dace563b7b41f45b168ae1039",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/constants?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/bbf208bd35c4c77dace563b7b41f45b168ae1039",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/constants"
+      }
+    },
+    {
+      "name": "Colors.js",
+      "path": "src/constants/Colors.js",
+      "sha": "b5ad6e768db3484d32dd0608659974dcc416edef",
+      "size": 207,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/constants/Colors.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/constants/Colors.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b5ad6e768db3484d32dd0608659974dcc416edef",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/constants/Colors.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/constants/Colors.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b5ad6e768db3484d32dd0608659974dcc416edef",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/constants/Colors.js"
+      }
+    },
+    {
+      "name": "MockupData.js",
+      "path": "src/constants/MockupData.js",
+      "sha": "379d5a33750e431443474194250960ba591a540b",
+      "size": 34471,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/constants/MockupData.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/constants/MockupData.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/379d5a33750e431443474194250960ba591a540b",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/constants/MockupData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/constants/MockupData.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/379d5a33750e431443474194250960ba591a540b",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/constants/MockupData.js"
+      }
+    },
+    {
+      "name": "hooks",
+      "path": "src/hooks",
+      "sha": "978b0ac81e562b33436adc43558897845ea56e1d",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/hooks?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/hooks",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/978b0ac81e562b33436adc43558897845ea56e1d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/hooks?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/978b0ac81e562b33436adc43558897845ea56e1d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/hooks"
+      }
+    },
+    {
+      "name": "isARStatus.js",
+      "path": "src/hooks/isARStatus.js",
+      "sha": "583a72bc7916e246b2107eef2134b519ccd5775e",
+      "size": 426,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/hooks/isARStatus.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/hooks/isARStatus.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/583a72bc7916e246b2107eef2134b519ccd5775e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/hooks/isARStatus.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/hooks/isARStatus.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/583a72bc7916e246b2107eef2134b519ccd5775e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/hooks/isARStatus.js"
+      }
+    },
+    {
+      "name": "isMobile.js",
+      "path": "src/hooks/isMobile.js",
+      "sha": "84913eabefa065ad324d3525bbada4a088c6314f",
+      "size": 706,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/hooks/isMobile.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/hooks/isMobile.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/84913eabefa065ad324d3525bbada4a088c6314f",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/hooks/isMobile.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/hooks/isMobile.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/84913eabefa065ad324d3525bbada4a088c6314f",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/hooks/isMobile.js"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "src/index.css",
+      "sha": "b5106c083e8a69d2955da830ab55840e32e952a5",
+      "size": 992,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/index.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/index.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b5106c083e8a69d2955da830ab55840e32e952a5",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/index.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b5106c083e8a69d2955da830ab55840e32e952a5",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/index.css"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "src/index.js",
+      "sha": "5b9cd83697694c8d79a3ccb811e1e95ee68ae0f4",
+      "size": 1152,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/index.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/index.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5b9cd83697694c8d79a3ccb811e1e95ee68ae0f4",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/index.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5b9cd83697694c8d79a3ccb811e1e95ee68ae0f4",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/index.js"
+      }
+    },
+    {
+      "name": "logo.svg",
+      "path": "src/logo.svg",
+      "sha": "9dfc1c058cebbef8b891c5062be6f31033d7d186",
+      "size": 2632,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/logo.svg?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/logo.svg",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/9dfc1c058cebbef8b891c5062be6f31033d7d186",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/logo.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/logo.svg?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/9dfc1c058cebbef8b891c5062be6f31033d7d186",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/logo.svg"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "src/pages",
+      "sha": "764c1210ef0b39bdcab58e999dc2afead5600282",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/pages",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/764c1210ef0b39bdcab58e999dc2afead5600282",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/764c1210ef0b39bdcab58e999dc2afead5600282",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/pages"
+      }
+    },
+    {
+      "name": "Create.js",
+      "path": "src/pages/Create.js",
+      "sha": "299f3379c5ef852798e148fe358daa1727ef0c93",
+      "size": 912,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/Create.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/Create.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/299f3379c5ef852798e148fe358daa1727ef0c93",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/pages/Create.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/Create.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/299f3379c5ef852798e148fe358daa1727ef0c93",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/Create.js"
+      }
+    },
+    {
+      "name": "Explore.js",
+      "path": "src/pages/Explore.js",
+      "sha": "9c98777049746db0d8bed042d24322fedc9f45da",
+      "size": 467,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/Explore.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/Explore.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/9c98777049746db0d8bed042d24322fedc9f45da",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/pages/Explore.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/Explore.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/9c98777049746db0d8bed042d24322fedc9f45da",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/Explore.js"
+      }
+    },
+    {
+      "name": "Home.js",
+      "path": "src/pages/Home.js",
+      "sha": "4794eb03b83fb8c63da1047e153758231b21e381",
+      "size": 470,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/Home.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/Home.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/4794eb03b83fb8c63da1047e153758231b21e381",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/pages/Home.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/Home.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/4794eb03b83fb8c63da1047e153758231b21e381",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/Home.js"
+      }
+    },
+    {
+      "name": "NFTDetail.js",
+      "path": "src/pages/NFTDetail.js",
+      "sha": "d882e56e9a3e5da9e17a10a4ea50f004fcf5f39c",
+      "size": 3832,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/NFTDetail.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/NFTDetail.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/d882e56e9a3e5da9e17a10a4ea50f004fcf5f39c",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/pages/NFTDetail.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/pages/NFTDetail.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/d882e56e9a3e5da9e17a10a4ea50f004fcf5f39c",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/pages/NFTDetail.js"
+      }
+    },
+    {
+      "name": "reportWebVitals.js",
+      "path": "src/reportWebVitals.js",
+      "sha": "5253d3ad9e6be6690549cb255f5952337b02401d",
+      "size": 362,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/reportWebVitals.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/reportWebVitals.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5253d3ad9e6be6690549cb255f5952337b02401d",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/reportWebVitals.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/reportWebVitals.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5253d3ad9e6be6690549cb255f5952337b02401d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/reportWebVitals.js"
+      }
+    },
+    {
+      "name": "setupTests.js",
+      "path": "src/setupTests.js",
+      "sha": "8f2609b7b3e0e3897ab3bcaad13caf6876e48699",
+      "size": 241,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/setupTests.js?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/setupTests.js",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/8f2609b7b3e0e3897ab3bcaad13caf6876e48699",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/setupTests.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/setupTests.js?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/8f2609b7b3e0e3897ab3bcaad13caf6876e48699",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/setupTests.js"
+      }
+    },
+    {
+      "name": "splash.png",
+      "path": "src/splash.png",
+      "sha": "018ce6b98671e08b04a7327989de821946511884",
+      "size": 211983,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/splash.png?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/splash.png",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/018ce6b98671e08b04a7327989de821946511884",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/splash.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/splash.png?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/018ce6b98671e08b04a7327989de821946511884",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/splash.png"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "src/styles",
+      "sha": "b1fe6e52e9323e7e1863ae10e469cfa2037d70f4",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/styles",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/b1fe6e52e9323e7e1863ae10e469cfa2037d70f4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/b1fe6e52e9323e7e1863ae10e469cfa2037d70f4",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/styles"
+      }
+    },
+    {
+      "name": "CardList.css",
+      "path": "src/styles/CardList.css",
+      "sha": "a70790d88e4f5fc2b0a1f4f7d045073550e75f23",
+      "size": 546,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/CardList.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/CardList.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a70790d88e4f5fc2b0a1f4f7d045073550e75f23",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/CardList.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/CardList.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/a70790d88e4f5fc2b0a1f4f7d045073550e75f23",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/CardList.css"
+      }
+    },
+    {
+      "name": "Explore.css",
+      "path": "src/styles/Explore.css",
+      "sha": "116d1cb98f84dcda32b45be54baa965bcc8e9cdb",
+      "size": 176,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/Explore.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/Explore.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/116d1cb98f84dcda32b45be54baa965bcc8e9cdb",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/Explore.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/Explore.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/116d1cb98f84dcda32b45be54baa965bcc8e9cdb",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/Explore.css"
+      }
+    },
+    {
+      "name": "Hero.css",
+      "path": "src/styles/Hero.css",
+      "sha": "5718bf99d2d1aed5380a20ec3d307edaa1754cf8",
+      "size": 6381,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/Hero.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/Hero.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5718bf99d2d1aed5380a20ec3d307edaa1754cf8",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/Hero.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/Hero.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5718bf99d2d1aed5380a20ec3d307edaa1754cf8",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/Hero.css"
+      }
+    },
+    {
+      "name": "Home.css",
+      "path": "src/styles/Home.css",
+      "sha": "f34c5ab1c6ec1a5b98b67f26652f11f4fe3c85f1",
+      "size": 554,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/Home.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/Home.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/f34c5ab1c6ec1a5b98b67f26652f11f4fe3c85f1",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/Home.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/Home.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/f34c5ab1c6ec1a5b98b67f26652f11f4fe3c85f1",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/Home.css"
+      }
+    },
+    {
+      "name": "NFTCard.css",
+      "path": "src/styles/NFTCard.css",
+      "sha": "b480de2fbe2a2a20803df2320e4decb50b5e5612",
+      "size": 3499,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/NFTCard.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/NFTCard.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b480de2fbe2a2a20803df2320e4decb50b5e5612",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/NFTCard.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/NFTCard.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b480de2fbe2a2a20803df2320e4decb50b5e5612",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/NFTCard.css"
+      }
+    },
+    {
+      "name": "NFTDetail.css",
+      "path": "src/styles/NFTDetail.css",
+      "sha": "96828baa0039c0c467fcfbe42c5d13bc25da363d",
+      "size": 5731,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/NFTDetail.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/NFTDetail.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/96828baa0039c0c467fcfbe42c5d13bc25da363d",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/NFTDetail.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/NFTDetail.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/96828baa0039c0c467fcfbe42c5d13bc25da363d",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/NFTDetail.css"
+      }
+    },
+    {
+      "name": "base",
+      "path": "src/styles/base",
+      "sha": "28aee1aa2b4fe34af12af92f57e7854cbf4efbfc",
+      "size": 0,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/styles/base",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/28aee1aa2b4fe34af12af92f57e7854cbf4efbfc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/trees/28aee1aa2b4fe34af12af92f57e7854cbf4efbfc",
+        "html": "https://github.com/yessGlory17/nft-marketplace/tree/main/src/styles/base"
+      }
+    },
+    {
+      "name": "AccordionHeader.css",
+      "path": "src/styles/base/AccordionHeader.css",
+      "sha": "98d43f9b16feee644db612edd2637ae1c7f73e92",
+      "size": 399,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/AccordionHeader.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/AccordionHeader.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/98d43f9b16feee644db612edd2637ae1c7f73e92",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/AccordionHeader.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/AccordionHeader.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/98d43f9b16feee644db612edd2637ae1c7f73e92",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/AccordionHeader.css"
+      }
+    },
+    {
+      "name": "Button.css",
+      "path": "src/styles/base/Button.css",
+      "sha": "397e531ce341637cfe2c4211ae04712df7d5fe43",
+      "size": 402,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Button.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Button.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/397e531ce341637cfe2c4211ae04712df7d5fe43",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/Button.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Button.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/397e531ce341637cfe2c4211ae04712df7d5fe43",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Button.css"
+      }
+    },
+    {
+      "name": "Card.css",
+      "path": "src/styles/base/Card.css",
+      "sha": "db096b8a8280f39d955c99652d03823f4550287b",
+      "size": 718,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Card.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Card.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/db096b8a8280f39d955c99652d03823f4550287b",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/Card.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Card.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/db096b8a8280f39d955c99652d03823f4550287b",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Card.css"
+      }
+    },
+    {
+      "name": "Checkbox.css",
+      "path": "src/styles/base/Checkbox.css",
+      "sha": "5f12627d151169070b9fe9e94bc33d45658f1b31",
+      "size": 1942,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Checkbox.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Checkbox.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5f12627d151169070b9fe9e94bc33d45658f1b31",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/Checkbox.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Checkbox.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/5f12627d151169070b9fe9e94bc33d45658f1b31",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Checkbox.css"
+      }
+    },
+    {
+      "name": "Image.css",
+      "path": "src/styles/base/Image.css",
+      "sha": "b3a137b7bfebc59a9acd143a1ab0ac5f98a69d8e",
+      "size": 74,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Image.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Image.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b3a137b7bfebc59a9acd143a1ab0ac5f98a69d8e",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/Image.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Image.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/b3a137b7bfebc59a9acd143a1ab0ac5f98a69d8e",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Image.css"
+      }
+    },
+    {
+      "name": "Select.css",
+      "path": "src/styles/base/Select.css",
+      "sha": "ddb8a5c46960d5b2495ff089d533c615f450723b",
+      "size": 2150,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Select.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Select.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/ddb8a5c46960d5b2495ff089d533c615f450723b",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/Select.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/Select.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/ddb8a5c46960d5b2495ff089d533c615f450723b",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/Select.css"
+      }
+    },
+    {
+      "name": "TextInput.css",
+      "path": "src/styles/base/TextInput.css",
+      "sha": "71d60c63c4f9044d5a95a69c526183c822a282d1",
+      "size": 1293,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/TextInput.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/TextInput.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/71d60c63c4f9044d5a95a69c526183c822a282d1",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/base/TextInput.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/base/TextInput.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/71d60c63c4f9044d5a95a69c526183c822a282d1",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/base/TextInput.css"
+      }
+    },
+    {
+      "name": "colors.css",
+      "path": "src/styles/colors.css",
+      "sha": "90b51d12a0685c5c8064a5f3705d75390c746ba4",
+      "size": 88,
+      "url": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/colors.css?ref=main",
+      "html_url": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/colors.css",
+      "git_url": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/90b51d12a0685c5c8064a5f3705d75390c746ba4",
+      "download_url": "https://raw.githubusercontent.com/yessGlory17/nft-marketplace/main/src/styles/colors.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yessGlory17/nft-marketplace/contents/src/styles/colors.css?ref=main",
+        "git": "https://api.github.com/repos/yessGlory17/nft-marketplace/git/blobs/90b51d12a0685c5c8064a5f3705d75390c746ba4",
+        "html": "https://github.com/yessGlory17/nft-marketplace/blob/main/src/styles/colors.css"
+      }
+    }
+  ],
+  "external_domains": {
+    "allcontributors.org": 2557,
+    "res.cloudinary.com": null,
+    "img.shields.io": null,
+    "www.youtube.com": 7659,
+    "github.com": 6692,
+    "avatars.githubusercontent.com": null,
+    "user-images.githubusercontent.com": null,
+    "bandism.net": null
+  },
+  "collected_at": "2026-02-04T16:46:11.912670"
+}

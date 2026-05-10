@@ -1,0 +1,39 @@
+{
+  "input_csv": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\fixed_params_threshold_refit_outputs\\fixed_params_family_oof_predictions_with_refit_threshold.csv",
+  "threshold_report_json": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\fixed_params_threshold_refit_outputs\\refit_threshold_report.json",
+  "best_threshold_from_report": 0.039498057,
+  "prediction_column_used": "y_pred_refit_threshold",
+  "all_positive": {
+    "n": 300,
+    "accuracy": 0.82,
+    "recall": 0.82,
+    "precision": 1.0,
+    "f1": 0.9010989010989011,
+    "tn": 0,
+    "fp": 0,
+    "fn": 54,
+    "tp": 246
+  },
+  "original_positive": {
+    "n": 45,
+    "accuracy": 0.8888888888888888,
+    "recall": 0.8888888888888888,
+    "precision": 1.0,
+    "f1": 0.9411764705882353,
+    "tn": 0,
+    "fp": 0,
+    "fn": 5,
+    "tp": 40
+  },
+  "synthetic_positive": {
+    "n": 255,
+    "accuracy": 0.807843137254902,
+    "recall": 0.807843137254902,
+    "precision": 1.0,
+    "f1": 0.8937093275488069,
+    "tn": 0,
+    "fp": 0,
+    "fn": 49,
+    "tp": 206
+  }
+}

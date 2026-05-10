@@ -1,0 +1,604 @@
+{
+  "repo_full_name": "yao-tx/CryptoZombies",
+  "repo_detail": {
+    "id": 495101854,
+    "node_id": "R_kgDOHYKnng",
+    "name": "CryptoZombies",
+    "full_name": "yao-tx/CryptoZombies",
+    "private": false,
+    "owner": {
+      "login": "yao-tx",
+      "id": 7468923,
+      "node_id": "MDQ6VXNlcjc0Njg5MjM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7468923?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yao-tx",
+      "html_url": "https://github.com/yao-tx",
+      "followers_url": "https://api.github.com/users/yao-tx/followers",
+      "following_url": "https://api.github.com/users/yao-tx/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yao-tx/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yao-tx/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yao-tx/subscriptions",
+      "organizations_url": "https://api.github.com/users/yao-tx/orgs",
+      "repos_url": "https://api.github.com/users/yao-tx/repos",
+      "events_url": "https://api.github.com/users/yao-tx/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yao-tx/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yao-tx/CryptoZombies",
+    "description": "Learning Solidity through CryptoZombies.",
+    "fork": false,
+    "url": "https://api.github.com/repos/yao-tx/CryptoZombies",
+    "forks_url": "https://api.github.com/repos/yao-tx/CryptoZombies/forks",
+    "keys_url": "https://api.github.com/repos/yao-tx/CryptoZombies/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yao-tx/CryptoZombies/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yao-tx/CryptoZombies/teams",
+    "hooks_url": "https://api.github.com/repos/yao-tx/CryptoZombies/hooks",
+    "issue_events_url": "https://api.github.com/repos/yao-tx/CryptoZombies/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yao-tx/CryptoZombies/events",
+    "assignees_url": "https://api.github.com/repos/yao-tx/CryptoZombies/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yao-tx/CryptoZombies/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yao-tx/CryptoZombies/tags",
+    "blobs_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yao-tx/CryptoZombies/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yao-tx/CryptoZombies/languages",
+    "stargazers_url": "https://api.github.com/repos/yao-tx/CryptoZombies/stargazers",
+    "contributors_url": "https://api.github.com/repos/yao-tx/CryptoZombies/contributors",
+    "subscribers_url": "https://api.github.com/repos/yao-tx/CryptoZombies/subscribers",
+    "subscription_url": "https://api.github.com/repos/yao-tx/CryptoZombies/subscription",
+    "commits_url": "https://api.github.com/repos/yao-tx/CryptoZombies/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yao-tx/CryptoZombies/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yao-tx/CryptoZombies/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yao-tx/CryptoZombies/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yao-tx/CryptoZombies/merges",
+    "archive_url": "https://api.github.com/repos/yao-tx/CryptoZombies/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yao-tx/CryptoZombies/downloads",
+    "issues_url": "https://api.github.com/repos/yao-tx/CryptoZombies/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yao-tx/CryptoZombies/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yao-tx/CryptoZombies/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yao-tx/CryptoZombies/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yao-tx/CryptoZombies/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yao-tx/CryptoZombies/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yao-tx/CryptoZombies/deployments",
+    "created_at": "2022-05-22T15:37:22Z",
+    "updated_at": "2022-10-23T19:46:40Z",
+    "pushed_at": "2022-10-09T02:01:50Z",
+    "git_url": "git://github.com/yao-tx/CryptoZombies.git",
+    "ssh_url": "git@github.com:yao-tx/CryptoZombies.git",
+    "clone_url": "https://github.com/yao-tx/CryptoZombies.git",
+    "svn_url": "https://github.com/yao-tx/CryptoZombies",
+    "homepage": "",
+    "size": 15,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Solidity",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "yao-tx",
+    "id": 7468923,
+    "node_id": "MDQ6VXNlcjc0Njg5MjM=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7468923?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yao-tx",
+    "html_url": "https://github.com/yao-tx",
+    "followers_url": "https://api.github.com/users/yao-tx/followers",
+    "following_url": "https://api.github.com/users/yao-tx/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yao-tx/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yao-tx/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yao-tx/subscriptions",
+    "organizations_url": "https://api.github.com/users/yao-tx/orgs",
+    "repos_url": "https://api.github.com/users/yao-tx/repos",
+    "events_url": "https://api.github.com/users/yao-tx/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yao-tx/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "TX",
+    "company": null,
+    "blog": "",
+    "location": "Singapore",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 27,
+    "public_gists": 0,
+    "followers": 5,
+    "following": 3,
+    "created_at": "2014-05-02T17:35:37Z",
+    "updated_at": "2026-02-19T14:27:02Z"
+  },
+  "readme": "# CryptoZombies\n\nExploring and learning about Solidity & Web3 with cryptozombies.io.\n",
+  "tree_structure": [
+    {
+      "name": "Lesson_1",
+      "path": "Lesson_1",
+      "sha": "efb41d7b5a32766afa39e4cf6461e39d9e010e1f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_1?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_1",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/efb41d7b5a32766afa39e4cf6461e39d9e010e1f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_1?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/efb41d7b5a32766afa39e4cf6461e39d9e010e1f",
+        "html": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_1"
+      }
+    },
+    {
+      "name": "Contract.sol",
+      "path": "Lesson_1/Contract.sol",
+      "sha": "0ba7441f9e980378ab1cb4b954053e7a790a4027",
+      "size": 796,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_1/Contract.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_1/Contract.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/0ba7441f9e980378ab1cb4b954053e7a790a4027",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_1/Contract.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_1/Contract.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/0ba7441f9e980378ab1cb4b954053e7a790a4027",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_1/Contract.sol"
+      }
+    },
+    {
+      "name": "Lesson_2",
+      "path": "Lesson_2",
+      "sha": "3b46937e2e46110b55d6db226586efaa4579cd4c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_2?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_2",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/3b46937e2e46110b55d6db226586efaa4579cd4c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_2?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/3b46937e2e46110b55d6db226586efaa4579cd4c",
+        "html": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_2"
+      }
+    },
+    {
+      "name": "zombiefactory.sol",
+      "path": "Lesson_2/zombiefactory.sol",
+      "sha": "d87ce2e1a1e6bd6f916cf2c41b6a57e2fe90324f",
+      "size": 999,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_2/zombiefactory.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_2/zombiefactory.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/d87ce2e1a1e6bd6f916cf2c41b6a57e2fe90324f",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_2/zombiefactory.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_2/zombiefactory.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/d87ce2e1a1e6bd6f916cf2c41b6a57e2fe90324f",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_2/zombiefactory.sol"
+      }
+    },
+    {
+      "name": "zombiefeeding.sol",
+      "path": "Lesson_2/zombiefeeding.sol",
+      "sha": "dd6e6fb30d1bf7d1547eec38af3ba31f4928f230",
+      "size": 1222,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_2/zombiefeeding.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_2/zombiefeeding.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/dd6e6fb30d1bf7d1547eec38af3ba31f4928f230",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_2/zombiefeeding.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_2/zombiefeeding.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/dd6e6fb30d1bf7d1547eec38af3ba31f4928f230",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_2/zombiefeeding.sol"
+      }
+    },
+    {
+      "name": "Lesson_3",
+      "path": "Lesson_3",
+      "sha": "f8cfcb494ce30b8953bad9b170c4368d5e43599f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_3",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/f8cfcb494ce30b8953bad9b170c4368d5e43599f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/f8cfcb494ce30b8953bad9b170c4368d5e43599f",
+        "html": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_3"
+      }
+    },
+    {
+      "name": "ownable.sol",
+      "path": "Lesson_3/ownable.sol",
+      "sha": "221f59242631b1f2aca68ab22c7108c06a83e7cb",
+      "size": 1951,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/ownable.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/ownable.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/221f59242631b1f2aca68ab22c7108c06a83e7cb",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_3/ownable.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/ownable.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/221f59242631b1f2aca68ab22c7108c06a83e7cb",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/ownable.sol"
+      }
+    },
+    {
+      "name": "zombiefactory.sol",
+      "path": "Lesson_3/zombiefactory.sol",
+      "sha": "442025b92cc6734beae002a1b503ee1ae0be48a7",
+      "size": 1214,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/zombiefactory.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/zombiefactory.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/442025b92cc6734beae002a1b503ee1ae0be48a7",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_3/zombiefactory.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/zombiefactory.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/442025b92cc6734beae002a1b503ee1ae0be48a7",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/zombiefactory.sol"
+      }
+    },
+    {
+      "name": "zombiefeeding.sol",
+      "path": "Lesson_3/zombiefeeding.sol",
+      "sha": "ecdc1f8a67db00bb5c0442bab0f187d0d105dee6",
+      "size": 1403,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/zombiefeeding.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/zombiefeeding.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/ecdc1f8a67db00bb5c0442bab0f187d0d105dee6",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_3/zombiefeeding.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/zombiefeeding.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/ecdc1f8a67db00bb5c0442bab0f187d0d105dee6",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/zombiefeeding.sol"
+      }
+    },
+    {
+      "name": "zombiehelper.sol",
+      "path": "Lesson_3/zombiehelper.sol",
+      "sha": "b9f13135a67bb06559f15396d8dc39c18d1580b2",
+      "size": 953,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/zombiehelper.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/zombiehelper.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/b9f13135a67bb06559f15396d8dc39c18d1580b2",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_3/zombiehelper.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_3/zombiehelper.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/b9f13135a67bb06559f15396d8dc39c18d1580b2",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_3/zombiehelper.sol"
+      }
+    },
+    {
+      "name": "Lesson_4",
+      "path": "Lesson_4",
+      "sha": "58a3662b69dc9a6e5a9cddd72fda2d2e105409f0",
+      "size": 0,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_4",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/58a3662b69dc9a6e5a9cddd72fda2d2e105409f0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/58a3662b69dc9a6e5a9cddd72fda2d2e105409f0",
+        "html": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_4"
+      }
+    },
+    {
+      "name": "ownable.sol",
+      "path": "Lesson_4/ownable.sol",
+      "sha": "221f59242631b1f2aca68ab22c7108c06a83e7cb",
+      "size": 1951,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/ownable.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/ownable.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/221f59242631b1f2aca68ab22c7108c06a83e7cb",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_4/ownable.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/ownable.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/221f59242631b1f2aca68ab22c7108c06a83e7cb",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/ownable.sol"
+      }
+    },
+    {
+      "name": "zombieattack.sol",
+      "path": "Lesson_4/zombieattack.sol",
+      "sha": "9dd42f56f44223ff9a67ae278c770253f05351d9",
+      "size": 849,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombieattack.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombieattack.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/9dd42f56f44223ff9a67ae278c770253f05351d9",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_4/zombieattack.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombieattack.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/9dd42f56f44223ff9a67ae278c770253f05351d9",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombieattack.sol"
+      }
+    },
+    {
+      "name": "zombiefactory.sol",
+      "path": "Lesson_4/zombiefactory.sol",
+      "sha": "b90006fdd491056eff94b6992ec106d34cff5182",
+      "size": 1267,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombiefactory.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombiefactory.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/b90006fdd491056eff94b6992ec106d34cff5182",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_4/zombiefactory.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombiefactory.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/b90006fdd491056eff94b6992ec106d34cff5182",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombiefactory.sol"
+      }
+    },
+    {
+      "name": "zombiefeeding.sol",
+      "path": "Lesson_4/zombiefeeding.sol",
+      "sha": "9810dc9cf10a29d3a1174459d15c0d534e13206e",
+      "size": 1626,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombiefeeding.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombiefeeding.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/9810dc9cf10a29d3a1174459d15c0d534e13206e",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_4/zombiefeeding.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombiefeeding.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/9810dc9cf10a29d3a1174459d15c0d534e13206e",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombiefeeding.sol"
+      }
+    },
+    {
+      "name": "zombiehelper.sol",
+      "path": "Lesson_4/zombiehelper.sol",
+      "sha": "d9b03f42277ab8ffaaf7f82a3cca1ce83954adeb",
+      "size": 1251,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombiehelper.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombiehelper.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/d9b03f42277ab8ffaaf7f82a3cca1ce83954adeb",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_4/zombiehelper.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_4/zombiehelper.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/d9b03f42277ab8ffaaf7f82a3cca1ce83954adeb",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_4/zombiehelper.sol"
+      }
+    },
+    {
+      "name": "Lesson_5",
+      "path": "Lesson_5",
+      "sha": "6a41bad24ee67ca60da1d78e4129f0a2153dc882",
+      "size": 0,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_5",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/6a41bad24ee67ca60da1d78e4129f0a2153dc882",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/6a41bad24ee67ca60da1d78e4129f0a2153dc882",
+        "html": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_5"
+      }
+    },
+    {
+      "name": "erc721.sol",
+      "path": "Lesson_5/erc721.sol",
+      "sha": "a836b44e633fb62f77e64d112dadae2f92834052",
+      "size": 539,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/erc721.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/erc721.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/a836b44e633fb62f77e64d112dadae2f92834052",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/erc721.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/erc721.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/a836b44e633fb62f77e64d112dadae2f92834052",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/erc721.sol"
+      }
+    },
+    {
+      "name": "ownable.sol",
+      "path": "Lesson_5/ownable.sol",
+      "sha": "221f59242631b1f2aca68ab22c7108c06a83e7cb",
+      "size": 1951,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/ownable.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/ownable.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/221f59242631b1f2aca68ab22c7108c06a83e7cb",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/ownable.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/ownable.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/221f59242631b1f2aca68ab22c7108c06a83e7cb",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/ownable.sol"
+      }
+    },
+    {
+      "name": "safemath.sol",
+      "path": "Lesson_5/safemath.sol",
+      "sha": "98155c80b7a71abd9096d21458e9aee97000a8b4",
+      "size": 2703,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/safemath.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/safemath.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/98155c80b7a71abd9096d21458e9aee97000a8b4",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/safemath.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/safemath.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/98155c80b7a71abd9096d21458e9aee97000a8b4",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/safemath.sol"
+      }
+    },
+    {
+      "name": "zombieattack.sol",
+      "path": "Lesson_5/zombieattack.sol",
+      "sha": "067e16ea4cb7da5a68a61abecdc1f0ac6d6225d2",
+      "size": 998,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombieattack.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombieattack.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/067e16ea4cb7da5a68a61abecdc1f0ac6d6225d2",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/zombieattack.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombieattack.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/067e16ea4cb7da5a68a61abecdc1f0ac6d6225d2",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombieattack.sol"
+      }
+    },
+    {
+      "name": "zombiefactory.sol",
+      "path": "Lesson_5/zombiefactory.sol",
+      "sha": "9f1235f4685e4d758d650d330663b83d058eda22",
+      "size": 1339,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombiefactory.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombiefactory.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/9f1235f4685e4d758d650d330663b83d058eda22",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/zombiefactory.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombiefactory.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/9f1235f4685e4d758d650d330663b83d058eda22",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombiefactory.sol"
+      }
+    },
+    {
+      "name": "zombiefeeding.sol",
+      "path": "Lesson_5/zombiefeeding.sol",
+      "sha": "10b19204708f26f73a600231b685f57e66960631",
+      "size": 1634,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombiefeeding.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombiefeeding.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/10b19204708f26f73a600231b685f57e66960631",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/zombiefeeding.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombiefeeding.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/10b19204708f26f73a600231b685f57e66960631",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombiefeeding.sol"
+      }
+    },
+    {
+      "name": "zombiehelper.sol",
+      "path": "Lesson_5/zombiehelper.sol",
+      "sha": "cf4903e257953c43fd6ea1e7422ced4556874592",
+      "size": 1291,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombiehelper.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombiehelper.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/cf4903e257953c43fd6ea1e7422ced4556874592",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/zombiehelper.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombiehelper.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/cf4903e257953c43fd6ea1e7422ced4556874592",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombiehelper.sol"
+      }
+    },
+    {
+      "name": "zombieownership.sol",
+      "path": "Lesson_5/zombieownership.sol",
+      "sha": "a46c99d5e71b9c372c8d4c9933277a5c36c55c00",
+      "size": 1345,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombieownership.sol?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombieownership.sol",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/a46c99d5e71b9c372c8d4c9933277a5c36c55c00",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_5/zombieownership.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_5/zombieownership.sol?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/a46c99d5e71b9c372c8d4c9933277a5c36c55c00",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_5/zombieownership.sol"
+      }
+    },
+    {
+      "name": "Lesson_6",
+      "path": "Lesson_6",
+      "sha": "2ca7adb3bdaeb89e30563f5feb4e051023512500",
+      "size": 0,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_6?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_6",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/2ca7adb3bdaeb89e30563f5feb4e051023512500",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_6?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/trees/2ca7adb3bdaeb89e30563f5feb4e051023512500",
+        "html": "https://github.com/yao-tx/CryptoZombies/tree/main/Lesson_6"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "Lesson_6/index.html",
+      "sha": "7d55a269b4620f3b21d8fac02bddb6314b11cbc9",
+      "size": 5060,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_6/index.html?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_6/index.html",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/7d55a269b4620f3b21d8fac02bddb6314b11cbc9",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/Lesson_6/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/Lesson_6/index.html?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/7d55a269b4620f3b21d8fac02bddb6314b11cbc9",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/Lesson_6/index.html"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "4aca1d141f9e339ca0660d1532583950bf1a59d1",
+      "size": 85,
+      "url": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/README.md?ref=main",
+      "html_url": "https://github.com/yao-tx/CryptoZombies/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/4aca1d141f9e339ca0660d1532583950bf1a59d1",
+      "download_url": "https://raw.githubusercontent.com/yao-tx/CryptoZombies/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yao-tx/CryptoZombies/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/yao-tx/CryptoZombies/git/blobs/4aca1d141f9e339ca0660d1532583950bf1a59d1",
+        "html": "https://github.com/yao-tx/CryptoZombies/blob/main/README.md"
+      }
+    }
+  ],
+  "external_domains": {},
+  "collected_at": "2026-04-07T13:43:52.774932"
+}

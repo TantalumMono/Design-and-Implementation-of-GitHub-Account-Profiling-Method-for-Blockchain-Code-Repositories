@@ -1,0 +1,2896 @@
+{
+  "repo_full_name": "zeriontech/defi-sdk-js",
+  "repo_detail": {
+    "id": 249757899,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNDk3NTc4OTk=",
+    "name": "defi-sdk-js",
+    "full_name": "zeriontech/defi-sdk-js",
+    "private": false,
+    "owner": {
+      "login": "zeriontech",
+      "id": 18306895,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzA2ODk1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18306895?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zeriontech",
+      "html_url": "https://github.com/zeriontech",
+      "followers_url": "https://api.github.com/users/zeriontech/followers",
+      "following_url": "https://api.github.com/users/zeriontech/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zeriontech/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zeriontech/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zeriontech/subscriptions",
+      "organizations_url": "https://api.github.com/users/zeriontech/orgs",
+      "repos_url": "https://api.github.com/users/zeriontech/repos",
+      "events_url": "https://api.github.com/users/zeriontech/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zeriontech/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zeriontech/defi-sdk-js",
+    "description": "JavaScript/TypeScript wrapper for DeFi SDK",
+    "fork": false,
+    "url": "https://api.github.com/repos/zeriontech/defi-sdk-js",
+    "forks_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/forks",
+    "keys_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/teams",
+    "hooks_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/hooks",
+    "issue_events_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/events",
+    "assignees_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/tags",
+    "blobs_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/languages",
+    "stargazers_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/stargazers",
+    "contributors_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contributors",
+    "subscribers_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/subscribers",
+    "subscription_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/subscription",
+    "commits_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/merges",
+    "archive_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/downloads",
+    "issues_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/deployments",
+    "created_at": "2020-03-24T16:22:00Z",
+    "updated_at": "2025-12-07T03:20:14Z",
+    "pushed_at": "2025-04-11T18:08:00Z",
+    "git_url": "git://github.com/zeriontech/defi-sdk-js.git",
+    "ssh_url": "git@github.com:zeriontech/defi-sdk-js.git",
+    "clone_url": "https://github.com/zeriontech/defi-sdk-js.git",
+    "svn_url": "https://github.com/zeriontech/defi-sdk-js",
+    "homepage": "https://docs.zerion.io",
+    "size": 2318,
+    "stargazers_count": 48,
+    "watchers_count": 48,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 17,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 9,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+      "dapp",
+      "defi",
+      "defi-sdk",
+      "ethereum"
+    ],
+    "visibility": "public",
+    "forks": 17,
+    "open_issues": 9,
+    "watchers": 48,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "zeriontech",
+      "id": 18306895,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzA2ODk1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18306895?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zeriontech",
+      "html_url": "https://github.com/zeriontech",
+      "followers_url": "https://api.github.com/users/zeriontech/followers",
+      "following_url": "https://api.github.com/users/zeriontech/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zeriontech/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zeriontech/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zeriontech/subscriptions",
+      "organizations_url": "https://api.github.com/users/zeriontech/orgs",
+      "repos_url": "https://api.github.com/users/zeriontech/repos",
+      "events_url": "https://api.github.com/users/zeriontech/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zeriontech/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 17,
+    "subscribers_count": 8
+  },
+  "user_detail": {
+    "login": "zeriontech",
+    "id": 18306895,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzA2ODk1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/18306895?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zeriontech",
+    "html_url": "https://github.com/zeriontech",
+    "followers_url": "https://api.github.com/users/zeriontech/followers",
+    "following_url": "https://api.github.com/users/zeriontech/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zeriontech/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zeriontech/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zeriontech/subscriptions",
+    "organizations_url": "https://api.github.com/users/zeriontech/orgs",
+    "repos_url": "https://api.github.com/users/zeriontech/repos",
+    "events_url": "https://api.github.com/users/zeriontech/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zeriontech/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Zerion",
+    "company": null,
+    "blog": "https://zerion.io",
+    "location": "San Francisco ",
+    "email": "inbox@zerion.io",
+    "hireable": null,
+    "bio": "Your crypto wallet for everything onchain.",
+    "twitter_username": "zerion",
+    "public_repos": 51,
+    "public_gists": 0,
+    "followers": 215,
+    "following": 0,
+    "created_at": "2016-04-06T11:49:05Z",
+    "updated_at": "2026-02-03T13:16:13Z"
+  },
+  "readme": "# defi-sdk\n\n<div>\n  <a href=\"https://www.npmjs.com/package/defi-sdk\">\n    <img src=\"https://img.shields.io/npm/v/defi-sdk\" alt=\"Download on NPM\">\n  </a>\n  <br>\n</div>\n\nA JS client for interacting with [Zerion API](https://github.com/zeriontech/zerion-api)\n\n## Install\n\n```sh\nnpm install defi-sdk\n```\n\n## Getting Started\n\n```js\nimport { client } from \"defi-sdk\";\n\nclient.configure({ url: endpoint, apiToken: API_TOKEN });\n```\n\n## API\n\n### General usage\n\n### client.subscribe(options)\n\n```js\nimport { client } from \"defi-sdk\";\n\nclient.subscribe({\n  namespace: \"assets\",\n  body: {\n    scope: [\"prices\"],\n    payload: { asset_codes: [\"eth\"], currency: \"usd\" }\n  },\n  onMessage: (event: Event, data: Response) => {\n    /* handle data */\n  }\n});\n```\n\n- `namespace`: a [`Namespace`](https://docs.zerion.io/websockets/namespaces) string\n- `event`: one of `received | changed | appended | removed`, see [Zerion Docs](https://docs.zerion.io/websockets/websocket-api-overview)\n- `body`: a [`Request`](#Request) object\n- `data`: a [`Response`](#Response) object\n\n## Domain Helpers\n\nInstead of calling `client.subscribe` and passing type information manually, the SDK provides helpers for most of the existing request [scopes](https://docs.zerion.io/websockets/websocket-api-overview#request)\n\n### `addressAssets`\n\n```js\nimport { client } from \"defi-sdk\";\n\nclient.addressAssets({\n  payload: { asset_codes: [\"eth\"], currency: \"usd\" },\n  onData: data => {\n    /* handle data */\n  }\n});\n```\n\n## Types\n\n### Request\n\n```ts\ninterface Request<T, ScopeName extends string> {\n  scope: ScopeName[];\n  payload: T;\n}\n```\n\n### Response\n\n```ts\ninterface Response<T> {\n  meta: any;\n  payload: T;\n}\n```\n\nSee `Response` in [Zerion Docs](https://docs.zerion.io/websockets/websocket-api-overview#response)\n\n## License\n\nMIT License, see the included [LICENSE](LICENSE) file.\n",
+  "tree_structure": [
+    {
+      "name": ".eslintignore",
+      "path": ".eslintignore",
+      "sha": "78208bcb43ebd339d24f15aa9b5c9875ee7fad38",
+      "size": 34,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.eslintignore?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.eslintignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/78208bcb43ebd339d24f15aa9b5c9875ee7fad38",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.eslintignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.eslintignore?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/78208bcb43ebd339d24f15aa9b5c9875ee7fad38",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.eslintignore"
+      }
+    },
+    {
+      "name": ".eslintrc.js",
+      "path": ".eslintrc.js",
+      "sha": "17491fe9495e70769a8e0d016b9f944cc8ca40f0",
+      "size": 1090,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.eslintrc.js?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.eslintrc.js",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/17491fe9495e70769a8e0d016b9f944cc8ca40f0",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.eslintrc.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.eslintrc.js?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/17491fe9495e70769a8e0d016b9f944cc8ca40f0",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.eslintrc.js"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "ab9a2baa89d199d259ab5d573e377045f6dcecbc",
+      "size": 58,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ab9a2baa89d199d259ab5d573e377045f6dcecbc",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ab9a2baa89d199d259ab5d573e377045f6dcecbc",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": ".husky",
+      "path": ".husky",
+      "sha": "5a0a2afd7ac787cf3158fb59ad53537783396c9d",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.husky?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/.husky",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/5a0a2afd7ac787cf3158fb59ad53537783396c9d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.husky?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/5a0a2afd7ac787cf3158fb59ad53537783396c9d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/.husky"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".husky/.gitignore",
+      "sha": "31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+      "size": 2,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.husky/.gitignore?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.husky/.gitignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.husky/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.husky/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.husky/.gitignore"
+      }
+    },
+    {
+      "name": "pre-commit",
+      "path": ".husky/pre-commit",
+      "sha": "36af219892fda8ea669cd4b6725cd7b892231967",
+      "size": 58,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.husky/pre-commit?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.husky/pre-commit",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/36af219892fda8ea669cd4b6725cd7b892231967",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.husky/pre-commit",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.husky/pre-commit?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/36af219892fda8ea669cd4b6725cd7b892231967",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.husky/pre-commit"
+      }
+    },
+    {
+      "name": ".npmignore",
+      "path": ".npmignore",
+      "sha": "e1591171776c56126b2f6105450e61472d5aa379",
+      "size": 32,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.npmignore?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.npmignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e1591171776c56126b2f6105450e61472d5aa379",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.npmignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.npmignore?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e1591171776c56126b2f6105450e61472d5aa379",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.npmignore"
+      }
+    },
+    {
+      "name": ".prettierrc.json",
+      "path": ".prettierrc.json",
+      "sha": "d69ad907a1857ff43e600f8f927f029362f13da6",
+      "size": 259,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.prettierrc.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/.prettierrc.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d69ad907a1857ff43e600f8f927f029362f13da6",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/.prettierrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/.prettierrc.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d69ad907a1857ff43e600f8f927f029362f13da6",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/.prettierrc.json"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "9b5e2baccf8f617640be8b334a2bf2d43e91a77b",
+      "size": 1088,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/9b5e2baccf8f617640be8b334a2bf2d43e91a77b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/9b5e2baccf8f617640be8b334a2bf2d43e91a77b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "1ce906a8b45e0131d34a4ff82b49a6bd633ea2cc",
+      "size": 1842,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/README.md?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1ce906a8b45e0131d34a4ff82b49a6bd633ea2cc",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1ce906a8b45e0131d34a4ff82b49a6bd633ea2cc",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/README.md"
+      }
+    },
+    {
+      "name": "examples",
+      "path": "examples",
+      "sha": "fd6cbb326c370ed75d8bf7fd2e8eb6cf36594207",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/fd6cbb326c370ed75d8bf7fd2e8eb6cf36594207",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/fd6cbb326c370ed75d8bf7fd2e8eb6cf36594207",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples"
+      }
+    },
+    {
+      "name": "config.ts",
+      "path": "examples/config.ts",
+      "sha": "dfc341e8aa5b045e123f7da7b2cc5e2b56b8fc2b",
+      "size": 193,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/config.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/config.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/dfc341e8aa5b045e123f7da7b2cc5e2b56b8fc2b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/config.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/dfc341e8aa5b045e123f7da7b2cc5e2b56b8fc2b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/config.ts"
+      }
+    },
+    {
+      "name": "css",
+      "path": "examples/css",
+      "sha": "44b0693967a5a0af9d0cb95178f3e0fc1c210e3a",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/44b0693967a5a0af9d0cb95178f3e0fc1c210e3a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/44b0693967a5a0af9d0cb95178f3e0fc1c210e3a",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/css"
+      }
+    },
+    {
+      "name": "styles.css",
+      "path": "examples/css/styles.css",
+      "sha": "f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+      "size": 283,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/css/styles.css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/css/styles.css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/css/styles.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/css/styles.css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/css/styles.css"
+      }
+    },
+    {
+      "name": "development",
+      "path": "examples/development",
+      "sha": "fe092eb79be4d22b713ca3da1bd093ec76d40e27",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/fe092eb79be4d22b713ca3da1bd093ec76d40e27",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/fe092eb79be4d22b713ca3da1bd093ec76d40e27",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development"
+      }
+    },
+    {
+      "name": "Actions.tsx",
+      "path": "examples/development/Actions.tsx",
+      "sha": "c562a03a07e207738e58e5a657f56765a4d9be05",
+      "size": 1633,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/Actions.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/Actions.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/c562a03a07e207738e58e5a657f56765a4d9be05",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/Actions.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/Actions.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/c562a03a07e207738e58e5a657f56765a4d9be05",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/Actions.tsx"
+      }
+    },
+    {
+      "name": "Helpers.tsx",
+      "path": "examples/development/Helpers.tsx",
+      "sha": "2716a45f158866441a8814692ca94bfb46ca7eb8",
+      "size": 4377,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/Helpers.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/Helpers.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/2716a45f158866441a8814692ca94bfb46ca7eb8",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/Helpers.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/Helpers.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/2716a45f158866441a8814692ca94bfb46ca7eb8",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/Helpers.tsx"
+      }
+    },
+    {
+      "name": "NFTCollections.tsx",
+      "path": "examples/development/NFTCollections.tsx",
+      "sha": "101ee22a9ab383b2d8c70a1343127e3719809712",
+      "size": 1992,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/NFTCollections.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/NFTCollections.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/101ee22a9ab383b2d8c70a1343127e3719809712",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/NFTCollections.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/NFTCollections.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/101ee22a9ab383b2d8c70a1343127e3719809712",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/NFTCollections.tsx"
+      }
+    },
+    {
+      "name": "RequestHooksTest",
+      "path": "examples/development/RequestHooksTest",
+      "sha": "1c44697d61bf959ba5d9bed4b899b4e3f969b5c2",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/RequestHooksTest?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/RequestHooksTest",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/1c44697d61bf959ba5d9bed4b899b4e3f969b5c2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/RequestHooksTest?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/1c44697d61bf959ba5d9bed4b899b4e3f969b5c2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/RequestHooksTest"
+      }
+    },
+    {
+      "name": "RequestHooksTest.tsx",
+      "path": "examples/development/RequestHooksTest/RequestHooksTest.tsx",
+      "sha": "4ba3c3ccd8e7164d58159de258c3174cf2dbcfba",
+      "size": 1209,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/RequestHooksTest/RequestHooksTest.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/RequestHooksTest/RequestHooksTest.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4ba3c3ccd8e7164d58159de258c3174cf2dbcfba",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/RequestHooksTest/RequestHooksTest.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/RequestHooksTest/RequestHooksTest.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4ba3c3ccd8e7164d58159de258c3174cf2dbcfba",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/RequestHooksTest/RequestHooksTest.tsx"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "examples/development/RequestHooksTest/index.ts",
+      "sha": "cf4e8a9d3a6a90008f05e89c1ca82b0e27764e9d",
+      "size": 55,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/RequestHooksTest/index.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/RequestHooksTest/index.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/cf4e8a9d3a6a90008f05e89c1ca82b0e27764e9d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/RequestHooksTest/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/RequestHooksTest/index.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/cf4e8a9d3a6a90008f05e89c1ca82b0e27764e9d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/RequestHooksTest/index.ts"
+      }
+    },
+    {
+      "name": "VStack.tsx",
+      "path": "examples/development/VStack.tsx",
+      "sha": "ea266bd04fb99e4e6b6d3673b80b33c753b68925",
+      "size": 226,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/VStack.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/VStack.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ea266bd04fb99e4e6b6d3673b80b33c753b68925",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/VStack.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/VStack.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ea266bd04fb99e4e6b6d3673b80b33c753b68925",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/VStack.tsx"
+      }
+    },
+    {
+      "name": "app.tsx",
+      "path": "examples/development/app.tsx",
+      "sha": "7420eddab1c254bc094f20de091c23275198edaa",
+      "size": 8662,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/app.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/app.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7420eddab1c254bc094f20de091c23275198edaa",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/app.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/app.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7420eddab1c254bc094f20de091c23275198edaa",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/app.tsx"
+      }
+    },
+    {
+      "name": "components",
+      "path": "examples/development/components",
+      "sha": "0f7837052ffc07038975744371092f7ac30c5cc0",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/components",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/0f7837052ffc07038975744371092f7ac30c5cc0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/0f7837052ffc07038975744371092f7ac30c5cc0",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/components"
+      }
+    },
+    {
+      "name": "EntryInfo.tsx",
+      "path": "examples/development/components/EntryInfo.tsx",
+      "sha": "98ca7251d21decc6489896d1588a6fe2afd30d81",
+      "size": 1369,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/EntryInfo.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/components/EntryInfo.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/98ca7251d21decc6489896d1588a6fe2afd30d81",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/components/EntryInfo.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/EntryInfo.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/98ca7251d21decc6489896d1588a6fe2afd30d81",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/components/EntryInfo.tsx"
+      }
+    },
+    {
+      "name": "Prices",
+      "path": "examples/development/components/Prices",
+      "sha": "5a2162db65020813f98c030555ec2743fc420a72",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/Prices?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/components/Prices",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/5a2162db65020813f98c030555ec2743fc420a72",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/Prices?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/5a2162db65020813f98c030555ec2743fc420a72",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/components/Prices"
+      }
+    },
+    {
+      "name": "Prices.tsx",
+      "path": "examples/development/components/Prices/Prices.tsx",
+      "sha": "fc5e56a2bc82d5ddf62d3c22c25e6c98d17e31ec",
+      "size": 1145,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/Prices/Prices.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/components/Prices/Prices.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/fc5e56a2bc82d5ddf62d3c22c25e6c98d17e31ec",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/components/Prices/Prices.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/Prices/Prices.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/fc5e56a2bc82d5ddf62d3c22c25e6c98d17e31ec",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/components/Prices/Prices.tsx"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "examples/development/components/Prices/index.ts",
+      "sha": "1280c7eddeb809811f6c07b986a43fdaabf86c03",
+      "size": 35,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/Prices/index.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/components/Prices/index.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1280c7eddeb809811f6c07b986a43fdaabf86c03",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/components/Prices/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/components/Prices/index.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1280c7eddeb809811f6c07b986a43fdaabf86c03",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/components/Prices/index.ts"
+      }
+    },
+    {
+      "name": "constants.ts",
+      "path": "examples/development/constants.ts",
+      "sha": "6b1d215179545fad4ff1306be70aa7ce668ae743",
+      "size": 157,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/constants.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/constants.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6b1d215179545fad4ff1306be70aa7ce668ae743",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/constants.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/constants.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6b1d215179545fad4ff1306be70aa7ce668ae743",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/constants.ts"
+      }
+    },
+    {
+      "name": "custom-cache",
+      "path": "examples/development/custom-cache",
+      "sha": "179ca268a44270c21a2eb26d07a00a3019eccf45",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/custom-cache?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/custom-cache",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/179ca268a44270c21a2eb26d07a00a3019eccf45",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/custom-cache?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/179ca268a44270c21a2eb26d07a00a3019eccf45",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/development/custom-cache"
+      }
+    },
+    {
+      "name": "CustomCache.tsx",
+      "path": "examples/development/custom-cache/CustomCache.tsx",
+      "sha": "7f66aaa11d544d567358f2eb09163eff034044f4",
+      "size": 4043,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/custom-cache/CustomCache.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/custom-cache/CustomCache.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7f66aaa11d544d567358f2eb09163eff034044f4",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/custom-cache/CustomCache.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/custom-cache/CustomCache.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7f66aaa11d544d567358f2eb09163eff034044f4",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/custom-cache/CustomCache.tsx"
+      }
+    },
+    {
+      "name": "styles.css",
+      "path": "examples/development/custom-cache/styles.css",
+      "sha": "ed867406a1a55d3667ddc36dc32a5a9a3e8d0083",
+      "size": 171,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/custom-cache/styles.css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/custom-cache/styles.css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ed867406a1a55d3667ddc36dc32a5a9a3e8d0083",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/custom-cache/styles.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/custom-cache/styles.css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ed867406a1a55d3667ddc36dc32a5a9a3e8d0083",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/custom-cache/styles.css"
+      }
+    },
+    {
+      "name": "global.module.css",
+      "path": "examples/development/global.module.css",
+      "sha": "8d7cf0dcf06b355bf15e376ac486639e9531c426",
+      "size": 180,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/global.module.css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/global.module.css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8d7cf0dcf06b355bf15e376ac486639e9531c426",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/global.module.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/global.module.css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8d7cf0dcf06b355bf15e376ac486639e9531c426",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/global.module.css"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "examples/development/tsconfig.json",
+      "sha": "6198f522b92dab786bd0828c52bdcd29d424899a",
+      "size": 313,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/tsconfig.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6198f522b92dab786bd0828c52bdcd29d424899a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/development/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/development/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6198f522b92dab786bd0828c52bdcd29d424899a",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/development/tsconfig.json"
+      }
+    },
+    {
+      "name": "node",
+      "path": "examples/node",
+      "sha": "a99f8a82f5fa82d8ef3f73f6b278d2d55b53875c",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/node",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/a99f8a82f5fa82d8ef3f73f6b278d2d55b53875c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/a99f8a82f5fa82d8ef3f73f6b278d2d55b53875c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/node"
+      }
+    },
+    {
+      "name": "config.ts",
+      "path": "examples/node/config.ts",
+      "sha": "d2ba82548ceb86f14f514e09f18ae94216a55ba1",
+      "size": 186,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/config.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/config.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d2ba82548ceb86f14f514e09f18ae94216a55ba1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/config.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d2ba82548ceb86f14f514e09f18ae94216a55ba1",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/config.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "examples/node/index.ts",
+      "sha": "d26cf1787388ff633b354b534acaa967b8bbaa7c",
+      "size": 1012,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/index.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/index.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d26cf1787388ff633b354b534acaa967b8bbaa7c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/index.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d26cf1787388ff633b354b534acaa967b8bbaa7c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/index.ts"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "examples/node/package-lock.json",
+      "sha": "d8741e919f32081e900b8626728559e13850f45c",
+      "size": 2675,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/package-lock.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/package-lock.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d8741e919f32081e900b8626728559e13850f45c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/package-lock.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d8741e919f32081e900b8626728559e13850f45c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "examples/node/package.json",
+      "sha": "7011ca79d7cbcdb12419b5af24b15ba0d5b102e2",
+      "size": 338,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/package.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/package.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7011ca79d7cbcdb12419b5af24b15ba0d5b102e2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/package.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7011ca79d7cbcdb12419b5af24b15ba0d5b102e2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/package.json"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "examples/node/tsconfig.json",
+      "sha": "7b3e0ededac8bb64bec5afc3d048b7e2680a6084",
+      "size": 286,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/tsconfig.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7b3e0ededac8bb64bec5afc3d048b7e2680a6084",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7b3e0ededac8bb64bec5afc3d048b7e2680a6084",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/tsconfig.json"
+      }
+    },
+    {
+      "name": "viewModels",
+      "path": "examples/node/viewModels",
+      "sha": "e0c0c3b0027d16d647999af719c9b6a033e274ca",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/node/viewModels",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/e0c0c3b0027d16d647999af719c9b6a033e274ca",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/e0c0c3b0027d16d647999af719c9b6a033e274ca",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/node/viewModels"
+      }
+    },
+    {
+      "name": "addressAsset.ts",
+      "path": "examples/node/viewModels/addressAsset.ts",
+      "sha": "a82df2ea55c5327f0ecda0adf53ca028eac9d859",
+      "size": 524,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/addressAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/addressAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a82df2ea55c5327f0ecda0adf53ca028eac9d859",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/viewModels/addressAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/addressAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a82df2ea55c5327f0ecda0adf53ca028eac9d859",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/addressAsset.ts"
+      }
+    },
+    {
+      "name": "shared",
+      "path": "examples/node/viewModels/shared",
+      "sha": "889a5aaecc683d10791ea6f6e69b881329930597",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/node/viewModels/shared",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/889a5aaecc683d10791ea6f6e69b881329930597",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/889a5aaecc683d10791ea6f6e69b881329930597",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/node/viewModels/shared"
+      }
+    },
+    {
+      "name": "convertNumber.ts",
+      "path": "examples/node/viewModels/shared/convertNumber.ts",
+      "sha": "8c163eed968ec2c7858fe7629e839e7381b3801a",
+      "size": 141,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared/convertNumber.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/shared/convertNumber.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8c163eed968ec2c7858fe7629e839e7381b3801a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/viewModels/shared/convertNumber.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared/convertNumber.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8c163eed968ec2c7858fe7629e839e7381b3801a",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/shared/convertNumber.ts"
+      }
+    },
+    {
+      "name": "formatCurrency.ts",
+      "path": "examples/node/viewModels/shared/formatCurrency.ts",
+      "sha": "93a92624b82d833a4d22b63cbc109dd91b8f4497",
+      "size": 214,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared/formatCurrency.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/shared/formatCurrency.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/93a92624b82d833a4d22b63cbc109dd91b8f4497",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/viewModels/shared/formatCurrency.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared/formatCurrency.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/93a92624b82d833a4d22b63cbc109dd91b8f4497",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/shared/formatCurrency.ts"
+      }
+    },
+    {
+      "name": "formatNumber.ts",
+      "path": "examples/node/viewModels/shared/formatNumber.ts",
+      "sha": "d60e2314877c117e07d0287a58812f2fdf02f5d6",
+      "size": 137,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared/formatNumber.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/shared/formatNumber.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d60e2314877c117e07d0287a58812f2fdf02f5d6",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/node/viewModels/shared/formatNumber.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/node/viewModels/shared/formatNumber.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d60e2314877c117e07d0287a58812f2fdf02f5d6",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/node/viewModels/shared/formatNumber.ts"
+      }
+    },
+    {
+      "name": "react-example",
+      "path": "examples/react-example",
+      "sha": "67bde14c7cc0a0b632c8bb0fd14c6da7919b0ae8",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/react-example",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/67bde14c7cc0a0b632c8bb0fd14c6da7919b0ae8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/67bde14c7cc0a0b632c8bb0fd14c6da7919b0ae8",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/react-example"
+      }
+    },
+    {
+      "name": "app.tsx",
+      "path": "examples/react-example/app.tsx",
+      "sha": "1b422829486bc3aea937997758111b179da04f48",
+      "size": 1366,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/app.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/app.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1b422829486bc3aea937997758111b179da04f48",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/react-example/app.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/app.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1b422829486bc3aea937997758111b179da04f48",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/app.tsx"
+      }
+    },
+    {
+      "name": "components",
+      "path": "examples/react-example/components",
+      "sha": "63dacbb2b95db8519e7bae34e665bffaa983bb1f",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/components?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/react-example/components",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/63dacbb2b95db8519e7bae34e665bffaa983bb1f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/components?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/63dacbb2b95db8519e7bae34e665bffaa983bb1f",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/react-example/components"
+      }
+    },
+    {
+      "name": "AddressPosition.tsx",
+      "path": "examples/react-example/components/AddressPosition.tsx",
+      "sha": "d16b6931e51dd7c17f4e4eef4e917677a9b8237d",
+      "size": 841,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/components/AddressPosition.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/components/AddressPosition.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d16b6931e51dd7c17f4e4eef4e917677a9b8237d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/react-example/components/AddressPosition.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/components/AddressPosition.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d16b6931e51dd7c17f4e4eef4e917677a9b8237d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/components/AddressPosition.tsx"
+      }
+    },
+    {
+      "name": "css",
+      "path": "examples/react-example/css",
+      "sha": "44b0693967a5a0af9d0cb95178f3e0fc1c210e3a",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/react-example/css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/44b0693967a5a0af9d0cb95178f3e0fc1c210e3a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/44b0693967a5a0af9d0cb95178f3e0fc1c210e3a",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/react-example/css"
+      }
+    },
+    {
+      "name": "styles.css",
+      "path": "examples/react-example/css/styles.css",
+      "sha": "f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+      "size": 283,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/css/styles.css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/css/styles.css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/react-example/css/styles.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/css/styles.css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/css/styles.css"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "examples/react-example/index.html",
+      "sha": "0a84dce02dfabcaf7545f370980d95169b8ddc8f",
+      "size": 565,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/index.html?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/index.html",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/0a84dce02dfabcaf7545f370980d95169b8ddc8f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/react-example/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/index.html?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/0a84dce02dfabcaf7545f370980d95169b8ddc8f",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "examples/react-example/package-lock.json",
+      "sha": "7e0584cef5e4ab64f190fbd8a4268d49e62b5dc1",
+      "size": 50503,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/package-lock.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/package-lock.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7e0584cef5e4ab64f190fbd8a4268d49e62b5dc1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/react-example/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/package-lock.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7e0584cef5e4ab64f190fbd8a4268d49e62b5dc1",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "examples/react-example/package.json",
+      "sha": "4841e7d26f8ccab52eb278bf3e82fcc9d38f996d",
+      "size": 430,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/package.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/package.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4841e7d26f8ccab52eb278bf3e82fcc9d38f996d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/react-example/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/react-example/package.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4841e7d26f8ccab52eb278bf3e82fcc9d38f996d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/react-example/package.json"
+      }
+    },
+    {
+      "name": "test.js",
+      "path": "examples/test.js",
+      "sha": "a6df88f2379f998ebf0ae9c599ce718aee817200",
+      "size": 448,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/test.js?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/test.js",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a6df88f2379f998ebf0ae9c599ce718aee817200",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/test.js?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a6df88f2379f998ebf0ae9c599ce718aee817200",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/test.js"
+      }
+    },
+    {
+      "name": "umd",
+      "path": "examples/umd",
+      "sha": "80c0827c6d6b57ff5eb81437356ade18a0605e10",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/umd?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/umd",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/80c0827c6d6b57ff5eb81437356ade18a0605e10",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/umd?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/80c0827c6d6b57ff5eb81437356ade18a0605e10",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/examples/umd"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "examples/umd/index.html",
+      "sha": "ca49587a7c6bb45228aeb207b6e1389e0b9dd55c",
+      "size": 2319,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/umd/index.html?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/umd/index.html",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ca49587a7c6bb45228aeb207b6e1389e0b9dd55c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/umd/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/umd/index.html?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ca49587a7c6bb45228aeb207b6e1389e0b9dd55c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/umd/index.html"
+      }
+    },
+    {
+      "name": "styles.css",
+      "path": "examples/umd/styles.css",
+      "sha": "f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+      "size": 283,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/umd/styles.css?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/umd/styles.css",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/examples/umd/styles.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/examples/umd/styles.css?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f79c3448476f26daebbd2e1cc59a566fc0d3b452",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/examples/umd/styles.css"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "index.html",
+      "sha": "f4ccd3d160053a1dee92204184a2c8010c6eeda5",
+      "size": 314,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/index.html?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/index.html",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f4ccd3d160053a1dee92204184a2c8010c6eeda5",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/index.html?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f4ccd3d160053a1dee92204184a2c8010c6eeda5",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "7f1681e16e91a3a5cd3253dcb329f7b53503ed6e",
+      "size": 759276,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/package-lock.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/package-lock.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7f1681e16e91a3a5cd3253dcb329f7b53503ed6e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/package-lock.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7f1681e16e91a3a5cd3253dcb329f7b53503ed6e",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "2a4aabda8c8b2a1664d3bf172e7a4d9da40ca1d4",
+      "size": 2746,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/package.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/2a4aabda8c8b2a1664d3bf172e7a4d9da40ca1d4",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/2a4aabda8c8b2a1664d3bf172e7a4d9da40ca1d4",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "43a40a065f669f7eea417e8afdbda63bfc396dee",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/43a40a065f669f7eea417e8afdbda63bfc396dee",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/43a40a065f669f7eea417e8afdbda63bfc396dee",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src"
+      }
+    },
+    {
+      "name": "cache",
+      "path": "src/cache",
+      "sha": "82bf825c8c0ed218c9d00607c25fb325564af958",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/cache",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/82bf825c8c0ed218c9d00607c25fb325564af958",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/82bf825c8c0ed218c9d00607c25fb325564af958",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/cache"
+      }
+    },
+    {
+      "name": "CachePolicy.ts",
+      "path": "src/cache/CachePolicy.ts",
+      "sha": "7250e663c4e91a0e402fbd52b78f1988dfeb2f71",
+      "size": 434,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/CachePolicy.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/CachePolicy.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7250e663c4e91a0e402fbd52b78f1988dfeb2f71",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/CachePolicy.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/CachePolicy.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7250e663c4e91a0e402fbd52b78f1988dfeb2f71",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/CachePolicy.ts"
+      }
+    },
+    {
+      "name": "DataStatus.ts",
+      "path": "src/cache/DataStatus.ts",
+      "sha": "db0ec0ef84a80ed3dc3429bfe3505f4fab6514c2",
+      "size": 81,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/DataStatus.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/DataStatus.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/db0ec0ef84a80ed3dc3429bfe3505f4fab6514c2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/DataStatus.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/DataStatus.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/db0ec0ef84a80ed3dc3429bfe3505f4fab6514c2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/DataStatus.ts"
+      }
+    },
+    {
+      "name": "Entry.ts",
+      "path": "src/cache/Entry.ts",
+      "sha": "402d9e92ba8c07847bf2ed6bb912f1fa2643cf8b",
+      "size": 3780,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/Entry.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/Entry.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/402d9e92ba8c07847bf2ed6bb912f1fa2643cf8b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/Entry.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/Entry.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/402d9e92ba8c07847bf2ed6bb912f1fa2643cf8b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/Entry.ts"
+      }
+    },
+    {
+      "name": "PersistentCache.ts",
+      "path": "src/cache/PersistentCache.ts",
+      "sha": "84b5c6f228016d303e64683d56e9c0a6b2de7b8b",
+      "size": 3455,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/PersistentCache.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/PersistentCache.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/84b5c6f228016d303e64683d56e9c0a6b2de7b8b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/PersistentCache.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/PersistentCache.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/84b5c6f228016d303e64683d56e9c0a6b2de7b8b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/PersistentCache.ts"
+      }
+    },
+    {
+      "name": "RequestCache.ts",
+      "path": "src/cache/RequestCache.ts",
+      "sha": "f9928f7516e47318be34d83c80668c9042baf690",
+      "size": 534,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/RequestCache.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/RequestCache.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f9928f7516e47318be34d83c80668c9042baf690",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/RequestCache.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/RequestCache.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f9928f7516e47318be34d83c80668c9042baf690",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/RequestCache.ts"
+      }
+    },
+    {
+      "name": "defaultCachePolicy.ts",
+      "path": "src/cache/defaultCachePolicy.ts",
+      "sha": "ea915b30d1f4b2637d27781f0313ee02c867fcff",
+      "size": 119,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/defaultCachePolicy.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/defaultCachePolicy.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ea915b30d1f4b2637d27781f0313ee02c867fcff",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/defaultCachePolicy.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/defaultCachePolicy.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ea915b30d1f4b2637d27781f0313ee02c867fcff",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/defaultCachePolicy.ts"
+      }
+    },
+    {
+      "name": "hasData.ts",
+      "path": "src/cache/hasData.ts",
+      "sha": "01b16c9b304ab64a0381bc5ce51b590e87853567",
+      "size": 170,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/hasData.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/hasData.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/01b16c9b304ab64a0381bc5ce51b590e87853567",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/hasData.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/hasData.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/01b16c9b304ab64a0381bc5ce51b590e87853567",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/hasData.ts"
+      }
+    },
+    {
+      "name": "isRequestNeeded.ts",
+      "path": "src/cache/isRequestNeeded.ts",
+      "sha": "7210096c66b60902d99c2084d0c4e85141ccf0c2",
+      "size": 831,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/isRequestNeeded.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/isRequestNeeded.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7210096c66b60902d99c2084d0c4e85141ccf0c2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/isRequestNeeded.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/isRequestNeeded.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7210096c66b60902d99c2084d0c4e85141ccf0c2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/isRequestNeeded.ts"
+      }
+    },
+    {
+      "name": "shouldReturnCachedData.ts",
+      "path": "src/cache/shouldReturnCachedData.ts",
+      "sha": "4efbf077d2ebe17060d714aafbfe27d11b5238c9",
+      "size": 395,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/shouldReturnCachedData.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/shouldReturnCachedData.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4efbf077d2ebe17060d714aafbfe27d11b5238c9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/cache/shouldReturnCachedData.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/cache/shouldReturnCachedData.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4efbf077d2ebe17060d714aafbfe27d11b5238c9",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/cache/shouldReturnCachedData.ts"
+      }
+    },
+    {
+      "name": "client.test.ts",
+      "path": "src/client.test.ts",
+      "sha": "2c345549ad45d32bcb0d3a4a098d29f9f33a39bc",
+      "size": 783,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/client.test.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/client.test.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/2c345549ad45d32bcb0d3a4a098d29f9f33a39bc",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/client.test.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/client.test.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/2c345549ad45d32bcb0d3a4a098d29f9f33a39bc",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/client.test.ts"
+      }
+    },
+    {
+      "name": "client.ts",
+      "path": "src/client.ts",
+      "sha": "8be80bb5acdb5a8f77e04bca001fdc3b6cef34d2",
+      "size": 25357,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/client.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/client.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8be80bb5acdb5a8f77e04bca001fdc3b6cef34d2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/client.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/client.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8be80bb5acdb5a8f77e04bca001fdc3b6cef34d2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/client.ts"
+      }
+    },
+    {
+      "name": "domains",
+      "path": "src/domains",
+      "sha": "1a280363468155d35bfca97fad75e53f6a594a56",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/domains",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/1a280363468155d35bfca97fad75e53f6a594a56",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/1a280363468155d35bfca97fad75e53f6a594a56",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/domains"
+      }
+    },
+    {
+      "name": "AddressParams.ts",
+      "path": "src/domains/AddressParams.ts",
+      "sha": "6d499be3101ba7b94049f66f4cc816456dbf0b61",
+      "size": 92,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/AddressParams.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/AddressParams.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6d499be3101ba7b94049f66f4cc816456dbf0b61",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/AddressParams.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/AddressParams.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6d499be3101ba7b94049f66f4cc816456dbf0b61",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/AddressParams.ts"
+      }
+    },
+    {
+      "name": "addressAssets.ts",
+      "path": "src/domains/addressAssets.ts",
+      "sha": "bae0f32f50e2394806a5fe1f7ac3fa5ec4bbbaa6",
+      "size": 642,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressAssets.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressAssets.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/bae0f32f50e2394806a5fe1f7ac3fa5ec4bbbaa6",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressAssets.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressAssets.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/bae0f32f50e2394806a5fe1f7ac3fa5ec4bbbaa6",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressAssets.ts"
+      }
+    },
+    {
+      "name": "addressCharts.ts",
+      "path": "src/domains/addressCharts.ts",
+      "sha": "12caba789cb6c53bc3624b722d091bf9f3079d39",
+      "size": 633,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressCharts.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressCharts.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/12caba789cb6c53bc3624b722d091bf9f3079d39",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressCharts.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressCharts.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/12caba789cb6c53bc3624b722d091bf9f3079d39",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressCharts.ts"
+      }
+    },
+    {
+      "name": "addressLoans.ts",
+      "path": "src/domains/addressLoans.ts",
+      "sha": "ca13bc150e3609cc49ae25e522edc97bda758ee7",
+      "size": 608,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressLoans.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressLoans.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ca13bc150e3609cc49ae25e522edc97bda758ee7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressLoans.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressLoans.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ca13bc150e3609cc49ae25e522edc97bda758ee7",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressLoans.ts"
+      }
+    },
+    {
+      "name": "addressMembership.ts",
+      "path": "src/domains/addressMembership.ts",
+      "sha": "ce089f16a32fb5e7c97d7eb562a34f5cc55d6e0b",
+      "size": 504,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressMembership.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressMembership.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ce089f16a32fb5e7c97d7eb562a34f5cc55d6e0b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressMembership.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressMembership.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ce089f16a32fb5e7c97d7eb562a34f5cc55d6e0b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressMembership.ts"
+      }
+    },
+    {
+      "name": "addressNftPosition.ts",
+      "path": "src/domains/addressNftPosition.ts",
+      "sha": "e3aaf85bb4fecc6ebd17d354dd22de5ab259c31d",
+      "size": 567,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressNftPosition.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressNftPosition.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e3aaf85bb4fecc6ebd17d354dd22de5ab259c31d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressNftPosition.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressNftPosition.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e3aaf85bb4fecc6ebd17d354dd22de5ab259c31d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressNftPosition.ts"
+      }
+    },
+    {
+      "name": "addressPortfolio.ts",
+      "path": "src/domains/addressPortfolio.ts",
+      "sha": "e856aefbed52bd9bd03c2ad69fd4df6fbbaa57f1",
+      "size": 697,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressPortfolio.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressPortfolio.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e856aefbed52bd9bd03c2ad69fd4df6fbbaa57f1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressPortfolio.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressPortfolio.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e856aefbed52bd9bd03c2ad69fd4df6fbbaa57f1",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressPortfolio.ts"
+      }
+    },
+    {
+      "name": "addressPortfolioDecomposition.ts",
+      "path": "src/domains/addressPortfolioDecomposition.ts",
+      "sha": "5b5745dbdf8f7742850b6baaa00bb2e31f02fcee",
+      "size": 730,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressPortfolioDecomposition.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressPortfolioDecomposition.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/5b5745dbdf8f7742850b6baaa00bb2e31f02fcee",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressPortfolioDecomposition.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressPortfolioDecomposition.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/5b5745dbdf8f7742850b6baaa00bb2e31f02fcee",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressPortfolioDecomposition.ts"
+      }
+    },
+    {
+      "name": "addressPositions.ts",
+      "path": "src/domains/addressPositions.ts",
+      "sha": "d741cc9a42a3cfd95f485e31edf7ac039593e363",
+      "size": 590,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressPositions.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressPositions.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d741cc9a42a3cfd95f485e31edf7ac039593e363",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/addressPositions.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/addressPositions.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/d741cc9a42a3cfd95f485e31edf7ac039593e363",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/addressPositions.ts"
+      }
+    },
+    {
+      "name": "assetsCharts.ts",
+      "path": "src/domains/assetsCharts.ts",
+      "sha": "a20ea717076f8da8abbf22be3c95b676f049a36e",
+      "size": 484,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsCharts.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsCharts.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a20ea717076f8da8abbf22be3c95b676f049a36e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/assetsCharts.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsCharts.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a20ea717076f8da8abbf22be3c95b676f049a36e",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsCharts.ts"
+      }
+    },
+    {
+      "name": "assetsFullInfo.ts",
+      "path": "src/domains/assetsFullInfo.ts",
+      "sha": "3150ee09ada332597105ebbc396a92f4460e44a3",
+      "size": 603,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsFullInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsFullInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3150ee09ada332597105ebbc396a92f4460e44a3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/assetsFullInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsFullInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3150ee09ada332597105ebbc396a92f4460e44a3",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsFullInfo.ts"
+      }
+    },
+    {
+      "name": "assetsInfo.ts",
+      "path": "src/domains/assetsInfo.ts",
+      "sha": "09a4604ac06f3373a326cc7ec98889822908df2f",
+      "size": 1077,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/09a4604ac06f3373a326cc7ec98889822908df2f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/assetsInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/09a4604ac06f3373a326cc7ec98889822908df2f",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsInfo.ts"
+      }
+    },
+    {
+      "name": "assetsPrices.ts",
+      "path": "src/domains/assetsPrices.ts",
+      "sha": "70925845217611f0ff2dac45a9e3133b657fe3c0",
+      "size": 1426,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsPrices.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsPrices.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/70925845217611f0ff2dac45a9e3133b657fe3c0",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/assetsPrices.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/assetsPrices.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/70925845217611f0ff2dac45a9e3133b657fe3c0",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/assetsPrices.ts"
+      }
+    },
+    {
+      "name": "createDomainRequest.ts",
+      "path": "src/domains/createDomainRequest.ts",
+      "sha": "de7473aa3059a6ea2592939e73da9c98e65e3faa",
+      "size": 1970,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/createDomainRequest.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/createDomainRequest.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/de7473aa3059a6ea2592939e73da9c98e65e3faa",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/domains/createDomainRequest.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/domains/createDomainRequest.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/de7473aa3059a6ea2592939e73da9c98e65e3faa",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/domains/createDomainRequest.ts"
+      }
+    },
+    {
+      "name": "entities",
+      "path": "src/entities",
+      "sha": "05649c6cb72bacfc00dbe0717fe624d4d0c793e0",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/entities",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/05649c6cb72bacfc00dbe0717fe624d4d0c793e0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/05649c6cb72bacfc00dbe0717fe624d4d0c793e0",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/entities"
+      }
+    },
+    {
+      "name": "AddressAction.ts",
+      "path": "src/entities/AddressAction.ts",
+      "sha": "8503d879d5d5392d9a578ecedbe4c34d77c1d4ca",
+      "size": 1858,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressAction.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressAction.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8503d879d5d5392d9a578ecedbe4c34d77c1d4ca",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressAction.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressAction.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8503d879d5d5392d9a578ecedbe4c34d77c1d4ca",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressAction.ts"
+      }
+    },
+    {
+      "name": "AddressAsset.ts",
+      "path": "src/entities/AddressAsset.ts",
+      "sha": "3c01c3dfd74706cff4fbe135afc536888c152453",
+      "size": 109,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3c01c3dfd74706cff4fbe135afc536888c152453",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3c01c3dfd74706cff4fbe135afc536888c152453",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressAsset.ts"
+      }
+    },
+    {
+      "name": "AddressBSCAsset.ts",
+      "path": "src/entities/AddressBSCAsset.ts",
+      "sha": "8078ea17f28d4d6263ab0035ada94afbb49e3048",
+      "size": 136,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressBSCAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressBSCAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8078ea17f28d4d6263ab0035ada94afbb49e3048",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressBSCAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressBSCAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8078ea17f28d4d6263ab0035ada94afbb49e3048",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressBSCAsset.ts"
+      }
+    },
+    {
+      "name": "AddressInfo.ts",
+      "path": "src/entities/AddressInfo.ts",
+      "sha": "993d8306bcadb2a5572ab86eb00c43ea08635f2f",
+      "size": 174,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/993d8306bcadb2a5572ab86eb00c43ea08635f2f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/993d8306bcadb2a5572ab86eb00c43ea08635f2f",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressInfo.ts"
+      }
+    },
+    {
+      "name": "AddressMembership.ts",
+      "path": "src/entities/AddressMembership.ts",
+      "sha": "7d9fa0f3a09be49dec64bd1e1ff1f74732eab004",
+      "size": 933,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressMembership.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressMembership.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7d9fa0f3a09be49dec64bd1e1ff1f74732eab004",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressMembership.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressMembership.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7d9fa0f3a09be49dec64bd1e1ff1f74732eab004",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressMembership.ts"
+      }
+    },
+    {
+      "name": "AddressNFT.ts",
+      "path": "src/entities/AddressNFT.ts",
+      "sha": "5167d5e2b6640772e4e5e9e9adc78078c2a35e3b",
+      "size": 116,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressNFT.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressNFT.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/5167d5e2b6640772e4e5e9e9adc78078c2a35e3b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressNFT.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressNFT.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/5167d5e2b6640772e4e5e9e9adc78078c2a35e3b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressNFT.ts"
+      }
+    },
+    {
+      "name": "AddressPolygonAsset.ts",
+      "path": "src/entities/AddressPolygonAsset.ts",
+      "sha": "b929106cf4907bbdf48701e91239bc8f46e862a3",
+      "size": 140,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressPolygonAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressPolygonAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b929106cf4907bbdf48701e91239bc8f46e862a3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressPolygonAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressPolygonAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b929106cf4907bbdf48701e91239bc8f46e862a3",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressPolygonAsset.ts"
+      }
+    },
+    {
+      "name": "AddressPosition.ts",
+      "path": "src/entities/AddressPosition.ts",
+      "sha": "0fc89808706e3d9504b91d896c8b31fb89c18088",
+      "size": 623,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressPosition.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressPosition.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/0fc89808706e3d9504b91d896c8b31fb89c18088",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressPosition.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressPosition.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/0fc89808706e3d9504b91d896c8b31fb89c18088",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressPosition.ts"
+      }
+    },
+    {
+      "name": "AddressTransaction.ts",
+      "path": "src/entities/AddressTransaction.ts",
+      "sha": "70983cd417fc52ba4b6ffdc407f27058e270fa65",
+      "size": 1325,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressTransaction.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressTransaction.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/70983cd417fc52ba4b6ffdc407f27058e270fa65",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AddressTransaction.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AddressTransaction.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/70983cd417fc52ba4b6ffdc407f27058e270fa65",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AddressTransaction.ts"
+      }
+    },
+    {
+      "name": "Asset.ts",
+      "path": "src/entities/Asset.ts",
+      "sha": "8231b51120f72feb210fbc51d9cf51357883f1db",
+      "size": 465,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Asset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Asset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8231b51120f72feb210fbc51d9cf51357883f1db",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Asset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Asset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8231b51120f72feb210fbc51d9cf51357883f1db",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Asset.ts"
+      }
+    },
+    {
+      "name": "AssetAction.ts",
+      "path": "src/entities/AssetAction.ts",
+      "sha": "23ea7f8b20d858cc1d9e2c3a29a2629e50f9d88d",
+      "size": 552,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetAction.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetAction.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/23ea7f8b20d858cc1d9e2c3a29a2629e50f9d88d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AssetAction.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetAction.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/23ea7f8b20d858cc1d9e2c3a29a2629e50f9d88d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetAction.ts"
+      }
+    },
+    {
+      "name": "AssetActionType.ts",
+      "path": "src/entities/AssetActionType.ts",
+      "sha": "4fabb9a34d210f41cf732e23dc300724da789691",
+      "size": 299,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetActionType.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetActionType.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4fabb9a34d210f41cf732e23dc300724da789691",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AssetActionType.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetActionType.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4fabb9a34d210f41cf732e23dc300724da789691",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetActionType.ts"
+      }
+    },
+    {
+      "name": "AssetComponent.ts",
+      "path": "src/entities/AssetComponent.ts",
+      "sha": "ecf8cb913b2c1369544642cf2519ae422ce4b045",
+      "size": 150,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetComponent.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetComponent.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ecf8cb913b2c1369544642cf2519ae422ce4b045",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AssetComponent.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetComponent.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ecf8cb913b2c1369544642cf2519ae422ce4b045",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetComponent.ts"
+      }
+    },
+    {
+      "name": "AssetFullInfo.ts",
+      "path": "src/entities/AssetFullInfo.ts",
+      "sha": "4f2d3e7ba4bfc7b1bbdae9d4552a2d3fe2ee9124",
+      "size": 988,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetFullInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetFullInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4f2d3e7ba4bfc7b1bbdae9d4552a2d3fe2ee9124",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AssetFullInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetFullInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4f2d3e7ba4bfc7b1bbdae9d4552a2d3fe2ee9124",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetFullInfo.ts"
+      }
+    },
+    {
+      "name": "AssetInfo.ts",
+      "path": "src/entities/AssetInfo.ts",
+      "sha": "607ff7a688e37df63e8c30868a2927327d023492",
+      "size": 775,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/607ff7a688e37df63e8c30868a2927327d023492",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AssetInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/607ff7a688e37df63e8c30868a2927327d023492",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetInfo.ts"
+      }
+    },
+    {
+      "name": "AssetTag.ts",
+      "path": "src/entities/AssetTag.ts",
+      "sha": "f50d8541b6a1f6421b74406c2b24bed7b78802fc",
+      "size": 44,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetTag.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetTag.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f50d8541b6a1f6421b74406c2b24bed7b78802fc",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/AssetTag.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/AssetTag.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f50d8541b6a1f6421b74406c2b24bed7b78802fc",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/AssetTag.ts"
+      }
+    },
+    {
+      "name": "Category.ts",
+      "path": "src/entities/Category.ts",
+      "sha": "cde7b24badbe9199ba2ba3785ee774a0bfa5a2e7",
+      "size": 194,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Category.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Category.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/cde7b24badbe9199ba2ba3785ee774a0bfa5a2e7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Category.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Category.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/cde7b24badbe9199ba2ba3785ee774a0bfa5a2e7",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Category.ts"
+      }
+    },
+    {
+      "name": "Chart.ts",
+      "path": "src/entities/Chart.ts",
+      "sha": "24a2d27509ec4f36c499ca5c58a8ce0d5525852d",
+      "size": 53,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Chart.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Chart.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/24a2d27509ec4f36c499ca5c58a8ce0d5525852d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Chart.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Chart.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/24a2d27509ec4f36c499ca5c58a8ce0d5525852d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Chart.ts"
+      }
+    },
+    {
+      "name": "CovalentAsset.ts",
+      "path": "src/entities/CovalentAsset.ts",
+      "sha": "b38268c72d2da8753ea51378b96eca7b1d36004c",
+      "size": 162,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/CovalentAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/CovalentAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b38268c72d2da8753ea51378b96eca7b1d36004c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/CovalentAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/CovalentAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b38268c72d2da8753ea51378b96eca7b1d36004c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/CovalentAsset.ts"
+      }
+    },
+    {
+      "name": "Direction.ts",
+      "path": "src/entities/Direction.ts",
+      "sha": "6bea05a946eae63f42ae877b255447dee2cadc99",
+      "size": 161,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Direction.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Direction.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6bea05a946eae63f42ae877b255447dee2cadc99",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Direction.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Direction.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6bea05a946eae63f42ae877b255447dee2cadc99",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Direction.ts"
+      }
+    },
+    {
+      "name": "GasPriceInfo.ts",
+      "path": "src/entities/GasPriceInfo.ts",
+      "sha": "a9f9b4696f643f70404320fc87877e284e1aa2b7",
+      "size": 231,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/GasPriceInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/GasPriceInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a9f9b4696f643f70404320fc87877e284e1aa2b7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/GasPriceInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/GasPriceInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a9f9b4696f643f70404320fc87877e284e1aa2b7",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/GasPriceInfo.ts"
+      }
+    },
+    {
+      "name": "NFT.ts",
+      "path": "src/entities/NFT.ts",
+      "sha": "eb470d4d957de14c200d588e67dea0c9b6d9e60f",
+      "size": 1172,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFT.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFT.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/eb470d4d957de14c200d588e67dea0c9b6d9e60f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/NFT.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFT.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/eb470d4d957de14c200d588e67dea0c9b6d9e60f",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFT.ts"
+      }
+    },
+    {
+      "name": "NFTAsset.ts",
+      "path": "src/entities/NFTAsset.ts",
+      "sha": "867a0a030710ac16ca57830fa48b18914236b205",
+      "size": 694,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFTAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFTAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/867a0a030710ac16ca57830fa48b18914236b205",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/NFTAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFTAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/867a0a030710ac16ca57830fa48b18914236b205",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFTAsset.ts"
+      }
+    },
+    {
+      "name": "NFTCollection.ts",
+      "path": "src/entities/NFTCollection.ts",
+      "sha": "e2cdf92db09f98f0a19c19279f7c8467202c5046",
+      "size": 1047,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFTCollection.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFTCollection.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e2cdf92db09f98f0a19c19279f7c8467202c5046",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/NFTCollection.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFTCollection.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e2cdf92db09f98f0a19c19279f7c8467202c5046",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFTCollection.ts"
+      }
+    },
+    {
+      "name": "NFTInfo.ts",
+      "path": "src/entities/NFTInfo.ts",
+      "sha": "93a690624b00185451843af2e1b2825c6e478aef",
+      "size": 606,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFTInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFTInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/93a690624b00185451843af2e1b2825c6e478aef",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/NFTInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/NFTInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/93a690624b00185451843af2e1b2825c6e478aef",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/NFTInfo.ts"
+      }
+    },
+    {
+      "name": "Portfolio.ts",
+      "path": "src/entities/Portfolio.ts",
+      "sha": "fc4712b85c2fcb1890da6efd7cb13824c7e9e7f2",
+      "size": 1036,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Portfolio.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Portfolio.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/fc4712b85c2fcb1890da6efd7cb13824c7e9e7f2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Portfolio.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Portfolio.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/fc4712b85c2fcb1890da6efd7cb13824c7e9e7f2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Portfolio.ts"
+      }
+    },
+    {
+      "name": "ProtocolInfo",
+      "path": "src/entities/ProtocolInfo",
+      "sha": "fedd8442607085594acbbd532d2625234ad43c8b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/entities/ProtocolInfo",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/fedd8442607085594acbbd532d2625234ad43c8b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/fedd8442607085594acbbd532d2625234ad43c8b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/entities/ProtocolInfo"
+      }
+    },
+    {
+      "name": "Deposit.ts",
+      "path": "src/entities/ProtocolInfo/Deposit.ts",
+      "sha": "e9a35d0c39ffe83915b337319542030aafb9a9ef",
+      "size": 154,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/Deposit.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/Deposit.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e9a35d0c39ffe83915b337319542030aafb9a9ef",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/ProtocolInfo/Deposit.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/Deposit.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e9a35d0c39ffe83915b337319542030aafb9a9ef",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/Deposit.ts"
+      }
+    },
+    {
+      "name": "Loan.ts",
+      "path": "src/entities/ProtocolInfo/Loan.ts",
+      "sha": "fa2ecfaecd4e680dc722f2c879a697d42918dfef",
+      "size": 185,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/Loan.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/Loan.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/fa2ecfaecd4e680dc722f2c879a697d42918dfef",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/ProtocolInfo/Loan.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/Loan.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/fa2ecfaecd4e680dc722f2c879a697d42918dfef",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/Loan.ts"
+      }
+    },
+    {
+      "name": "LockedAsset.ts",
+      "path": "src/entities/ProtocolInfo/LockedAsset.ts",
+      "sha": "e01284b05708f16b62fa980dc141fe6b0a313948",
+      "size": 120,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/LockedAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/LockedAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e01284b05708f16b62fa980dc141fe6b0a313948",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/ProtocolInfo/LockedAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/LockedAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e01284b05708f16b62fa980dc141fe6b0a313948",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/LockedAsset.ts"
+      }
+    },
+    {
+      "name": "ProtocolInfo.ts",
+      "path": "src/entities/ProtocolInfo/ProtocolInfo.ts",
+      "sha": "3f5c3df8eb1a84718e17685732a7d7a79a6c2329",
+      "size": 191,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/ProtocolInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/ProtocolInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3f5c3df8eb1a84718e17685732a7d7a79a6c2329",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/ProtocolInfo/ProtocolInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/ProtocolInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3f5c3df8eb1a84718e17685732a7d7a79a6c2329",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/ProtocolInfo.ts"
+      }
+    },
+    {
+      "name": "StakedAsset.ts",
+      "path": "src/entities/ProtocolInfo/StakedAsset.ts",
+      "sha": "a68526fccf26f53260a42d84833e78c2820c5290",
+      "size": 120,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/StakedAsset.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/StakedAsset.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a68526fccf26f53260a42d84833e78c2820c5290",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/ProtocolInfo/StakedAsset.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/ProtocolInfo/StakedAsset.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a68526fccf26f53260a42d84833e78c2820c5290",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/ProtocolInfo/StakedAsset.ts"
+      }
+    },
+    {
+      "name": "RDBTransactionType.ts",
+      "path": "src/entities/RDBTransactionType.ts",
+      "sha": "86962318bfd92af250b2e868ddf805a6c9db76f4",
+      "size": 225,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/RDBTransactionType.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/RDBTransactionType.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/86962318bfd92af250b2e868ddf805a6c9db76f4",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/RDBTransactionType.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/RDBTransactionType.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/86962318bfd92af250b2e868ddf805a6c9db76f4",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/RDBTransactionType.ts"
+      }
+    },
+    {
+      "name": "Tokenlist.ts",
+      "path": "src/entities/Tokenlist.ts",
+      "sha": "503dd22f7d664fd8d19852179168dd65bc9d459d",
+      "size": 132,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Tokenlist.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Tokenlist.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/503dd22f7d664fd8d19852179168dd65bc9d459d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Tokenlist.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Tokenlist.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/503dd22f7d664fd8d19852179168dd65bc9d459d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Tokenlist.ts"
+      }
+    },
+    {
+      "name": "Transaction.ts",
+      "path": "src/entities/Transaction.ts",
+      "sha": "a0e29e8871dc4bc514180c3c8f7516430c5f0875",
+      "size": 715,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Transaction.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Transaction.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a0e29e8871dc4bc514180c3c8f7516430c5f0875",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/Transaction.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/Transaction.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a0e29e8871dc4bc514180c3c8f7516430c5f0875",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/Transaction.ts"
+      }
+    },
+    {
+      "name": "TransactionChange.ts",
+      "path": "src/entities/TransactionChange.ts",
+      "sha": "3f5380f7ab4df4a81e6681310d60465e49f9a2ef",
+      "size": 251,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/TransactionChange.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/TransactionChange.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3f5380f7ab4df4a81e6681310d60465e49f9a2ef",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/TransactionChange.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/TransactionChange.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3f5380f7ab4df4a81e6681310d60465e49f9a2ef",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/TransactionChange.ts"
+      }
+    },
+    {
+      "name": "TransactionStatus.ts",
+      "path": "src/entities/TransactionStatus.ts",
+      "sha": "142e069d0987962a97c465a82872ea9fe2580e04",
+      "size": 182,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/TransactionStatus.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/TransactionStatus.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/142e069d0987962a97c465a82872ea9fe2580e04",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/TransactionStatus.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/TransactionStatus.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/142e069d0987962a97c465a82872ea9fe2580e04",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/TransactionStatus.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/entities/index.ts",
+      "sha": "b8688396d95093cbeeab72fec4ce65c9d4ca5574",
+      "size": 1142,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/index.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/index.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b8688396d95093cbeeab72fec4ce65c9d4ca5574",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/entities/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/entities/index.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b8688396d95093cbeeab72fec4ce65c9d4ca5574",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/entities/index.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/index.ts",
+      "sha": "e191749e639f159a4cb7c9c26aadba094c70e95a",
+      "size": 1641,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/index.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/index.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e191749e639f159a4cb7c9c26aadba094c70e95a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/index.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e191749e639f159a4cb7c9c26aadba094c70e95a",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/index.ts"
+      }
+    },
+    {
+      "name": "react",
+      "path": "src/react",
+      "sha": "5f79092c0ed17e01dfdeadad9907020f14f59980",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/react",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/5f79092c0ed17e01dfdeadad9907020f14f59980",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/5f79092c0ed17e01dfdeadad9907020f14f59980",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/react"
+      }
+    },
+    {
+      "name": "context.tsx",
+      "path": "src/react/context.tsx",
+      "sha": "5f69d95ea64dd421cf042eb4994973960af0a797",
+      "size": 539,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/context.tsx?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/context.tsx",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/5f69d95ea64dd421cf042eb4994973960af0a797",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/context.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/context.tsx?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/5f69d95ea64dd421cf042eb4994973960af0a797",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/context.tsx"
+      }
+    },
+    {
+      "name": "domains",
+      "path": "src/react/domains",
+      "sha": "3322a24d46267a01c7fcdd9028ea00fc081e787b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/react/domains",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/3322a24d46267a01c7fcdd9028ea00fc081e787b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/3322a24d46267a01c7fcdd9028ea00fc081e787b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/react/domains"
+      }
+    },
+    {
+      "name": "createDomainHook.ts",
+      "path": "src/react/domains/createDomainHook.ts",
+      "sha": "37705b5c02e3509fa8c1d3fed77809a787049825",
+      "size": 3749,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/createDomainHook.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/createDomainHook.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/37705b5c02e3509fa8c1d3fed77809a787049825",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/createDomainHook.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/createDomainHook.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/37705b5c02e3509fa8c1d3fed77809a787049825",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/createDomainHook.ts"
+      }
+    },
+    {
+      "name": "useAddressActions.ts",
+      "path": "src/react/domains/useAddressActions.ts",
+      "sha": "21d66d55c3f1852763a0a09093e825f20a64f50c",
+      "size": 752,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressActions.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressActions.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/21d66d55c3f1852763a0a09093e825f20a64f50c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressActions.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressActions.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/21d66d55c3f1852763a0a09093e825f20a64f50c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressActions.ts"
+      }
+    },
+    {
+      "name": "useAddressAssets.ts",
+      "path": "src/react/domains/useAddressAssets.ts",
+      "sha": "e75d9f58f48991d430f3b54d7726e05bead6bbdf",
+      "size": 366,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressAssets.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressAssets.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e75d9f58f48991d430f3b54d7726e05bead6bbdf",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressAssets.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressAssets.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/e75d9f58f48991d430f3b54d7726e05bead6bbdf",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressAssets.ts"
+      }
+    },
+    {
+      "name": "useAddressCharts.ts",
+      "path": "src/react/domains/useAddressCharts.ts",
+      "sha": "3b61d4a19f53789090c87dc659406bef79d714b3",
+      "size": 308,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressCharts.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressCharts.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3b61d4a19f53789090c87dc659406bef79d714b3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressCharts.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressCharts.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3b61d4a19f53789090c87dc659406bef79d714b3",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressCharts.ts"
+      }
+    },
+    {
+      "name": "useAddressLoans.ts",
+      "path": "src/react/domains/useAddressLoans.ts",
+      "sha": "dd6cf47598dc4476a119de3dcdeedad96dd21510",
+      "size": 379,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressLoans.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressLoans.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/dd6cf47598dc4476a119de3dcdeedad96dd21510",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressLoans.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressLoans.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/dd6cf47598dc4476a119de3dcdeedad96dd21510",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressLoans.ts"
+      }
+    },
+    {
+      "name": "useAddressMembership.ts",
+      "path": "src/react/domains/useAddressMembership.ts",
+      "sha": "4d0e27d51c4ce792b473e942726c4ee5aabedc98",
+      "size": 367,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressMembership.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressMembership.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4d0e27d51c4ce792b473e942726c4ee5aabedc98",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressMembership.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressMembership.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/4d0e27d51c4ce792b473e942726c4ee5aabedc98",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressMembership.ts"
+      }
+    },
+    {
+      "name": "useAddressNftPosition.ts",
+      "path": "src/react/domains/useAddressNftPosition.ts",
+      "sha": "dbc79161e9885300c6457b317a784ebad5b44d57",
+      "size": 370,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressNftPosition.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressNftPosition.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/dbc79161e9885300c6457b317a784ebad5b44d57",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressNftPosition.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressNftPosition.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/dbc79161e9885300c6457b317a784ebad5b44d57",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressNftPosition.ts"
+      }
+    },
+    {
+      "name": "useAddressPortfolio.ts",
+      "path": "src/react/domains/useAddressPortfolio.ts",
+      "sha": "ad9885e281eb4471cd766c1e87c7e5ba5678fa30",
+      "size": 399,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressPortfolio.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressPortfolio.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ad9885e281eb4471cd766c1e87c7e5ba5678fa30",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressPortfolio.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressPortfolio.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/ad9885e281eb4471cd766c1e87c7e5ba5678fa30",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressPortfolio.ts"
+      }
+    },
+    {
+      "name": "useAddressPortfolioDecomposition.ts",
+      "path": "src/react/domains/useAddressPortfolioDecomposition.ts",
+      "sha": "c0a06a829d94ea330158113692e34bd50fb00f24",
+      "size": 447,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressPortfolioDecomposition.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressPortfolioDecomposition.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/c0a06a829d94ea330158113692e34bd50fb00f24",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressPortfolioDecomposition.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressPortfolioDecomposition.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/c0a06a829d94ea330158113692e34bd50fb00f24",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressPortfolioDecomposition.ts"
+      }
+    },
+    {
+      "name": "useAddressPositions.ts",
+      "path": "src/react/domains/useAddressPositions.ts",
+      "sha": "b4fb010ba64875e70866332fd80501bc3a5eec79",
+      "size": 314,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressPositions.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressPositions.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b4fb010ba64875e70866332fd80501bc3a5eec79",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAddressPositions.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAddressPositions.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b4fb010ba64875e70866332fd80501bc3a5eec79",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAddressPositions.ts"
+      }
+    },
+    {
+      "name": "useAssetsCharts.ts",
+      "path": "src/react/domains/useAssetsCharts.ts",
+      "sha": "1fab1b839a3ae19257339088ea12b4d854b0e7db",
+      "size": 306,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsCharts.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsCharts.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1fab1b839a3ae19257339088ea12b4d854b0e7db",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAssetsCharts.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsCharts.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1fab1b839a3ae19257339088ea12b4d854b0e7db",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsCharts.ts"
+      }
+    },
+    {
+      "name": "useAssetsFullInfo.ts",
+      "path": "src/react/domains/useAssetsFullInfo.ts",
+      "sha": "118fb2e82679fa3575bda488e41234489092484e",
+      "size": 390,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsFullInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsFullInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/118fb2e82679fa3575bda488e41234489092484e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAssetsFullInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsFullInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/118fb2e82679fa3575bda488e41234489092484e",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsFullInfo.ts"
+      }
+    },
+    {
+      "name": "useAssetsInfo.ts",
+      "path": "src/react/domains/useAssetsInfo.ts",
+      "sha": "31b0cc07eaff2e83049f9c717728a722c957a275",
+      "size": 398,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsInfo.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsInfo.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/31b0cc07eaff2e83049f9c717728a722c957a275",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAssetsInfo.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsInfo.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/31b0cc07eaff2e83049f9c717728a722c957a275",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsInfo.ts"
+      }
+    },
+    {
+      "name": "useAssetsPrices.ts",
+      "path": "src/react/domains/useAssetsPrices.ts",
+      "sha": "8c0b67e61a832f8e2b840b876d118f0155cc9d5e",
+      "size": 385,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsPrices.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsPrices.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8c0b67e61a832f8e2b840b876d118f0155cc9d5e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/domains/useAssetsPrices.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/domains/useAssetsPrices.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8c0b67e61a832f8e2b840b876d118f0155cc9d5e",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/domains/useAssetsPrices.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/react/index.ts",
+      "sha": "b05e5cc825f967b6bd60a6fac2646bbbbc397514",
+      "size": 1216,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/index.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/index.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b05e5cc825f967b6bd60a6fac2646bbbbc397514",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/index.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/b05e5cc825f967b6bd60a6fac2646bbbbc397514",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/index.ts"
+      }
+    },
+    {
+      "name": "useSubscription.ts",
+      "path": "src/react/useSubscription.ts",
+      "sha": "f0c19675203cba21b4f980ed02d1f7cf66bfe82b",
+      "size": 9932,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/useSubscription.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/useSubscription.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f0c19675203cba21b4f980ed02d1f7cf66bfe82b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/react/useSubscription.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/react/useSubscription.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f0c19675203cba21b4f980ed02d1f7cf66bfe82b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/react/useSubscription.ts"
+      }
+    },
+    {
+      "name": "requests",
+      "path": "src/requests",
+      "sha": "61f6b3922f4f1e1d1d2e063f00bcb190eaceafe6",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/requests",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/61f6b3922f4f1e1d1d2e063f00bcb190eaceafe6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/61f6b3922f4f1e1d1d2e063f00bcb190eaceafe6",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/requests"
+      }
+    },
+    {
+      "name": "Request.ts",
+      "path": "src/requests/Request.ts",
+      "sha": "0936182b811976bf241512ed9466ca8158912a29",
+      "size": 94,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/Request.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/Request.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/0936182b811976bf241512ed9466ca8158912a29",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/Request.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/Request.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/0936182b811976bf241512ed9466ca8158912a29",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/Request.ts"
+      }
+    },
+    {
+      "name": "Response.ts",
+      "path": "src/requests/Response.ts",
+      "sha": "48b01adcb5623aa1dd344818c5fe1ff98c2bcfec",
+      "size": 263,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/Response.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/Response.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/48b01adcb5623aa1dd344818c5fe1ff98c2bcfec",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/Response.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/Response.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/48b01adcb5623aa1dd344818c5fe1ff98c2bcfec",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/Response.ts"
+      }
+    },
+    {
+      "name": "ResponsePayload.ts",
+      "path": "src/requests/ResponsePayload.ts",
+      "sha": "3e9743c895e0bfda2993922c55ee125f26a5ceae",
+      "size": 75,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/ResponsePayload.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/ResponsePayload.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3e9743c895e0bfda2993922c55ee125f26a5ceae",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/ResponsePayload.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/ResponsePayload.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/3e9743c895e0bfda2993922c55ee125f26a5ceae",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/ResponsePayload.ts"
+      }
+    },
+    {
+      "name": "SubscriptionEvent.ts",
+      "path": "src/requests/SubscriptionEvent.ts",
+      "sha": "20db089fc2bc6f02e294608e7bab629922fd76c2",
+      "size": 102,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/SubscriptionEvent.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/SubscriptionEvent.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/20db089fc2bc6f02e294608e7bab629922fd76c2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/SubscriptionEvent.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/SubscriptionEvent.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/20db089fc2bc6f02e294608e7bab629922fd76c2",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/SubscriptionEvent.ts"
+      }
+    },
+    {
+      "name": "UpdaterFn.ts",
+      "path": "src/requests/UpdaterFn.ts",
+      "sha": "8b00f6506bbb3955c542af3df1942e01b3b7f82c",
+      "size": 62,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/UpdaterFn.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/UpdaterFn.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8b00f6506bbb3955c542af3df1942e01b3b7f82c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/UpdaterFn.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/UpdaterFn.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8b00f6506bbb3955c542af3df1942e01b3b7f82c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/UpdaterFn.ts"
+      }
+    },
+    {
+      "name": "verify.ts",
+      "path": "src/requests/verify.ts",
+      "sha": "7f2e32d83eeedff03ec1c6f58c79bf03bc5fd7c5",
+      "size": 572,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/verify.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/verify.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7f2e32d83eeedff03ec1c6f58c79bf03bc5fd7c5",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/verify.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/verify.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7f2e32d83eeedff03ec1c6f58c79bf03bc5fd7c5",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/verify.ts"
+      }
+    },
+    {
+      "name": "verifyByRequestId.ts",
+      "path": "src/requests/verifyByRequestId.ts",
+      "sha": "8fac9a7e56b7a41c3801d9e630aa278de49f661b",
+      "size": 296,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/verifyByRequestId.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/verifyByRequestId.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8fac9a7e56b7a41c3801d9e630aa278de49f661b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/requests/verifyByRequestId.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/requests/verifyByRequestId.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/8fac9a7e56b7a41c3801d9e630aa278de49f661b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/requests/verifyByRequestId.ts"
+      }
+    },
+    {
+      "name": "shared",
+      "path": "src/shared",
+      "sha": "36873cfd35f6a68ee586ecdc7139736191965a1b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/shared",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/36873cfd35f6a68ee586ecdc7139736191965a1b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/36873cfd35f6a68ee586ecdc7139736191965a1b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/shared"
+      }
+    },
+    {
+      "name": "SocketNamespace.ts",
+      "path": "src/shared/SocketNamespace.ts",
+      "sha": "47da5850adc6a8c325019a883c0622f60b6e6e0c",
+      "size": 161,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/SocketNamespace.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/SocketNamespace.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/47da5850adc6a8c325019a883c0622f60b6e6e0c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/shared/SocketNamespace.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/SocketNamespace.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/47da5850adc6a8c325019a883c0622f60b6e6e0c",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/SocketNamespace.ts"
+      }
+    },
+    {
+      "name": "Unsubscribe.ts",
+      "path": "src/shared/Unsubscribe.ts",
+      "sha": "6daf8d0b640791f1414601c5b21e2c0ffec9b13b",
+      "size": 38,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/Unsubscribe.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/Unsubscribe.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6daf8d0b640791f1414601c5b21e2c0ffec9b13b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/shared/Unsubscribe.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/Unsubscribe.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/6daf8d0b640791f1414601c5b21e2c0ffec9b13b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/Unsubscribe.ts"
+      }
+    },
+    {
+      "name": "handleMaybePromise.ts",
+      "path": "src/shared/handleMaybePromise.ts",
+      "sha": "7150d4b9d14304b10f5df120809a7b5e704eb63d",
+      "size": 246,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/handleMaybePromise.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/handleMaybePromise.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7150d4b9d14304b10f5df120809a7b5e704eb63d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/shared/handleMaybePromise.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/handleMaybePromise.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7150d4b9d14304b10f5df120809a7b5e704eb63d",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/handleMaybePromise.ts"
+      }
+    },
+    {
+      "name": "isObject.ts",
+      "path": "src/shared/isObject.ts",
+      "sha": "a6161283a328eec79da63ca89c249ff880ff5c5a",
+      "size": 116,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/isObject.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/isObject.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a6161283a328eec79da63ca89c249ff880ff5c5a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/shared/isObject.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/isObject.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/a6161283a328eec79da63ca89c249ff880ff5c5a",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/isObject.ts"
+      }
+    },
+    {
+      "name": "isPromise.ts",
+      "path": "src/shared/isPromise.ts",
+      "sha": "eee6fbf1bd5c1dddd2df4253251bea3b8a8cb16e",
+      "size": 179,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/isPromise.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/isPromise.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/eee6fbf1bd5c1dddd2df4253251bea3b8a8cb16e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/shared/isPromise.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/isPromise.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/eee6fbf1bd5c1dddd2df4253251bea3b8a8cb16e",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/isPromise.ts"
+      }
+    },
+    {
+      "name": "mergeStrategies.ts",
+      "path": "src/shared/mergeStrategies.ts",
+      "sha": "40c5b615fac38d35ed16ee8026d54b3ed58e7a3f",
+      "size": 4590,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/mergeStrategies.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/mergeStrategies.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/40c5b615fac38d35ed16ee8026d54b3ed58e7a3f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/shared/mergeStrategies.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/shared/mergeStrategies.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/40c5b615fac38d35ed16ee8026d54b3ed58e7a3f",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/shared/mergeStrategies.ts"
+      }
+    },
+    {
+      "name": "socket",
+      "path": "src/socket",
+      "sha": "ef4178150b248136107ad228dd3659b235f5f25b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/socket",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/ef4178150b248136107ad228dd3659b235f5f25b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/trees/ef4178150b248136107ad228dd3659b235f5f25b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/tree/master/src/socket"
+      }
+    },
+    {
+      "name": "createSocketNamespace.ts",
+      "path": "src/socket/createSocketNamespace.ts",
+      "sha": "142837d5fba56b0c7aa720c8d03c79bebbdc637b",
+      "size": 1011,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket/createSocketNamespace.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/socket/createSocketNamespace.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/142837d5fba56b0c7aa720c8d03c79bebbdc637b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/socket/createSocketNamespace.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket/createSocketNamespace.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/142837d5fba56b0c7aa720c8d03c79bebbdc637b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/socket/createSocketNamespace.ts"
+      }
+    },
+    {
+      "name": "page-visibility.ts",
+      "path": "src/socket/page-visibility.ts",
+      "sha": "f9d894befb87c83bfe5004101a662cc465957e4b",
+      "size": 1308,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket/page-visibility.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/socket/page-visibility.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f9d894befb87c83bfe5004101a662cc465957e4b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/socket/page-visibility.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket/page-visibility.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/f9d894befb87c83bfe5004101a662cc465957e4b",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/socket/page-visibility.ts"
+      }
+    },
+    {
+      "name": "reconnection-proxy.ts",
+      "path": "src/socket/reconnection-proxy.ts",
+      "sha": "7a45683077aee995f9be87a72f93ee71de00a551",
+      "size": 3382,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket/reconnection-proxy.ts?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/socket/reconnection-proxy.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7a45683077aee995f9be87a72f93ee71de00a551",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/src/socket/reconnection-proxy.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/src/socket/reconnection-proxy.ts?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/7a45683077aee995f9be87a72f93ee71de00a551",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/src/socket/reconnection-proxy.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "1c890556ac798f536f4515466640a83951f832ca",
+      "size": 362,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/tsconfig.json?ref=master",
+      "html_url": "https://github.com/zeriontech/defi-sdk-js/blob/master/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1c890556ac798f536f4515466640a83951f832ca",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk-js/master/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk-js/contents/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk-js/git/blobs/1c890556ac798f536f4515466640a83951f832ca",
+        "html": "https://github.com/zeriontech/defi-sdk-js/blob/master/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "img.shields.io": null,
+    "github.com": 6692,
+    "docs.zerion.io": 3185,
+    "www.npmjs.com": null
+  },
+  "collected_at": "2026-02-04T13:39:49.486537"
+}

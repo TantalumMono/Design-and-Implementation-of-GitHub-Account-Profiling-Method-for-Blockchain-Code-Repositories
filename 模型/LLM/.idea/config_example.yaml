@@ -1,0 +1,85 @@
+seed: 42
+device: "cuda"
+output_dir: "./outputs_llm_e2e"
+
+data:
+  positive_path: "/mnt/data/augmented_300_with_meta(3).json"
+  negative_path: "/mnt/data/negative_github_dataset_cleaned.json"
+
+fields:
+  text_fields:
+    - description_text
+    - topics_text
+    - readme_text
+    - combined_text
+  repo_full_name_path: "features.repo_full_name"
+  negative_group_path: "features.raw_file_name"
+  positive_family_path: "meta.family_label"
+  positive_is_synthetic_path: "meta.is_synthetic"
+  positive_source_raw_path: "meta.source_raw_file_name"
+  positive_source_repo_path: "meta.source_repo_full_name"
+
+model:
+  model_name: "Qwen/Qwen2.5-3B-Instruct"
+  use_4bit: true
+  max_length: 1536
+  per_device_train_batch_size: 2
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 8
+  learning_rate: 0.0001
+  num_train_epochs: 3
+  weight_decay: 0.01
+  warmup_ratio: 0.03
+  lr_scheduler_type: "cosine"
+
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  lora_target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+
+loss:
+  loss_type: "weighted_ce"   # weighted_ce or focal
+  positive_class_weight: 4.0
+  focal_gamma: 2.0
+
+search:
+  model_name:
+    - "Qwen/Qwen2.5-1.5B-Instruct"
+    - "Qwen/Qwen2.5-3B-Instruct"
+  max_length: [1024, 1536]
+  learning_rate: [0.0001, 0.0002]
+  num_train_epochs: [2, 3]
+  lora_r: [8, 16]
+  lora_alpha: [16, 32]
+  lora_dropout: [0.05, 0.1]
+  gradient_accumulation_steps: [4, 8]
+  loss_type: ["weighted_ce", "focal"]
+  positive_class_weight: [3.0, 4.0, 6.0]
+  focal_gamma: [1.5, 2.0]
+  max_trials: 8
+
+threshold:
+  start: 0.05
+  end: 0.95
+  step: 0.01
+
+input_build:
+  max_readme_chars: 3000
+  max_description_chars: 600
+  max_topics_chars: 300
+  structured_mode: "important_first"   # important_first / all_numeric
+  max_structured_items: 80
+
+explain:
+  topk_feature_ablation: 8
+  topk_text_chunks: 5
+  chunk_size: 320
+  chunk_stride: 180
+  topk_neighbors: 3

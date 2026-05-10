@@ -1,0 +1,27 @@
+{
+  "repo_full_name": "ourspiral/href-counter",
+  "owner": "ourspiral",
+  "is_repo_deleted": true,
+  "snapshot_time": "20250315170857",
+  "metrics": {
+    "stars": 0,
+    "forks": 0,
+    "watches": 0
+  },
+  "readme_full_text": "href-counter\n\n\n\n\nA Golang example application which counts internal vs. external hrefs within a page to rate SEO.\n\n\n\n\nThe \ngolang.org/x/net/html\n package is used to iterate through all the HTML tokens in the web-page. It provides a working example of parsing HTML piece-by-piece.\n\n\nThis can be built with the Dockerfile in the repository or through \ngo get\n.\n\n\nLearn more with my eBook - Everyday Go\n\n\n\"Everyday Go\" is the fast way to learn tools, techniques and patterns from real tools used in production.\n\n\nThis book is a compilation of practical examples, lessons and techniques for Go developers. The topics cover the software lifecycle from learning the fundamentals, to software testing, to distribution and monitoring.\n\n\nEveryday Go also covers multi-stage builds, Dockerfiles and GitHub Actions in more detail.\n\n\nBuy on Gumroad\n\n\nReferences\n\n\nUsed in these two blog posts:\n\n\n\n\nBuilder pattern vs. Multi-stage builds in Docker\n\n\nDocker docs: Use multi-stage builds\n\n\n\n\nRunning the example\n\n\n\n\n\n\nWith Go\n\n\ngo build\n\n$ url=http://blog.alexellis.io/ ./href-counter\n{\n\"\ninternal\n\"\n:40,\n\"\nexternal\n\"\n:2}\n\n$ url=http://blog.alexellis.io/golang-json-api-client/  ./href-counter\n{\n\"\ninternal\n\"\n:17,\n\"\nexternal\n\"\n:15}\n\n\n\n\n\n\nBuild with multi-stage build\n\n\n./build.sh\n\n\n\n\n\n\nRun with Docker\n\n\ndocker run -e url=https://www.alexellis.io/ -ti alexellis2/href-counter:0.1.0\n{\n\"\ninternal\n\"\n:6,\n\"\nexternal\n\"\n:11}\n\n\n\n\n\n\nBuild with multiple Dockerfiles\n\n\n./build-multi-dockerfiles.sh\n\n\n\n\n\n",
+  "external_assets": {
+    "domains": {
+      "blog.alexellis.io": {
+        "age_days": 3681
+      },
+      "www.alexellis.io": {
+        "age_days": 3681
+      }
+    },
+    "solana_wallets": []
+  },
+  "owner_current_status": {
+    "account_status": "deleted_or_banned",
+    "account_info": null
+  }
+}

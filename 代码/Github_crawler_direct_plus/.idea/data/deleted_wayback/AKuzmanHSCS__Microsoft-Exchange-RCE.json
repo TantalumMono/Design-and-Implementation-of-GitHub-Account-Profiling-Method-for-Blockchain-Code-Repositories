@@ -1,0 +1,18 @@
+{
+  "repo_full_name": "AKuzmanHSCS/Microsoft-Exchange-RCE",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-02-26T09:22:57.043399",
+  "repo_detail": {
+    "repo_full_name": "AKuzmanHSCS/Microsoft-Exchange-RCE",
+    "snapshot_url": "http://web.archive.org/web/20230614130604/https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE",
+    "snapshot_time": "20230614130604",
+    "stars": 2,
+    "forks": 0,
+    "watches": 2,
+    "readme": "Microsoft Exchange 0-day RCE PoC\n\n\npython poc.py --host[IP] --port[Port]\n\n",
+    "readme_domains": []
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

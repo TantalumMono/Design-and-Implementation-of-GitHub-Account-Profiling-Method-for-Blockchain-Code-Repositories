@@ -1,0 +1,1369 @@
+{
+  "repo_full_name": "ZuInnoTe/spark-hadoopcryptoledger-ds",
+  "repo_detail": {
+    "id": 74214340,
+    "node_id": "MDEwOlJlcG9zaXRvcnk3NDIxNDM0MA==",
+    "name": "spark-hadoopcryptoledger-ds",
+    "full_name": "ZuInnoTe/spark-hadoopcryptoledger-ds",
+    "private": false,
+    "owner": {
+      "login": "ZuInnoTe",
+      "id": 6325160,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMjUxNjA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6325160?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ZuInnoTe",
+      "html_url": "https://github.com/ZuInnoTe",
+      "followers_url": "https://api.github.com/users/ZuInnoTe/followers",
+      "following_url": "https://api.github.com/users/ZuInnoTe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ZuInnoTe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ZuInnoTe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ZuInnoTe/subscriptions",
+      "organizations_url": "https://api.github.com/users/ZuInnoTe/orgs",
+      "repos_url": "https://api.github.com/users/ZuInnoTe/repos",
+      "events_url": "https://api.github.com/users/ZuInnoTe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ZuInnoTe/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds",
+    "description": "A Spark datasource for the HadoopCryptoLedger library",
+    "fork": false,
+    "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds",
+    "forks_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/forks",
+    "keys_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/teams",
+    "hooks_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/hooks",
+    "issue_events_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/events",
+    "assignees_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/tags",
+    "blobs_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/languages",
+    "stargazers_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/stargazers",
+    "contributors_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contributors",
+    "subscribers_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/subscribers",
+    "subscription_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/subscription",
+    "commits_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/merges",
+    "archive_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/downloads",
+    "issues_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/deployments",
+    "created_at": "2016-11-19T14:43:58Z",
+    "updated_at": "2025-09-29T18:00:22Z",
+    "pushed_at": "2025-09-29T18:00:00Z",
+    "git_url": "git://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds.git",
+    "ssh_url": "git@github.com:ZuInnoTe/spark-hadoopcryptoledger-ds.git",
+    "clone_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds.git",
+    "svn_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds",
+    "homepage": null,
+    "size": 2605,
+    "stargazers_count": 13,
+    "watchers_count": 13,
+    "language": "Scala",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 2,
+    "mirror_url": null,
+    "archived": true,
+    "disabled": false,
+    "open_issues_count": 2,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+      "altcoin",
+      "auxpow",
+      "bitcoin",
+      "cryptoledger",
+      "datasource",
+      "ethereum",
+      "hadoopcryptoledger",
+      "read",
+      "spark"
+    ],
+    "visibility": "public",
+    "forks": 2,
+    "open_issues": 2,
+    "watchers": 13,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "ZuInnoTe",
+      "id": 6325160,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMjUxNjA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6325160?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ZuInnoTe",
+      "html_url": "https://github.com/ZuInnoTe",
+      "followers_url": "https://api.github.com/users/ZuInnoTe/followers",
+      "following_url": "https://api.github.com/users/ZuInnoTe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ZuInnoTe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ZuInnoTe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ZuInnoTe/subscriptions",
+      "organizations_url": "https://api.github.com/users/ZuInnoTe/orgs",
+      "repos_url": "https://api.github.com/users/ZuInnoTe/repos",
+      "events_url": "https://api.github.com/users/ZuInnoTe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ZuInnoTe/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 2,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "ZuInnoTe",
+    "id": 6325160,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMjUxNjA=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6325160?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZuInnoTe",
+    "html_url": "https://github.com/ZuInnoTe",
+    "followers_url": "https://api.github.com/users/ZuInnoTe/followers",
+    "following_url": "https://api.github.com/users/ZuInnoTe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZuInnoTe/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZuInnoTe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZuInnoTe/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZuInnoTe/orgs",
+    "repos_url": "https://api.github.com/users/ZuInnoTe/repos",
+    "events_url": "https://api.github.com/users/ZuInnoTe/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZuInnoTe/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Zukunft - Innovation - Technologie (ZuInnoTe)",
+    "company": null,
+    "blog": "https://zuinnote.eu/",
+    "location": "Germany",
+    "email": null,
+    "hireable": null,
+    "bio": "Innovation, Development and Consulting for Next-Generation Cloud Big Data Infrastructures for Disrupting Technologies in Space",
+    "twitter_username": null,
+    "public_repos": 26,
+    "public_gists": 0,
+    "followers": 14,
+    "following": 0,
+    "created_at": "2014-01-05T21:27:44Z",
+    "updated_at": "2022-04-30T17:31:53Z"
+  },
+  "readme": "# Hadoop Crypto Ledger is not maintained anymore\n***Hadoop Crypto Ledger is not maintained anymore.***\n\n# spark-hadoopcryptoledger-ds\n[![Build Status](https://travis-ci.org/ZuInnoTe/spark-hadoopcryptoledger-ds.svg?branch=master)](https://travis-ci.org/ZuInnoTe/spark-hadoopcryptoledger-ds)\n[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc05d48352034c5a8608ff71b629ce9f)](https://www.codacy.com/app/jornfranke/spark-hadoopcryptoledger-ds?utm_source=github.com&utm_medium=referral&utm_content=ZuInnoTe/spark-hadoopcryptoledger-ds&utm_campaign=badger)\n\nA [Spark datasource](http://spark.apache.org/docs/latest/sql-programming-guide.html#data-sources) for the [HadoopCryptoLedger](https://github.com/ZuInnoTe/hadoopcryptoledger/wiki) library.\n\nCurrently this datasource supports the following formats of the HadoopCryptoLedger library (see schemas at the end of the page):\n* Bitcoin and Altcoin Blockchain\n  * Bitcoin Block Datasource format: org.zuinnote.spark.bitcoin.block\n  * Bitcoin Transaction Datasource format: org.zuinnote.spark.bitcoin.transaction\n* Ethereum and Altcoin Blockchain\n  * Ethereum Block Datasource format: org.zuinnote.spark.ethereum.block\n  \nThis datasource is available on [Spark-packages.org](https://spark-packages.org/package/ZuInnoTe/spark-hadoopcryptoledger-ds) and on [Maven Central](http://search.maven.org/#search%7Cga%7C1%7Chadoopcryptoledger).\n\nFind here the status from the Continuous Integration service: https://travis-ci.org/ZuInnoTe/spark-hadoopcryptoledger-ds/\n\n# Release Notes\nFind the latest release information [here](https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/releases)\n\n# Options\nThe following options are mapped to the following options of the HadoopCryptoLedger library ([Explanation](https://github.com/ZuInnoTe/hadoopcryptoledger/wiki/Hadoop-File-Format#configure)):\n* Bitcoin and Altcoins\n  * \"magic\" is mapped to \"hadoopcryptoledger.bitcoinblockinputformat.filter.magic\"\n  * \"maxblockSize\" is mapped to \"hadoopcryptoledger.bitcoinblockinputformat.maxblocksize\"\n  * \"useDirectBuffer\" is mapped to \"hadoopcryptoledeger.bitcoinblockinputformat.usedirectbuffer\"\n  * \"isSplittable\" is mapped to \"hadoopcryptoledeger.bitcoinblockinputformat.issplitable\"\n  * \"readAuxPOW\" is mapped to \"hadoopcryptoledeger.bitcoinblockinputformat.readauxpow\"\n  * \"enrich\" adds the transaction hash to each transaction in the Bitcoin block\n* Ethereum and Altcoins\n  * \"maxblockSize\" is mapped to \"hadoopcryptoledger.ethereumlockinputformat.maxblocksize\"\n  * \"useDirectBuffer\" is mapped to \"hadoopcryptoledeger.ethereumblockinputformat.usedirectbuffer\"\n  * \"enrich\" in case of true it additional data is calculated for transactions: sendAddress and hash. Default: false. Note: you must include the bouncycastle dependency to use this.\n  * \"chainId\" this is needed if you enrich to correctly calculate the SendAddress. Examples are 1 Frontier (Mainnet), 2 Morden, 3 Ropsten, but other chainIds exist for Altcoins based on Ethereum. Default 1.\n\n# Setup\n```\nlibraryDependencies += \"com.github.zuinnote\" %% \"spark-hadoopcryptoledger-ds\" % \"1.3.1\"\n```\n\nThe library is currently published for 2.11 and 2.12. Scala 2.12 requires that you use at least Spark 2.4.0 \n\nIf you use Ethereum and the enrich functionality then you need the Bouncycastle dependency:\n```\nlibraryDependencies += \"org.bouncycastle\" %% \"sbcprov-ext-jdk15on\" % \"1.64\"\n```\n## Information Spark 2.0 and 2.1 BigInteger too large\nSpark 2.0 and Spark 2.1 have a bug (see https://issues.apache.org/jira/browse/SPARK-20341) that does not allow Big Integers with a precision large than 19. You may face those in the Ethereum blockchain. We recommend to use Spark 2.3 latest.\n\n## Information Spark 2.2 and outdated Bouncy Castle library\nAs [omervk and liorregev point out](https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/issues/9), Spark 2.2 uses jets3t 0.9.3, which depends on an outdated version of Bouncy Castle.\nUnfortunately, this outdated version does not support the cryptographic operations needed for enrichment of Ethereum data (SendAddress and TransactionHash).\n\nYou have the following alternatives:\n1. Shade the latest BC library in your application (hadoopcryptoledger has it only as a provided dependency)\n2. Remove the outdated bouncy castle libraries from the Spark libraries (and do not use jets3t); or\n3. Wait for an updated jets3t version, which then need to be included into an updated Spark version\n\nOther Spark versions do not currently show any issues (Spark 1.6, 2.0, 2.1 or 2.3 are not affected).\n\n# Develop\nThe following sections describe some example code. \n## Scala\n### Bitcoin and Altcoins\n This example loads Bitcoin Blockchain data from the folder \"/user/bitcoin/input\" using the BitcoinBlock representation (format).\n ```\nval sqlContext = new SQLContext(sc)\nval df = sqlContext.read\n    .format(\"org.zuinnote.spark.bitcoin.block\")\n    .option(\"magic\", \"F9BEB4D9\")\n    .load(\"/user/bitcoin/input\")\n\n// Or if you'd like a Dataset version (Spark 2.0+)...\n\nimport org.zuinnote.spark.bitcoin.model._\nimport df.sparkSession.implicits._\n\n// Also available: EnrichedBitcoinBlock, BitcoinBlockWithAuxPOW, EnrichedBitcoinBlockWithAuxPOW\nval ds: Dataset[BitcoinBlock] = df.as[BitcoinBlock]\n```\n The HadoopCryptoLedger library provides an example for scala using the data source library: https://github.com/ZuInnoTe/hadoopcryptoledger/wiki/Use-HadoopCrytoLedger-library-as-Spark-DataSource\n### Ethereum and Altcoins\n This example loads Ethereum Blockchain data from the folder \"/user/ethereum/input\" using the EthereumBlock representation (format).\n ```\nval sqlContext = new SQLContext(sc)\nval df = sqlContext.read\n    .format(\"org.zuinnote.spark.ethereum.block\")\n    .option(\"enrich\", \"false\")\n    .load(\"/user/ethereum/input\")\n\n// Or if you'd like a Dataset version (Spark 2.0+)...\n\nimport org.zuinnote.spark.ethereum.model._\nimport df.sparkSession.implicits._\n\n// Also available: EnrichedEthereumBlock\nval ds: Dataset[EthereumBlock] = df.as[EthereumBlock]\n```\n The HadoopCryptoLedger library provides an example for scala using the data source library: ledger/wiki/Use-HadoopCrytoLedger-library-as-Spark-datasource-to-read-Ethereum-data\n## Java\n### Bitcoin and Altcoins\n This example loads Bitcoin Blockchain data from the folder \"/user/bitcoin/input\" using the BitcoinBlock representation (format).\n ```\nimport org.apache.spark.sql.SQLContext\n\nSQLContext sqlContext = new SQLContext(sc);\nDataFrame df = sqlContext.read()\n    .format(\"org.zuinnote.spark.bitcoin.block\")\n    .option(\"magic\", \"F9BEB4D9\")\n    .load(\"/user/bitcoin/input\");\n```\n### Ethereum and Altcoins\n This example loads Ethereum Blockchain data from the folder \"/user/ethereum/input\" using the EthereumBlock representation (format).\n ```\nimport org.apache.spark.sql.SQLContext\n\nSQLContext sqlContext = new SQLContext(sc);\nDataFrame df = sqlContext.read()\n    .format(\"org.zuinnote.spark.ethereum.block\")\n    .option(\"enrich\", \"false\")\n    .load(\"/user/ethereum/input\");\n```\n## R\n### Bitcoin and Altcoins\n This example loads Bitcoin Blockchain data from the folder \"/user/bitcoin/input\" using the BitcoinBlock representation (format).\n```\nlibrary(SparkR)\n\nSys.setenv('SPARKR_SUBMIT_ARGS'='\"--packages\" \"com.github.zuinnote:spark-hadoopcrytoledger-ds_2.11:1.3.1\" \"sparkr-shell\"')\nsqlContext <- sparkRSQL.init(sc)\n\ndf <- read.df(sqlContext, \"/user/bitcoin/input\", source = \"org.zuinnote.spark.bitcoin.block\", magic = \"F9BEB4D9\")\n ```\n### Ethereum and Altcoins\n This example loads Ethereum Blockchain data from the folder \"/user/ethereum/input\" using the EthereumBlock representation (format).\n```\nlibrary(SparkR)\n\nSys.setenv('SPARKR_SUBMIT_ARGS'='\"--packages\" \"com.github.zuinnote:spark-hadoopcrytoledger-ds_2.11:1.3.1\" \"sparkr-shell\"')\nsqlContext <- sparkRSQL.init(sc)\n\ndf <- read.df(sqlContext, \"/user/ethereum/input\", source = \"org.zuinnote.spark.ethereum.block\", enrich = \"false\")\n ```\n## Python\n### Bitcoin and Altcoins\nThis example loads Bitcoin Blockchain data from the folder \"/user/bitcoin/input\" using the BitcoinBlock representation (format).\n```\nfrom pyspark.sql import SQLContext\nsqlContext = SQLContext(sc)\n\ndf = sqlContext.read.format('org.zuinnote.spark.bitcoin.block').options(magic='F9BEB4D9').load('/user/bitcoin/input')\n```\n### Ethereum and Altcoins\nThis example loads Ethereum Blockchain data from the folder \"/user/ethereum/input\" using the EthereumBlock representation (format).\n```\nfrom pyspark.sql import SQLContext\nsqlContext = SQLContext(sc)\n\ndf = sqlContext.read.format('org.zuinnote.spark.ethereum.block').options(enrich='false').load('/user/ethereum/input')\n```\n## SQL\n### Bitcoin and Altcoins\nThe following statement creates a table that contains Bitcoin Blockchain data in the folder /user/bitcoin/input\n```\nCREATE TABLE BitcoinBlockchain\nUSING  org.zuinnote.spark.bitcoin.block\nOPTIONS (path \"/user/bitcoin/input\", magic \"F9BEB4D9\")\n```\n### Ethereum and Altcoins\nThe following statement creates a table that contains Ethereum Blockchain data in the folder /user/ethereum/input\n```\nCREATE TABLE EthereumBlockchain\nUSING  org.zuinnote.spark.ethereum.block\nOPTIONS (path \"/user/ethereum/input\", enrich \"false\")\n```\n# Schemas\n## Format: org.zuinnote.spark.bitcoin.block (readAuxPOW=false,enrich=true)\n```\nroot\n |-- blockSize: long (nullable = false)\n |-- magicNo: binary (nullable = false)\n |-- version: long (nullable = false)\n |-- time: long (nullable = false)\n |-- bits: binary (nullable = false)\n |-- nonce: long (nullable = false)\n |-- transactionCounter: long (nullable = false)\n |-- hashPrevBlock: binary (nullable = false)\n |-- hashMerkleRoot: binary (nullable = false)\n |-- transactions: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- version: long (nullable = false)\n |    |    |-- marker: byte (nullable = false)\n |    |    |-- flag: byte (nullable = false)\n |    |    |-- inCounter: binary (nullable = false)\n |    |    |-- outCounter: binary (nullable = false)\n |    |    |-- listOfInputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- prevTransactionHash: binary (nullable = false)\n |    |    |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |    |    |-- txInScriptLength: binary (nullable = false)\n |    |    |    |    |-- txInScript: binary (nullable = false)\n |    |    |    |    |-- seqNo: long (nullable = false)\n |    |    |-- listOfOutputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- value: decimal(38,0) (nullable = false)\n |    |    |    |    |-- txOutScriptLength: binary (nullable = false)\n |    |    |    |    |-- txOutScript: binary (nullable = false)\n |    |    |-- listOfScriptWitnessItem: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = false)\n |    |    |    |    |-- stackItemCounter: binary (nullable = false)\n |    |    |    |    |-- scriptWitnessList: array (nullable = true)\n |    |    |    |    |    |-- element: struct (containsNull = false)\n |    |    |    |    |    |    |-- witnessScriptLength: binary (nullable = false)\n |    |    |    |    |    |    |-- witnessScript: binary (nullable = false)\n |    |    |-- lockTime: long (nullable = false)\n |    |    |-- currentTransactionHash: binary (nullable = false)\n```\n## Format: org.zuinnote.spark.bitcoin.block (readAuxPOW=false,enrich=false)\n```\nroot\n |-- blockSize: long (nullable = false)\n |-- magicNo: binary (nullable = false)\n |-- version: long (nullable = false)\n |-- time: long (nullable = false)\n |-- bits: binary (nullable = false)\n |-- nonce: long (nullable = false)\n |-- transactionCounter: long (nullable = false)\n |-- hashPrevBlock: binary (nullable = false)\n |-- hashMerkleRoot: binary (nullable = false)\n |-- transactions: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- version: long (nullable = false)\n |    |    |-- marker: byte (nullable = false)\n |    |    |-- flag: byte (nullable = false)\n |    |    |-- inCounter: binary (nullable = false)\n |    |    |-- outCounter: binary (nullable = false)\n |    |    |-- listOfInputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- prevTransactionHash: binary (nullable = false)\n |    |    |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |    |    |-- txInScriptLength: binary (nullable = false)\n |    |    |    |    |-- txInScript: binary (nullable = false)\n |    |    |    |    |-- seqNo: long (nullable = false)\n |    |    |-- listOfOutputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- value: decimal(38,0) (nullable = false)\n |    |    |    |    |-- txOutScriptLength: binary (nullable = false)\n |    |    |    |    |-- txOutScript: binary (nullable = false)\n |    |    |-- listOfScriptWitnessItem: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = false)\n |    |    |    |    |-- stackItemCounter: binary (nullable = false)\n |    |    |    |    |-- scriptWitnessList: array (nullable = true)\n |    |    |    |    |    |-- element: struct (containsNull = false)\n |    |    |    |    |    |    |-- witnessScriptLength: binary (nullable = false)\n |    |    |    |    |    |    |-- witnessScript: binary (nullable = false)\n |    |    |-- lockTime: long (nullable = false)\n \n```\n## Format: org.zuinnote.spark.bitcoin.block (readAuxPOW=true,enrich=true)\n```\nroot\n |-- blockSize: long (nullable = false)\n |-- magicNo: binary (nullable = false)\n |-- version: long (nullable = false)\n |-- time: long (nullable = false)\n |-- bits: binary (nullable = false)\n |-- nonce: integer (nullable = false)\n |-- transactionCounter: long (nullable = false)\n |-- hashPrevBlock: binary (nullable = false)\n |-- hashMerkleRoot: binary (nullable = false)\n |-- transactions: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- version: long (nullable = false)\n |    |    |-- marker: byte (nullable = false)\n |    |    |-- flag: byte (nullable = false)\n |    |    |-- inCounter: binary (nullable = false)\n |    |    |-- outCounter: binary (nullable = false)\n |    |    |-- listOfInputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- prevTransactionHash: binary (nullable = false)\n |    |    |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |    |    |-- txInScriptLength: binary (nullable = false)\n |    |    |    |    |-- txInScript: binary (nullable = false)\n |    |    |    |    |-- seqNo: long (nullable = false)\n |    |    |-- listOfOutputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- value: decimal(38,0) (nullable = false)\n |    |    |    |    |-- txOutScriptLength: binary (nullable = false)\n |    |    |    |    |-- txOutScript: binary (nullable = false)\n |    |    |-- listOfScriptWitnessItem: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = false)\n |    |    |    |    |-- stackItemCounter: binary (nullable = false)\n |    |    |    |    |-- scriptWitnessList: array (nullable = true)\n |    |    |    |    |    |-- element: struct (containsNull = false)\n |    |    |    |    |    |    |-- witnessScriptLength: binary (nullable = false)\n |    |    |    |    |    |    |-- witnessScript: binary (nullable = false)\n |    |    |-- lockTime: long (nullable = false)\n |    |    |-- currentTransactionHash: binary (nullable = false)\n |-- auxPOW: struct (nullable = true)\n |    |-- version: long (nullable = false)\n |    |-- coinbaseTransaction: struct (nullable = false)\n |    |    |-- version: long (nullable = false)\n |    |    |-- inCounter: binary (nullable = false)\n |    |    |-- outCounter: binary (nullable = false)\n |    |    |-- listOfInputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- prevTransactionHash: binary (nullable = false)\n |    |    |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |    |    |-- txInScriptLength: binary (nullable = false)\n |    |    |    |    |-- txInScript: binary (nullable = false)\n |    |    |    |    |-- seqNo: long (nullable = false)\n |    |    |-- listOfOutputs: array (nullable = false)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- value: decimal(38,0) (nullable = false)\n |    |    |    |    |-- txOutScriptLength: binary (nullable = false)\n |    |    |    |    |-- txOutScript: binary (nullable = false)\n |    |    |-- lockTime: long (nullable = false)\n |    |-- parentBlockHeaderHash: binary (nullable = false)\n |    |-- coinbaseBranch: struct (nullable = false)\n |    |    |-- numberOfLinks: binary (nullable = false)\n |    |    |-- links: array (nullable = false)\n |    |    |    |-- element: binary (containsNull = true)\n |    |    |-- branchSideBitmask: binary (nullable = false)\n |    |-- auxBlockChainBranch: struct (nullable = false)\n |    |    |-- numberOfLinks: binary (nullable = false)\n |    |    |-- links: array (nullable = false)\n |    |    |    |-- element: binary (containsNull = true)\n |    |    |-- branchSideBitmask: binary (nullable = false)\n |    |-- parentBlockHeader: struct (nullable = false)\n |    |    |-- version: long (nullable = false)\n |    |    |-- previousBlockHash: binary (nullable = false)\n |    |    |-- merkleRoot: binary (nullable = false)\n |    |    |-- time: long (nullable = false)\n |    |    |-- bits: binary (nullable = false)\n |    |    |-- nonce: long (nullable = false)\n```\n## Format: org.zuinnote.spark.bitcoin.block (readAuxPOW=true,enrich=false)\n```\nroot\n |-- blockSize: long (nullable = false)\n |-- magicNo: binary (nullable = true)\n |-- version: long (nullable = false)\n |-- time: long (nullable = false)\n |-- bits: binary (nullable = true)\n |-- nonce: long (nullable = false)\n |-- transactionCounter: long (nullable = false)\n |-- hashPrevBlock: binary (nullable = true)\n |-- hashMerkleRoot: binary (nullable = true)\n |-- transactions: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- version: long (nullable = false)\n |    |    |-- marker: byte (nullable = false)\n |    |    |-- flag: byte (nullable = false)\n |    |    |-- inCounter: binary (nullable = true)\n |    |    |-- outCounter: binary (nullable = true)\n |    |    |-- listOfInputs: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- prevTransactionHash: binary (nullable = true)\n |    |    |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |    |    |-- txInScriptLength: binary (nullable = true)\n |    |    |    |    |-- txInScript: binary (nullable = true)\n |    |    |    |    |-- seqNo: long (nullable = false)\n |    |    |-- listOfOutputs: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- value: decimal(38,0) (nullable = true)\n |    |    |    |    |-- txOutScriptLength: binary (nullable = true)\n |    |    |    |    |-- txOutScript: binary (nullable = true)\n |    |    |-- listOfScriptWitnessItem: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- stackItemCounter: binary (nullable = true)\n |    |    |    |    |-- scriptWitnessList: array (nullable = true)\n |    |    |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |    |    |-- witnessScriptLength: binary (nullable = true)\n |    |    |    |    |    |    |-- witnessScript: binary (nullable = true)\n |    |    |-- lockTime: long (nullable = false)\n |-- auxPOW: struct (nullable = true)\n |    |-- version: long (nullable = false)\n |    |-- coinbaseTransaction: struct (nullable = true)\n |    |    |-- version: long (nullable = false)\n |    |    |-- inCounter: binary (nullable = true)\n |    |    |-- outCounter: binary (nullable = true)\n |    |    |-- listOfInputs: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- prevTransactionHash: binary (nullable = true)\n |    |    |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |    |    |-- txInScriptLength: binary (nullable = true)\n |    |    |    |    |-- txInScript: binary (nullable = true)\n |    |    |    |    |-- seqNo: long (nullable = false)\n |    |    |-- listOfOutputs: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- value: decimal(38,0) (nullable = true)\n |    |    |    |    |-- txOutScriptLength: binary (nullable = true)\n |    |    |    |    |-- txOutScript: binary (nullable = true)\n |    |    |-- lockTime: long (nullable = false)\n |    |-- parentBlockHeaderHash: binary (nullable = true)\n |    |-- coinbaseBranch: struct (nullable = true)\n |    |    |-- numberOfLinks: binary (nullable = true)\n |    |    |-- links: array (nullable = true)\n |    |    |    |-- element: binary (containsNull = true)\n |    |    |-- branchSideBitmask: binary (nullable = true)\n |    |-- auxBlockChainBranch: struct (nullable = true)\n |    |    |-- numberOfLinks: binary (nullable = true)\n |    |    |-- links: array (nullable = true)\n |    |    |    |-- element: binary (containsNull = true)\n |    |    |-- branchSideBitmask: binary (nullable = true)\n |    |-- parentBlockHeader: struct (nullable = true)\n |    |    |-- version: long (nullable = false)\n |    |    |-- previousBlockHash: binary (nullable = true)\n |    |    |-- merkleRoot: binary (nullable = true)\n |    |    |-- time: long (nullable = false)\n |    |    |-- bits: binary (nullable = true)\n |    |    |-- nonce: long (nullable = false)\n```\n## Format: org.zuinnote.spark.bitcoin.transaction\n```\nroot\n |-- currentTransactionHash: binary (nullable = true)\n |-- version: long (nullable = false)\n |-- marker: byte (nullable = false)\n |-- flag: byte (nullable = false)\n |-- inCounter: binary (nullable = true)\n |-- outCounter: binary (nullable = true)\n |-- listOfInputs: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- prevTransactionHash: binary (nullable = true)\n |    |    |-- previousTxOutIndex: long (nullable = false)\n |    |    |-- txInScriptLength: binary (nullable = true)\n |    |    |-- txInScript: binary (nullable = true)\n |    |    |-- seqNo: long (nullable = false)\n |-- listOfOutputs: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- value: decimal(38,0) (nullable = true)\n |    |    |-- txOutScriptLength: binary (nullable = true)\n |    |    |-- txOutScript: binary (nullable = true)\n |-- listOfScriptWitnessItem: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- stackItemCounter: binary (nullable = true)\n |    |    |-- scriptWitnessList: array (nullable = true)\n |    |    |    |-- element: struct (containsNull = true)\n |    |    |    |    |-- witnessScriptLength: binary (nullable = true)\n |    |    |    |    |-- witnessScript: binary (nullable = true)\n |-- lockTime: long (nullable = false)\n                                                                                                                                                       \n```\n## Format: org.zuinnote.spark.ethereum.block (enrich=true)\n```\nroot\n |-- ethereumBlockHeader: struct (nullable = true)\n |    |-- parentHash: binary (nullable = true)\n |    |-- uncleHash: binary (nullable = true)\n |    |-- coinBase: binary (nullable = true)\n |    |-- stateRoot: binary (nullable = true)\n |    |-- txTrieRoot: binary (nullable = true)\n |    |-- receiptTrieRoot: binary (nullable = true)\n |    |-- logsBloom: binary (nullable = true)\n |    |-- difficulty: binary (nullable = true)\n |    |-- timestamp: long (nullable = false)\n |    |-- number: decimal(38,0) (nullable = true)\n |    |-- numberRaw: binary (nullable = true)\n |    |-- gasLimit: decimal(38,0) (nullable = true)\n |    |-- gasLimitRaw: binary (nullable = true)\n |    |-- gasUsed: decimal(38,0) (nullable = true)\n |    |-- gasUsedRaw: binary (nullable = true)\n |    |-- mixHash: binary (nullable = true)\n |    |-- extraData: binary (nullable = true)\n |    |-- nonce: binary (nullable = true)\n |-- ethereumTransactions: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- nonce: binary (nullable = true)\n |    |    |-- value: decimal(38,0) (nullable = true)\n |    |    |-- valueRaw: binary (nullable = true)\n |    |    |-- receiveAddress: binary (nullable = true)\n |    |    |-- gasPrice: decimal(38,0) (nullable = true)\n |    |    |-- gasPriceRaw: binary (nullable = true)\n |    |    |-- gasLimit: decimal(38,0) (nullable = true)\n |    |    |-- gasLimitRaw: binary (nullable = true)\n |    |    |-- data: binary (nullable = true)\n |    |    |-- sig_v: binary (nullable = true)\n |    |    |-- sig_r: binary (nullable = true)\n |    |    |-- sig_s: binary (nullable = true)\n |    |    |-- sendAddress: binary (nullable = true)\n |    |    |-- hash: binary (nullable = true)\n |-- uncleHeaders: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- parentHash: binary (nullable = true)\n |    |    |-- uncleHash: binary (nullable = true)\n |    |    |-- coinBase: binary (nullable = true)\n |    |    |-- stateRoot: binary (nullable = true)\n |    |    |-- txTrieRoot: binary (nullable = true)\n |    |    |-- receiptTrieRoot: binary (nullable = true)\n |    |    |-- logsBloom: binary (nullable = true)\n |    |    |-- difficulty: binary (nullable = true)\n |    |    |-- timestamp: long (nullable = false)\n |    |    |-- number: decimal(38,0) (nullable = true)\n |    |    |-- numberRaw: binary (nullable = true)\n |    |    |-- gasLimit: decimal(38,0) (nullable = true)\n |    |    |-- gasLimitRaw: binary (nullable = true)\n |    |    |-- gasUsed: decimal(38,0) (nullable = true)\n |    |    |-- gasUsedRaw: binary (nullable = true)\n |    |    |-- mixHash: binary (nullable = true)\n |    |    |-- extraData: binary (nullable = true)\n |    |    |-- nonce: binary (nullable = true)                                                                                                          \n```\n\n## Format: org.zuinnote.spark.ethereum.block (enrich=false)\n```\nroot\n |-- ethereumBlockHeader: struct (nullable = true)\n |    |-- parentHash: binary (nullable = true)\n |    |-- uncleHash: binary (nullable = true)\n |    |-- coinBase: binary (nullable = true)\n |    |-- stateRoot: binary (nullable = true)\n |    |-- txTrieRoot: binary (nullable = true)\n |    |-- receiptTrieRoot: binary (nullable = true)\n |    |-- logsBloom: binary (nullable = true)\n |    |-- difficulty: binary (nullable = true)\n |    |-- timestamp: long (nullable = false)\n |    |-- number: decimal(38,0) (nullable = true)\n |    |-- numberRaw: binary (nullable = true)\n |    |-- gasLimit: decimal(38,0) (nullable = true)\n |    |-- gasLimitRaw: binary (nullable = true)\n |    |-- gasUsed: decimal(38,0) (nullable = true)\n |    |-- gasUsedRaw: binary (nullable = true)\n |    |-- mixHash: binary (nullable = true)\n |    |-- extraData: binary (nullable = true)\n |    |-- nonce: binary (nullable = true)\n |-- ethereumTransactions: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- nonce: binary (nullable = true)\n |    |    |-- value: decimal(38,0) (nullable = true)\n |    |    |-- valueRaw: binary (nullable = true)\n |    |    |-- receiveAddress: binary (nullable = true)\n |    |    |-- gasPrice: decimal(38,0) (nullable = true)\n |    |    |-- gasPriceRaw: binary (nullable = true)\n |    |    |-- gasLimit: decimal(38,0) (nullable = true)\n |    |    |-- gasLimitRaw: binary (nullable = true)\n |    |    |-- data: binary (nullable = true)\n |    |    |-- sig_v: binary (nullable = true)\n |    |    |-- sig_r: binary (nullable = true)\n |    |    |-- sig_s: binary (nullable = true)\n |-- uncleHeaders: array (nullable = true)\n |    |-- element: struct (containsNull = true)\n |    |    |-- parentHash: binary (nullable = true)\n |    |    |-- uncleHash: binary (nullable = true)\n |    |    |-- coinBase: binary (nullable = true)\n |    |    |-- stateRoot: binary (nullable = true)\n |    |    |-- txTrieRoot: binary (nullable = true)\n |    |    |-- receiptTrieRoot: binary (nullable = true)\n |    |    |-- logsBloom: binary (nullable = true)\n |    |    |-- difficulty: binary (nullable = true)\n |    |    |-- timestamp: long (nullable = false)\n |    |    |-- number: decimal(38,0) (nullable = true)\n |    |    |-- numberRaw: binary (nullable = true)\n |    |    |-- gasLimit: decimal(38,0) (nullable = true)\n |    |    |-- gasLimitRaw: binary (nullable = true)\n |    |    |-- gasUsed: decimal(38,0) (nullable = true)\n |    |    |-- gasUsedRaw: binary (nullable = true)\n |    |    |-- mixHash: binary (nullable = true)\n |    |    |-- extraData: binary (nullable = true)\n |    |    |-- nonce: binary (nullable = true)                                                                                                                          \n```\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "8aef6c06822329ba9d2fc553c3a78b8d2c090541",
+      "size": 388,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/8aef6c06822329ba9d2fc553c3a78b8d2c090541",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/8aef6c06822329ba9d2fc553c3a78b8d2c090541",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".travis.yml",
+      "path": ".travis.yml",
+      "sha": "5ed993f6595e8eea1d03a164b4069723ab9e3042",
+      "size": 1059,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/.travis.yml?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/.travis.yml",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/5ed993f6595e8eea1d03a164b4069723ab9e3042",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/.travis.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/.travis.yml?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/5ed993f6595e8eea1d03a164b4069723ab9e3042",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/.travis.yml"
+      }
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "path": "CONTRIBUTING.md",
+      "sha": "2f93047c82d0778da9305f0678bfb6ac4621276a",
+      "size": 5074,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/CONTRIBUTING.md?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/CONTRIBUTING.md",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/2f93047c82d0778da9305f0678bfb6ac4621276a",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/CONTRIBUTING.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/CONTRIBUTING.md?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/2f93047c82d0778da9305f0678bfb6ac4621276a",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/CONTRIBUTING.md"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "f96637df367d7f78e4abaaf2e2ffc235a3e1cb82",
+      "size": 11374,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/f96637df367d7f78e4abaaf2e2ffc235a3e1cb82",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/f96637df367d7f78e4abaaf2e2ffc235a3e1cb82",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "NOTICE",
+      "path": "NOTICE",
+      "sha": "52cf438a211e8b6948d9a5a496d9eb30c9d2aa15",
+      "size": 78,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/NOTICE?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/NOTICE",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/52cf438a211e8b6948d9a5a496d9eb30c9d2aa15",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/NOTICE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/NOTICE?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/52cf438a211e8b6948d9a5a496d9eb30c9d2aa15",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/NOTICE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "d7d5eb52995318de8fa9fb76e8e7cf318afe1ef6",
+      "size": 28972,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/README.md?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/d7d5eb52995318de8fa9fb76e8e7cf318afe1ef6",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/d7d5eb52995318de8fa9fb76e8e7cf318afe1ef6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/README.md"
+      }
+    },
+    {
+      "name": "SECURITY.md",
+      "path": "SECURITY.md",
+      "sha": "1d1359779a2086b20d54bdd1c3494d681fdffdf7",
+      "size": 323,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/SECURITY.md?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/SECURITY.md",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1d1359779a2086b20d54bdd1c3494d681fdffdf7",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/SECURITY.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/SECURITY.md?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1d1359779a2086b20d54bdd1c3494d681fdffdf7",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/SECURITY.md"
+      }
+    },
+    {
+      "name": "build.sbt",
+      "path": "build.sbt",
+      "sha": "6d627cf09ec4ba496bcc9dc8cb5c7ec372ee9199",
+      "size": 3115,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/build.sbt?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/build.sbt",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/6d627cf09ec4ba496bcc9dc8cb5c7ec372ee9199",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/build.sbt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/build.sbt?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/6d627cf09ec4ba496bcc9dc8cb5c7ec372ee9199",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/build.sbt"
+      }
+    },
+    {
+      "name": "project",
+      "path": "project",
+      "sha": "0a503bd987e75115c5a047d6c3fa2f0879471acf",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/project?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/project",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/0a503bd987e75115c5a047d6c3fa2f0879471acf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/project?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/0a503bd987e75115c5a047d6c3fa2f0879471acf",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/project"
+      }
+    },
+    {
+      "name": "build.properties",
+      "path": "project/build.properties",
+      "sha": "e64c208ff5072a841520c31ee232b896b239006f",
+      "size": 18,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/project/build.properties?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/project/build.properties",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/e64c208ff5072a841520c31ee232b896b239006f",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/project/build.properties",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/project/build.properties?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/e64c208ff5072a841520c31ee232b896b239006f",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/project/build.properties"
+      }
+    },
+    {
+      "name": "plugins.sbt",
+      "path": "project/plugins.sbt",
+      "sha": "0be019deff2c27b09d132869ad1ddc8ae3c49aa2",
+      "size": 233,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/project/plugins.sbt?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/project/plugins.sbt",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/0be019deff2c27b09d132869ad1ddc8ae3c49aa2",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/project/plugins.sbt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/project/plugins.sbt?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/0be019deff2c27b09d132869ad1ddc8ae3c49aa2",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/project/plugins.sbt"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "426819b7ed0c6c4f42c000460a00fe89e071e131",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/426819b7ed0c6c4f42c000460a00fe89e071e131",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/426819b7ed0c6c4f42c000460a00fe89e071e131",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src"
+      }
+    },
+    {
+      "name": "it",
+      "path": "src/it",
+      "sha": "2dd54353040421c17c48ac1ac496ccbde60513b9",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/2dd54353040421c17c48ac1ac496ccbde60513b9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/2dd54353040421c17c48ac1ac496ccbde60513b9",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it"
+      }
+    },
+    {
+      "name": "resources",
+      "path": "src/it/resources",
+      "sha": "3db5cb0e88ba45684f286b3f1d62aa9b5477bdc5",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/resources",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/3db5cb0e88ba45684f286b3f1d62aa9b5477bdc5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/3db5cb0e88ba45684f286b3f1d62aa9b5477bdc5",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/resources"
+      }
+    },
+    {
+      "name": "testdata",
+      "path": "src/it/resources/testdata",
+      "sha": "e408e010e99e58087ef855b56172f73f74374678",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/resources/testdata",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e408e010e99e58087ef855b56172f73f74374678",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e408e010e99e58087ef855b56172f73f74374678",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/resources/testdata"
+      }
+    },
+    {
+      "name": "eth1346406.bin",
+      "path": "src/it/resources/testdata/eth1346406.bin",
+      "sha": "08ee0c2e5211f6f8e830e09547268af36ae77e1c",
+      "size": 1223,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/eth1346406.bin?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/eth1346406.bin",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/08ee0c2e5211f6f8e830e09547268af36ae77e1c",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/resources/testdata/eth1346406.bin",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/eth1346406.bin?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/08ee0c2e5211f6f8e830e09547268af36ae77e1c",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/eth1346406.bin"
+      }
+    },
+    {
+      "name": "genesis.blk",
+      "path": "src/it/resources/testdata/genesis.blk",
+      "sha": "aa618a93208bdf885ed0274bae0479d1eb80cfbc",
+      "size": 293,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/genesis.blk?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/genesis.blk",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/aa618a93208bdf885ed0274bae0479d1eb80cfbc",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/resources/testdata/genesis.blk",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/genesis.blk?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/aa618a93208bdf885ed0274bae0479d1eb80cfbc",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/genesis.blk"
+      }
+    },
+    {
+      "name": "namecointhreedifferentopinoneblock.blk",
+      "path": "src/it/resources/testdata/namecointhreedifferentopinoneblock.blk",
+      "sha": "44506283d44617385f03eada3f997624f70cf0bf",
+      "size": 3133,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/namecointhreedifferentopinoneblock.blk?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/namecointhreedifferentopinoneblock.blk",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/44506283d44617385f03eada3f997624f70cf0bf",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/resources/testdata/namecointhreedifferentopinoneblock.blk",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/namecointhreedifferentopinoneblock.blk?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/44506283d44617385f03eada3f997624f70cf0bf",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/namecointhreedifferentopinoneblock.blk"
+      }
+    },
+    {
+      "name": "scriptwitness.blk",
+      "path": "src/it/resources/testdata/scriptwitness.blk",
+      "sha": "a7e70bd1caff1ca78009dca3c225959c7deb4213",
+      "size": 999283,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/scriptwitness.blk?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/scriptwitness.blk",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/a7e70bd1caff1ca78009dca3c225959c7deb4213",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/resources/testdata/scriptwitness.blk",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/scriptwitness.blk?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/a7e70bd1caff1ca78009dca3c225959c7deb4213",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/scriptwitness.blk"
+      }
+    },
+    {
+      "name": "scriptwitness2.blk",
+      "path": "src/it/resources/testdata/scriptwitness2.blk",
+      "sha": "871c42e8ca3966a80876428406e7d086a8221a61",
+      "size": 1999351,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/scriptwitness2.blk?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/scriptwitness2.blk",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/871c42e8ca3966a80876428406e7d086a8221a61",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/resources/testdata/scriptwitness2.blk",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/resources/testdata/scriptwitness2.blk?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/871c42e8ca3966a80876428406e7d086a8221a61",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/resources/testdata/scriptwitness2.blk"
+      }
+    },
+    {
+      "name": "scala",
+      "path": "src/it/scala",
+      "sha": "fe3991c4f8d0e061261fe5a38a2779b2100ebe95",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/fe3991c4f8d0e061261fe5a38a2779b2100ebe95",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/fe3991c4f8d0e061261fe5a38a2779b2100ebe95",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala"
+      }
+    },
+    {
+      "name": "org",
+      "path": "src/it/scala/org",
+      "sha": "46305e2e2fdcdf53bc01e67b14eebcfc96b53a72",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/46305e2e2fdcdf53bc01e67b14eebcfc96b53a72",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/46305e2e2fdcdf53bc01e67b14eebcfc96b53a72",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org"
+      }
+    },
+    {
+      "name": "zuinnote",
+      "path": "src/it/scala/org/zuinnote",
+      "sha": "388531ecd49f3e2552309065327e0e5c99ef8ece",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/388531ecd49f3e2552309065327e0e5c99ef8ece",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/388531ecd49f3e2552309065327e0e5c99ef8ece",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote"
+      }
+    },
+    {
+      "name": "spark",
+      "path": "src/it/scala/org/zuinnote/spark",
+      "sha": "61ccbf0e3d36b5f427492e2dc93b6e98a5af89e2",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/61ccbf0e3d36b5f427492e2dc93b6e98a5af89e2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/61ccbf0e3d36b5f427492e2dc93b6e98a5af89e2",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark"
+      }
+    },
+    {
+      "name": "bitcoin",
+      "path": "src/it/scala/org/zuinnote/spark/bitcoin",
+      "sha": "6ded887013081bf9e0d5557ecea563c7a4c1a5a6",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/bitcoin",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/6ded887013081bf9e0d5557ecea563c7a4c1a5a6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/6ded887013081bf9e0d5557ecea563c7a4c1a5a6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/bitcoin"
+      }
+    },
+    {
+      "name": "block",
+      "path": "src/it/scala/org/zuinnote/spark/bitcoin/block",
+      "sha": "b6dacacf2f5a75e972820e4d7000d9dfc3e90c02",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/block?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/bitcoin/block",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/b6dacacf2f5a75e972820e4d7000d9dfc3e90c02",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/block?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/b6dacacf2f5a75e972820e4d7000d9dfc3e90c02",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/bitcoin/block"
+      }
+    },
+    {
+      "name": "SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala",
+      "path": "src/it/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala",
+      "sha": "f0fbe91f162cc4bd93663f8763f15fe1a2325300",
+      "size": 52301,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/f0fbe91f162cc4bd93663f8763f15fe1a2325300",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/f0fbe91f162cc4bd93663f8763f15fe1a2325300",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSparkMasterIntegrationSpec.scala"
+      }
+    },
+    {
+      "name": "transaction",
+      "path": "src/it/scala/org/zuinnote/spark/bitcoin/transaction",
+      "sha": "3649fb642136a0229c2f411090f606c63f59567b",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/transaction?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/bitcoin/transaction",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/3649fb642136a0229c2f411090f606c63f59567b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/transaction?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/3649fb642136a0229c2f411090f606c63f59567b",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/bitcoin/transaction"
+      }
+    },
+    {
+      "name": "SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala",
+      "path": "src/it/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala",
+      "sha": "1b82e11a37fe9b840e1f5bb6732fa7266a85c366",
+      "size": 13174,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1b82e11a37fe9b840e1f5bb6732fa7266a85c366",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1b82e11a37fe9b840e1f5bb6732fa7266a85c366",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSparkMasterIntegrationSpec.scala"
+      }
+    },
+    {
+      "name": "ethereum",
+      "path": "src/it/scala/org/zuinnote/spark/ethereum",
+      "sha": "a10c5a639eaee9f8e9c2530aa1e7e49d8469838c",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/ethereum?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/ethereum",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/a10c5a639eaee9f8e9c2530aa1e7e49d8469838c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/ethereum?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/a10c5a639eaee9f8e9c2530aa1e7e49d8469838c",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/ethereum"
+      }
+    },
+    {
+      "name": "block",
+      "path": "src/it/scala/org/zuinnote/spark/ethereum/block",
+      "sha": "2b479ed6791d66233db60b943cc5c37b87357b03",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/ethereum/block?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/ethereum/block",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/2b479ed6791d66233db60b943cc5c37b87357b03",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/ethereum/block?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/2b479ed6791d66233db60b943cc5c37b87357b03",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/it/scala/org/zuinnote/spark/ethereum/block"
+      }
+    },
+    {
+      "name": "SparkEthereumBlockDSSparkMasterIntegrationSpec.scala",
+      "path": "src/it/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSparkMasterIntegrationSpec.scala",
+      "sha": "5b0f536328546df3731a5368a259e698002fc6ca",
+      "size": 88529,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSparkMasterIntegrationSpec.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSparkMasterIntegrationSpec.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/5b0f536328546df3731a5368a259e698002fc6ca",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/it/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSparkMasterIntegrationSpec.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/it/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSparkMasterIntegrationSpec.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/5b0f536328546df3731a5368a259e698002fc6ca",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/it/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSparkMasterIntegrationSpec.scala"
+      }
+    },
+    {
+      "name": "main",
+      "path": "src/main",
+      "sha": "01be39f0f842af37bc4189359c022f152ffdeacb",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/01be39f0f842af37bc4189359c022f152ffdeacb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/01be39f0f842af37bc4189359c022f152ffdeacb",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main"
+      }
+    },
+    {
+      "name": "scala",
+      "path": "src/main/scala",
+      "sha": "1072a4bf10055d96107b4616d6202355956e43d0",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/1072a4bf10055d96107b4616d6202355956e43d0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/1072a4bf10055d96107b4616d6202355956e43d0",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala"
+      }
+    },
+    {
+      "name": "org",
+      "path": "src/main/scala/org",
+      "sha": "26064b2ab88a4e95ea3c9e3fd5056a4f5d6ed648",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/26064b2ab88a4e95ea3c9e3fd5056a4f5d6ed648",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/26064b2ab88a4e95ea3c9e3fd5056a4f5d6ed648",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org"
+      }
+    },
+    {
+      "name": "zuinnote",
+      "path": "src/main/scala/org/zuinnote",
+      "sha": "b925766f5445f1c8eb9332ad41967f070c32d322",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/b925766f5445f1c8eb9332ad41967f070c32d322",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/b925766f5445f1c8eb9332ad41967f070c32d322",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote"
+      }
+    },
+    {
+      "name": "spark",
+      "path": "src/main/scala/org/zuinnote/spark",
+      "sha": "b124a8caebf10664d6381753c5cd4236b0e3d9fd",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/b124a8caebf10664d6381753c5cd4236b0e3d9fd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/b124a8caebf10664d6381753c5cd4236b0e3d9fd",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark"
+      }
+    },
+    {
+      "name": "bitcoin",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin",
+      "sha": "841993e22e3af73580e19274373f4c409ca51d18",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/841993e22e3af73580e19274373f4c409ca51d18",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/841993e22e3af73580e19274373f4c409ca51d18",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin"
+      }
+    },
+    {
+      "name": "block",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/block",
+      "sha": "5be3e0ab8d691aba18cb19b6567cd2b930d3023f",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin/block",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/5be3e0ab8d691aba18cb19b6567cd2b930d3023f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/5be3e0ab8d691aba18cb19b6567cd2b930d3023f",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin/block"
+      }
+    },
+    {
+      "name": "BitcoinBlockRelation.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/block/BitcoinBlockRelation.scala",
+      "sha": "228560e5f210af89ae7d751fee66c373a740e6b3",
+      "size": 4524,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/BitcoinBlockRelation.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/BitcoinBlockRelation.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/228560e5f210af89ae7d751fee66c373a740e6b3",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/block/BitcoinBlockRelation.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/BitcoinBlockRelation.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/228560e5f210af89ae7d751fee66c373a740e6b3",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/BitcoinBlockRelation.scala"
+      }
+    },
+    {
+      "name": "DefaultSource.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource.scala",
+      "sha": "044e3b7fc5e9ccfe99006c5d29dd87a9a980de92",
+      "size": 2337,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/044e3b7fc5e9ccfe99006c5d29dd87a9a980de92",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/044e3b7fc5e9ccfe99006c5d29dd87a9a980de92",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource.scala"
+      }
+    },
+    {
+      "name": "DefaultSource15.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource15.scala",
+      "sha": "767052b9de97651388dc1c0ba222ce1ea5a870c1",
+      "size": 1354,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource15.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource15.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/767052b9de97651388dc1c0ba222ce1ea5a870c1",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource15.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource15.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/767052b9de97651388dc1c0ba222ce1ea5a870c1",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/DefaultSource15.scala"
+      }
+    },
+    {
+      "name": "package.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/block/package.scala",
+      "sha": "099617cd304150db22dcb8095cc6abf5bb7958d6",
+      "size": 1742,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/package.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/package.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/099617cd304150db22dcb8095cc6abf5bb7958d6",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/block/package.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/block/package.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/099617cd304150db22dcb8095cc6abf5bb7958d6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/block/package.scala"
+      }
+    },
+    {
+      "name": "model",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/model",
+      "sha": "e8ad3fbd16d67a7a30074be2f7381216e0c94ea0",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/model?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin/model",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e8ad3fbd16d67a7a30074be2f7381216e0c94ea0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/model?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e8ad3fbd16d67a7a30074be2f7381216e0c94ea0",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin/model"
+      }
+    },
+    {
+      "name": "BitcoinBlock.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/model/BitcoinBlock.scala",
+      "sha": "35266149d989ae26f4f0b63febce529c06b0345d",
+      "size": 5968,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/model/BitcoinBlock.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/model/BitcoinBlock.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/35266149d989ae26f4f0b63febce529c06b0345d",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/model/BitcoinBlock.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/model/BitcoinBlock.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/35266149d989ae26f4f0b63febce529c06b0345d",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/model/BitcoinBlock.scala"
+      }
+    },
+    {
+      "name": "package.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/model/package.scala",
+      "sha": "2094f2c3a1544d9dc99adf5df0c5684e856a152d",
+      "size": 4766,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/model/package.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/model/package.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/2094f2c3a1544d9dc99adf5df0c5684e856a152d",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/model/package.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/model/package.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/2094f2c3a1544d9dc99adf5df0c5684e856a152d",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/model/package.scala"
+      }
+    },
+    {
+      "name": "transaction",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/transaction",
+      "sha": "2a6c61ae62e1d4bcf33f58910f100a0cb7ef59f5",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/2a6c61ae62e1d4bcf33f58910f100a0cb7ef59f5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/2a6c61ae62e1d4bcf33f58910f100a0cb7ef59f5",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction"
+      }
+    },
+    {
+      "name": "BitcoinTransactionRelation.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/transaction/BitcoinTransactionRelation.scala",
+      "sha": "1f61e3051e8b86f5046c06b22a59676832ed24f6",
+      "size": 3343,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/BitcoinTransactionRelation.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/BitcoinTransactionRelation.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1f61e3051e8b86f5046c06b22a59676832ed24f6",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/BitcoinTransactionRelation.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/BitcoinTransactionRelation.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1f61e3051e8b86f5046c06b22a59676832ed24f6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/BitcoinTransactionRelation.scala"
+      }
+    },
+    {
+      "name": "DefaultSource.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource.scala",
+      "sha": "96c663bf616bc8f6476c893e942c04291b574cf8",
+      "size": 2301,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/96c663bf616bc8f6476c893e942c04291b574cf8",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/96c663bf616bc8f6476c893e942c04291b574cf8",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource.scala"
+      }
+    },
+    {
+      "name": "DefaultSource15.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource15.scala",
+      "sha": "5e6b36b91a3a71b01dcb06cb36fdfc081fd4a804",
+      "size": 1375,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource15.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource15.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/5e6b36b91a3a71b01dcb06cb36fdfc081fd4a804",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource15.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource15.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/5e6b36b91a3a71b01dcb06cb36fdfc081fd4a804",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/DefaultSource15.scala"
+      }
+    },
+    {
+      "name": "package.scala",
+      "path": "src/main/scala/org/zuinnote/spark/bitcoin/transaction/package.scala",
+      "sha": "2ceb42adcae96ae853b794f9319b1a4f8fb51884",
+      "size": 1743,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/package.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/package.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/2ceb42adcae96ae853b794f9319b1a4f8fb51884",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/package.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/bitcoin/transaction/package.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/2ceb42adcae96ae853b794f9319b1a4f8fb51884",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/bitcoin/transaction/package.scala"
+      }
+    },
+    {
+      "name": "ethereum",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum",
+      "sha": "eb7802a0f97b8637a0b645c5b9d1ce6f3862e1bd",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/ethereum",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/eb7802a0f97b8637a0b645c5b9d1ce6f3862e1bd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/eb7802a0f97b8637a0b645c5b9d1ce6f3862e1bd",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/ethereum"
+      }
+    },
+    {
+      "name": "block",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/block",
+      "sha": "22f9ad47b1e49b3c86fba2c817985f4a0b070178",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/ethereum/block",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/22f9ad47b1e49b3c86fba2c817985f4a0b070178",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/22f9ad47b1e49b3c86fba2c817985f4a0b070178",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/ethereum/block"
+      }
+    },
+    {
+      "name": "DefaultSource.scala",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource.scala",
+      "sha": "b735a2b5fbd9f74d98063f9da081be623b75ecf7",
+      "size": 2016,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/b735a2b5fbd9f74d98063f9da081be623b75ecf7",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/b735a2b5fbd9f74d98063f9da081be623b75ecf7",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource.scala"
+      }
+    },
+    {
+      "name": "DefaultSource15.scala",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource15.scala",
+      "sha": "52268f6428086089f367912560f9799bcd9f8c45",
+      "size": 1359,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource15.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource15.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/52268f6428086089f367912560f9799bcd9f8c45",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource15.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource15.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/52268f6428086089f367912560f9799bcd9f8c45",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/DefaultSource15.scala"
+      }
+    },
+    {
+      "name": "EthereumBlockRelation.scala",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/block/EthereumBlockRelation.scala",
+      "sha": "46b633a420e09f9d96d85c371e82de88bc810708",
+      "size": 3039,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/EthereumBlockRelation.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/EthereumBlockRelation.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/46b633a420e09f9d96d85c371e82de88bc810708",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/ethereum/block/EthereumBlockRelation.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/EthereumBlockRelation.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/46b633a420e09f9d96d85c371e82de88bc810708",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/EthereumBlockRelation.scala"
+      }
+    },
+    {
+      "name": "package.scala",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/block/package.scala",
+      "sha": "6fbcac6e90f0ba8d496140dbfd5f77df1609e35a",
+      "size": 1527,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/package.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/package.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/6fbcac6e90f0ba8d496140dbfd5f77df1609e35a",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/ethereum/block/package.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/block/package.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/6fbcac6e90f0ba8d496140dbfd5f77df1609e35a",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/block/package.scala"
+      }
+    },
+    {
+      "name": "model",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/model",
+      "sha": "5bec89f53b59ae186618a9b43d259936d505fb72",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/model?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/ethereum/model",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/5bec89f53b59ae186618a9b43d259936d505fb72",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/model?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/5bec89f53b59ae186618a9b43d259936d505fb72",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/main/scala/org/zuinnote/spark/ethereum/model"
+      }
+    },
+    {
+      "name": "EthereumBlock.scala",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/model/EthereumBlock.scala",
+      "sha": "78952def7581e9538f9e84c6492bdb1bed4c4115",
+      "size": 2748,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/model/EthereumBlock.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/model/EthereumBlock.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/78952def7581e9538f9e84c6492bdb1bed4c4115",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/ethereum/model/EthereumBlock.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/model/EthereumBlock.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/78952def7581e9538f9e84c6492bdb1bed4c4115",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/model/EthereumBlock.scala"
+      }
+    },
+    {
+      "name": "package.scala",
+      "path": "src/main/scala/org/zuinnote/spark/ethereum/model/package.scala",
+      "sha": "d3b2593a48a79dbafdee56326be0521a2fcb34a6",
+      "size": 3114,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/model/package.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/model/package.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/d3b2593a48a79dbafdee56326be0521a2fcb34a6",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/main/scala/org/zuinnote/spark/ethereum/model/package.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/main/scala/org/zuinnote/spark/ethereum/model/package.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/d3b2593a48a79dbafdee56326be0521a2fcb34a6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/main/scala/org/zuinnote/spark/ethereum/model/package.scala"
+      }
+    },
+    {
+      "name": "test",
+      "path": "src/test",
+      "sha": "e059f994405e8e1988238838c38d87fae13652d6",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e059f994405e8e1988238838c38d87fae13652d6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e059f994405e8e1988238838c38d87fae13652d6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test"
+      }
+    },
+    {
+      "name": "scala",
+      "path": "src/test/scala",
+      "sha": "7046f3c5fa1e626e10a2399711776a8ab8a3d91a",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/7046f3c5fa1e626e10a2399711776a8ab8a3d91a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/7046f3c5fa1e626e10a2399711776a8ab8a3d91a",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala"
+      }
+    },
+    {
+      "name": "org",
+      "path": "src/test/scala/org",
+      "sha": "57cddcd66ad60e0c19b8097d89229cdb73ec2b6c",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/57cddcd66ad60e0c19b8097d89229cdb73ec2b6c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/57cddcd66ad60e0c19b8097d89229cdb73ec2b6c",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org"
+      }
+    },
+    {
+      "name": "zuinnote",
+      "path": "src/test/scala/org/zuinnote",
+      "sha": "fddf846646a3c47389a1cf209b7fb41388f683e2",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/fddf846646a3c47389a1cf209b7fb41388f683e2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/fddf846646a3c47389a1cf209b7fb41388f683e2",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote"
+      }
+    },
+    {
+      "name": "spark",
+      "path": "src/test/scala/org/zuinnote/spark",
+      "sha": "1fd10bce05c4964ec851caa549add20a621dcea4",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/1fd10bce05c4964ec851caa549add20a621dcea4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/1fd10bce05c4964ec851caa549add20a621dcea4",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark"
+      }
+    },
+    {
+      "name": "bitcoin",
+      "path": "src/test/scala/org/zuinnote/spark/bitcoin",
+      "sha": "cc440844c35bcfab40d3eddd222a28478a2a3d66",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/bitcoin",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/cc440844c35bcfab40d3eddd222a28478a2a3d66",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/cc440844c35bcfab40d3eddd222a28478a2a3d66",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/bitcoin"
+      }
+    },
+    {
+      "name": "block",
+      "path": "src/test/scala/org/zuinnote/spark/bitcoin/block",
+      "sha": "e051ea19b3b6504111fec26d6fb8235debf5952b",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/block?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/bitcoin/block",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e051ea19b3b6504111fec26d6fb8235debf5952b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/block?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/e051ea19b3b6504111fec26d6fb8235debf5952b",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/bitcoin/block"
+      }
+    },
+    {
+      "name": "SparkBitcoinBlockDSSpec.scala",
+      "path": "src/test/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSpec.scala",
+      "sha": "1e4ad6ddb87c7cd26bb0e47ef85f5a7cf34d9306",
+      "size": 1285,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSpec.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/test/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSpec.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1e4ad6ddb87c7cd26bb0e47ef85f5a7cf34d9306",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/test/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSpec.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSpec.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/1e4ad6ddb87c7cd26bb0e47ef85f5a7cf34d9306",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/test/scala/org/zuinnote/spark/bitcoin/block/SparkBitcoinBlockDSSpec.scala"
+      }
+    },
+    {
+      "name": "transaction",
+      "path": "src/test/scala/org/zuinnote/spark/bitcoin/transaction",
+      "sha": "f0c15125742e2fa4474cc018cedbf8c2f0fa7f97",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/transaction?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/bitcoin/transaction",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/f0c15125742e2fa4474cc018cedbf8c2f0fa7f97",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/transaction?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/f0c15125742e2fa4474cc018cedbf8c2f0fa7f97",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/bitcoin/transaction"
+      }
+    },
+    {
+      "name": "SparkBitcoinTransactionDSSpec.scala",
+      "path": "src/test/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSpec.scala",
+      "sha": "d67033071fb385427c23d998c2a4992943af4c85",
+      "size": 1296,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSpec.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/test/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSpec.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/d67033071fb385427c23d998c2a4992943af4c85",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/test/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSpec.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSpec.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/d67033071fb385427c23d998c2a4992943af4c85",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/test/scala/org/zuinnote/spark/bitcoin/transaction/SparkBitcoinTransactionDSSpec.scala"
+      }
+    },
+    {
+      "name": "ethereum",
+      "path": "src/test/scala/org/zuinnote/spark/ethereum",
+      "sha": "a5d690204beb2a8caef73a74874fd09c079f988a",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/ethereum?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/ethereum",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/a5d690204beb2a8caef73a74874fd09c079f988a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/ethereum?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/a5d690204beb2a8caef73a74874fd09c079f988a",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/ethereum"
+      }
+    },
+    {
+      "name": "block",
+      "path": "src/test/scala/org/zuinnote/spark/ethereum/block",
+      "sha": "f93640afd1ddc16a4a373af126d9b33764ebcba6",
+      "size": 0,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/ethereum/block?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/ethereum/block",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/f93640afd1ddc16a4a373af126d9b33764ebcba6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/ethereum/block?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/trees/f93640afd1ddc16a4a373af126d9b33764ebcba6",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/tree/main/src/test/scala/org/zuinnote/spark/ethereum/block"
+      }
+    },
+    {
+      "name": "SparkEthereumBlockDSSpec.scala",
+      "path": "src/test/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSpec.scala",
+      "sha": "b2d10eabc3321880cbfdf1060e69c3e225a266d8",
+      "size": 1285,
+      "url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSpec.scala?ref=main",
+      "html_url": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/test/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSpec.scala",
+      "git_url": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/b2d10eabc3321880cbfdf1060e69c3e225a266d8",
+      "download_url": "https://raw.githubusercontent.com/ZuInnoTe/spark-hadoopcryptoledger-ds/main/src/test/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSpec.scala",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/contents/src/test/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSpec.scala?ref=main",
+        "git": "https://api.github.com/repos/ZuInnoTe/spark-hadoopcryptoledger-ds/git/blobs/b2d10eabc3321880cbfdf1060e69c3e225a266d8",
+        "html": "https://github.com/ZuInnoTe/spark-hadoopcryptoledger-ds/blob/main/src/test/scala/org/zuinnote/spark/ethereum/block/SparkEthereumBlockDSSpec.scala"
+      }
+    }
+  ],
+  "external_domains": {
+    "travis-ci.org": 5468,
+    "issues.apache.org": 11257,
+    "spark-packages.org": null,
+    "github.com": 6692,
+    "search.maven.org": 8984,
+    "spark.apache.org": null,
+    "api.codacy.com": 5005,
+    "www.codacy.com": null
+  },
+  "collected_at": "2026-02-04T15:47:01.506598"
+}

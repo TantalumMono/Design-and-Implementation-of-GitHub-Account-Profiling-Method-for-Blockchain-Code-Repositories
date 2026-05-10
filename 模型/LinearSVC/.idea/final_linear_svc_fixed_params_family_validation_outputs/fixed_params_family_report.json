@@ -1,0 +1,90 @@
+{
+  "config": {
+    "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\LinearSVC\\.idea\\family_prepared_v3\\family_dataset_train_ready.csv",
+    "outer_n_splits": 5,
+    "inner_n_splits": 3,
+    "allow_generated_positives_in_outer_test": true,
+    "model": "LinearSVC+CalibratedClassifierCV (fixed params)",
+    "readme_text_col": "readme_text_clean",
+    "aux_text_cols": [
+      "description_text_clean",
+      "topics_text_clean"
+    ],
+    "final_params": {
+      "readme_max_features": 300,
+      "readme_min_df": 3,
+      "readme_ngram_range": [
+        1,
+        2
+      ],
+      "aux_max_features": 200,
+      "aux_min_df": 3,
+      "aux_ngram_range": [
+        1,
+        2
+      ],
+      "linear_svc": {
+        "C": 0.0015,
+        "penalty": "l2",
+        "loss": "squared_hinge",
+        "dual": "auto",
+        "fit_intercept": true,
+        "max_iter": 10000,
+        "random_state": 42
+      },
+      "calibration": {
+        "method": "sigmoid",
+        "cv": 3
+      },
+      "weights": {
+        "real_positive": 4.5,
+        "generated_positive": 1.0,
+        "negative": 1.25
+      }
+    }
+  },
+  "pooled_oof_foldwise_threshold": {
+    "pr_auc": 0.8056526406040665,
+    "roc_auc": 0.9320447906523857,
+    "precision": 0.9253731343283582,
+    "recall": 0.41333333333333333,
+    "f1": 0.5714285714285714,
+    "fbeta": 0.4647676161919041,
+    "confusion_matrix": [
+      [
+        2044,
+        10
+      ],
+      [
+        176,
+        124
+      ]
+    ]
+  },
+  "pooled_oof_global_threshold": {
+    "threshold": 0.2379615693,
+    "threshold_info": {
+      "threshold": 0.2379615693,
+      "precision": 0.8458333333333333,
+      "recall": 0.6766666666666666,
+      "f1": 0.7518518518518519,
+      "f_beta": 0.7048611111111112
+    },
+    "pr_auc": 0.8056526406040665,
+    "roc_auc": 0.9320447906523857,
+    "precision": 0.8458333333333333,
+    "recall": 0.6766666666666666,
+    "f1": 0.7518518518518519,
+    "fbeta": 0.7048611111111112,
+    "confusion_matrix": [
+      [
+        2017,
+        37
+      ],
+      [
+        97,
+        203
+      ]
+    ]
+  }
+}

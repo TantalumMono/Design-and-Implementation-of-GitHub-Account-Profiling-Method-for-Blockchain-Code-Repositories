@@ -1,0 +1,163 @@
+{
+  "config": {
+    "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\LinearSVC\\.idea\\family_prepared_v3\\family_dataset_train_ready.csv",
+    "outer_n_splits": 5,
+    "inner_n_splits": 3,
+    "allow_generated_positives_in_outer_test": true,
+    "model": "LinearSVC+CalibratedClassifierCV",
+    "calibration_method": "sigmoid",
+    "calibration_cv": 3,
+    "C_grid": [
+      0.05,
+      0.1,
+      0.2,
+      0.5,
+      1.0,
+      2.0,
+      5.0
+    ],
+    "readme_text_col": "readme_text_clean",
+    "aux_text_cols": [
+      "description_text_clean",
+      "topics_text_clean"
+    ]
+  },
+  "pooled_oof": {
+    "threshold": 0.0656071773,
+    "threshold_info": {
+      "threshold": 0.0656071773,
+      "precision": 0.6858108108108109,
+      "recall": 0.6766666666666666,
+      "f1": 0.6812080536912751,
+      "f_beta": 0.678475935828877
+    },
+    "pr_auc": 0.7609281116975999,
+    "roc_auc": 0.923216488153197,
+    "precision": 0.6858108108108109,
+    "recall": 0.6766666666666666,
+    "f1": 0.6812080536912751,
+    "fbeta": 0.678475935828877,
+    "confusion_matrix": [
+      [
+        1961,
+        93
+      ],
+      [
+        97,
+        203
+      ]
+    ]
+  },
+  "best_params_by_fold": [
+    {
+      "outer_fold": 1,
+      "model": "LinearSVC+CalibratedClassifierCV",
+      "best_C": 0.05,
+      "threshold": 0.3730263529,
+      "calibration_method": "sigmoid",
+      "calibration_cv": 3,
+      "text_params": {
+        "readme_max_features": 400,
+        "readme_min_df": 3,
+        "readme_ngram_range": [
+          1,
+          1
+        ],
+        "aux_max_features": 200,
+        "aux_min_df": 2,
+        "aux_ngram_range": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "outer_fold": 2,
+      "model": "LinearSVC+CalibratedClassifierCV",
+      "best_C": 0.05,
+      "threshold": 0.9535149135,
+      "calibration_method": "sigmoid",
+      "calibration_cv": 3,
+      "text_params": {
+        "readme_max_features": 400,
+        "readme_min_df": 3,
+        "readme_ngram_range": [
+          1,
+          1
+        ],
+        "aux_max_features": 200,
+        "aux_min_df": 2,
+        "aux_ngram_range": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "outer_fold": 3,
+      "model": "LinearSVC+CalibratedClassifierCV",
+      "best_C": 5.0,
+      "threshold": 0.0740218496,
+      "calibration_method": "sigmoid",
+      "calibration_cv": 3,
+      "text_params": {
+        "readme_max_features": 400,
+        "readme_min_df": 3,
+        "readme_ngram_range": [
+          1,
+          1
+        ],
+        "aux_max_features": 200,
+        "aux_min_df": 2,
+        "aux_ngram_range": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "outer_fold": 4,
+      "model": "LinearSVC+CalibratedClassifierCV",
+      "best_C": 0.05,
+      "threshold": 0.1882641203,
+      "calibration_method": "sigmoid",
+      "calibration_cv": 3,
+      "text_params": {
+        "readme_max_features": 400,
+        "readme_min_df": 3,
+        "readme_ngram_range": [
+          1,
+          1
+        ],
+        "aux_max_features": 200,
+        "aux_min_df": 2,
+        "aux_ngram_range": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "outer_fold": 5,
+      "model": "LinearSVC+CalibratedClassifierCV",
+      "best_C": 0.05,
+      "threshold": 0.8457439923,
+      "calibration_method": "sigmoid",
+      "calibration_cv": 3,
+      "text_params": {
+        "readme_max_features": 400,
+        "readme_min_df": 3,
+        "readme_ngram_range": [
+          1,
+          1
+        ],
+        "aux_max_features": 200,
+        "aux_min_df": 2,
+        "aux_ngram_range": [
+          1,
+          2
+        ]
+      }
+    }
+  ]
+}

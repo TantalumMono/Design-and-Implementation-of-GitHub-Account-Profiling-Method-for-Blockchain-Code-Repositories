@@ -1,0 +1,93 @@
+seed: 42
+output_dir: "./outputs_qwen05b_weightedce_v2"
+
+data:
+  positive_path: "./data/augmented_300_with_meta.json"
+  negative_path: "./data/negative_github_dataset_cleaned.json"
+
+fields:
+  repo_full_name_path: "features.repo_full_name"
+  negative_group_path: "features.raw_file_name"
+  positive_family_path: "meta.family_label"
+  positive_is_synthetic_path: "meta.is_synthetic"
+  positive_source_raw_path: "meta.source_raw_file_name"
+  positive_source_repo_path: "meta.source_repo_full_name"
+
+model:
+  model_name: "Qwen/Qwen2.5-0.5B-Instruct"
+  use_4bit: true
+  max_length: 512
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 2
+  gradient_accumulation_steps: 16
+  learning_rate: 0.0002
+  num_train_epochs: 2
+  weight_decay: 0.01
+  warmup_ratio: 0.03
+  lr_scheduler_type: "cosine"
+  lora_r: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  lora_target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+  local_model_dir: "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\LLM\\.idea\\Qwen2.5-0.5B-Instruct"
+  local_files_only: true
+
+loss:
+  loss_type: "weighted_ce"
+  positive_class_weight: 4.0
+  focal_gamma: 2.0
+  original_positive_sample_weight: 1.0
+  synthetic_positive_sample_weight: 0.5
+  negative_sample_weight: 1.0
+
+search:
+  random_state: 42
+  model_name:
+    - "Qwen/Qwen2.5-0.5B-Instruct"
+  max_length:
+    - 512
+  learning_rate:
+    - 0.0002
+  num_train_epochs:
+    - 2
+  lora_r:
+    - 8
+  lora_alpha:
+    - 16
+  lora_dropout:
+    - 0.05
+  gradient_accumulation_steps:
+    - 16
+  loss_type:
+    - "weighted_ce"
+  positive_class_weight:
+    - 4.0
+  focal_gamma:
+    - 2.0
+  max_trials: 1
+
+threshold:
+  start: 0.005
+  end: 0.30
+  step: 0.005
+
+input_build:
+  enabled_text_fields:
+    - repo_full_name
+    - description_text
+    - topics_text
+    - readme_text
+  total_text_char_budget: 1600
+  text_min_budgets:
+    repo_full_name: 80
+    description_text: 220
+    topics_text: 120
+    readme_text: 1000
+    combined_text: 0

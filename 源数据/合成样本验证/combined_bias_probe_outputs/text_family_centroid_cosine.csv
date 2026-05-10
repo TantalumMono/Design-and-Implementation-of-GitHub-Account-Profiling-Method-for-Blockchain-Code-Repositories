@@ -1,0 +1,6 @@
+﻿family_label,n_original,n_synthetic,centroid_cosine
+F1_pumpfun_clone,24,36,1.0000000000000084
+F2_crypto_trading_bot,4,56,0.9911185980652821
+F3_web3_platform_app,8,52,0.9935431913476986
+F4_security_osint_cve,5,55,0.9990442362736787
+F5_ai_media_demo,4,56,0.9916171605434302

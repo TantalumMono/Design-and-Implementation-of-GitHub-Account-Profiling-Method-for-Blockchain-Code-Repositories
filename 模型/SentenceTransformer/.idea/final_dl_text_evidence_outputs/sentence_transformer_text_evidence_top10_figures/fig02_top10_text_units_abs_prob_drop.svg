@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="811.612839pt" height="330.660771pt" viewBox="0 0 811.612839 330.660771" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-06T03:23:12.422658</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 330.660771 
+L 811.612839 330.660771 
+L 811.612839 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 288.939062 281.394825 
+L 779.979062 281.394825 
+L 779.979062 21.935625 
+L 288.939062 21.935625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 311.324844 269.601225 
+L 311.325585 269.601225 
+L 311.325585 248.158316 
+L 311.324844 248.158316 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 311.324844 242.797589 
+L 311.259062 242.797589 
+L 311.259062 221.35468 
+L 311.324844 221.35468 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 311.324844 215.993952 
+L 311.801301 215.993952 
+L 311.801301 194.551043 
+L 311.324844 194.551043 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 311.324844 189.190316 
+L 311.802302 189.190316 
+L 311.802302 167.747407 
+L 311.324844 167.747407 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 311.324844 162.38668 
+L 311.858163 162.38668 
+L 311.858163 140.94377 
+L 311.324844 140.94377 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 311.324844 135.583043 
+L 397.432454 135.583043 
+L 397.432454 114.140134 
+L 311.324844 114.140134 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 311.324844 108.779407 
+L 440.137225 108.779407 
+L 440.137225 87.336498 
+L 311.324844 87.336498 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 311.324844 81.97577 
+L 545.701065 81.97577 
+L 545.701065 60.532861 
+L 311.324844 60.532861 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 311.324844 55.172134 
+L 757.659062 55.172134 
+L 757.659062 33.729225 
+L 311.324844 33.729225 
+z
+" clip-path="url(#pa51d1fe7e2)" style="fill: #1f77b4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mfcd6991622" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfcd6991622" x="311.324844" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="311.324844" y="295.552637" transform="rotate(-0 311.324844 295.552637)">0.0000</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mfcd6991622" x="375.383506" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="375.383506" y="295.552637" transform="rotate(-0 375.383506 295.552637)">0.0002</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mfcd6991622" x="439.442169" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="439.442169" y="295.552637" transform="rotate(-0 439.442169 295.552637)">0.0004</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mfcd6991622" x="503.500832" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="503.500832" y="295.552637" transform="rotate(-0 503.500832 295.552637)">0.0006</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mfcd6991622" x="567.559495" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="567.559495" y="295.552637" transform="rotate(-0 567.559495 295.552637)">0.0008</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mfcd6991622" x="631.618157" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="631.618157" y="295.552637" transform="rotate(-0 631.618157 295.552637)">0.0010</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mfcd6991622" x="695.67682" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="695.67682" y="295.552637" transform="rotate(-0 695.67682 295.552637)">0.0012</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mfcd6991622" x="759.735483" y="281.394825" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="759.735483" y="295.552637" transform="rotate(-0 759.735483 295.552637)">0.0014</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="534.459062" y="308.819825" transform="rotate(-0 534.459062 308.819825)">Signed probability drop after removing top text unit</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m4c96065845" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="258.87977" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(7.2 252.599927)">hard_negative | mrkkyatilla/omus-wallet | README: paket uyu</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(17.385937 263.293989)">mazl klar npm install sonras hata al rsan node modules klas</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(131.321875 273.870864)">ve package-lock.json dosyas sili...</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="232.076134" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(22.215625 231.069884)">hard_negative | mrfomoweb3/nft-wallet-tracker | README:</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(191.895312 241.799572)">login railway login 3.</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="205.272498" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(9.932812 204.220154)">high_score_real_positive | bog-us/solana-pumpfun-bot | AUX:</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(69.615625 215.060466)">used snipe new tokens pump.fun raydium profit.</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="178.468861" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(8.81875 177.416518)">high_score_real_positive | wj6942/solana-pumpfun-bot | AUX:</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(69.615625 188.25683)">used snipe new tokens pump.fun raydium profit.</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="151.665225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(13.81875 150.612881)">high_score_real_positive | ii4272/solana-pumpfun-bot | AUX:</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(69.615625 161.453194)">used snipe new tokens pump.fun raydium profit.</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="124.861589" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(23.285937 118.450026)">hard_real_positive | eferos93/test4 | README: testing add</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(21.826562 129.290339)">unit tests jest items routes happy path error cases frontend</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(248.592187 139.984401)">react 1.</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="98.057952" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(27.010937 86.226234)">hard_real_positive | dev-protocol/polymarket-copytrading-</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(13.664062 97.066546)">bot-sport | AUX: polymarket copytrading bot sport automated</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(34.075 107.906859)">copy-trading bot polymarket monitors successful traders</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(260.273438 118.600921)">mir...</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="71.254316" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(8.842187 64.915878)">hard_real_positive | knightsdex/knightsbridge-dex | README:</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(45.157812 75.609941)">technologies used built vite typescript react shadcn-ui</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(230.8125 86.304003)">tailwind css</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m4c96065845" x="288.939062" y="44.45068" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(9.398437 38.097398)">hard_negative | chmajidnaeem/blockchain-bitcoin | README:</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(45.148437 48.791461)">snip snip snip prerequisites node.js yarn bun installed</text>
+      <text style="font-size: 10px; font-family: 'Arial'" transform="translate(127.9875 59.521148)">nextjs tailwind css transak setup 1.</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_18">
+    <path d="M 311.324844 281.394825 
+L 311.324844 21.935625 
+" clip-path="url(#pa51d1fe7e2)" style="fill: none; stroke: #1f77b4; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 288.939062 281.394825 
+L 288.939062 21.935625 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 288.939062 281.394825 
+L 779.979062 281.394825 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="324.715611" y="260.947895" transform="rotate(-0 324.715611 260.947895)">2.314e-09</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: end" x="297.869036" y="234.144259" transform="rotate(-0 297.869036 234.144259)">-2.054e-07</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="325.191328" y="207.340623" transform="rotate(-0 325.191328 207.340623)">1.488e-06</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="325.192328" y="180.536986" transform="rotate(-0 325.192328 180.536986)">1.491e-06</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="325.24819" y="153.73335" transform="rotate(-0 325.24819 153.73335)">1.665e-06</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="410.822481" y="126.929714" transform="rotate(-0 410.822481 126.929714)">0.0002688</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="453.527252" y="100.126077" transform="rotate(-0 453.527252 100.126077)">0.0004022</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="559.091091" y="73.322441" transform="rotate(-0 559.091091 73.322441)">0.0007318</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="771.049089" y="46.518805" transform="rotate(-0 771.049089 46.518805)">0.001394</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9px; font-family: 'Arial'; text-anchor: start" x="293.849462" y="321.566552" transform="rotate(-0 293.849462 321.566552)">Positive: text unit supports suspicious prediction; negative: text unit suppresses suspicious prediction.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 12px; font-family: 'Arial'; text-anchor: middle" x="534.459062" y="15.935625" transform="rotate(-0 534.459062 15.935625)">Top text evidence units by absolute effect</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa51d1fe7e2">
+   <rect x="288.939062" y="21.935625" width="491.04" height="259.4592"/>
+  </clipPath>
+ </defs>
+</svg>

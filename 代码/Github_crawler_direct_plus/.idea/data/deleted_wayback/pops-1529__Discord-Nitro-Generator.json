@@ -1,0 +1,18 @@
+{
+  "repo_full_name": "pops-1529/Discord-Nitro-Generator",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-03-17T02:42:37.364216",
+  "repo_detail": {
+    "repo_full_name": "pops-1529/Discord-Nitro-Generator",
+    "snapshot_url": "http://web.archive.org/web/20250423073853/https://github.com/pops-1529/Discord-Nitro-Generator",
+    "snapshot_time": "20250423073853",
+    "stars": 150,
+    "forks": 75000,
+    "watches": 1,
+    "readme": "Nitro-Generator-AND-Checker (Scroll down to see videos + setup tutorials)\n\n\nIT SHOULD BE NOTED THAT THIS IS A PROOF OF CONCEPT AND SHOULD NOT BE USED MALICIOUSLY TO STEAL OTHER USERS NITROS. WHAT YOU DO IS NOT MY RESPONSIBILITY\n\n\nGenerates random nitro codes then checks them with the discord api.\n\n\n\n\n\n\n\n\nTo use : \npip install -r requirements.txt\n (I have made the program do pip installs automatically if a module is missing) \nMAY TAKE A FEW MINUTES TO STARTUP\n\n\nThen run Generator.py and input 1 or GEN to generate, or 2 or CHECK to check. The program fetches proxies automatically.\n\n\nNew to python? - make sure to download python 3.9.0 - some later versions won't work\n\n\n\n\nInstall \nPython\n\n\nMAKE SURE TO ADD TO PATH\n\n\n\n\n\n\nCreation and checking:\n\n\nIn this video I only ran it for a few seconds, but I've got a few valid codes out of this (did have to leave it running for a while).\n\n\nOn a good quality pc, getting 5-10 THOUSAND codes a second is possible, and checking them fast is also a possibility (you just need good wifi & proxies)\n\n\nValid codes are saved to valid.txt\n\n\nTODO\n\n\n\n\nThread nitro creation (it's currently on 1 thread and going insanely fast)\n\n\nAdd more proxy sources\n\n\nSpeed up checking\n\n\nAdd notifications for valid codes\n\n\nClaim valid codes automatically\n\n\n\n\nhqlvepvea\n\n",
+    "readme_domains": {}
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

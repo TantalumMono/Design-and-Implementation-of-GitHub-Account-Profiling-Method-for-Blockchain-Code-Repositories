@@ -1,0 +1,18 @@
+{
+  "repo_full_name": "DLandonHSCS/Discord-RCE",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-02-26T09:23:20.954760",
+  "repo_detail": {
+    "repo_full_name": "DLandonHSCS/Discord-RCE",
+    "snapshot_url": "http://web.archive.org/web/20230602012533/https://github.com/DLandonHSCS/Discord-RCE",
+    "snapshot_time": "20230602012533",
+    "stars": 1,
+    "forks": 0,
+    "watches": 2,
+    "readme": "Discord-RCE\n\n\nDiscord RCE\nDiscord RCE fix Download the poc.py file in repo run file as such: 'python poc.py --host[IP] --port[Port]'\n\n",
+    "readme_domains": []
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

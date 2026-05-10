@@ -1,0 +1,767 @@
+{
+  "repo_full_name": "zman0225/bitcoinclass",
+  "repo_detail": {
+    "id": 108182334,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMDgxODIzMzQ=",
+    "name": "bitcoinclass",
+    "full_name": "zman0225/bitcoinclass",
+    "private": false,
+    "owner": {
+      "login": "zman0225",
+      "id": 4925941,
+      "node_id": "MDQ6VXNlcjQ5MjU5NDE=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4925941?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zman0225",
+      "html_url": "https://github.com/zman0225",
+      "followers_url": "https://api.github.com/users/zman0225/followers",
+      "following_url": "https://api.github.com/users/zman0225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zman0225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zman0225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zman0225/subscriptions",
+      "organizations_url": "https://api.github.com/users/zman0225/orgs",
+      "repos_url": "https://api.github.com/users/zman0225/repos",
+      "events_url": "https://api.github.com/users/zman0225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zman0225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zman0225/bitcoinclass",
+    "description": "blockchain cryptoclass",
+    "fork": false,
+    "url": "https://api.github.com/repos/zman0225/bitcoinclass",
+    "forks_url": "https://api.github.com/repos/zman0225/bitcoinclass/forks",
+    "keys_url": "https://api.github.com/repos/zman0225/bitcoinclass/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zman0225/bitcoinclass/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zman0225/bitcoinclass/teams",
+    "hooks_url": "https://api.github.com/repos/zman0225/bitcoinclass/hooks",
+    "issue_events_url": "https://api.github.com/repos/zman0225/bitcoinclass/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zman0225/bitcoinclass/events",
+    "assignees_url": "https://api.github.com/repos/zman0225/bitcoinclass/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zman0225/bitcoinclass/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zman0225/bitcoinclass/tags",
+    "blobs_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zman0225/bitcoinclass/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zman0225/bitcoinclass/languages",
+    "stargazers_url": "https://api.github.com/repos/zman0225/bitcoinclass/stargazers",
+    "contributors_url": "https://api.github.com/repos/zman0225/bitcoinclass/contributors",
+    "subscribers_url": "https://api.github.com/repos/zman0225/bitcoinclass/subscribers",
+    "subscription_url": "https://api.github.com/repos/zman0225/bitcoinclass/subscription",
+    "commits_url": "https://api.github.com/repos/zman0225/bitcoinclass/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zman0225/bitcoinclass/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zman0225/bitcoinclass/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zman0225/bitcoinclass/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zman0225/bitcoinclass/merges",
+    "archive_url": "https://api.github.com/repos/zman0225/bitcoinclass/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zman0225/bitcoinclass/downloads",
+    "issues_url": "https://api.github.com/repos/zman0225/bitcoinclass/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zman0225/bitcoinclass/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zman0225/bitcoinclass/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zman0225/bitcoinclass/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zman0225/bitcoinclass/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zman0225/bitcoinclass/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zman0225/bitcoinclass/deployments",
+    "created_at": "2017-10-24T20:52:49Z",
+    "updated_at": "2017-11-29T18:15:54Z",
+    "pushed_at": "2017-11-29T18:17:50Z",
+    "git_url": "git://github.com/zman0225/bitcoinclass.git",
+    "ssh_url": "git@github.com:zman0225/bitcoinclass.git",
+    "clone_url": "https://github.com/zman0225/bitcoinclass.git",
+    "svn_url": "https://github.com/zman0225/bitcoinclass",
+    "homepage": null,
+    "size": 24,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "zman0225",
+    "id": 4925941,
+    "node_id": "MDQ6VXNlcjQ5MjU5NDE=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4925941?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zman0225",
+    "html_url": "https://github.com/zman0225",
+    "followers_url": "https://api.github.com/users/zman0225/followers",
+    "following_url": "https://api.github.com/users/zman0225/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zman0225/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zman0225/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zman0225/subscriptions",
+    "organizations_url": "https://api.github.com/users/zman0225/orgs",
+    "repos_url": "https://api.github.com/users/zman0225/repos",
+    "events_url": "https://api.github.com/users/zman0225/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zman0225/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Zi",
+    "company": "@ProjectTachyon ",
+    "blog": "https://distributed.engineer",
+    "location": "San Francisco, CA",
+    "email": "ziyuan.liu@gmail.com",
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 40,
+    "public_gists": 4,
+    "followers": 6,
+    "following": 4,
+    "created_at": "2013-07-03T01:36:35Z",
+    "updated_at": "2026-03-17T06:05:55Z"
+  },
+  "readme": "# Bitcoin from Scratch class, modules\n---\n\n## What?\n\nThis is a bitcoin from scratch course where we learn to make a simpler variant of the entire bitcoin protocol from scratch. All you need is a unix-based computer and basic knowledge of Python. While this course is open sourced, I have recorded a complete line-by-line course [here](https://cryptofromzero.com).\n\n\n## Caveats: what makes this different from Bitcoin\n\nThe materials taught here will be largely introduced in a more pythonic object-oriented fashion. The finished product itself is not battled tested against the bitcoin protocol and should *not* be used as such. The code base here is purely for educational purposes and contains zero warranty against financial loss of any kind.\n\n\n## Credits\n\nThe base of this project was largely inspired by: [TinyChain](https://github.com/jamesob/tinychain); a rework of [Minicoin](https://github.com/ziyuanliu/minicoin)\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "e7d7b41298dde57fae8461b1a77cad8f48ecd137",
+      "size": 1180,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/e7d7b41298dde57fae8461b1a77cad8f48ecd137",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/e7d7b41298dde57fae8461b1a77cad8f48ecd137",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": "1_hello_world",
+      "path": "1_hello_world",
+      "sha": "b56430f7a650278911dba000cbee9344207ca8fd",
+      "size": 0,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/tree/master/1_hello_world",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/b56430f7a650278911dba000cbee9344207ca8fd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/b56430f7a650278911dba000cbee9344207ca8fd",
+        "html": "https://github.com/zman0225/bitcoinclass/tree/master/1_hello_world"
+      }
+    },
+    {
+      "name": "Dockerfile",
+      "path": "1_hello_world/Dockerfile",
+      "sha": "49b6e41179109fd4eaeec37bcfbf19ca8e90085a",
+      "size": 71,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/Dockerfile?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/Dockerfile",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/49b6e41179109fd4eaeec37bcfbf19ca8e90085a",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/1_hello_world/Dockerfile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/Dockerfile?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/49b6e41179109fd4eaeec37bcfbf19ca8e90085a",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/Dockerfile"
+      }
+    },
+    {
+      "name": "docker-compose.yaml",
+      "path": "1_hello_world/docker-compose.yaml",
+      "sha": "c3e634ba4854035a707d2b3f2b59dbaa159dc390",
+      "size": 271,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/docker-compose.yaml?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/docker-compose.yaml",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/c3e634ba4854035a707d2b3f2b59dbaa159dc390",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/1_hello_world/docker-compose.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/docker-compose.yaml?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/c3e634ba4854035a707d2b3f2b59dbaa159dc390",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/docker-compose.yaml"
+      }
+    },
+    {
+      "name": "networking.py",
+      "path": "1_hello_world/networking.py",
+      "sha": "65de8f1155850d740ae7b10c122cde61211ea8b8",
+      "size": 3775,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/networking.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/networking.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/65de8f1155850d740ae7b10c122cde61211ea8b8",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/1_hello_world/networking.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/networking.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/65de8f1155850d740ae7b10c122cde61211ea8b8",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/networking.py"
+      }
+    },
+    {
+      "name": "readme.md",
+      "path": "1_hello_world/readme.md",
+      "sha": "af00ef1d53399895c56df67a74ac1e2cea4aa517",
+      "size": 1941,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/readme.md?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/readme.md",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/af00ef1d53399895c56df67a74ac1e2cea4aa517",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/1_hello_world/readme.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/1_hello_world/readme.md?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/af00ef1d53399895c56df67a74ac1e2cea4aa517",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/1_hello_world/readme.md"
+      }
+    },
+    {
+      "name": "2_the_block",
+      "path": "2_the_block",
+      "sha": "36aaf566473e36137dcce51cffd7b2124c6c73d6",
+      "size": 0,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/tree/master/2_the_block",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/36aaf566473e36137dcce51cffd7b2124c6c73d6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/36aaf566473e36137dcce51cffd7b2124c6c73d6",
+        "html": "https://github.com/zman0225/bitcoinclass/tree/master/2_the_block"
+      }
+    },
+    {
+      "name": "blockchain.py",
+      "path": "2_the_block/blockchain.py",
+      "sha": "fd2eca84ba0a128a00b5e1aa891f35551d3d0af8",
+      "size": 2848,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/blockchain.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/blockchain.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/fd2eca84ba0a128a00b5e1aa891f35551d3d0af8",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/2_the_block/blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/blockchain.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/fd2eca84ba0a128a00b5e1aa891f35551d3d0af8",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/blockchain.py"
+      }
+    },
+    {
+      "name": "readme.md",
+      "path": "2_the_block/readme.md",
+      "sha": "37c1997960d447b5f67e25a5f3d0a8bdbd7f8b56",
+      "size": 2141,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/readme.md?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/readme.md",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/37c1997960d447b5f67e25a5f3d0a8bdbd7f8b56",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/2_the_block/readme.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/readme.md?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/37c1997960d447b5f67e25a5f3d0a8bdbd7f8b56",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/readme.md"
+      }
+    },
+    {
+      "name": "requirements-test.txt",
+      "path": "2_the_block/requirements-test.txt",
+      "sha": "5253ee82e8cd0589e98d8b268687d92e30a114a7",
+      "size": 31,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/requirements-test.txt?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/requirements-test.txt",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/5253ee82e8cd0589e98d8b268687d92e30a114a7",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/2_the_block/requirements-test.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/requirements-test.txt?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/5253ee82e8cd0589e98d8b268687d92e30a114a7",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/requirements-test.txt"
+      }
+    },
+    {
+      "name": "test_blockchain.py",
+      "path": "2_the_block/test_blockchain.py",
+      "sha": "4f515ebcada97c5d3a601bb6efc3ad162a7a38ed",
+      "size": 703,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/test_blockchain.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/test_blockchain.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/4f515ebcada97c5d3a601bb6efc3ad162a7a38ed",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/2_the_block/test_blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/test_blockchain.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/4f515ebcada97c5d3a601bb6efc3ad162a7a38ed",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/test_blockchain.py"
+      }
+    },
+    {
+      "name": "test_utils.py",
+      "path": "2_the_block/test_utils.py",
+      "sha": "1bbd1a73271cb9571d7bf137c704832de36d35ab",
+      "size": 281,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/test_utils.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/test_utils.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1bbd1a73271cb9571d7bf137c704832de36d35ab",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/2_the_block/test_utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/test_utils.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1bbd1a73271cb9571d7bf137c704832de36d35ab",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/test_utils.py"
+      }
+    },
+    {
+      "name": "utils.py",
+      "path": "2_the_block/utils.py",
+      "sha": "a7746955573b8942fd308c54ff8b7cf0bdc96703",
+      "size": 2137,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/utils.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/utils.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/a7746955573b8942fd308c54ff8b7cf0bdc96703",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/2_the_block/utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/2_the_block/utils.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/a7746955573b8942fd308c54ff8b7cf0bdc96703",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/2_the_block/utils.py"
+      }
+    },
+    {
+      "name": "3_transactions",
+      "path": "3_transactions",
+      "sha": "fee69aca6876d9940cc7c6a3d188f55ed6db9f1d",
+      "size": 0,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/tree/master/3_transactions",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/fee69aca6876d9940cc7c6a3d188f55ed6db9f1d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/fee69aca6876d9940cc7c6a3d188f55ed6db9f1d",
+        "html": "https://github.com/zman0225/bitcoinclass/tree/master/3_transactions"
+      }
+    },
+    {
+      "name": "blockchain.py",
+      "path": "3_transactions/blockchain.py",
+      "sha": "b275c091b4c778ff4a27db4622956341e74f5c63",
+      "size": 5072,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/blockchain.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/blockchain.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/b275c091b4c778ff4a27db4622956341e74f5c63",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/blockchain.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/b275c091b4c778ff4a27db4622956341e74f5c63",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/blockchain.py"
+      }
+    },
+    {
+      "name": "readme.md",
+      "path": "3_transactions/readme.md",
+      "sha": "c5f9e0e5fefccd10ce1973a6910aa37b662ad0ba",
+      "size": 1458,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/readme.md?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/readme.md",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/c5f9e0e5fefccd10ce1973a6910aa37b662ad0ba",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/readme.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/readme.md?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/c5f9e0e5fefccd10ce1973a6910aa37b662ad0ba",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/readme.md"
+      }
+    },
+    {
+      "name": "requirements-test.txt",
+      "path": "3_transactions/requirements-test.txt",
+      "sha": "5253ee82e8cd0589e98d8b268687d92e30a114a7",
+      "size": 31,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/requirements-test.txt?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/requirements-test.txt",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/5253ee82e8cd0589e98d8b268687d92e30a114a7",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/requirements-test.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/requirements-test.txt?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/5253ee82e8cd0589e98d8b268687d92e30a114a7",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/requirements-test.txt"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "3_transactions/requirements.txt",
+      "sha": "eb32b6039875d2f15cb8d0a882999cc110b2ea96",
+      "size": 26,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/requirements.txt?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/requirements.txt",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/eb32b6039875d2f15cb8d0a882999cc110b2ea96",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/requirements.txt?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/eb32b6039875d2f15cb8d0a882999cc110b2ea96",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/requirements.txt"
+      }
+    },
+    {
+      "name": "serialization.py",
+      "path": "3_transactions/serialization.py",
+      "sha": "330766549dc2e9fa4d5f0a5be9903b83b0134e15",
+      "size": 2454,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/serialization.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/serialization.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/330766549dc2e9fa4d5f0a5be9903b83b0134e15",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/serialization.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/serialization.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/330766549dc2e9fa4d5f0a5be9903b83b0134e15",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/serialization.py"
+      }
+    },
+    {
+      "name": "test_blockchain.py",
+      "path": "3_transactions/test_blockchain.py",
+      "sha": "928fa76de20e627a28d0f8c3ef9124313007b00b",
+      "size": 3020,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/test_blockchain.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/test_blockchain.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/928fa76de20e627a28d0f8c3ef9124313007b00b",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/test_blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/test_blockchain.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/928fa76de20e627a28d0f8c3ef9124313007b00b",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/test_blockchain.py"
+      }
+    },
+    {
+      "name": "test_utils.py",
+      "path": "3_transactions/test_utils.py",
+      "sha": "1bbd1a73271cb9571d7bf137c704832de36d35ab",
+      "size": 281,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/test_utils.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/test_utils.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1bbd1a73271cb9571d7bf137c704832de36d35ab",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/test_utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/test_utils.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1bbd1a73271cb9571d7bf137c704832de36d35ab",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/test_utils.py"
+      }
+    },
+    {
+      "name": "transaction.py",
+      "path": "3_transactions/transaction.py",
+      "sha": "86a87d4abe393864f41d8dd9886614b76d5f05e7",
+      "size": 5021,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/transaction.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/transaction.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/86a87d4abe393864f41d8dd9886614b76d5f05e7",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/transaction.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/transaction.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/86a87d4abe393864f41d8dd9886614b76d5f05e7",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/transaction.py"
+      }
+    },
+    {
+      "name": "utils.py",
+      "path": "3_transactions/utils.py",
+      "sha": "a7746955573b8942fd308c54ff8b7cf0bdc96703",
+      "size": 2137,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/utils.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/utils.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/a7746955573b8942fd308c54ff8b7cf0bdc96703",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/utils.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/a7746955573b8942fd308c54ff8b7cf0bdc96703",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/utils.py"
+      }
+    },
+    {
+      "name": "wallet.py",
+      "path": "3_transactions/wallet.py",
+      "sha": "32423fc52b239b38fd2c3b688f843b4bad7b625c",
+      "size": 3435,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/wallet.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/wallet.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/32423fc52b239b38fd2c3b688f843b4bad7b625c",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/3_transactions/wallet.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/3_transactions/wallet.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/32423fc52b239b38fd2c3b688f843b4bad7b625c",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/3_transactions/wallet.py"
+      }
+    },
+    {
+      "name": "4_mempool_and_chaining",
+      "path": "4_mempool_and_chaining",
+      "sha": "ce032a5bcf013d904e0d032e9def0404c9b948e0",
+      "size": 0,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/tree/master/4_mempool_and_chaining",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/ce032a5bcf013d904e0d032e9def0404c9b948e0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/trees/ce032a5bcf013d904e0d032e9def0404c9b948e0",
+        "html": "https://github.com/zman0225/bitcoinclass/tree/master/4_mempool_and_chaining"
+      }
+    },
+    {
+      "name": "blockchain.py",
+      "path": "4_mempool_and_chaining/blockchain.py",
+      "sha": "0d0a7256ff08fe170dad3b30af0cfc99f278ce8b",
+      "size": 5291,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/blockchain.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/blockchain.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/0d0a7256ff08fe170dad3b30af0cfc99f278ce8b",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/blockchain.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/0d0a7256ff08fe170dad3b30af0cfc99f278ce8b",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/blockchain.py"
+      }
+    },
+    {
+      "name": "chainmanager.py",
+      "path": "4_mempool_and_chaining/chainmanager.py",
+      "sha": "4a98226ecf2255c9f304e0984407f0d1946a87d0",
+      "size": 8176,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/chainmanager.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/chainmanager.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/4a98226ecf2255c9f304e0984407f0d1946a87d0",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/chainmanager.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/chainmanager.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/4a98226ecf2255c9f304e0984407f0d1946a87d0",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/chainmanager.py"
+      }
+    },
+    {
+      "name": "mempool.py",
+      "path": "4_mempool_and_chaining/mempool.py",
+      "sha": "3ed9ed41350b9f3fa3ff6faaf410f80a359db3bf",
+      "size": 2894,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/mempool.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/mempool.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/3ed9ed41350b9f3fa3ff6faaf410f80a359db3bf",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/mempool.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/mempool.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/3ed9ed41350b9f3fa3ff6faaf410f80a359db3bf",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/mempool.py"
+      }
+    },
+    {
+      "name": "readme.md",
+      "path": "4_mempool_and_chaining/readme.md",
+      "sha": "27272d1600893dc320e75648b4d08159d4753b55",
+      "size": 856,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/readme.md?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/readme.md",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/27272d1600893dc320e75648b4d08159d4753b55",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/readme.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/readme.md?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/27272d1600893dc320e75648b4d08159d4753b55",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/readme.md"
+      }
+    },
+    {
+      "name": "requirements-test.txt",
+      "path": "4_mempool_and_chaining/requirements-test.txt",
+      "sha": "5253ee82e8cd0589e98d8b268687d92e30a114a7",
+      "size": 31,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/requirements-test.txt?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/requirements-test.txt",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/5253ee82e8cd0589e98d8b268687d92e30a114a7",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/requirements-test.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/requirements-test.txt?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/5253ee82e8cd0589e98d8b268687d92e30a114a7",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/requirements-test.txt"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "4_mempool_and_chaining/requirements.txt",
+      "sha": "eb32b6039875d2f15cb8d0a882999cc110b2ea96",
+      "size": 26,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/requirements.txt?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/requirements.txt",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/eb32b6039875d2f15cb8d0a882999cc110b2ea96",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/requirements.txt?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/eb32b6039875d2f15cb8d0a882999cc110b2ea96",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/requirements.txt"
+      }
+    },
+    {
+      "name": "serialization.py",
+      "path": "4_mempool_and_chaining/serialization.py",
+      "sha": "330766549dc2e9fa4d5f0a5be9903b83b0134e15",
+      "size": 2454,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/serialization.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/serialization.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/330766549dc2e9fa4d5f0a5be9903b83b0134e15",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/serialization.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/serialization.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/330766549dc2e9fa4d5f0a5be9903b83b0134e15",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/serialization.py"
+      }
+    },
+    {
+      "name": "test_blockchain.py",
+      "path": "4_mempool_and_chaining/test_blockchain.py",
+      "sha": "9310d1f5683af1b6d6beefeb18824a6eb03deea5",
+      "size": 3546,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/test_blockchain.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/test_blockchain.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/9310d1f5683af1b6d6beefeb18824a6eb03deea5",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/test_blockchain.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/test_blockchain.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/9310d1f5683af1b6d6beefeb18824a6eb03deea5",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/test_blockchain.py"
+      }
+    },
+    {
+      "name": "test_utils.py",
+      "path": "4_mempool_and_chaining/test_utils.py",
+      "sha": "1bbd1a73271cb9571d7bf137c704832de36d35ab",
+      "size": 281,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/test_utils.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/test_utils.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1bbd1a73271cb9571d7bf137c704832de36d35ab",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/test_utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/test_utils.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1bbd1a73271cb9571d7bf137c704832de36d35ab",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/test_utils.py"
+      }
+    },
+    {
+      "name": "transaction.py",
+      "path": "4_mempool_and_chaining/transaction.py",
+      "sha": "1b8827a0e09c441ad91dc9f189ab2d62e64f2eed",
+      "size": 5218,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/transaction.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/transaction.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1b8827a0e09c441ad91dc9f189ab2d62e64f2eed",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/transaction.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/transaction.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/1b8827a0e09c441ad91dc9f189ab2d62e64f2eed",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/transaction.py"
+      }
+    },
+    {
+      "name": "utils.py",
+      "path": "4_mempool_and_chaining/utils.py",
+      "sha": "365e5c4fb408a266d48aecff3c4240fa7775e7c3",
+      "size": 2761,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/utils.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/utils.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/365e5c4fb408a266d48aecff3c4240fa7775e7c3",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/utils.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/365e5c4fb408a266d48aecff3c4240fa7775e7c3",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/utils.py"
+      }
+    },
+    {
+      "name": "wallet.py",
+      "path": "4_mempool_and_chaining/wallet.py",
+      "sha": "7c38ee5523df9b5a8a2e39b732c436b79d5be848",
+      "size": 3570,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/wallet.py?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/wallet.py",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/7c38ee5523df9b5a8a2e39b732c436b79d5be848",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/4_mempool_and_chaining/wallet.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/4_mempool_and_chaining/wallet.py?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/7c38ee5523df9b5a8a2e39b732c436b79d5be848",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/4_mempool_and_chaining/wallet.py"
+      }
+    },
+    {
+      "name": "readme.md",
+      "path": "readme.md",
+      "sha": "e7a8b57b709d3058fd70b6fc98c33b9b9af27ed9",
+      "size": 922,
+      "url": "https://api.github.com/repos/zman0225/bitcoinclass/contents/readme.md?ref=master",
+      "html_url": "https://github.com/zman0225/bitcoinclass/blob/master/readme.md",
+      "git_url": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/e7a8b57b709d3058fd70b6fc98c33b9b9af27ed9",
+      "download_url": "https://raw.githubusercontent.com/zman0225/bitcoinclass/master/readme.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zman0225/bitcoinclass/contents/readme.md?ref=master",
+        "git": "https://api.github.com/repos/zman0225/bitcoinclass/git/blobs/e7a8b57b709d3058fd70b6fc98c33b9b9af27ed9",
+        "html": "https://github.com/zman0225/bitcoinclass/blob/master/readme.md"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6734,
+    "cryptofromzero.com": 230
+  },
+  "collected_at": "2026-03-18T09:38:02.932572"
+}

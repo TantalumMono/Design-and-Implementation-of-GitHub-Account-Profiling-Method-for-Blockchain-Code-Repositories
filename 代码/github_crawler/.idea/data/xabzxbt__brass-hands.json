@@ -1,0 +1,967 @@
+{
+  "repo_full_name": "xabzxbt/brass-hands",
+  "repo_detail": {
+    "id": 1135644147,
+    "node_id": "R_kgDOQ7CN8w",
+    "name": "brass-hands",
+    "full_name": "xabzxbt/brass-hands",
+    "private": false,
+    "owner": {
+      "login": "xabzxbt",
+      "id": 117483033,
+      "node_id": "U_kgDOBwCmGQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117483033?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xabzxbt",
+      "html_url": "https://github.com/xabzxbt",
+      "followers_url": "https://api.github.com/users/xabzxbt/followers",
+      "following_url": "https://api.github.com/users/xabzxbt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xabzxbt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xabzxbt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xabzxbt/subscriptions",
+      "organizations_url": "https://api.github.com/users/xabzxbt/orgs",
+      "repos_url": "https://api.github.com/users/xabzxbt/repos",
+      "events_url": "https://api.github.com/users/xabzxbt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xabzxbt/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xabzxbt/brass-hands",
+    "description": "A suite of DeFi wallet security tools:  Dust Sweeper - Batch swap multiple dust tokens into ETH/USDC/DAI Revoke Approvals - View and revoke token approvals to protect your wallet",
+    "fork": false,
+    "url": "https://api.github.com/repos/xabzxbt/brass-hands",
+    "forks_url": "https://api.github.com/repos/xabzxbt/brass-hands/forks",
+    "keys_url": "https://api.github.com/repos/xabzxbt/brass-hands/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xabzxbt/brass-hands/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xabzxbt/brass-hands/teams",
+    "hooks_url": "https://api.github.com/repos/xabzxbt/brass-hands/hooks",
+    "issue_events_url": "https://api.github.com/repos/xabzxbt/brass-hands/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xabzxbt/brass-hands/events",
+    "assignees_url": "https://api.github.com/repos/xabzxbt/brass-hands/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xabzxbt/brass-hands/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xabzxbt/brass-hands/tags",
+    "blobs_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xabzxbt/brass-hands/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xabzxbt/brass-hands/languages",
+    "stargazers_url": "https://api.github.com/repos/xabzxbt/brass-hands/stargazers",
+    "contributors_url": "https://api.github.com/repos/xabzxbt/brass-hands/contributors",
+    "subscribers_url": "https://api.github.com/repos/xabzxbt/brass-hands/subscribers",
+    "subscription_url": "https://api.github.com/repos/xabzxbt/brass-hands/subscription",
+    "commits_url": "https://api.github.com/repos/xabzxbt/brass-hands/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xabzxbt/brass-hands/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xabzxbt/brass-hands/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xabzxbt/brass-hands/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xabzxbt/brass-hands/merges",
+    "archive_url": "https://api.github.com/repos/xabzxbt/brass-hands/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xabzxbt/brass-hands/downloads",
+    "issues_url": "https://api.github.com/repos/xabzxbt/brass-hands/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xabzxbt/brass-hands/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xabzxbt/brass-hands/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xabzxbt/brass-hands/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xabzxbt/brass-hands/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xabzxbt/brass-hands/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xabzxbt/brass-hands/deployments",
+    "created_at": "2026-01-16T11:43:14Z",
+    "updated_at": "2026-01-20T19:53:48Z",
+    "pushed_at": "2026-01-20T19:53:43Z",
+    "git_url": "git://github.com/xabzxbt/brass-hands.git",
+    "ssh_url": "git@github.com:xabzxbt/brass-hands.git",
+    "clone_url": "https://github.com/xabzxbt/brass-hands.git",
+    "svn_url": "https://github.com/xabzxbt/brass-hands",
+    "homepage": "https://brass-hands.vercel.app/",
+    "size": 168,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "xabzxbt",
+    "id": 117483033,
+    "node_id": "U_kgDOBwCmGQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/117483033?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xabzxbt",
+    "html_url": "https://github.com/xabzxbt",
+    "followers_url": "https://api.github.com/users/xabzxbt/followers",
+    "following_url": "https://api.github.com/users/xabzxbt/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xabzxbt/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xabzxbt/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xabzxbt/subscriptions",
+    "organizations_url": "https://api.github.com/users/xabzxbt/orgs",
+    "repos_url": "https://api.github.com/users/xabzxbt/repos",
+    "events_url": "https://api.github.com/users/xabzxbt/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xabzxbt/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "xabz",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": "o7xabz",
+    "public_repos": 35,
+    "public_gists": 0,
+    "followers": 17,
+    "following": 66,
+    "created_at": "2022-11-04T20:15:51Z",
+    "updated_at": "2026-03-17T08:08:28Z"
+  },
+  "readme": "# Brass Hands\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)\n[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-white?logo=vercel)](https://brass-hands.vercel.app)\n[![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev)\n[![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)\n[![Powered by Relay](https://img.shields.io/badge/Powered%20by-Relay-8b5cf6)](https://relay.link)\n\nA suite of DeFi wallet security tools:\n1. **Dust Sweeper** - Batch swap multiple dust tokens into ETH/USDC/DAI\n2. **Revoke Approvals** - View and revoke token approvals to protect your wallet\n\n## Features\n\n### Dust Sweeper (`/`)\n- **Multi-token batch swaps** in a single wallet call (EIP-5792)\n- **Same-chain swap routes** with Relay Protocol solver\n- **Token holdings discovery** via Alchemy deep indexing\n- **Route availability checks** before quoting\n- **Automatic approval skipping** when allowance is already sufficient\n- **Price impact filtering** for low-liquidity tokens\n- **Transfer fee token detection** - Blocks fee-on-transfer tokens that may fail\n- **The 98% Rule** - Uses 2% buffer for swap amounts to handle price fluctuations\n\n### Revoke Approvals (`/revoke`)\n- **Scan all approvals** across 6 supported chains via Covalent GoldRush API\n- **Value-at-risk analysis** - See how much you could lose if a spender is compromised\n- **Risk level indicators** - LOW RISK, CONSIDER REVOKING, HIGH RISK labels\n- **Batch revoke** - Revoke multiple approvals in one transaction (EIP-5792)\n- **Filter by risk** - Quickly find unlimited or high-risk approvals\n- **NFT approvals** - View and revoke NFT collection approvals (setApprovalForAll)\n- **Partial revoke** - Reduce allowance instead of fully revoking\n\n## Architecture\n\n```\n┌─────────────────────────────────────────────────────────────────────────┐\n│                              USER WALLET                                 │\n│                (Ambire / OKX / Coinbase / MetaMask)                     │\n└─────────────────────────────────┬───────────────────────────────────────┘\n                                  │\n                                  │ Connect (Reown AppKit)\n                                  ▼\n┌─────────────────────────────────────────────────────────────────────────┐\n│                          BRASS HANDS APP                                 │\n│  ┌──────────────────┐  ┌──────────────────┐  ┌─────────────────────┐   │\n│  │  Token Scanner   │  │  Strategy Engine │  │   Execution Core    │   │\n│  │  (Alchemy API)   │  │  (Batch/Legacy)  │  │   (Wagmi/Viem)      │   │\n│  └────────┬─────────┘  └────────┬─────────┘  └──────────┬──────────┘   │\n│           │                     │                       │               │\n│           │ Holdings            │ Decision              │ Sign Tx       │\n│           ▼                     ▼                       ▼               │\n│  ┌──────────────────────────────────────────────────────────────────┐  │\n│  │                RELAY PROTOCOL SOLVER                              │  │\n│  │         /quote → /execute/swap → /intents/status                 │  │\n│  └──────────────────────────────────────────────────────────────────┘  │\n│                                  │                                      │\n│                                  ▼                                      │\n│  ┌──────────────────────────────────────────────────────────────────┐  │\n│  │              User Interface (Svelte 5 + Tailwind)                 │  │\n│  └──────────────────────────────────────────────────────────────────┘  │\n└─────────────────────────────────┬───────────────────────────────────────┘\n                                  │\n                                  │ Submit Transaction\n                                  ▼\n┌─────────────────────────────────────────────────────────────────────────┐\n│                             BLOCKCHAIN                                   │\n│        (Ethereum / Base / Arbitrum / Optimism / Polygon / BNB)          │\n└─────────────────────────────────────────────────────────────────────────┘\n```\n\n## Supported Chains\n\n| Chain | Chain ID | Native Token | Status |\n|-------|----------|--------------|--------|\n| Ethereum | 1 | ETH | ✅ Active |\n| Base | 8453 | ETH | ✅ Active |\n| Arbitrum | 42161 | ETH | ✅ Active |\n| Optimism | 10 | ETH | ✅ Active |\n| Polygon | 137 | MATIC | ✅ Active |\n| BNB Chain | 56 | BNB | ✅ Active |\n\n**Output Tokens Supported:**\n- ETH (Native token)\n- USDC\n- DAI\n\n## Wallet Requirements\n\nThis app uses **EIP-5792 (Wallet Call API)** for batching when supported. Wallets that do not support `wallet_sendCalls` fall back to sequential transactions.\n\n| Wallet | Batch Support | Experience |\n|--------|---------------|------------|\n| **Ambire Wallet** | ✅ Full | Native batching, best for gas savings |\n| **OKX Wallet** | ✅ Full | Excellent EIP-5792 integration |\n| **Coinbase Wallet** | ✅ Full | Smart Wallet support |\n| **MetaMask** | ❌ Legacy | Sequential transactions (approve + swap per token) |\n| **Rainbow** | ❌ Legacy | Sequential transactions |\n\n> 💡 **Recommended:** For the true batch transaction experience, use **OKX Wallet** or **Ambire Wallet** - they fully support EIP-5792 batch calls, allowing all swaps and approvals to execute in a single transaction.\n\n## Tech Stack\n\n| Component | Technology | Description |\n|-----------|------------|-------------|\n| **Framework** | SvelteKit + Svelte 5 | Blazing fast reactive UI with Runes |\n| **Web3 Core** | Wagmi 2.x + Viem 2.x | Type-safe blockchain interactions |\n| **Wallet Connect** | Reown AppKit 1.8 | Seamless multichain wallet connection |\n| **Swap Solver** | Relay Protocol | Intent-based swap aggregation |\n| **Token Discovery** | Alchemy SDK | Deep token indexing and balance verification |\n| **Styling** | Tailwind CSS 3.x | Neo-Brutalist industrial design |\n| **Build Tool** | Vite 6 | Lightning fast HMR and builds |\n| **Language** | TypeScript 5 | Full type safety |\n\n## Environment Variables\n\nCreate a `.env` file in the root directory:\n\n```env\nVITE_PROJECT_ID=your_reown_project_id\nVITE_ALCHEMY_KEY=your_alchemy_api_key\nVITE_RELAY_API_KEY=your_relay_api_key        # Optional, increases rate limits\nVITE_COVALENT_API_KEY=your_covalent_api_key  # Required for Revoke feature\n```\n\n| Variable | Scope | Description | Required |\n|----------|-------|-------------|----------|\n| `VITE_PROJECT_ID` | Client | Reown Project ID from [cloud.reown.com](https://cloud.reown.com) | **Yes** |\n| `VITE_ALCHEMY_KEY` | Client | Alchemy API key for token discovery | **Yes** |\n| `VITE_RELAY_API_KEY` | Client | Relay API key for higher rate limits | No |\n| `VITE_COVALENT_API_KEY` | Client | Covalent GoldRush API key from [goldrush.dev](https://goldrush.dev) | **Yes** (for Revoke) |\n\n## How It Works\n\n```\n┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐\n│ Connect │────▶│  Scan   │────▶│ Select  │────▶│  Quote  │────▶│ Execute │\n│ Wallet  │     │ Tokens  │     │  Dust   │     │ Routes  │     │  Batch  │\n└─────────┘     └─────────┘     └─────────┘     └─────────┘     └─────────┘\n```\n\n### Step-by-Step Flow\n\n1. **Wallet Connection**\n   - Reown AppKit connects the wallet via WalletConnect\n   - Strategy detection: checks for EIP-5792 batch support\n\n2. **Token Discovery**\n   - Alchemy API fetches all token holdings\n   - Filters for dust tokens ($0.01 - $100 USD value)\n   - Excludes zero balances and known scam tokens\n\n3. **Route Availability**\n   - Relay Protocol `/quote` API checks if swap route exists\n   - Tokens without routes marked as \"No Liquidity\"\n\n4. **Quote Creation**\n   - For each selected token: `POST /quote` to Relay\n   - Extracts transaction data from `steps[].items[].data`\n   - Calculates price impact and gas estimates\n\n5. **Approval Filtering**\n   - Checks current allowances via `allowance()` calls\n   - Skips approval if allowance already sufficient\n\n6. **Execution**\n   - **Batch Mode (EIP-5792):** All approvals + swaps sent via `wallet_sendCalls`\n   - **Legacy Mode:** Sequential `approve()` → `swap()` for each token\n   - Rate limiting protection with delays between operations\n\n7. **Status Tracking**\n   - Polls Relay `/intents/status` endpoint\n   - UI shows real-time progress\n\n## API Integrations\n\n| Service | Endpoints | Purpose |\n|---------|-----------|---------|\n| **Relay Protocol** | `/quote`, `/intents/status/v3` | Quotes, execution data, status |\n| **Alchemy** | Token API, JSON-RPC | Token discovery, balance verification |\n| **Covalent GoldRush** | `/approvals`, `/nft/approvals` | Token & NFT approval scanning |\n| **Reown** | WalletConnect | Wallet connection and signing |\n\n## Project Structure\n\n```\nbrass-hands/\n├── src/\n│   ├── lib/\n│   │   ├── components/\n│   │   │   ├── Header.svelte          # Navigation header with tool tabs\n│   │   │   ├── WalletProvider.svelte  # Wallet context\n│   │   │   └── ui/\n│   │   │       ├── TokenRow.svelte    # Token list item\n│   │   │       ├── SwapPreview.svelte # Quote summary\n│   │   │       ├── StatusModal.svelte # Execution progress\n│   │   │       └── NoLiquidityModal.svelte\n│   │   ├── config/\n│   │   │   ├── chains.ts              # Supported networks\n│   │   │   ├── constants.ts           # Token addresses, API keys\n│   │   │   └── wagmi.ts               # Wagmi + Reown config\n│   │   ├── services/\n│   │   │   ├── tokenService.ts        # Token discovery (Alchemy)\n│   │   │   ├── solverService.ts       # Relay API integration\n│   │   │   ├── executionService.ts    # Batch/Legacy execution\n│   │   │   ├── approvalService.ts     # Allowance checks\n│   │   │   ├── approvalScanService.ts # Covalent API for approvals\n│   │   │   ├── revokeService.ts       # Revoke transaction execution\n│   │   │   └── gasService.ts          # Gas estimation\n│   │   ├── stores/\n│   │   │   ├── dust.svelte.ts         # Dust sweeper state\n│   │   │   ├── wallet.svelte.ts       # Wallet state\n│   │   │   └── revoke.svelte.ts       # Revoke tool state\n│   │   ├── types/\n│   │   │   ├── index.ts               # Core TypeScript interfaces\n│   │   │   └── revoke.ts              # Revoke-specific types\n│   │   └── utils/\n│   │       └── format.ts              # Formatting helpers\n│   ├── routes/\n│   │   ├── +layout.svelte             # App layout\n│   │   ├── +page.svelte               # Dust Sweeper page\n│   │   └── revoke/\n│   │       └── +page.svelte           # Revoke Approvals page\n│   ├── app.css                        # Global styles\n│   └── app.html                       # HTML template\n├── static/\n│   └── favicon.svg\n├── .env                               # Environment variables\n├── package.json\n├── svelte.config.js\n├── tailwind.config.js\n├── tsconfig.json\n└── vite.config.ts\n```\n\n## Local Development\n\n```bash\n# Clone the repository\ngit clone https://github.com/xabzxbt/brass-hands.git\ncd brass-hands\n\n# Install dependencies\nnpm install\n\n# Create environment file\ncp .env.example .env\n# Edit .env with your API keys\n\n# Start development server\nnpm run dev\n```\n\nThe app will be available at `http://localhost:5173`\n\n## Vercel Deployment\n\n1. Push code to GitHub\n2. Import project in [Vercel Dashboard](https://vercel.com)\n3. Set environment variables:\n   - `VITE_PROJECT_ID`\n   - `VITE_ALCHEMY_KEY`\n   - `VITE_RELAY_API_KEY` (optional)\n4. Deploy\n\nBuild settings are auto-detected from `svelte.config.js`.\n\n## FAQ\n\n### Is this app secure?\n\n**Yes.** Brass Hands is a frontend-only interface. All core swap functionality is handled by [Relay Protocol](https://relay.link):\n\n| Component | Handled By | Notes |\n|-----------|------------|-------|\n| Token custody | **Relay Protocol** | We never hold user funds |\n| Swap execution | **Relay Protocol** | Audited smart contracts |\n| Price discovery | **Relay Protocol** | Real-time quotes from DEX aggregators |\n| Transaction signing | **User's Wallet** | We never access private keys |\n\n### What does Brass Hands actually do?\n\nBrass Hands is a **UI layer** that:\n- Fetches your token holdings (read-only)\n- Helps you select dust tokens and amounts\n- Requests quotes from Relay Protocol\n- Batches multiple swap calls into one wallet transaction (EIP-5792)\n- Displays transaction status\n\n### Can you steal my funds?\n\n**No.** This frontend:\n- Never requests your private keys\n- Never has custody of your tokens\n- Only submits transactions YOU approve in your wallet\n- Is fully open source for verification\n\n### What is the 98% Rule?\n\nWe swap 98% of your token balance, leaving a 2% buffer. This prevents transaction failures caused by:\n- Fee-on-transfer (tax) tokens\n- Price slippage during execution\n- Rounding errors\n\n### Why do some tokens say \"No Liquidity\"?\n\nSome tokens cannot be traded because:\n- No liquidity pool exists on DEXes\n- The token contract is broken or malicious\n- Relay Protocol doesn't support that token\n\nBrass Hands identifies these early so you don't waste gas.\n\n### Which wallets work best?\n\nFor the full batch experience (one signature for all swaps), use:\n- **Ambire Wallet** - Best overall experience\n- **OKX Wallet** - Excellent EIP-5792 support\n- **Coinbase Wallet** - Smart wallet batching\n\nMetaMask and other standard wallets work in \"Legacy Mode\" with sequential transactions.\n\n## License\n\nMIT License - Open source and free to use.\n\n---\n\n**Built with 🧡 by [xabzxbt](https://github.com/xabzxbt)**\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "3ace0bdaa6d62643235d5c010242d98a03bb395f",
+      "size": 374,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/3ace0bdaa6d62643235d5c010242d98a03bb395f",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/3ace0bdaa6d62643235d5c010242d98a03bb395f",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "7ad81347697b0ec91db5bace8349f5ec615f68c5",
+      "size": 15998,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/README.md?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/7ad81347697b0ec91db5bace8349f5ec615f68c5",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/7ad81347697b0ec91db5bace8349f5ec615f68c5",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/README.md"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "527cd2c5fc6861bdc1fb16c7845bfcffbdafa444",
+      "size": 248134,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/527cd2c5fc6861bdc1fb16c7845bfcffbdafa444",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/527cd2c5fc6861bdc1fb16c7845bfcffbdafa444",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "c696fb38075702141bfb8a041299442742962cf4",
+      "size": 1104,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/package.json?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/c696fb38075702141bfb8a041299442742962cf4",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/c696fb38075702141bfb8a041299442742962cf4",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "postcss.config.js",
+      "sha": "0f7721681d725ddea512a5ed734891cf6545ca3c",
+      "size": 73,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/postcss.config.js?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/postcss.config.js",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/0f7721681d725ddea512a5ed734891cf6545ca3c",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/postcss.config.js?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/0f7721681d725ddea512a5ed734891cf6545ca3c",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/postcss.config.js"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "bd45100b28bb11dd3f6ac2e3b7f86934bf9589bc",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/bd45100b28bb11dd3f6ac2e3b7f86934bf9589bc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/bd45100b28bb11dd3f6ac2e3b7f86934bf9589bc",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src"
+      }
+    },
+    {
+      "name": "app.css",
+      "path": "src/app.css",
+      "sha": "3c307512754c7e2bf1e488979f64ef0c784f415d",
+      "size": 2105,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/app.css?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/app.css",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/3c307512754c7e2bf1e488979f64ef0c784f415d",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/app.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/app.css?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/3c307512754c7e2bf1e488979f64ef0c784f415d",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/app.css"
+      }
+    },
+    {
+      "name": "app.d.ts",
+      "path": "src/app.d.ts",
+      "sha": "1d8cccd386f3439ff0446b7e6d8d65d816902586",
+      "size": 51,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/app.d.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/app.d.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/1d8cccd386f3439ff0446b7e6d8d65d816902586",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/app.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/app.d.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/1d8cccd386f3439ff0446b7e6d8d65d816902586",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/app.d.ts"
+      }
+    },
+    {
+      "name": "app.html",
+      "path": "src/app.html",
+      "sha": "9b4dc399c1185dab0a0e60212af6345e65442aca",
+      "size": 502,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/app.html?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/app.html",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/9b4dc399c1185dab0a0e60212af6345e65442aca",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/app.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/app.html?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/9b4dc399c1185dab0a0e60212af6345e65442aca",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/app.html"
+      }
+    },
+    {
+      "name": "lib",
+      "path": "src/lib",
+      "sha": "285557cad6be828d5f237d5cd09d99b04ee31dae",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/285557cad6be828d5f237d5cd09d99b04ee31dae",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/285557cad6be828d5f237d5cd09d99b04ee31dae",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/lib/components",
+      "sha": "c6a4707914d44966d15900a45b75df82c801238b",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/components",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/c6a4707914d44966d15900a45b75df82c801238b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/c6a4707914d44966d15900a45b75df82c801238b",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/components"
+      }
+    },
+    {
+      "name": "Header.svelte",
+      "path": "src/lib/components/Header.svelte",
+      "sha": "29805ab9405f10a939f2edd6c5f8de602b13a783",
+      "size": 4419,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/Header.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/Header.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/29805ab9405f10a939f2edd6c5f8de602b13a783",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/components/Header.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/Header.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/29805ab9405f10a939f2edd6c5f8de602b13a783",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/Header.svelte"
+      }
+    },
+    {
+      "name": "WalletProvider.svelte",
+      "path": "src/lib/components/WalletProvider.svelte",
+      "sha": "0bc7b5c9a716eb183f5d36328a2e286cc9c9643f",
+      "size": 1659,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/WalletProvider.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/WalletProvider.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/0bc7b5c9a716eb183f5d36328a2e286cc9c9643f",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/components/WalletProvider.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/WalletProvider.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/0bc7b5c9a716eb183f5d36328a2e286cc9c9643f",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/WalletProvider.svelte"
+      }
+    },
+    {
+      "name": "ui",
+      "path": "src/lib/components/ui",
+      "sha": "7a9c09210d14c248c278f1d088a02b2a115ae148",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/components/ui",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/7a9c09210d14c248c278f1d088a02b2a115ae148",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/7a9c09210d14c248c278f1d088a02b2a115ae148",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/components/ui"
+      }
+    },
+    {
+      "name": "NoLiquidityModal.svelte",
+      "path": "src/lib/components/ui/NoLiquidityModal.svelte",
+      "sha": "ea5e6658b16110b0c56aa2c228a80334d24af56e",
+      "size": 6817,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/NoLiquidityModal.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/NoLiquidityModal.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ea5e6658b16110b0c56aa2c228a80334d24af56e",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/components/ui/NoLiquidityModal.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/NoLiquidityModal.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ea5e6658b16110b0c56aa2c228a80334d24af56e",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/NoLiquidityModal.svelte"
+      }
+    },
+    {
+      "name": "StatusModal.svelte",
+      "path": "src/lib/components/ui/StatusModal.svelte",
+      "sha": "d95c7cbef059a3b435a030a5f3f99a5ff014b9c0",
+      "size": 5093,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/StatusModal.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/StatusModal.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/d95c7cbef059a3b435a030a5f3f99a5ff014b9c0",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/components/ui/StatusModal.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/StatusModal.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/d95c7cbef059a3b435a030a5f3f99a5ff014b9c0",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/StatusModal.svelte"
+      }
+    },
+    {
+      "name": "SwapPreview.svelte",
+      "path": "src/lib/components/ui/SwapPreview.svelte",
+      "sha": "891ec9f7ce6e75e9e9c2aaf5a44c7721ce0c35d7",
+      "size": 3725,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/SwapPreview.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/SwapPreview.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/891ec9f7ce6e75e9e9c2aaf5a44c7721ce0c35d7",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/components/ui/SwapPreview.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/SwapPreview.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/891ec9f7ce6e75e9e9c2aaf5a44c7721ce0c35d7",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/SwapPreview.svelte"
+      }
+    },
+    {
+      "name": "TokenRow.svelte",
+      "path": "src/lib/components/ui/TokenRow.svelte",
+      "sha": "6984cdd39ecf502d8702b3c620ff37f2702e9883",
+      "size": 3295,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/TokenRow.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/TokenRow.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/6984cdd39ecf502d8702b3c620ff37f2702e9883",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/components/ui/TokenRow.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/components/ui/TokenRow.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/6984cdd39ecf502d8702b3c620ff37f2702e9883",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/components/ui/TokenRow.svelte"
+      }
+    },
+    {
+      "name": "config",
+      "path": "src/lib/config",
+      "sha": "c7e555c81e3eb1814fa9faa4546734f4574d10e3",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/config",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/c7e555c81e3eb1814fa9faa4546734f4574d10e3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/c7e555c81e3eb1814fa9faa4546734f4574d10e3",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/config"
+      }
+    },
+    {
+      "name": "chains.ts",
+      "path": "src/lib/config/chains.ts",
+      "sha": "d54a4e47a28e9e5660f1886bef0854026064ee61",
+      "size": 662,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config/chains.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/config/chains.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/d54a4e47a28e9e5660f1886bef0854026064ee61",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/config/chains.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config/chains.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/d54a4e47a28e9e5660f1886bef0854026064ee61",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/config/chains.ts"
+      }
+    },
+    {
+      "name": "constants.ts",
+      "path": "src/lib/config/constants.ts",
+      "sha": "53a88321ec1a596b7cc061699c14db086a9ea163",
+      "size": 2919,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config/constants.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/config/constants.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/53a88321ec1a596b7cc061699c14db086a9ea163",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/config/constants.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config/constants.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/53a88321ec1a596b7cc061699c14db086a9ea163",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/config/constants.ts"
+      }
+    },
+    {
+      "name": "wagmi.ts",
+      "path": "src/lib/config/wagmi.ts",
+      "sha": "0df9906683316df5082ad67cf0abc1db96eca75e",
+      "size": 1077,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config/wagmi.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/config/wagmi.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/0df9906683316df5082ad67cf0abc1db96eca75e",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/config/wagmi.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/config/wagmi.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/0df9906683316df5082ad67cf0abc1db96eca75e",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/config/wagmi.ts"
+      }
+    },
+    {
+      "name": "services",
+      "path": "src/lib/services",
+      "sha": "7c74b7e7c6fc2edfd63abb98b276d5b6fda80e20",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/services",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/7c74b7e7c6fc2edfd63abb98b276d5b6fda80e20",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/7c74b7e7c6fc2edfd63abb98b276d5b6fda80e20",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/services"
+      }
+    },
+    {
+      "name": "approvalScanService.ts",
+      "path": "src/lib/services/approvalScanService.ts",
+      "sha": "9f4661385a83edd38cc998b77882368feeb5542f",
+      "size": 8936,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/approvalScanService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/approvalScanService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/9f4661385a83edd38cc998b77882368feeb5542f",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/approvalScanService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/approvalScanService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/9f4661385a83edd38cc998b77882368feeb5542f",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/approvalScanService.ts"
+      }
+    },
+    {
+      "name": "approvalService.ts",
+      "path": "src/lib/services/approvalService.ts",
+      "sha": "8af32f3b29a7b86838cb9b7a717e0187add0fbef",
+      "size": 4441,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/approvalService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/approvalService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/8af32f3b29a7b86838cb9b7a717e0187add0fbef",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/approvalService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/approvalService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/8af32f3b29a7b86838cb9b7a717e0187add0fbef",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/approvalService.ts"
+      }
+    },
+    {
+      "name": "executionService.ts",
+      "path": "src/lib/services/executionService.ts",
+      "sha": "70b076cf4c4cdb99f6d31901e5a24e2efb653b6f",
+      "size": 15246,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/executionService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/executionService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/70b076cf4c4cdb99f6d31901e5a24e2efb653b6f",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/executionService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/executionService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/70b076cf4c4cdb99f6d31901e5a24e2efb653b6f",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/executionService.ts"
+      }
+    },
+    {
+      "name": "gasService.ts",
+      "path": "src/lib/services/gasService.ts",
+      "sha": "68ba8975adfb4a6edbebf3bfab7340c43b0035dc",
+      "size": 1104,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/gasService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/gasService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/68ba8975adfb4a6edbebf3bfab7340c43b0035dc",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/gasService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/gasService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/68ba8975adfb4a6edbebf3bfab7340c43b0035dc",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/gasService.ts"
+      }
+    },
+    {
+      "name": "revokeService.ts",
+      "path": "src/lib/services/revokeService.ts",
+      "sha": "4d158e4e4e2872fed9c733c427610cd39250df1b",
+      "size": 8727,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/revokeService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/revokeService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/4d158e4e4e2872fed9c733c427610cd39250df1b",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/revokeService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/revokeService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/4d158e4e4e2872fed9c733c427610cd39250df1b",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/revokeService.ts"
+      }
+    },
+    {
+      "name": "solverService.ts",
+      "path": "src/lib/services/solverService.ts",
+      "sha": "701a30285c3c1ec4ab5b7f8549abee869c7cb6d4",
+      "size": 17100,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/solverService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/solverService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/701a30285c3c1ec4ab5b7f8549abee869c7cb6d4",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/solverService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/solverService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/701a30285c3c1ec4ab5b7f8549abee869c7cb6d4",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/solverService.ts"
+      }
+    },
+    {
+      "name": "tokenService.ts",
+      "path": "src/lib/services/tokenService.ts",
+      "sha": "ce853cc67cb61497c2bbaae971d39820f82271b2",
+      "size": 25645,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/tokenService.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/tokenService.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ce853cc67cb61497c2bbaae971d39820f82271b2",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/services/tokenService.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/services/tokenService.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ce853cc67cb61497c2bbaae971d39820f82271b2",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/services/tokenService.ts"
+      }
+    },
+    {
+      "name": "stores",
+      "path": "src/lib/stores",
+      "sha": "bf675dead6c42d3c21371df08fa4909cb91b7db9",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/stores",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/bf675dead6c42d3c21371df08fa4909cb91b7db9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/bf675dead6c42d3c21371df08fa4909cb91b7db9",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/stores"
+      }
+    },
+    {
+      "name": "dust.svelte.ts",
+      "path": "src/lib/stores/dust.svelte.ts",
+      "sha": "867e151acc0fd003c5234787f1eca8d950140b2b",
+      "size": 11885,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores/dust.svelte.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/stores/dust.svelte.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/867e151acc0fd003c5234787f1eca8d950140b2b",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/stores/dust.svelte.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores/dust.svelte.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/867e151acc0fd003c5234787f1eca8d950140b2b",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/stores/dust.svelte.ts"
+      }
+    },
+    {
+      "name": "revoke.svelte.ts",
+      "path": "src/lib/stores/revoke.svelte.ts",
+      "sha": "5bb046035b91ad1f8be22fe67a7d6288a8fec80d",
+      "size": 9512,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores/revoke.svelte.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/stores/revoke.svelte.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/5bb046035b91ad1f8be22fe67a7d6288a8fec80d",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/stores/revoke.svelte.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores/revoke.svelte.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/5bb046035b91ad1f8be22fe67a7d6288a8fec80d",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/stores/revoke.svelte.ts"
+      }
+    },
+    {
+      "name": "wallet.svelte.ts",
+      "path": "src/lib/stores/wallet.svelte.ts",
+      "sha": "ff88a5c26b3043eed1c7039823e72fcafdb666a3",
+      "size": 2528,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores/wallet.svelte.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/stores/wallet.svelte.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ff88a5c26b3043eed1c7039823e72fcafdb666a3",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/stores/wallet.svelte.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/stores/wallet.svelte.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ff88a5c26b3043eed1c7039823e72fcafdb666a3",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/stores/wallet.svelte.ts"
+      }
+    },
+    {
+      "name": "types",
+      "path": "src/lib/types",
+      "sha": "95c90c883f7ca103ef9e73ac70e4a21189e78087",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/types?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/types",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/95c90c883f7ca103ef9e73ac70e4a21189e78087",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/types?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/95c90c883f7ca103ef9e73ac70e4a21189e78087",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/types"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/lib/types/index.ts",
+      "sha": "527be95c89e293a6b53d836705cf0b0707485b77",
+      "size": 1601,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/types/index.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/types/index.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/527be95c89e293a6b53d836705cf0b0707485b77",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/types/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/types/index.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/527be95c89e293a6b53d836705cf0b0707485b77",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/types/index.ts"
+      }
+    },
+    {
+      "name": "revoke.ts",
+      "path": "src/lib/types/revoke.ts",
+      "sha": "a28b73f55105ce92433581dbdba5b740ee02f4e0",
+      "size": 2386,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/types/revoke.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/types/revoke.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/a28b73f55105ce92433581dbdba5b740ee02f4e0",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/types/revoke.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/types/revoke.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/a28b73f55105ce92433581dbdba5b740ee02f4e0",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/types/revoke.ts"
+      }
+    },
+    {
+      "name": "utils",
+      "path": "src/lib/utils",
+      "sha": "86dfe0c9397cd67998955a5ca8b563e4b61af924",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/utils?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/utils",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/86dfe0c9397cd67998955a5ca8b563e4b61af924",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/utils?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/86dfe0c9397cd67998955a5ca8b563e4b61af924",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/lib/utils"
+      }
+    },
+    {
+      "name": "format.ts",
+      "path": "src/lib/utils/format.ts",
+      "sha": "a220d9f68ceb18b7b0d057278c92433e8c10b9f2",
+      "size": 3246,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/utils/format.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/utils/format.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/a220d9f68ceb18b7b0d057278c92433e8c10b9f2",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/lib/utils/format.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/lib/utils/format.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/a220d9f68ceb18b7b0d057278c92433e8c10b9f2",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/lib/utils/format.ts"
+      }
+    },
+    {
+      "name": "routes",
+      "path": "src/routes",
+      "sha": "36cc679dc78f2470a47d2319189fcd9e561eabd9",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/routes",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/36cc679dc78f2470a47d2319189fcd9e561eabd9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/36cc679dc78f2470a47d2319189fcd9e561eabd9",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/routes"
+      }
+    },
+    {
+      "name": "+layout.svelte",
+      "path": "src/routes/+layout.svelte",
+      "sha": "ec45c02b45d0bfcd9952470633c601de096dd17b",
+      "size": 730,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/%2Blayout.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/routes/%2Blayout.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ec45c02b45d0bfcd9952470633c601de096dd17b",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/routes/+layout.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/%2Blayout.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ec45c02b45d0bfcd9952470633c601de096dd17b",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/routes/%2Blayout.svelte"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "src/routes/+page.svelte",
+      "sha": "ee0d9ebd7fade710d1c05b6979ba0d9af7b34cda",
+      "size": 19343,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/routes/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ee0d9ebd7fade710d1c05b6979ba0d9af7b34cda",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/routes/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/ee0d9ebd7fade710d1c05b6979ba0d9af7b34cda",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/routes/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "revoke",
+      "path": "src/routes/revoke",
+      "sha": "f57b3abb5bd1330867a74c9e869c63492d431cf2",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/revoke?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/src/routes/revoke",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/f57b3abb5bd1330867a74c9e869c63492d431cf2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/revoke?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/f57b3abb5bd1330867a74c9e869c63492d431cf2",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/src/routes/revoke"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "src/routes/revoke/+page.svelte",
+      "sha": "290fa39aa93635dea5f9c6a9a3c8b9b71be2b9ec",
+      "size": 19715,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/revoke/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/src/routes/revoke/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/290fa39aa93635dea5f9c6a9a3c8b9b71be2b9ec",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/src/routes/revoke/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/src/routes/revoke/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/290fa39aa93635dea5f9c6a9a3c8b9b71be2b9ec",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/src/routes/revoke/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "static",
+      "path": "static",
+      "sha": "b1782ded91c13374d08af32eb01610cf239316c4",
+      "size": 0,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/static?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/tree/main/static",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/b1782ded91c13374d08af32eb01610cf239316c4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/static?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/trees/b1782ded91c13374d08af32eb01610cf239316c4",
+        "html": "https://github.com/xabzxbt/brass-hands/tree/main/static"
+      }
+    },
+    {
+      "name": "favicon.svg",
+      "path": "static/favicon.svg",
+      "sha": "fc67fe1b063f9578cf7269bd5c34d4f0d976e305",
+      "size": 437,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/static/favicon.svg?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/static/favicon.svg",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/fc67fe1b063f9578cf7269bd5c34d4f0d976e305",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/static/favicon.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/static/favicon.svg?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/fc67fe1b063f9578cf7269bd5c34d4f0d976e305",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/static/favicon.svg"
+      }
+    },
+    {
+      "name": "svelte.config.js",
+      "path": "svelte.config.js",
+      "sha": "65b11c50f6c9da5fc61a96e4adc1beccbe113f88",
+      "size": 292,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/svelte.config.js?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/svelte.config.js",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/65b11c50f6c9da5fc61a96e4adc1beccbe113f88",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/svelte.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/svelte.config.js?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/65b11c50f6c9da5fc61a96e4adc1beccbe113f88",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/svelte.config.js"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "tailwind.config.js",
+      "sha": "fcdc798f9fd319e2641b2242979079108646b554",
+      "size": 1069,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/tailwind.config.js?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/fcdc798f9fd319e2641b2242979079108646b554",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/tailwind.config.js?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/fcdc798f9fd319e2641b2242979079108646b554",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/tailwind.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "9ce4638e1901f43938e35d69a775e0e505951fb9",
+      "size": 728,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/9ce4638e1901f43938e35d69a775e0e505951fb9",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/9ce4638e1901f43938e35d69a775e0e505951fb9",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "vite.config.ts",
+      "sha": "d750db2579f89b74ebd8ee97ea25903505a062e4",
+      "size": 350,
+      "url": "https://api.github.com/repos/xabzxbt/brass-hands/contents/vite.config.ts?ref=main",
+      "html_url": "https://github.com/xabzxbt/brass-hands/blob/main/vite.config.ts",
+      "git_url": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/d750db2579f89b74ebd8ee97ea25903505a062e4",
+      "download_url": "https://raw.githubusercontent.com/xabzxbt/brass-hands/main/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xabzxbt/brass-hands/contents/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/xabzxbt/brass-hands/git/blobs/d750db2579f89b74ebd8ee97ea25903505a062e4",
+        "html": "https://github.com/xabzxbt/brass-hands/blob/main/vite.config.ts"
+      }
+    }
+  ],
+  "external_domains": {
+    "vercel.com": 9661,
+    "localhost:5173`": null,
+    "goldrush.dev": null,
+    "github.com": 6734,
+    "cloud.reown.com": 9545,
+    "img.shields.io": 4776,
+    "svelte.dev": null,
+    "relay.link": 1538,
+    "brass-hands.vercel.app": null,
+    "vitejs.dev": null
+  },
+  "collected_at": "2026-03-18T17:48:21.012484"
+}

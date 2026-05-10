@@ -1,0 +1,18 @@
+{
+  "repo_full_name": "GSandersonHSCS/discord-0-day-fix",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-02-26T09:15:33.155604",
+  "repo_detail": {
+    "repo_full_name": "GSandersonHSCS/discord-0-day-fix",
+    "snapshot_url": "http://web.archive.org/web/20230614130844/https://github.com/GSandersonHSCS/discord-0-day-fix",
+    "snapshot_time": "20230614130844",
+    "stars": 1,
+    "forks": 0,
+    "watches": 2,
+    "readme": "Discord 0-day RCE PoC\n\n\npython poc.py --host[IP] --port[Port]\n\n",
+    "readme_domains": []
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

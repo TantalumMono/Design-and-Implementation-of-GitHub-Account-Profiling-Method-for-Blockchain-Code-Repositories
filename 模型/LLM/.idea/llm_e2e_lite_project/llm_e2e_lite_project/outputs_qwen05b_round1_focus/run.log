@@ -1,0 +1,11 @@
+2026-04-22 15:18:42,760 | INFO | Loading dataset...
+2026-04-22 15:18:43,395 | INFO | Loaded 2354 samples with 149 structured features.
+2026-04-22 15:18:43,553 | INFO | Skip tuning; use config as final params.
+2026-04-22 15:18:43,554 | INFO | Running 5-fold training/evaluation...
+2026-04-22 15:39:54,179 | INFO | Runtime cleanup finished after final run fold 0. gc_collected=29953
+2026-04-22 16:02:03,289 | INFO | Runtime cleanup finished after final run fold 1. gc_collected=29953
+2026-04-22 16:25:32,835 | INFO | Runtime cleanup finished after final run fold 2. gc_collected=29953
+2026-04-22 16:48:00,476 | INFO | Runtime cleanup finished after final run fold 3. gc_collected=29953
+2026-04-22 17:10:22,773 | INFO | Runtime cleanup finished after final run fold 4. gc_collected=29953
+2026-04-22 17:10:36,036 | INFO | Runtime cleanup finished after pipeline completion. gc_collected=99
+2026-04-22 17:10:36,036 | INFO | Done.

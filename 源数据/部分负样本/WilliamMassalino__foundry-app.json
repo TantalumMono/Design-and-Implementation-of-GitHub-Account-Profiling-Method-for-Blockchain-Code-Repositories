@@ -1,0 +1,703 @@
+{
+  "repo_full_name": "WilliamMassalino/foundry-app",
+  "repo_detail": {
+    "id": 846632741,
+    "node_id": "R_kgDOMnaXJQ",
+    "name": "foundry-app",
+    "full_name": "WilliamMassalino/foundry-app",
+    "private": false,
+    "owner": {
+      "login": "WilliamMassalino",
+      "id": 41436246,
+      "node_id": "MDQ6VXNlcjQxNDM2MjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41436246?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/WilliamMassalino",
+      "html_url": "https://github.com/WilliamMassalino",
+      "followers_url": "https://api.github.com/users/WilliamMassalino/followers",
+      "following_url": "https://api.github.com/users/WilliamMassalino/following{/other_user}",
+      "gists_url": "https://api.github.com/users/WilliamMassalino/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/WilliamMassalino/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/WilliamMassalino/subscriptions",
+      "organizations_url": "https://api.github.com/users/WilliamMassalino/orgs",
+      "repos_url": "https://api.github.com/users/WilliamMassalino/repos",
+      "events_url": "https://api.github.com/users/WilliamMassalino/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/WilliamMassalino/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/WilliamMassalino/foundry-app",
+    "description": "Crypto Devs NFT Collection with Whitelist  -- Crypto Devs is an NFT collection designed to give early supporters guaranteed access to mint NFTs. This project includes a whitelist system allowing a limited number of users to mint NFTs for free, while others have to pay a specified fee. The project is built using Solidity and Foundry.",
+    "fork": false,
+    "url": "https://api.github.com/repos/WilliamMassalino/foundry-app",
+    "forks_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/forks",
+    "keys_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/teams",
+    "hooks_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/hooks",
+    "issue_events_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/events",
+    "assignees_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/tags",
+    "blobs_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/languages",
+    "stargazers_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/stargazers",
+    "contributors_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contributors",
+    "subscribers_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/subscribers",
+    "subscription_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/subscription",
+    "commits_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/merges",
+    "archive_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/downloads",
+    "issues_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/labels{/name}",
+    "releases_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/deployments",
+    "created_at": "2024-08-23T16:09:27Z",
+    "updated_at": "2024-08-23T17:03:01Z",
+    "pushed_at": "2024-08-23T17:02:58Z",
+    "git_url": "git://github.com/WilliamMassalino/foundry-app.git",
+    "ssh_url": "git@github.com:WilliamMassalino/foundry-app.git",
+    "clone_url": "https://github.com/WilliamMassalino/foundry-app.git",
+    "svn_url": "https://github.com/WilliamMassalino/foundry-app",
+    "homepage": null,
+    "size": 21,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Solidity",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "WilliamMassalino",
+    "id": 41436246,
+    "node_id": "MDQ6VXNlcjQxNDM2MjQ2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/41436246?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WilliamMassalino",
+    "html_url": "https://github.com/WilliamMassalino",
+    "followers_url": "https://api.github.com/users/WilliamMassalino/followers",
+    "following_url": "https://api.github.com/users/WilliamMassalino/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WilliamMassalino/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WilliamMassalino/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WilliamMassalino/subscriptions",
+    "organizations_url": "https://api.github.com/users/WilliamMassalino/orgs",
+    "repos_url": "https://api.github.com/users/WilliamMassalino/repos",
+    "events_url": "https://api.github.com/users/WilliamMassalino/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WilliamMassalino/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "WILLIAM MASSALINO",
+    "company": null,
+    "blog": "https://www.linkedin.com/in/williammassalinoauditor/",
+    "location": "Brazil",
+    "email": null,
+    "hireable": null,
+    "bio": "🔍 Internal Auditor & Data Analytics.\r\n\r\nHi, I'm William Massalino, an Internal Auditor passionate about continuous auditing and data analytics.",
+    "twitter_username": null,
+    "public_repos": 75,
+    "public_gists": 0,
+    "followers": 9,
+    "following": 16,
+    "created_at": "2018-07-19T13:04:55Z",
+    "updated_at": "2025-10-01T21:43:24Z"
+  },
+  "readme": "# Crypto Devs NFT Collection with Whitelist\n\n## Introduction\n\nCrypto Devs is an NFT collection designed to give early supporters guaranteed access to mint NFTs. This project includes a whitelist system allowing a limited number of users to mint NFTs for free, while others have to pay a specified fee. The project is built using Solidity and Foundry, with smart contracts deployed on the Sepolia Ethereum test network.\n\n## Table of Contents\n\n- [Introduction](#introduction)\n- [Installation](#installation)\n- [Usage](#usage)\n- [Features](#features)\n- [Environment Variables](#environment-variables)\n- [Contracts](#contracts)\n- [Deployment](#deployment)\n- [Testing](#testing)\n- [License](#license)\n\n## Installation\n\nTo get started with the project, follow the steps below:\n\n1. **Clone the Repository:**\n   ```bash\n   git clone https://github.com/WilliamMassalino/foundry-app.git\n   cd foundry-app\n   \n2. **Set Up Foundry:** Ensure that Foundry is installed on your machine. If not, you can install it by following the [Foundry installation guide](https://book.getfoundry.sh/getting-started/installation.html).\n.\n\n3. **Install Dependencies:**\n    ```bash\n    forge install\n\n## Usage\n\n**Writing the Whitelist Contract**\n\n* The `Whitelist.sol` contract allows users to join a whitelist, limiting the number of addresses that can join.\n* Users can add themselves to the whitelist by calling the addAddressToWhitelist function.\n* The first 10 users can join the whitelist for free.\n\n**Writing the NFT Contract**\n\n* The `CryptoDevs.sol` contract is an ERC-721 implementation that allows users to mint NFTs from the Crypto Devs collection.\n* Whitelisted users can mint NFTs for free, while others must pay 0.01 ETH.\n\n## Adding Environment Variables\n\n1. Create a `.env` file in the root of your project.\n   \n2. Add the following variables:\n   \n```bash\nPRIVATE_KEY=\"your_private_key_here\"\nSEPOLIA_RPC_URL=\"your_quicknode_rpc_url_here\"\nETHERSCAN_API_KEY=\"your_etherscan_api_key_here\" (OPTIONAL).\n```\n## Features\n\n* **Whitelist Functionality:** Ensures only a limited number of users can join the whitelist.\n* **ERC-721 NFT Contract:** Implements the NFT standard with custom minting rules.\n* **Whitelist-based Minting:** Whitelisted users can mint NFTs for free.\n\n## Environment Variables\n\nEnsure to set up the following environment variables in your `.env` file:\n\n* `PRIVATE_KEY:` The private key of the wallet deploying the contracts.\n* `SEPOLIA_RPC_URL:` The RPC URL for the Ethereum Sepolia network.\n* `ETHERSCAN_API_KEY:` The API key for verifying contracts on Etherscan.\n\n## Contracts\n\n* **Whitelist.sol:** Handles the whitelist functionality.\n* **CryptoDevs.sol:** The NFT contract that interacts with the whitelist contract.\n\n## Deployment\n\nTo deploy the contracts:\n\n1. **Deploy the Whitelist Contract:**\n```bash\nforge create --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --constructor-args 10 --etherscan-api-key $ETHERSCAN_API_KEY --verify src/Whitelist.sol:Whitelist\n```\n2. **Deploy the NFT Contract:**\n```bash\nforge create --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --constructor-args <your Whitelist Contract's address> --etherscan-api-key $ETHERSCAN_API_KEY --verify src/CryptoDevs.sol:CryptoDevs\n```\n## Testing\n\nTo run the tests:\n\n1. **Run Tests for Whitelist:**\n\n```bash\nforge test --match-path src/tests/Whitelist.t.sol\n```\n\n2. **Run Tests for CryptoDevs:**\n```bash\nforge test --match-path src/tests/CryptoDevs.t.sol\n```\n3. **Deployment Tests:**\n```bash\nforge test --match-path src/tests/DeployWhitelistTest.t.sol\nforge test --match-path src/tests/DeployCryptoDevsTest.t.sol\n```\nOr simply `forge test` to run all the tests at once.\n\n## License\n\nThis project is licensed under the MIT License. \n\n\n### Summary:\n\n- The `CryptoDevs.sol` and `Whitelist.sol` files are the main contracts.\n- `Deploy.s.sol`, `DeployCryptoDevs.s.sol`, and the corresponding test files are used for deployment and testing.\n- The remappings in `remappings.txt` are configured for the project to correctly reference dependencies.\n\nThis `README.md` provides an overview, installation steps, usage details, deployment instructions, and testing guidelines to help users understand and interact with your project. Let me know if there's anything else you'd like to add or modify!\n\n",
+  "tree_structure": [
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "aeaca1ae785440f9694581f91ed344661baa87e1",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.github?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/.github",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/aeaca1ae785440f9694581f91ed344661baa87e1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.github?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/aeaca1ae785440f9694581f91ed344661baa87e1",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/.github"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "5383a7c0f988a752ec40bdc049042ee96c173bf7",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.github/workflows?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/.github/workflows",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/5383a7c0f988a752ec40bdc049042ee96c173bf7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.github/workflows?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/5383a7c0f988a752ec40bdc049042ee96c173bf7",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/.github/workflows"
+      }
+    },
+    {
+      "name": "test.yml",
+      "path": ".github/workflows/test.yml",
+      "sha": "9282e82944e8d8cc7ff0dbfc9409e6fdd80ef21f",
+      "size": 586,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.github/workflows/test.yml?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/.github/workflows/test.yml",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/9282e82944e8d8cc7ff0dbfc9409e6fdd80ef21f",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/.github/workflows/test.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.github/workflows/test.yml?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/9282e82944e8d8cc7ff0dbfc9409e6fdd80ef21f",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/.github/workflows/test.yml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "85198aaa55b84c0390b360ea2ba730087a9fcf49",
+      "size": 156,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/85198aaa55b84c0390b360ea2ba730087a9fcf49",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/85198aaa55b84c0390b360ea2ba730087a9fcf49",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": ".gitmodules",
+      "path": ".gitmodules",
+      "sha": "690924b6ac719b05a808820b80a49be3329f199e",
+      "size": 235,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.gitmodules?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/.gitmodules",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/690924b6ac719b05a808820b80a49be3329f199e",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/.gitmodules",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/.gitmodules?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/690924b6ac719b05a808820b80a49be3329f199e",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/.gitmodules"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "31a975918d2bf6d9beeb38695d5571d0ba9fe256",
+      "size": 4273,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/README.md?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/31a975918d2bf6d9beeb38695d5571d0ba9fe256",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/31a975918d2bf6d9beeb38695d5571d0ba9fe256",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/README.md"
+      }
+    },
+    {
+      "name": "broadcast",
+      "path": "broadcast",
+      "sha": "6b254f7fa19e00f1279898d4ffdb5abfd06f08ba",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/6b254f7fa19e00f1279898d4ffdb5abfd06f08ba",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/6b254f7fa19e00f1279898d4ffdb5abfd06f08ba",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast"
+      }
+    },
+    {
+      "name": "deploy.sol",
+      "path": "broadcast/deploy.sol",
+      "sha": "3ea4c953f82fdc940d01c6dd31b735f567e9dfa0",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deploy.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/3ea4c953f82fdc940d01c6dd31b735f567e9dfa0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/3ea4c953f82fdc940d01c6dd31b735f567e9dfa0",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deploy.sol"
+      }
+    },
+    {
+      "name": "11155111",
+      "path": "broadcast/deploy.sol/11155111",
+      "sha": "cd78b4d6faf7db085708881ca51a23391a321d9c",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol/11155111?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deploy.sol/11155111",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/cd78b4d6faf7db085708881ca51a23391a321d9c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol/11155111?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/cd78b4d6faf7db085708881ca51a23391a321d9c",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deploy.sol/11155111"
+      }
+    },
+    {
+      "name": "run-1724187538.json",
+      "path": "broadcast/deploy.sol/11155111/run-1724187538.json",
+      "sha": "1849c3062477c5c7fd10187401c7f1ab870c4173",
+      "size": 3455,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol/11155111/run-1724187538.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deploy.sol/11155111/run-1724187538.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/1849c3062477c5c7fd10187401c7f1ab870c4173",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deploy.sol/11155111/run-1724187538.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol/11155111/run-1724187538.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/1849c3062477c5c7fd10187401c7f1ab870c4173",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deploy.sol/11155111/run-1724187538.json"
+      }
+    },
+    {
+      "name": "run-latest.json",
+      "path": "broadcast/deploy.sol/11155111/run-latest.json",
+      "sha": "1849c3062477c5c7fd10187401c7f1ab870c4173",
+      "size": 3455,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol/11155111/run-latest.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deploy.sol/11155111/run-latest.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/1849c3062477c5c7fd10187401c7f1ab870c4173",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deploy.sol/11155111/run-latest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deploy.sol/11155111/run-latest.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/1849c3062477c5c7fd10187401c7f1ab870c4173",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deploy.sol/11155111/run-latest.json"
+      }
+    },
+    {
+      "name": "deployCryptoDevs.sol",
+      "path": "broadcast/deployCryptoDevs.sol",
+      "sha": "537e394062b555e74fff7b1c4585bbe72c42291a",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deployCryptoDevs.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/537e394062b555e74fff7b1c4585bbe72c42291a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/537e394062b555e74fff7b1c4585bbe72c42291a",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deployCryptoDevs.sol"
+      }
+    },
+    {
+      "name": "11155111",
+      "path": "broadcast/deployCryptoDevs.sol/11155111",
+      "sha": "87a098530798cccc1d426e9218cde5f3ef36b4eb",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deployCryptoDevs.sol/11155111",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/87a098530798cccc1d426e9218cde5f3ef36b4eb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/87a098530798cccc1d426e9218cde5f3ef36b4eb",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/broadcast/deployCryptoDevs.sol/11155111"
+      }
+    },
+    {
+      "name": "run-1724253969.json",
+      "path": "broadcast/deployCryptoDevs.sol/11155111/run-1724253969.json",
+      "sha": "34ba79458eac9216ed8e311ead9c2add964ecaa8",
+      "size": 15283,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724253969.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724253969.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/34ba79458eac9216ed8e311ead9c2add964ecaa8",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deployCryptoDevs.sol/11155111/run-1724253969.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724253969.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/34ba79458eac9216ed8e311ead9c2add964ecaa8",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724253969.json"
+      }
+    },
+    {
+      "name": "run-1724254009.json",
+      "path": "broadcast/deployCryptoDevs.sol/11155111/run-1724254009.json",
+      "sha": "1af9b64ff9d08476a830b581daf473478bfaedb1",
+      "size": 15283,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724254009.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724254009.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/1af9b64ff9d08476a830b581daf473478bfaedb1",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deployCryptoDevs.sol/11155111/run-1724254009.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724254009.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/1af9b64ff9d08476a830b581daf473478bfaedb1",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724254009.json"
+      }
+    },
+    {
+      "name": "run-1724254324.json",
+      "path": "broadcast/deployCryptoDevs.sol/11155111/run-1724254324.json",
+      "sha": "32b601c0ef753827d80b34bb5e161aee05993006",
+      "size": 15283,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724254324.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724254324.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/32b601c0ef753827d80b34bb5e161aee05993006",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deployCryptoDevs.sol/11155111/run-1724254324.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724254324.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/32b601c0ef753827d80b34bb5e161aee05993006",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724254324.json"
+      }
+    },
+    {
+      "name": "run-1724278137.json",
+      "path": "broadcast/deployCryptoDevs.sol/11155111/run-1724278137.json",
+      "sha": "0f382a3759b96bd1fd481f6f7feeb20992c5a92a",
+      "size": 17190,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724278137.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724278137.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/0f382a3759b96bd1fd481f6f7feeb20992c5a92a",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deployCryptoDevs.sol/11155111/run-1724278137.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-1724278137.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/0f382a3759b96bd1fd481f6f7feeb20992c5a92a",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-1724278137.json"
+      }
+    },
+    {
+      "name": "run-latest.json",
+      "path": "broadcast/deployCryptoDevs.sol/11155111/run-latest.json",
+      "sha": "0f382a3759b96bd1fd481f6f7feeb20992c5a92a",
+      "size": 17190,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-latest.json?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-latest.json",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/0f382a3759b96bd1fd481f6f7feeb20992c5a92a",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/broadcast/deployCryptoDevs.sol/11155111/run-latest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/broadcast/deployCryptoDevs.sol/11155111/run-latest.json?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/0f382a3759b96bd1fd481f6f7feeb20992c5a92a",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/broadcast/deployCryptoDevs.sol/11155111/run-latest.json"
+      }
+    },
+    {
+      "name": "foundry.toml",
+      "path": "foundry.toml",
+      "sha": "465d324084ef7ef504415320b6c0b55e8c001048",
+      "size": 169,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/foundry.toml?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/foundry.toml",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/465d324084ef7ef504415320b6c0b55e8c001048",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/foundry.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/foundry.toml?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/465d324084ef7ef504415320b6c0b55e8c001048",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/foundry.toml"
+      }
+    },
+    {
+      "name": "lib",
+      "path": "lib",
+      "sha": "410effdebf04f4877fbc662640089b6e0d82f604",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/lib?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/lib",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/410effdebf04f4877fbc662640089b6e0d82f604",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/lib?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/410effdebf04f4877fbc662640089b6e0d82f604",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/lib"
+      }
+    },
+    {
+      "name": "forge-std",
+      "path": "lib/forge-std",
+      "sha": "bf6606142994b1e47e2882ce0cd477c020d77623",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/lib/forge-std?ref=master",
+      "html_url": "https://github.com/foundry-rs/forge-std/tree/bf6606142994b1e47e2882ce0cd477c020d77623",
+      "git_url": "https://api.github.com/repos/foundry-rs/forge-std/git/trees/bf6606142994b1e47e2882ce0cd477c020d77623",
+      "download_url": null,
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/lib/forge-std?ref=master",
+        "git": "https://api.github.com/repos/foundry-rs/forge-std/git/trees/bf6606142994b1e47e2882ce0cd477c020d77623",
+        "html": "https://github.com/foundry-rs/forge-std/tree/bf6606142994b1e47e2882ce0cd477c020d77623"
+      }
+    },
+    {
+      "name": "openzeppelin-contracts",
+      "path": "lib/openzeppelin-contracts",
+      "sha": "eb4e8632f781cdc86b4b47c7e80a5066499bd5d8",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/lib/openzeppelin-contracts?ref=master",
+      "html_url": "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/eb4e8632f781cdc86b4b47c7e80a5066499bd5d8",
+      "git_url": "https://api.github.com/repos/OpenZeppelin/openzeppelin-contracts/git/trees/eb4e8632f781cdc86b4b47c7e80a5066499bd5d8",
+      "download_url": null,
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/lib/openzeppelin-contracts?ref=master",
+        "git": "https://api.github.com/repos/OpenZeppelin/openzeppelin-contracts/git/trees/eb4e8632f781cdc86b4b47c7e80a5066499bd5d8",
+        "html": "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/eb4e8632f781cdc86b4b47c7e80a5066499bd5d8"
+      }
+    },
+    {
+      "name": "remappings.txt",
+      "path": "remappings.txt",
+      "sha": "2c2800d107f299ab9add7464c41275d20583816c",
+      "size": 273,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/remappings.txt?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/remappings.txt",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/2c2800d107f299ab9add7464c41275d20583816c",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/remappings.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/remappings.txt?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/2c2800d107f299ab9add7464c41275d20583816c",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/remappings.txt"
+      }
+    },
+    {
+      "name": "script",
+      "path": "script",
+      "sha": "1bbceedc37ce68d25a23beb856ff9ebae4d2ff1a",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/script?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/script",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/1bbceedc37ce68d25a23beb856ff9ebae4d2ff1a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/script?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/1bbceedc37ce68d25a23beb856ff9ebae4d2ff1a",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/script"
+      }
+    },
+    {
+      "name": "Deploy.s.sol",
+      "path": "script/Deploy.s.sol",
+      "sha": "c48c4b9f7b14387ce212d9ca2eab87873a75df5e",
+      "size": 431,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/script/Deploy.s.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/script/Deploy.s.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/c48c4b9f7b14387ce212d9ca2eab87873a75df5e",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/script/Deploy.s.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/script/Deploy.s.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/c48c4b9f7b14387ce212d9ca2eab87873a75df5e",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/script/Deploy.s.sol"
+      }
+    },
+    {
+      "name": "DeployCryptoDevs.s.sol",
+      "path": "script/DeployCryptoDevs.s.sol",
+      "sha": "f0483299100df277bbd633b81a57de6154c49af2",
+      "size": 552,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/script/DeployCryptoDevs.s.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/script/DeployCryptoDevs.s.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/f0483299100df277bbd633b81a57de6154c49af2",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/script/DeployCryptoDevs.s.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/script/DeployCryptoDevs.s.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/f0483299100df277bbd633b81a57de6154c49af2",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/script/DeployCryptoDevs.s.sol"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "47c37e1e2264ed6e4b32f312924ca72ca14a1a7e",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/src?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/src",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/47c37e1e2264ed6e4b32f312924ca72ca14a1a7e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/src?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/47c37e1e2264ed6e4b32f312924ca72ca14a1a7e",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/src"
+      }
+    },
+    {
+      "name": "CryptoDevs.sol",
+      "path": "src/CryptoDevs.sol",
+      "sha": "3b74bc2acd3a03ca12a208e92786fc5f75ceba3d",
+      "size": 2488,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/src/CryptoDevs.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/src/CryptoDevs.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/3b74bc2acd3a03ca12a208e92786fc5f75ceba3d",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/src/CryptoDevs.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/src/CryptoDevs.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/3b74bc2acd3a03ca12a208e92786fc5f75ceba3d",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/src/CryptoDevs.sol"
+      }
+    },
+    {
+      "name": "Whitelist.sol",
+      "path": "src/Whitelist.sol",
+      "sha": "9adca28d7e7a58522da3c5f4813d765d23fcefde",
+      "size": 1470,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/src/Whitelist.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/src/Whitelist.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/9adca28d7e7a58522da3c5f4813d765d23fcefde",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/src/Whitelist.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/src/Whitelist.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/9adca28d7e7a58522da3c5f4813d765d23fcefde",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/src/Whitelist.sol"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "ee8286c9cbde74378c0afc79beb355907e8bbb91",
+      "size": 0,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/tree/master/test",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/ee8286c9cbde74378c0afc79beb355907e8bbb91",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/trees/ee8286c9cbde74378c0afc79beb355907e8bbb91",
+        "html": "https://github.com/WilliamMassalino/foundry-app/tree/master/test"
+      }
+    },
+    {
+      "name": "CryptoDevs.t.sol",
+      "path": "test/CryptoDevs.t.sol",
+      "sha": "a5fa8cc61d1e06be13bf2bd0214a9b44df9522bb",
+      "size": 4451,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/CryptoDevs.t.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/CryptoDevs.t.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/a5fa8cc61d1e06be13bf2bd0214a9b44df9522bb",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/test/CryptoDevs.t.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/CryptoDevs.t.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/a5fa8cc61d1e06be13bf2bd0214a9b44df9522bb",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/CryptoDevs.t.sol"
+      }
+    },
+    {
+      "name": "DeployCryptoDevsTest.t.sol",
+      "path": "test/DeployCryptoDevsTest.t.sol",
+      "sha": "d96e3d633f978e3621b3710247ac68d3eaeb4dda",
+      "size": 1073,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/DeployCryptoDevsTest.t.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/DeployCryptoDevsTest.t.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/d96e3d633f978e3621b3710247ac68d3eaeb4dda",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/test/DeployCryptoDevsTest.t.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/DeployCryptoDevsTest.t.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/d96e3d633f978e3621b3710247ac68d3eaeb4dda",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/DeployCryptoDevsTest.t.sol"
+      }
+    },
+    {
+      "name": "DeployWhitelistTest.t.sol",
+      "path": "test/DeployWhitelistTest.t.sol",
+      "sha": "4a39fa8068dee29437e3b04ddd059256a1ac8fae",
+      "size": 1696,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/DeployWhitelistTest.t.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/DeployWhitelistTest.t.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/4a39fa8068dee29437e3b04ddd059256a1ac8fae",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/test/DeployWhitelistTest.t.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/DeployWhitelistTest.t.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/4a39fa8068dee29437e3b04ddd059256a1ac8fae",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/DeployWhitelistTest.t.sol"
+      }
+    },
+    {
+      "name": "Whitelist.t.sol",
+      "path": "test/Whitelist.t.sol",
+      "sha": "d1d4a4bc7f6389d07d0acfce846326ce5ed5b0bc",
+      "size": 2378,
+      "url": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/Whitelist.t.sol?ref=master",
+      "html_url": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/Whitelist.t.sol",
+      "git_url": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/d1d4a4bc7f6389d07d0acfce846326ce5ed5b0bc",
+      "download_url": "https://raw.githubusercontent.com/WilliamMassalino/foundry-app/master/test/Whitelist.t.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WilliamMassalino/foundry-app/contents/test/Whitelist.t.sol?ref=master",
+        "git": "https://api.github.com/repos/WilliamMassalino/foundry-app/git/blobs/d1d4a4bc7f6389d07d0acfce846326ce5ed5b0bc",
+        "html": "https://github.com/WilliamMassalino/foundry-app/blob/master/test/Whitelist.t.sol"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6729,
+    "book.getfoundry.sh": 1444
+  },
+  "collected_at": "2026-03-13T19:32:37.464364"
+}

@@ -1,0 +1,1210 @@
+{
+  "repo_full_name": "xfolio-dao/xfolio-react-chrome",
+  "repo_detail": {
+    "id": 428346767,
+    "node_id": "R_kgDOGYgNjw",
+    "name": "xfolio-react-chrome",
+    "full_name": "xfolio-dao/xfolio-react-chrome",
+    "private": false,
+    "owner": {
+      "login": "xfolio-dao",
+      "id": 89267396,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MjY3Mzk2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89267396?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xfolio-dao",
+      "html_url": "https://github.com/xfolio-dao",
+      "followers_url": "https://api.github.com/users/xfolio-dao/followers",
+      "following_url": "https://api.github.com/users/xfolio-dao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xfolio-dao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xfolio-dao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xfolio-dao/subscriptions",
+      "organizations_url": "https://api.github.com/users/xfolio-dao/orgs",
+      "repos_url": "https://api.github.com/users/xfolio-dao/repos",
+      "events_url": "https://api.github.com/users/xfolio-dao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xfolio-dao/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome",
+    "description": "Cross-chain community-driven trading experience in your browser",
+    "fork": false,
+    "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome",
+    "forks_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/forks",
+    "keys_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/teams",
+    "hooks_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/hooks",
+    "issue_events_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/events",
+    "assignees_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/tags",
+    "blobs_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/languages",
+    "stargazers_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/stargazers",
+    "contributors_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contributors",
+    "subscribers_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/subscribers",
+    "subscription_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/subscription",
+    "commits_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/merges",
+    "archive_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/downloads",
+    "issues_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/deployments",
+    "created_at": "2021-11-15T16:49:26Z",
+    "updated_at": "2023-09-16T06:07:06Z",
+    "pushed_at": "2021-12-01T04:11:23Z",
+    "git_url": "git://github.com/xfolio-dao/xfolio-react-chrome.git",
+    "ssh_url": "git@github.com:xfolio-dao/xfolio-react-chrome.git",
+    "clone_url": "https://github.com/xfolio-dao/xfolio-react-chrome.git",
+    "svn_url": "https://github.com/xfolio-dao/xfolio-react-chrome",
+    "homepage": "",
+    "size": 564,
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "defi",
+      "ethereum",
+      "nft",
+      "wallet"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "xfolio-dao",
+      "id": 89267396,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MjY3Mzk2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89267396?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xfolio-dao",
+      "html_url": "https://github.com/xfolio-dao",
+      "followers_url": "https://api.github.com/users/xfolio-dao/followers",
+      "following_url": "https://api.github.com/users/xfolio-dao/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xfolio-dao/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xfolio-dao/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xfolio-dao/subscriptions",
+      "organizations_url": "https://api.github.com/users/xfolio-dao/orgs",
+      "repos_url": "https://api.github.com/users/xfolio-dao/repos",
+      "events_url": "https://api.github.com/users/xfolio-dao/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xfolio-dao/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "xfolio-dao",
+    "id": 89267396,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MjY3Mzk2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89267396?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xfolio-dao",
+    "html_url": "https://github.com/xfolio-dao",
+    "followers_url": "https://api.github.com/users/xfolio-dao/followers",
+    "following_url": "https://api.github.com/users/xfolio-dao/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xfolio-dao/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xfolio-dao/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xfolio-dao/subscriptions",
+    "organizations_url": "https://api.github.com/users/xfolio-dao/orgs",
+    "repos_url": "https://api.github.com/users/xfolio-dao/repos",
+    "events_url": "https://api.github.com/users/xfolio-dao/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xfolio-dao/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Xfolio",
+    "company": null,
+    "blog": "https://xfolio.finance",
+    "location": null,
+    "email": "daniel@xfolio.finance",
+    "hireable": null,
+    "bio": "Community-driven Ethereum wallet and trading platform",
+    "twitter_username": "xfoliodao",
+    "public_repos": 4,
+    "public_gists": 0,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2021-08-20T15:58:29Z",
+    "updated_at": "2021-08-31T00:53:51Z"
+  },
+  "readme": "# Xfolio Chrome\n\nCrosschain ethereum wallet and trading platform made by the people, for the people.\n\n## Functionality\n* **Wallet**: track your portfolio balance, send, receive and buy digital assets.\n* **Search**: get fresh price data on ERC-20s and save them in a watchlist.\n* **Swap**: swap ERC-20s on one of the supported chains or trade stablecoins between the chains!\n* **P2P trading**: exchange ERC-20s and ERC-721s in a secure and free manner with other Xfolio Web users.\n* **Sub-extension store**: enjoy the smooth experience of using your favorite DeFi protocols\n\n## Technical Specs\n* **Supported networks**: Mainnet, Rinkeby, Arbitrum, Avalanche, Polygon, Optimism\n* **Frontend**: React.js, tailwindcss, \n* **Blockchain**: ethers.js, ipfs-http-client\n* **Powered by**: 0x, xPollinate, 1inch, Alchemy, Etherscan.io, Hop Protocol\n  \n## Try it yourself\nClone the repository:\n\n```git clone https://github.com/xfolio-dao/xfolio-react-chrome```\n\nBuild the extension:\n\n```yarn run build```",
+  "tree_structure": [
+    {
+      "name": ".eslintignore",
+      "path": ".eslintignore",
+      "sha": "f06235c460c2de3d97efc8371125594b7b761b08",
+      "size": 18,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/.eslintignore?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/.eslintignore",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/f06235c460c2de3d97efc8371125594b7b761b08",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/.eslintignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/.eslintignore?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/f06235c460c2de3d97efc8371125594b7b761b08",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/.eslintignore"
+      }
+    },
+    {
+      "name": ".eslintrc.json",
+      "path": ".eslintrc.json",
+      "sha": "416db059f80818d92d87da40f7fd0307c1592db3",
+      "size": 858,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/.eslintrc.json?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/.eslintrc.json",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/416db059f80818d92d87da40f7fd0307c1592db3",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/.eslintrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/.eslintrc.json?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/416db059f80818d92d87da40f7fd0307c1592db3",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/.eslintrc.json"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "50a472ec474b20a858f881b981e402a0e2feb995",
+      "size": 337,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/50a472ec474b20a858f881b981e402a0e2feb995",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/50a472ec474b20a858f881b981e402a0e2feb995",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "9dd9998a90209a75f2658a8a1df96c25a0b1ce06",
+      "size": 993,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/README.md?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9dd9998a90209a75f2658a8a1df96c25a0b1ce06",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9dd9998a90209a75f2658a8a1df96c25a0b1ce06",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/README.md"
+      }
+    },
+    {
+      "name": "craco.config.js",
+      "path": "craco.config.js",
+      "sha": "48376b9217d73e1c5d878fb3a93ed5b206fc3611",
+      "size": 142,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/craco.config.js?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/craco.config.js",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/48376b9217d73e1c5d878fb3a93ed5b206fc3611",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/craco.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/craco.config.js?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/48376b9217d73e1c5d878fb3a93ed5b206fc3611",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/craco.config.js"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "ce1bf5895eb9a0c06f0b4e2ca314b68fbed6ad43",
+      "size": 1654,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/package.json?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ce1bf5895eb9a0c06f0b4e2ca314b68fbed6ad43",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ce1bf5895eb9a0c06f0b4e2ca314b68fbed6ad43",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/package.json"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "37ecd74b554a8178ae74e4e40ca6ef7c1692823c",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/public",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/37ecd74b554a8178ae74e4e40ca6ef7c1692823c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/37ecd74b554a8178ae74e4e40ca6ef7c1692823c",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/public"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "public/index.html",
+      "sha": "da3b60cd37c51db8ad0bbaa008164c6cdfdec210",
+      "size": 1357,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/index.html?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/index.html",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/da3b60cd37c51db8ad0bbaa008164c6cdfdec210",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/index.html?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/da3b60cd37c51db8ad0bbaa008164c6cdfdec210",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/index.html"
+      }
+    },
+    {
+      "name": "manifest.json",
+      "path": "public/manifest.json",
+      "sha": "21a51f08933c412b4a906026eb0e1b177cc29844",
+      "size": 436,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/manifest.json?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/manifest.json",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/21a51f08933c412b4a906026eb0e1b177cc29844",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/public/manifest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/manifest.json?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/21a51f08933c412b4a906026eb0e1b177cc29844",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/manifest.json"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "public/robots.txt",
+      "sha": "e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "size": 67,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/robots.txt?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/robots.txt",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/robots.txt?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/robots.txt"
+      }
+    },
+    {
+      "name": "xfolio256.png",
+      "path": "public/xfolio256.png",
+      "sha": "da2e14c5e711210f7c93ede339c1daebf6ac476f",
+      "size": 19714,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/xfolio256.png?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/xfolio256.png",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/da2e14c5e711210f7c93ede339c1daebf6ac476f",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/public/xfolio256.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/public/xfolio256.png?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/da2e14c5e711210f7c93ede339c1daebf6ac476f",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/public/xfolio256.png"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "843cbaf7f914c11bbe1f3d6c8148ae83e43b7cd5",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/843cbaf7f914c11bbe1f3d6c8148ae83e43b7cd5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/843cbaf7f914c11bbe1f3d6c8148ae83e43b7cd5",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src"
+      }
+    },
+    {
+      "name": "App.tsx",
+      "path": "src/App.tsx",
+      "sha": "992512644a9d6fe0c87ee540bb92e978e474dd17",
+      "size": 1400,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/App.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/App.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/992512644a9d6fe0c87ee540bb92e978e474dd17",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/App.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/App.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/992512644a9d6fe0c87ee540bb92e978e474dd17",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/App.tsx"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "src/assets",
+      "sha": "b5cea25a06797be49c3a5c86f194b63ef9aa1231",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/assets?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/assets",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/b5cea25a06797be49c3a5c86f194b63ef9aa1231",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/assets?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/b5cea25a06797be49c3a5c86f194b63ef9aa1231",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/assets"
+      }
+    },
+    {
+      "name": "xfolio256.png",
+      "path": "src/assets/xfolio256.png",
+      "sha": "da2e14c5e711210f7c93ede339c1daebf6ac476f",
+      "size": 19714,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/assets/xfolio256.png?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/assets/xfolio256.png",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/da2e14c5e711210f7c93ede339c1daebf6ac476f",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/assets/xfolio256.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/assets/xfolio256.png?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/da2e14c5e711210f7c93ede339c1daebf6ac476f",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/assets/xfolio256.png"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/components",
+      "sha": "0445952f05b22f84befef20cd9db46ea13b4b846",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/0445952f05b22f84befef20cd9db46ea13b4b846",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/0445952f05b22f84befef20cd9db46ea13b4b846",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components"
+      }
+    },
+    {
+      "name": "Button",
+      "path": "src/components/Button",
+      "sha": "94c2fec3b8525e994f3146de3c9d2a6d3862b24f",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Button?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Button",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/94c2fec3b8525e994f3146de3c9d2a6d3862b24f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Button?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/94c2fec3b8525e994f3146de3c9d2a6d3862b24f",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Button"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/components/Button/index.tsx",
+      "sha": "ab52b3b1a6ec385e1b8c244d799f780947655cf4",
+      "size": 573,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Button/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Button/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ab52b3b1a6ec385e1b8c244d799f780947655cf4",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Button/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Button/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ab52b3b1a6ec385e1b8c244d799f780947655cf4",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Button/index.tsx"
+      }
+    },
+    {
+      "name": "Footer",
+      "path": "src/components/Footer",
+      "sha": "c7c59ec1a87124a78e97765927d1dcc3c9868df7",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Footer?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Footer",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/c7c59ec1a87124a78e97765927d1dcc3c9868df7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Footer?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/c7c59ec1a87124a78e97765927d1dcc3c9868df7",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Footer"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/components/Footer/index.tsx",
+      "sha": "ea2509e52a517e5dc96d78472ea2373a82284c25",
+      "size": 1620,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Footer/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Footer/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ea2509e52a517e5dc96d78472ea2373a82284c25",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Footer/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Footer/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ea2509e52a517e5dc96d78472ea2373a82284c25",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Footer/index.tsx"
+      }
+    },
+    {
+      "name": "Header",
+      "path": "src/components/Header",
+      "sha": "85369cbf2e97691b033df19b2dfc3bba5f9f486a",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Header?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Header",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/85369cbf2e97691b033df19b2dfc3bba5f9f486a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Header?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/85369cbf2e97691b033df19b2dfc3bba5f9f486a",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Header"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/components/Header/index.tsx",
+      "sha": "242a769bf90d224be2258f62d52007e5927a951d",
+      "size": 358,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Header/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Header/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/242a769bf90d224be2258f62d52007e5927a951d",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Header/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Header/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/242a769bf90d224be2258f62d52007e5927a951d",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Header/index.tsx"
+      }
+    },
+    {
+      "name": "Input",
+      "path": "src/components/Input",
+      "sha": "10a4a3104e957c11350ea195b0edf23a2fe739c6",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Input",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/10a4a3104e957c11350ea195b0edf23a2fe739c6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/10a4a3104e957c11350ea195b0edf23a2fe739c6",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Input"
+      }
+    },
+    {
+      "name": "createWalletForm.tsx",
+      "path": "src/components/Input/createWalletForm.tsx",
+      "sha": "40134dcdc36a83dbe9bca72ae52d1551ec08e8c2",
+      "size": 1245,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/createWalletForm.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/createWalletForm.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/40134dcdc36a83dbe9bca72ae52d1551ec08e8c2",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Input/createWalletForm.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/createWalletForm.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/40134dcdc36a83dbe9bca72ae52d1551ec08e8c2",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/createWalletForm.tsx"
+      }
+    },
+    {
+      "name": "formikTextInput.tsx",
+      "path": "src/components/Input/formikTextInput.tsx",
+      "sha": "80df609c53a55953817258753d1aebcabb320609",
+      "size": 882,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/formikTextInput.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/formikTextInput.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/80df609c53a55953817258753d1aebcabb320609",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Input/formikTextInput.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/formikTextInput.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/80df609c53a55953817258753d1aebcabb320609",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/formikTextInput.tsx"
+      }
+    },
+    {
+      "name": "importWalletForm.tsx",
+      "path": "src/components/Input/importWalletForm.tsx",
+      "sha": "9eda60278b1036d6db9362043a1beba4a45fa7a4",
+      "size": 2777,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/importWalletForm.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/importWalletForm.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9eda60278b1036d6db9362043a1beba4a45fa7a4",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Input/importWalletForm.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/importWalletForm.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9eda60278b1036d6db9362043a1beba4a45fa7a4",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/importWalletForm.tsx"
+      }
+    },
+    {
+      "name": "inputPasswordForm.tsx",
+      "path": "src/components/Input/inputPasswordForm.tsx",
+      "sha": "a7e856aa0c2d8f06579dbbd47945131f6a6675e1",
+      "size": 1137,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/inputPasswordForm.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/inputPasswordForm.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/a7e856aa0c2d8f06579dbbd47945131f6a6675e1",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Input/inputPasswordForm.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/inputPasswordForm.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/a7e856aa0c2d8f06579dbbd47945131f6a6675e1",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/inputPasswordForm.tsx"
+      }
+    },
+    {
+      "name": "setPasswordForm.tsx",
+      "path": "src/components/Input/setPasswordForm.tsx",
+      "sha": "ae8e9aa374747fc35d6c13b71ecece6269eecf18",
+      "size": 1587,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/setPasswordForm.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/setPasswordForm.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ae8e9aa374747fc35d6c13b71ecece6269eecf18",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Input/setPasswordForm.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Input/setPasswordForm.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ae8e9aa374747fc35d6c13b71ecece6269eecf18",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Input/setPasswordForm.tsx"
+      }
+    },
+    {
+      "name": "Layout",
+      "path": "src/components/Layout",
+      "sha": "077fc82f31875de537908eaf87db814f4c575bf5",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Layout?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Layout",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/077fc82f31875de537908eaf87db814f4c575bf5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Layout?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/077fc82f31875de537908eaf87db814f4c575bf5",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Layout"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/components/Layout/index.tsx",
+      "sha": "9f24a67afdb29806dc15aba224ecb095f90b4595",
+      "size": 357,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Layout/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Layout/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9f24a67afdb29806dc15aba224ecb095f90b4595",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Layout/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Layout/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9f24a67afdb29806dc15aba224ecb095f90b4595",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Layout/index.tsx"
+      }
+    },
+    {
+      "name": "simple.tsx",
+      "path": "src/components/Layout/simple.tsx",
+      "sha": "4d41c3f31f02a177a8aa145b85fa68ae15065ac4",
+      "size": 269,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Layout/simple.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Layout/simple.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/4d41c3f31f02a177a8aa145b85fa68ae15065ac4",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Layout/simple.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Layout/simple.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/4d41c3f31f02a177a8aa145b85fa68ae15065ac4",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Layout/simple.tsx"
+      }
+    },
+    {
+      "name": "MnemonicPhraseView",
+      "path": "src/components/MnemonicPhraseView",
+      "sha": "9a3a91127cc3131823ce3ad6485aec6e67841b9e",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/MnemonicPhraseView?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/MnemonicPhraseView",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/9a3a91127cc3131823ce3ad6485aec6e67841b9e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/MnemonicPhraseView?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/9a3a91127cc3131823ce3ad6485aec6e67841b9e",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/MnemonicPhraseView"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/components/MnemonicPhraseView/index.tsx",
+      "sha": "3d7e296be94d80c5ae15e49eee39e5853dd6760f",
+      "size": 598,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/MnemonicPhraseView/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/MnemonicPhraseView/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/3d7e296be94d80c5ae15e49eee39e5853dd6760f",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/MnemonicPhraseView/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/MnemonicPhraseView/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/3d7e296be94d80c5ae15e49eee39e5853dd6760f",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/MnemonicPhraseView/index.tsx"
+      }
+    },
+    {
+      "name": "Text",
+      "path": "src/components/Text",
+      "sha": "c0a0e359c458afdfc772d7c58a710bd1de67a18a",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Text?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Text",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/c0a0e359c458afdfc772d7c58a710bd1de67a18a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Text?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/c0a0e359c458afdfc772d7c58a710bd1de67a18a",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/components/Text"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/components/Text/index.tsx",
+      "sha": "7fcef5d0b6e1c4a60abc429a13966f600b8d44fb",
+      "size": 143,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Text/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Text/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/7fcef5d0b6e1c4a60abc429a13966f600b8d44fb",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/components/Text/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/components/Text/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/7fcef5d0b6e1c4a60abc429a13966f600b8d44fb",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/components/Text/index.tsx"
+      }
+    },
+    {
+      "name": "constants",
+      "path": "src/constants",
+      "sha": "6fc8a1681ce131dac395989110ce05f8ac267b55",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/constants?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/constants",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/6fc8a1681ce131dac395989110ce05f8ac267b55",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/constants?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/6fc8a1681ce131dac395989110ce05f8ac267b55",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/constants"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/constants/index.tsx",
+      "sha": "5c66a81c8443d602b62e53be6ff67e702121d501",
+      "size": 400,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/constants/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/constants/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/5c66a81c8443d602b62e53be6ff67e702121d501",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/constants/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/constants/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/5c66a81c8443d602b62e53be6ff67e702121d501",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/constants/index.tsx"
+      }
+    },
+    {
+      "name": "context",
+      "path": "src/context",
+      "sha": "d35d09db3312714e8f86ae5a2a22f3faa4e756ea",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/context?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/context",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/d35d09db3312714e8f86ae5a2a22f3faa4e756ea",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/context?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/d35d09db3312714e8f86ae5a2a22f3faa4e756ea",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/context"
+      }
+    },
+    {
+      "name": "walletContext.ts",
+      "path": "src/context/walletContext.ts",
+      "sha": "9ced1beaef6d5c9357b70c92e955970949393237",
+      "size": 162,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/context/walletContext.ts?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/context/walletContext.ts",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9ced1beaef6d5c9357b70c92e955970949393237",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/context/walletContext.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/context/walletContext.ts?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/9ced1beaef6d5c9357b70c92e955970949393237",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/context/walletContext.ts"
+      }
+    },
+    {
+      "name": "hooks",
+      "path": "src/hooks",
+      "sha": "1a63c2b2c9d509e428cca18c87c657045cdbeb8e",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/hooks?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/hooks",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/1a63c2b2c9d509e428cca18c87c657045cdbeb8e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/hooks?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/1a63c2b2c9d509e428cca18c87c657045cdbeb8e",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/hooks"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/hooks/index.ts",
+      "sha": "75159dda6fbb7ee207edb34dd95af25502f9f38b",
+      "size": 1665,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/hooks/index.ts?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/hooks/index.ts",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/75159dda6fbb7ee207edb34dd95af25502f9f38b",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/hooks/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/hooks/index.ts?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/75159dda6fbb7ee207edb34dd95af25502f9f38b",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/hooks/index.ts"
+      }
+    },
+    {
+      "name": "useEth.ts",
+      "path": "src/hooks/useEth.ts",
+      "sha": "c5a30243b4f71e96b243f8ab268d4f2af002bcd3",
+      "size": 795,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/hooks/useEth.ts?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/hooks/useEth.ts",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/c5a30243b4f71e96b243f8ab268d4f2af002bcd3",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/hooks/useEth.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/hooks/useEth.ts?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/c5a30243b4f71e96b243f8ab268d4f2af002bcd3",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/hooks/useEth.ts"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "src/index.css",
+      "sha": "2abe5146d20815d85308f298a1e21b5c2853ffb0",
+      "size": 109,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/index.css?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/index.css",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/2abe5146d20815d85308f298a1e21b5c2853ffb0",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/index.css?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/2abe5146d20815d85308f298a1e21b5c2853ffb0",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/index.css"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/index.tsx",
+      "sha": "e828a5ee90798cfcc52f311f92a5a870ea309759",
+      "size": 172,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/e828a5ee90798cfcc52f311f92a5a870ea309759",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/e828a5ee90798cfcc52f311f92a5a870ea309759",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/index.tsx"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "src/pages",
+      "sha": "8a8a30ed676548b6459024a1d7c5d0b1893a4268",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/8a8a30ed676548b6459024a1d7c5d0b1893a4268",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/8a8a30ed676548b6459024a1d7c5d0b1893a4268",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages"
+      }
+    },
+    {
+      "name": "login",
+      "path": "src/pages/login",
+      "sha": "0787357eda48bfbd3d8c9e9cfad6c321a04fe9c5",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages/login",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/0787357eda48bfbd3d8c9e9cfad6c321a04fe9c5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/0787357eda48bfbd3d8c9e9cfad6c321a04fe9c5",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages/login"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/pages/login/index.tsx",
+      "sha": "3bc7b1721d6b1ddf032d82453040366df535a90e",
+      "size": 2146,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/login/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/3bc7b1721d6b1ddf032d82453040366df535a90e",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/pages/login/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/3bc7b1721d6b1ddf032d82453040366df535a90e",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/login/index.tsx"
+      }
+    },
+    {
+      "name": "mnemonic.tsx",
+      "path": "src/pages/login/mnemonic.tsx",
+      "sha": "e7a308ecf95022513ed01a3389d6762711c88ca6",
+      "size": 669,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login/mnemonic.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/login/mnemonic.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/e7a308ecf95022513ed01a3389d6762711c88ca6",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/pages/login/mnemonic.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login/mnemonic.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/e7a308ecf95022513ed01a3389d6762711c88ca6",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/login/mnemonic.tsx"
+      }
+    },
+    {
+      "name": "setPassword.tsx",
+      "path": "src/pages/login/setPassword.tsx",
+      "sha": "154c53403c937a88bf1ff62da3752e6bc8272c9d",
+      "size": 864,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login/setPassword.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/login/setPassword.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/154c53403c937a88bf1ff62da3752e6bc8272c9d",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/pages/login/setPassword.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/login/setPassword.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/154c53403c937a88bf1ff62da3752e6bc8272c9d",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/login/setPassword.tsx"
+      }
+    },
+    {
+      "name": "settings",
+      "path": "src/pages/settings",
+      "sha": "9950d0eae974f3026f9cc1866179fe2a02bf2847",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/settings?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages/settings",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/9950d0eae974f3026f9cc1866179fe2a02bf2847",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/settings?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/9950d0eae974f3026f9cc1866179fe2a02bf2847",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages/settings"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/pages/settings/index.tsx",
+      "sha": "19cc85a14e0ff6c95ca2dc5dbbc81b137f1ac84e",
+      "size": 423,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/settings/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/settings/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/19cc85a14e0ff6c95ca2dc5dbbc81b137f1ac84e",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/pages/settings/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/settings/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/19cc85a14e0ff6c95ca2dc5dbbc81b137f1ac84e",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/settings/index.tsx"
+      }
+    },
+    {
+      "name": "wallet",
+      "path": "src/pages/wallet",
+      "sha": "3eda89fdb148f40eae7cc97ae5443d097fa7091f",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/wallet?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages/wallet",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/3eda89fdb148f40eae7cc97ae5443d097fa7091f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/wallet?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/3eda89fdb148f40eae7cc97ae5443d097fa7091f",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/pages/wallet"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/pages/wallet/index.tsx",
+      "sha": "2643bdded1e3e56243ff4e1bf1b2b16f2291ec58",
+      "size": 1507,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/wallet/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/wallet/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/2643bdded1e3e56243ff4e1bf1b2b16f2291ec58",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/pages/wallet/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/pages/wallet/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/2643bdded1e3e56243ff4e1bf1b2b16f2291ec58",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/pages/wallet/index.tsx"
+      }
+    },
+    {
+      "name": "react-app-env.d.ts",
+      "path": "src/react-app-env.d.ts",
+      "sha": "6431bc5fc6b2c932dfe5d0418fc667b86c18b9fc",
+      "size": 40,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/react-app-env.d.ts?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/react-app-env.d.ts",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/6431bc5fc6b2c932dfe5d0418fc667b86c18b9fc",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/react-app-env.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/react-app-env.d.ts?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/6431bc5fc6b2c932dfe5d0418fc667b86c18b9fc",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/react-app-env.d.ts"
+      }
+    },
+    {
+      "name": "types",
+      "path": "src/types",
+      "sha": "3178b161bfaae9595def8a591977191a67828601",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/types?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/types",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/3178b161bfaae9595def8a591977191a67828601",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/types?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/3178b161bfaae9595def8a591977191a67828601",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/types"
+      }
+    },
+    {
+      "name": "index.d.ts",
+      "path": "src/types/index.d.ts",
+      "sha": "c2ffde6fa09a36b5ea3278ad83e44a48ac552829",
+      "size": 287,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/types/index.d.ts?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/types/index.d.ts",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/c2ffde6fa09a36b5ea3278ad83e44a48ac552829",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/types/index.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/types/index.d.ts?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/c2ffde6fa09a36b5ea3278ad83e44a48ac552829",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/types/index.d.ts"
+      }
+    },
+    {
+      "name": "utils",
+      "path": "src/utils",
+      "sha": "061ef46c4b557bcf4bd9fa6c4bb424286b130197",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/utils",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/061ef46c4b557bcf4bd9fa6c4bb424286b130197",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/061ef46c4b557bcf4bd9fa6c4bb424286b130197",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/utils"
+      }
+    },
+    {
+      "name": "ethers",
+      "path": "src/utils/ethers",
+      "sha": "fd1565bb369b7ae208cb4e8ca6d7fc2d2103a071",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/ethers?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/utils/ethers",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/fd1565bb369b7ae208cb4e8ca6d7fc2d2103a071",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/ethers?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/fd1565bb369b7ae208cb4e8ca6d7fc2d2103a071",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/utils/ethers"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/utils/ethers/index.ts",
+      "sha": "dece8b65c5410c83bdc8d5782ca99135fbb944ac",
+      "size": 2175,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/ethers/index.ts?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/utils/ethers/index.ts",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/dece8b65c5410c83bdc8d5782ca99135fbb944ac",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/utils/ethers/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/ethers/index.ts?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/dece8b65c5410c83bdc8d5782ca99135fbb944ac",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/utils/ethers/index.ts"
+      }
+    },
+    {
+      "name": "storage",
+      "path": "src/utils/storage",
+      "sha": "98bbb8f6cabe6d424ed776722f87958f8af496ba",
+      "size": 0,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/storage?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/utils/storage",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/98bbb8f6cabe6d424ed776722f87958f8af496ba",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/storage?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/trees/98bbb8f6cabe6d424ed776722f87958f8af496ba",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/tree/main/src/utils/storage"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "src/utils/storage/index.tsx",
+      "sha": "ed8c3cf7f150883a5079d6f9ed2499e500ad5eed",
+      "size": 432,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/storage/index.tsx?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/utils/storage/index.tsx",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ed8c3cf7f150883a5079d6f9ed2499e500ad5eed",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/src/utils/storage/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/src/utils/storage/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/ed8c3cf7f150883a5079d6f9ed2499e500ad5eed",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/src/utils/storage/index.tsx"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "tailwind.config.js",
+      "sha": "25dda4224421622a6dcdce1e1d0bf7190a09115f",
+      "size": 243,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/tailwind.config.js?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/25dda4224421622a6dcdce1e1d0bf7190a09115f",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/tailwind.config.js?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/25dda4224421622a6dcdce1e1d0bf7190a09115f",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/tailwind.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "a273b0cfc0e965c35524e3cd0d3574cbe1ad2d0d",
+      "size": 535,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/a273b0cfc0e965c35524e3cd0d3574cbe1ad2d0d",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/a273b0cfc0e965c35524e3cd0d3574cbe1ad2d0d",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "sha": "7c20aaef3c15ea33d494f0d82f1464e10fda8890",
+      "size": 585260,
+      "url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/yarn.lock?ref=main",
+      "html_url": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/yarn.lock",
+      "git_url": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/7c20aaef3c15ea33d494f0d82f1464e10fda8890",
+      "download_url": "https://raw.githubusercontent.com/xfolio-dao/xfolio-react-chrome/main/yarn.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/contents/yarn.lock?ref=main",
+        "git": "https://api.github.com/repos/xfolio-dao/xfolio-react-chrome/git/blobs/7c20aaef3c15ea33d494f0d82f1464e10fda8890",
+        "html": "https://github.com/xfolio-dao/xfolio-react-chrome/blob/main/yarn.lock"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6739
+  },
+  "collected_at": "2026-03-23T15:05:12.081076"
+}

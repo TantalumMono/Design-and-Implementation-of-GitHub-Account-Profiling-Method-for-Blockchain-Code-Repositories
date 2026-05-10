@@ -1,0 +1,16 @@
+{
+  "source_oof_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\fixed_params_family_validation_outputs\\fixed_params_family_oof_predictions.csv",
+  "selection_rule": "maximize_f1_then_recall_then_precision_then_fbeta_then_higher_threshold",
+  "beta": 2.0,
+  "best_threshold_result": {
+    "threshold": 0.039498057,
+    "precision": 0.8482758620689655,
+    "recall": 0.82,
+    "f1": 0.8338983050847457,
+    "f_beta": 0.8255033557046979,
+    "tn": 2010,
+    "fp": 44,
+    "fn": 54,
+    "tp": 246
+  }
+}

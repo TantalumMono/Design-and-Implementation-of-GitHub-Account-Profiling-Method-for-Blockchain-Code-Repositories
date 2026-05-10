@@ -1,0 +1,63 @@
+{
+  "config": {
+    "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\SentenceTransformer\\.idea\\family_prepared_v3\\family_dataset_train_ready.csv",
+    "outer_n_splits": 5,
+    "inner_n_splits": 3,
+    "allow_generated_positives_in_outer_test": true,
+    "model": "SentenceTransformer+MLP (fixed params, offline)",
+    "encoder_local_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\SentenceTransformer\\models\\all-MiniLM-L6-v2",
+    "fixed_params": {
+      "hidden_dim": 256,
+      "num_layers": 3,
+      "dropout": 0.25,
+      "lr": 0.001,
+      "weight_decay": 0.0002,
+      "batch_size": 32,
+      "pos_weight_scale": 1.1
+    }
+  },
+  "pooled_oof_foldwise_threshold": {
+    "pr_auc": 0.8857689890871292,
+    "roc_auc": 0.978455047062642,
+    "precision": 0.898936170212766,
+    "recall": 0.5633333333333334,
+    "f1": 0.6926229508196722,
+    "fbeta": 0.6087896253602307,
+    "confusion_matrix": [
+      [
+        2035,
+        19
+      ],
+      [
+        131,
+        169
+      ]
+    ]
+  },
+  "pooled_oof_global_threshold": {
+    "threshold": 0.005434935446828604,
+    "threshold_info": {
+      "threshold": 0.005434935446828604,
+      "precision": 0.8794326241134752,
+      "recall": 0.8266666666666667,
+      "f1": 0.852233676975945,
+      "f_beta": 0.8367071524966262
+    },
+    "pr_auc": 0.8857689890871292,
+    "roc_auc": 0.978455047062642,
+    "precision": 0.8794326241134752,
+    "recall": 0.8266666666666667,
+    "f1": 0.852233676975945,
+    "fbeta": 0.8367071524966262,
+    "confusion_matrix": [
+      [
+        2020,
+        34
+      ],
+      [
+        52,
+        248
+      ]
+    ]
+  }
+}

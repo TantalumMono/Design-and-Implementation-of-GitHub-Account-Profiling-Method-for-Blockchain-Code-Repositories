@@ -1,0 +1,1384 @@
+{
+  "repo_full_name": "xPOURY4/crypto-toolkit",
+  "repo_detail": {
+    "id": 957393639,
+    "node_id": "R_kgDOORCq5w",
+    "name": "crypto-toolkit",
+    "full_name": "xPOURY4/crypto-toolkit",
+    "private": false,
+    "owner": {
+      "login": "xPOURY4",
+      "id": 42737278,
+      "node_id": "MDQ6VXNlcjQyNzM3Mjc4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42737278?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xPOURY4",
+      "html_url": "https://github.com/xPOURY4",
+      "followers_url": "https://api.github.com/users/xPOURY4/followers",
+      "following_url": "https://api.github.com/users/xPOURY4/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xPOURY4/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xPOURY4/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xPOURY4/subscriptions",
+      "organizations_url": "https://api.github.com/users/xPOURY4/orgs",
+      "repos_url": "https://api.github.com/users/xPOURY4/repos",
+      "events_url": "https://api.github.com/users/xPOURY4/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xPOURY4/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xPOURY4/crypto-toolkit",
+    "description": "Crypto Toolkit is a comprehensive educational platform for learning about the world of cryptocurrencies and blockchain. This platform contains educational content in various categories, allowing users to read materials, bookmark them, and take advantage of its diverse features",
+    "fork": false,
+    "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit",
+    "forks_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/forks",
+    "keys_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/teams",
+    "hooks_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/hooks",
+    "issue_events_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/events",
+    "assignees_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/tags",
+    "blobs_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/languages",
+    "stargazers_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/stargazers",
+    "contributors_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contributors",
+    "subscribers_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/subscribers",
+    "subscription_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/subscription",
+    "commits_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/merges",
+    "archive_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/downloads",
+    "issues_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/deployments",
+    "created_at": "2025-03-30T08:57:44Z",
+    "updated_at": "2025-07-19T00:37:00Z",
+    "pushed_at": "2025-03-30T09:23:34Z",
+    "git_url": "git://github.com/xPOURY4/crypto-toolkit.git",
+    "ssh_url": "git@github.com:xPOURY4/crypto-toolkit.git",
+    "clone_url": "https://github.com/xPOURY4/crypto-toolkit.git",
+    "svn_url": "https://github.com/xPOURY4/crypto-toolkit",
+    "homepage": "",
+    "size": 105,
+    "stargazers_count": 16,
+    "watchers_count": 16,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 14,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+      "crypro",
+      "crypto-news",
+      "toolkit",
+      "web3"
+    ],
+    "visibility": "public",
+    "forks": 14,
+    "open_issues": 0,
+    "watchers": 16,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 14,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "xPOURY4",
+    "id": 42737278,
+    "node_id": "MDQ6VXNlcjQyNzM3Mjc4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/42737278?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xPOURY4",
+    "html_url": "https://github.com/xPOURY4",
+    "followers_url": "https://api.github.com/users/xPOURY4/followers",
+    "following_url": "https://api.github.com/users/xPOURY4/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xPOURY4/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xPOURY4/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xPOURY4/subscriptions",
+    "organizations_url": "https://api.github.com/users/xPOURY4/orgs",
+    "repos_url": "https://api.github.com/users/xPOURY4/repos",
+    "events_url": "https://api.github.com/users/xPOURY4/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xPOURY4/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "TheRealPourya",
+    "company": null,
+    "blog": "https://tr.ee/pourya",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "✨ In pursuit of perfection in the realm of programming 💻\r\n\r\n\r\n\r\nExploring the frontiers of Web3 and decentralized applications 🌍\r\n👉 @HexQuant-hub ",
+    "twitter_username": "TheRealPourya",
+    "public_repos": 62,
+    "public_gists": 1,
+    "followers": 158,
+    "following": 1,
+    "created_at": "2018-08-27T10:22:12Z",
+    "updated_at": "2026-01-29T14:57:35Z"
+  },
+  "readme": "# 🔐 Comprehensive Guide to Crypto Toolkit\n\n> [فارسی](READMEfa.md) | English\n\n## 📋 Table of Contents\n- [Introduction](#introduction)\n- [Installation and Setup](#installation-and-setup)\n- [Logging In](#logging-in)\n- [User Panel](#user-panel)\n- [Admin Panel](#admin-panel)\n- [Features and Capabilities](#features-and-capabilities)\n- [Step-by-Step Guide](#step-by-step-guide)\n- [Real-World Applications](#real-world-applications)\n- [Contributing](#contributing)\n- [Copyright](#copyright)\n\n## 🚀 Introduction\n\nCrypto Toolkit is a comprehensive educational platform for learning about the world of cryptocurrencies and blockchain. This platform contains educational content in various categories, allowing users to read materials, bookmark them, and take advantage of its diverse features.\n\nThis project is designed to provide a reliable and practical educational resource for individuals interested in blockchain technology and cryptocurrencies. The educational content covers everything from basic concepts to advanced topics and is suitable for users with different levels of knowledge and experience.\n\n## ⚙️ Installation and Setup\n\n### Prerequisites\n- Node.js version 14 or higher\n- npm or yarn\n- Python 3.9 or higher (for backend)\n\n### Installation Steps\n\n1. **Clone the Repository** 📂\n   ```bash\n   git clone https://github.com/xPOURY4/crypto-toolkit.git\n   cd crypto-toolkit\n   ```\n\n2. **Install Frontend Dependencies** 🖥️\n   ```bash\n   cd frontend\n   npm install\n   ```\n\n3. **Install Backend Dependencies** 🔧\n   ```bash\n   cd ../backend\n   pip install -r requirements.txt\n   ```\n\n4. **Start the Frontend Development Server** 🚀\n   ```bash\n   cd ../frontend\n   npm run dev\n   ```\n\n5. **Start the Backend Development Server** 🏃\n   ```bash\n   cd ../backend\n   python main.py\n   ```\n\nYou can now access the application at `http://localhost:5173` (or the port shown in your terminal).\n\n## 🔑 Logging In\n\nTo access all features of the platform, you need to log in to your account. For development and testing, you can use the following accounts:\n\n### Admin Account\n- **Email**: admin@example.com\n- **Password**: admin\n\n### Regular User Account\n- **Email**: user@example.com\n- **Password**: password\n\n## 👤 User Panel\n\nAfter logging in, users are directed to the dashboard which includes the following sections:\n\n### Dashboard 📊\n- Display a summary of bookmarked content\n- Recently viewed content\n- Personalized recommendations\n\n### Categories 📁\n- View all content categories\n- Search within categories\n- Filter by topic\n\n### Educational Content 📚\n- View educational content in each category\n- Bookmark content for later reading\n- Search and filter content\n\n### Bookmarks 🔖\n- View list of bookmarked content\n- Remove content from bookmarks\n- Sort by date added or name\n\n### Notifications 🔔\n- View system and content notifications\n- Mark notifications as read\n- Clear notifications\n\n### Profile 👤\n- Edit personal information\n- Change password\n- Manage account security settings\n\n### Appearance Settings 🎨\n- Toggle light/dark mode\n- Select color theme (default, ocean, sunset, forest)\n- Content display settings\n\n## 👑 Admin Panel\n\nThe admin panel is only accessible to users with the `admin` role and includes the following sections:\n\n### User Management 👥\n- View user list\n- Add, edit, and delete users\n- Change user status (active/inactive)\n- Change user roles (admin/regular user)\n\n### Category Management 📋\n- View category list\n- Add, edit, and delete categories\n- Change category status (active/inactive)\n\n### Content Management 📝\n- View list of educational content\n- Add, edit, and delete content\n- Change content status (published/draft/archived)\n- Change content category\n- Set content difficulty level\n\n## ✨ Features and Capabilities\n\n### Dark/Light Mode 🌓\nThe application supports dark and light modes. Users can:\n- Manually switch between dark and light modes\n- Set the application to follow system settings\n- Adjust transition time between modes\n\n### Color Themes 🎨\nFour different color themes are available in the application:\n- **Default**: Combination of teal and blue colors\n- **Ocean**: Combination of dark and light blue colors 🌊\n- **Sunset**: Combination of orange and red colors 🌅\n- **Forest**: Combination of green and teal colors 🌲\n\n### Security 🔒\n- Authentication using JWT tokens\n- WebAuthn support for passwordless authentication\n- Access restrictions based on user role\n- Password change and recovery options\n- Advanced encryption for storing sensitive data\n\n### Responsiveness 📱\nAll pages of the application are designed responsively and display correctly on different devices:\n- Mobile phones (width less than 640px)\n- Tablets (width between 640px and 1024px)\n- Desktop (width greater than 1024px)\n\n### Performance Optimization ⚡\n- Lazy loading for components and images\n- Data caching to reduce network requests\n- Search Engine Optimization (SEO)\n\n## 📝 Step-by-Step Guide\n\n### 1. Logging in as a Regular User 👤\n1. Go to the login page at `/login`\n2. Enter the regular user email and password\n3. Click the \"Login\" button\n4. You'll be directed to the user dashboard\n\n### 2. Logging in as an Admin 👑\n1. Go to the login page at `/login`\n2. Enter the admin email and password\n3. Click the \"Login\" button\n4. You'll be directed to the admin dashboard\n5. To access management sections, select \"User Management\", \"Category Management\", or \"Content Management\" from the main menu\n\n### 3. Browsing Categories and Content 🔍\n1. Select \"Categories\" from the main menu\n2. Click on a category of interest to view its content\n3. Click on a content title to view its details\n4. To bookmark content, click on the \"Bookmark\" icon\n\n### 4. Managing Profile and Settings ⚙️\n1. Click on your username at the top of the page\n2. Select \"Profile\" from the dropdown menu\n3. Edit your personal information\n4. To change your password, fill in the appropriate fields\n5. To change appearance settings, select \"Appearance Settings\" from the main menu\n\n### 5. Adding New Content (Admin Only) ✏️\n1. From the admin panel, select \"Content Management\"\n2. Click the \"Add Content\" button\n3. Fill out the form and select the appropriate category\n4. Enter the educational content in the Markdown editor\n5. Select the publication status (draft/published)\n6. Click the \"Save\" button\n\n## 🌐 Real-World Applications\n\n### Blockchain Development Team Training 👨‍💻\nThe Crypto Toolkit platform is extremely useful for training new members of blockchain development teams. Managers can manage documentation and educational resources in a centralized location and track team members' progress.\n\n### Introduction to Cryptocurrency Concepts 💰\nFor newcomers to the world of cryptocurrencies, this platform serves as a comprehensive educational resource. Users can start with basic concepts and gradually move on to more advanced topics.\n\n### Security Reference for Developers 🛡️\nSmart contract developers can use the security resources available on the platform to identify and prevent common vulnerabilities.\n\n### Use in Educational Settings 🎓\nInstructors and universities can use this platform to deliver courses on blockchain and cryptocurrencies.\n\n## 🤝 Contributing\n\nWe welcome your contributions to the development of this project. To contribute:\n\n1. Fork the repository\n2. Create a new branch (`git checkout -b feature/amazing-feature`)\n3. Commit your changes (`git commit -m 'Add some amazing feature'`)\n4. Push to your branch (`git push origin feature/amazing-feature`)\n5. Open a Pull Request\n\n## ©️ Copyright\n\nCopyright (c) 2025 xPOURY4\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "75e504169f5c00db025d4c5e86c612097e40c882",
+      "size": 597,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/75e504169f5c00db025d4c5e86c612097e40c882",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/75e504169f5c00db025d4c5e86c612097e40c882",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "path": "CONTRIBUTING.md",
+      "sha": "e851e5325add93f6900877eb5aa8032923169b6d",
+      "size": 2793,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/CONTRIBUTING.md?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/CONTRIBUTING.md",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/e851e5325add93f6900877eb5aa8032923169b6d",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/CONTRIBUTING.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/CONTRIBUTING.md?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/e851e5325add93f6900877eb5aa8032923169b6d",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/CONTRIBUTING.md"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "77871368efe167e5b33356538e998d6492959841",
+      "size": 1064,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/77871368efe167e5b33356538e998d6492959841",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/77871368efe167e5b33356538e998d6492959841",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "c1f651562e7c979ef41c5ebc58ea973a692bca2a",
+      "size": 7750,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/README.md?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c1f651562e7c979ef41c5ebc58ea973a692bca2a",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c1f651562e7c979ef41c5ebc58ea973a692bca2a",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/README.md"
+      }
+    },
+    {
+      "name": "READMEfa.md",
+      "path": "READMEfa.md",
+      "sha": "8c373540e3c333228ca369c62a616f9837de37fc",
+      "size": 12323,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/READMEfa.md?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/READMEfa.md",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/8c373540e3c333228ca369c62a616f9837de37fc",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/READMEfa.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/READMEfa.md?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/8c373540e3c333228ca369c62a616f9837de37fc",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/READMEfa.md"
+      }
+    },
+    {
+      "name": "backend",
+      "path": "backend",
+      "sha": "5580561fc270c7340e8e2b3d08d92175aab755bf",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/5580561fc270c7340e8e2b3d08d92175aab755bf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/5580561fc270c7340e8e2b3d08d92175aab755bf",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend"
+      }
+    },
+    {
+      "name": "alembic.ini",
+      "path": "backend/alembic.ini",
+      "sha": "12298db7b8dbe0ea621d8251ec312df262f9081e",
+      "size": 3030,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic.ini?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic.ini",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/12298db7b8dbe0ea621d8251ec312df262f9081e",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/alembic.ini",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic.ini?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/12298db7b8dbe0ea621d8251ec312df262f9081e",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic.ini"
+      }
+    },
+    {
+      "name": "alembic",
+      "path": "backend/alembic",
+      "sha": "34ec9a594bdda33c261fae7c5269407e13df0e05",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/alembic",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/34ec9a594bdda33c261fae7c5269407e13df0e05",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/34ec9a594bdda33c261fae7c5269407e13df0e05",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/alembic"
+      }
+    },
+    {
+      "name": "env.py",
+      "path": "backend/alembic/env.py",
+      "sha": "cdb79f2ca96dfe9c31f68d1f812f391517b005be",
+      "size": 2477,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/env.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic/env.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/cdb79f2ca96dfe9c31f68d1f812f391517b005be",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/alembic/env.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/env.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/cdb79f2ca96dfe9c31f68d1f812f391517b005be",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic/env.py"
+      }
+    },
+    {
+      "name": "script.py.mako",
+      "path": "backend/alembic/script.py.mako",
+      "sha": "b5bd5167220851f22681c9bc09f136735b21dd82",
+      "size": 510,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/script.py.mako?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic/script.py.mako",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/b5bd5167220851f22681c9bc09f136735b21dd82",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/alembic/script.py.mako",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/script.py.mako?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/b5bd5167220851f22681c9bc09f136735b21dd82",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic/script.py.mako"
+      }
+    },
+    {
+      "name": "versions",
+      "path": "backend/alembic/versions",
+      "sha": "3d66e9c987f1a85310557dce0dc221c4aaa40bb4",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/versions?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/alembic/versions",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/3d66e9c987f1a85310557dce0dc221c4aaa40bb4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/versions?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/3d66e9c987f1a85310557dce0dc221c4aaa40bb4",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/alembic/versions"
+      }
+    },
+    {
+      "name": "initial_migration.py",
+      "path": "backend/alembic/versions/initial_migration.py",
+      "sha": "1ddee4278bbf37df5e493a6d58e30b14bc71b61f",
+      "size": 4619,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/versions/initial_migration.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic/versions/initial_migration.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/1ddee4278bbf37df5e493a6d58e30b14bc71b61f",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/alembic/versions/initial_migration.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/alembic/versions/initial_migration.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/1ddee4278bbf37df5e493a6d58e30b14bc71b61f",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/alembic/versions/initial_migration.py"
+      }
+    },
+    {
+      "name": "app",
+      "path": "backend/app",
+      "sha": "0a2aa4e9b648e3fcbc67b7c8ff3bf4418b2e5ed1",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/0a2aa4e9b648e3fcbc67b7c8ff3bf4418b2e5ed1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/0a2aa4e9b648e3fcbc67b7c8ff3bf4418b2e5ed1",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/__init__.py"
+      }
+    },
+    {
+      "name": "api",
+      "path": "backend/app/api",
+      "sha": "ed599c6b93f08dac0599fe37eb303b411d33dc05",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/api",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/ed599c6b93f08dac0599fe37eb303b411d33dc05",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/ed599c6b93f08dac0599fe37eb303b411d33dc05",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/api"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/api/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/__init__.py"
+      }
+    },
+    {
+      "name": "api_v1",
+      "path": "backend/app/api/api_v1",
+      "sha": "20aa821f7dae9164b654ee530b619800842f4dc0",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/api/api_v1",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/20aa821f7dae9164b654ee530b619800842f4dc0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/20aa821f7dae9164b654ee530b619800842f4dc0",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/api/api_v1"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/api/api_v1/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/__init__.py"
+      }
+    },
+    {
+      "name": "api.py",
+      "path": "backend/app/api/api_v1/api.py",
+      "sha": "5f1e2f2755dc06d33d1e1d599eca873d3d76bcbb",
+      "size": 871,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/api.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/api.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/5f1e2f2755dc06d33d1e1d599eca873d3d76bcbb",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/api.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/api.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/5f1e2f2755dc06d33d1e1d599eca873d3d76bcbb",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/api.py"
+      }
+    },
+    {
+      "name": "endpoints",
+      "path": "backend/app/api/api_v1/endpoints",
+      "sha": "1743a714090d5cc957612051fdd2608d348cbb9c",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/api/api_v1/endpoints",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/1743a714090d5cc957612051fdd2608d348cbb9c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/1743a714090d5cc957612051fdd2608d348cbb9c",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/api/api_v1/endpoints"
+      }
+    },
+    {
+      "name": "auth.py",
+      "path": "backend/app/api/api_v1/endpoints/auth.py",
+      "sha": "97076ba9a536b6f3a9a02ba45267b3581a6f6d14",
+      "size": 5940,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/auth.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/auth.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/97076ba9a536b6f3a9a02ba45267b3581a6f6d14",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/auth.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/auth.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/97076ba9a536b6f3a9a02ba45267b3581a6f6d14",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/auth.py"
+      }
+    },
+    {
+      "name": "bookmarks.py",
+      "path": "backend/app/api/api_v1/endpoints/bookmarks.py",
+      "sha": "f42c5116de564a30c1a23b22409dcd2082cda32a",
+      "size": 2523,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/bookmarks.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/bookmarks.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/f42c5116de564a30c1a23b22409dcd2082cda32a",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/bookmarks.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/bookmarks.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/f42c5116de564a30c1a23b22409dcd2082cda32a",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/bookmarks.py"
+      }
+    },
+    {
+      "name": "categories.py",
+      "path": "backend/app/api/api_v1/endpoints/categories.py",
+      "sha": "b9b853516930f9e6df1ca4b9762fc76dfda0a1d7",
+      "size": 3688,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/categories.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/categories.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/b9b853516930f9e6df1ca4b9762fc76dfda0a1d7",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/categories.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/categories.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/b9b853516930f9e6df1ca4b9762fc76dfda0a1d7",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/categories.py"
+      }
+    },
+    {
+      "name": "items.py",
+      "path": "backend/app/api/api_v1/endpoints/items.py",
+      "sha": "400008c2272b6aa7a4827c96bb2bf07f0198d9fa",
+      "size": 3625,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/items.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/items.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/400008c2272b6aa7a4827c96bb2bf07f0198d9fa",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/items.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/items.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/400008c2272b6aa7a4827c96bb2bf07f0198d9fa",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/items.py"
+      }
+    },
+    {
+      "name": "notifications.py",
+      "path": "backend/app/api/api_v1/endpoints/notifications.py",
+      "sha": "4da340af9b6b1c6a8e893b11e18cbe3ff00d1813",
+      "size": 5246,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/notifications.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/notifications.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/4da340af9b6b1c6a8e893b11e18cbe3ff00d1813",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/notifications.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/notifications.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/4da340af9b6b1c6a8e893b11e18cbe3ff00d1813",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/notifications.py"
+      }
+    },
+    {
+      "name": "statistics.py",
+      "path": "backend/app/api/api_v1/endpoints/statistics.py",
+      "sha": "9466cbc73d0a40cff8c8f33616428ae07156f525",
+      "size": 2685,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/statistics.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/statistics.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/9466cbc73d0a40cff8c8f33616428ae07156f525",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/statistics.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/statistics.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/9466cbc73d0a40cff8c8f33616428ae07156f525",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/statistics.py"
+      }
+    },
+    {
+      "name": "users.py",
+      "path": "backend/app/api/api_v1/endpoints/users.py",
+      "sha": "967b7a5a96c52601181223c528003f471407840c",
+      "size": 3882,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/users.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/users.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/967b7a5a96c52601181223c528003f471407840c",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/api_v1/endpoints/users.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/api_v1/endpoints/users.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/967b7a5a96c52601181223c528003f471407840c",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/api_v1/endpoints/users.py"
+      }
+    },
+    {
+      "name": "deps.py",
+      "path": "backend/app/api/deps.py",
+      "sha": "569a8486a92e4432afd74daf792224b1749b4553",
+      "size": 2203,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/deps.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/deps.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/569a8486a92e4432afd74daf792224b1749b4553",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/api/deps.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/api/deps.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/569a8486a92e4432afd74daf792224b1749b4553",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/api/deps.py"
+      }
+    },
+    {
+      "name": "core",
+      "path": "backend/app/core",
+      "sha": "1113a37bc9f5370f4528a7cc19342801c8c1bd53",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/core",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/1113a37bc9f5370f4528a7cc19342801c8c1bd53",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/1113a37bc9f5370f4528a7cc19342801c8c1bd53",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/core"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/core/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/core/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/core/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/core/__init__.py"
+      }
+    },
+    {
+      "name": "config.py",
+      "path": "backend/app/core/config.py",
+      "sha": "f42fb497368332f41d75bc38e0b18c01bb7aea44",
+      "size": 2354,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core/config.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/core/config.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/f42fb497368332f41d75bc38e0b18c01bb7aea44",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/core/config.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core/config.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/f42fb497368332f41d75bc38e0b18c01bb7aea44",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/core/config.py"
+      }
+    },
+    {
+      "name": "security.py",
+      "path": "backend/app/core/security.py",
+      "sha": "3234134087ee9b39ac375483e43c487137745ce5",
+      "size": 1095,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core/security.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/core/security.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/3234134087ee9b39ac375483e43c487137745ce5",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/core/security.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/core/security.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/3234134087ee9b39ac375483e43c487137745ce5",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/core/security.py"
+      }
+    },
+    {
+      "name": "db",
+      "path": "backend/app/db",
+      "sha": "d1df3d79400dd31fe171de60f6512e3e70fdc6ac",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/db?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/db",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/d1df3d79400dd31fe171de60f6512e3e70fdc6ac",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/db?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/d1df3d79400dd31fe171de60f6512e3e70fdc6ac",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/db"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/db/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/db/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/db/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/db/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/db/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/db/__init__.py"
+      }
+    },
+    {
+      "name": "session.py",
+      "path": "backend/app/db/session.py",
+      "sha": "ff6006ff44277d474454e53d19e3a93733d3b30d",
+      "size": 534,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/db/session.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/db/session.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ff6006ff44277d474454e53d19e3a93733d3b30d",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/db/session.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/db/session.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ff6006ff44277d474454e53d19e3a93733d3b30d",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/db/session.py"
+      }
+    },
+    {
+      "name": "models",
+      "path": "backend/app/models",
+      "sha": "9ab4bb8d7268950f39a04aef8bb4afe8379fb609",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/models",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/9ab4bb8d7268950f39a04aef8bb4afe8379fb609",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/9ab4bb8d7268950f39a04aef8bb4afe8379fb609",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/models"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/models/__init__.py",
+      "sha": "c383ba50bec4b93872ee7d00595a4b60b0722551",
+      "size": 248,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c383ba50bec4b93872ee7d00595a4b60b0722551",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c383ba50bec4b93872ee7d00595a4b60b0722551",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/__init__.py"
+      }
+    },
+    {
+      "name": "base.py",
+      "path": "backend/app/models/base.py",
+      "sha": "66bad6ba0f2a42d35ebb2c7bbda9b898c32720bf",
+      "size": 549,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/base.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/base.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/66bad6ba0f2a42d35ebb2c7bbda9b898c32720bf",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/base.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/base.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/66bad6ba0f2a42d35ebb2c7bbda9b898c32720bf",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/base.py"
+      }
+    },
+    {
+      "name": "bookmark.py",
+      "path": "backend/app/models/bookmark.py",
+      "sha": "0aff2c187df3133921a29449674847f76d7f68b7",
+      "size": 442,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/bookmark.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/bookmark.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0aff2c187df3133921a29449674847f76d7f68b7",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/bookmark.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/bookmark.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0aff2c187df3133921a29449674847f76d7f68b7",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/bookmark.py"
+      }
+    },
+    {
+      "name": "category.py",
+      "path": "backend/app/models/category.py",
+      "sha": "0424c8b1702dd03f96d813229b0aa4c7c6a829f5",
+      "size": 421,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/category.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/category.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0424c8b1702dd03f96d813229b0aa4c7c6a829f5",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/category.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/category.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0424c8b1702dd03f96d813229b0aa4c7c6a829f5",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/category.py"
+      }
+    },
+    {
+      "name": "item.py",
+      "path": "backend/app/models/item.py",
+      "sha": "ae1cfcc246090f379c350c6b943bb87b39d6d6a5",
+      "size": 787,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/item.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/item.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ae1cfcc246090f379c350c6b943bb87b39d6d6a5",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/item.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/item.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ae1cfcc246090f379c350c6b943bb87b39d6d6a5",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/item.py"
+      }
+    },
+    {
+      "name": "notification.py",
+      "path": "backend/app/models/notification.py",
+      "sha": "b8011c9d15e2c7036ee6559ae722251238bec102",
+      "size": 566,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/notification.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/notification.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/b8011c9d15e2c7036ee6559ae722251238bec102",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/notification.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/notification.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/b8011c9d15e2c7036ee6559ae722251238bec102",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/notification.py"
+      }
+    },
+    {
+      "name": "user.py",
+      "path": "backend/app/models/user.py",
+      "sha": "3ad32767d9ca334b62948e633c68865efe4495ba",
+      "size": 916,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/user.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/user.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/3ad32767d9ca334b62948e633c68865efe4495ba",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/user.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/user.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/3ad32767d9ca334b62948e633c68865efe4495ba",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/user.py"
+      }
+    },
+    {
+      "name": "webauthn.py",
+      "path": "backend/app/models/webauthn.py",
+      "sha": "af3225182a56a21c537b28db436e41f7404fe13a",
+      "size": 754,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/webauthn.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/webauthn.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/af3225182a56a21c537b28db436e41f7404fe13a",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/models/webauthn.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/models/webauthn.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/af3225182a56a21c537b28db436e41f7404fe13a",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/models/webauthn.py"
+      }
+    },
+    {
+      "name": "schemas",
+      "path": "backend/app/schemas",
+      "sha": "17a1c51065f78f797237dd44601b9d24a1d863ca",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/schemas",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/17a1c51065f78f797237dd44601b9d24a1d863ca",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/17a1c51065f78f797237dd44601b9d24a1d863ca",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/schemas"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/schemas/__init__.py",
+      "sha": "c0b6bd62a11a7369c7616c7bb6def63adf35669a",
+      "size": 596,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c0b6bd62a11a7369c7616c7bb6def63adf35669a",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c0b6bd62a11a7369c7616c7bb6def63adf35669a",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/__init__.py"
+      }
+    },
+    {
+      "name": "base.py",
+      "path": "backend/app/schemas/base.py",
+      "sha": "ea6a0c45f2f9f9992fd63d6fa00cb38d135f24e5",
+      "size": 236,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/base.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/base.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ea6a0c45f2f9f9992fd63d6fa00cb38d135f24e5",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/base.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/base.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ea6a0c45f2f9f9992fd63d6fa00cb38d135f24e5",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/base.py"
+      }
+    },
+    {
+      "name": "bookmark.py",
+      "path": "backend/app/schemas/bookmark.py",
+      "sha": "56853c5a4ba5321fc5de38b6ccfccd0969c33f2e",
+      "size": 560,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/bookmark.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/bookmark.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/56853c5a4ba5321fc5de38b6ccfccd0969c33f2e",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/bookmark.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/bookmark.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/56853c5a4ba5321fc5de38b6ccfccd0969c33f2e",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/bookmark.py"
+      }
+    },
+    {
+      "name": "category.py",
+      "path": "backend/app/schemas/category.py",
+      "sha": "62c1b29446d747c48f54a8fe63fff9ddc244523a",
+      "size": 533,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/category.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/category.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/62c1b29446d747c48f54a8fe63fff9ddc244523a",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/category.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/category.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/62c1b29446d747c48f54a8fe63fff9ddc244523a",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/category.py"
+      }
+    },
+    {
+      "name": "item.py",
+      "path": "backend/app/schemas/item.py",
+      "sha": "84363b2abdd273789d2c651a63f2b1a11c1357f0",
+      "size": 820,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/item.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/item.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/84363b2abdd273789d2c651a63f2b1a11c1357f0",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/item.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/item.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/84363b2abdd273789d2c651a63f2b1a11c1357f0",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/item.py"
+      }
+    },
+    {
+      "name": "notification.py",
+      "path": "backend/app/schemas/notification.py",
+      "sha": "3a3bf785210ac59f1f99d026dd3b209bfd690832",
+      "size": 703,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/notification.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/notification.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/3a3bf785210ac59f1f99d026dd3b209bfd690832",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/notification.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/notification.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/3a3bf785210ac59f1f99d026dd3b209bfd690832",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/notification.py"
+      }
+    },
+    {
+      "name": "token.py",
+      "path": "backend/app/schemas/token.py",
+      "sha": "1327886c443ac9521269ee69775ff1d21e99dacc",
+      "size": 246,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/token.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/token.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/1327886c443ac9521269ee69775ff1d21e99dacc",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/token.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/token.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/1327886c443ac9521269ee69775ff1d21e99dacc",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/token.py"
+      }
+    },
+    {
+      "name": "user.py",
+      "path": "backend/app/schemas/user.py",
+      "sha": "2a44bb7bb03e3f584c3d3fc4985f68956fc2aae7",
+      "size": 836,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/user.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/user.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/2a44bb7bb03e3f584c3d3fc4985f68956fc2aae7",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/user.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/user.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/2a44bb7bb03e3f584c3d3fc4985f68956fc2aae7",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/user.py"
+      }
+    },
+    {
+      "name": "webauthn.py",
+      "path": "backend/app/schemas/webauthn.py",
+      "sha": "2a3518d691907777c2ca6899d87cd5cfe1023198",
+      "size": 1213,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/webauthn.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/webauthn.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/2a3518d691907777c2ca6899d87cd5cfe1023198",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/schemas/webauthn.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/schemas/webauthn.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/2a3518d691907777c2ca6899d87cd5cfe1023198",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/schemas/webauthn.py"
+      }
+    },
+    {
+      "name": "services",
+      "path": "backend/app/services",
+      "sha": "228f83fedc24b54a88c0cb62506a12301e1877f0",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/services",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/228f83fedc24b54a88c0cb62506a12301e1877f0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/228f83fedc24b54a88c0cb62506a12301e1877f0",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/services"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/services/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/__init__.py"
+      }
+    },
+    {
+      "name": "bookmark.py",
+      "path": "backend/app/services/bookmark.py",
+      "sha": "0060fec4353ce84063e96dc64adc02db929b51e3",
+      "size": 1314,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/bookmark.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/bookmark.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0060fec4353ce84063e96dc64adc02db929b51e3",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/bookmark.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/bookmark.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0060fec4353ce84063e96dc64adc02db929b51e3",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/bookmark.py"
+      }
+    },
+    {
+      "name": "category.py",
+      "path": "backend/app/services/category.py",
+      "sha": "ef367c8ae66afa258c08809995ad3570f7a76e62",
+      "size": 1494,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/category.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/category.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ef367c8ae66afa258c08809995ad3570f7a76e62",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/category.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/category.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ef367c8ae66afa258c08809995ad3570f7a76e62",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/category.py"
+      }
+    },
+    {
+      "name": "item.py",
+      "path": "backend/app/services/item.py",
+      "sha": "c7cdf743f9f439ef19c40d752ba2c9fc6865bebc",
+      "size": 2201,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/item.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/item.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c7cdf743f9f439ef19c40d752ba2c9fc6865bebc",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/item.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/item.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c7cdf743f9f439ef19c40d752ba2c9fc6865bebc",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/item.py"
+      }
+    },
+    {
+      "name": "notification.py",
+      "path": "backend/app/services/notification.py",
+      "sha": "016c44280a8b7ef059f3844160b3dfb02df40bf4",
+      "size": 2238,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/notification.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/notification.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/016c44280a8b7ef059f3844160b3dfb02df40bf4",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/notification.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/notification.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/016c44280a8b7ef059f3844160b3dfb02df40bf4",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/notification.py"
+      }
+    },
+    {
+      "name": "user.py",
+      "path": "backend/app/services/user.py",
+      "sha": "ac3392d81d673010677d45966cabfcb9721d9e0d",
+      "size": 2204,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/user.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/user.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ac3392d81d673010677d45966cabfcb9721d9e0d",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/user.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/user.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/ac3392d81d673010677d45966cabfcb9721d9e0d",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/user.py"
+      }
+    },
+    {
+      "name": "webauthn.py",
+      "path": "backend/app/services/webauthn.py",
+      "sha": "80133104876808f7543e5284bad68177d2294e0a",
+      "size": 5408,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/webauthn.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/webauthn.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/80133104876808f7543e5284bad68177d2294e0a",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/services/webauthn.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/services/webauthn.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/80133104876808f7543e5284bad68177d2294e0a",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/services/webauthn.py"
+      }
+    },
+    {
+      "name": "utils",
+      "path": "backend/app/utils",
+      "sha": "42df6d82b729c990368058be722773cd9cbf64ed",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/utils?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/utils",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/42df6d82b729c990368058be722773cd9cbf64ed",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/utils?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/42df6d82b729c990368058be722773cd9cbf64ed",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/backend/app/utils"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backend/app/utils/__init__.py",
+      "sha": "0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "size": 1,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/utils/__init__.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/utils/__init__.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/utils/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/utils/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/0519ecba6ea913e21689ec692e81e9e4973fbf73",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/utils/__init__.py"
+      }
+    },
+    {
+      "name": "files.py",
+      "path": "backend/app/utils/files.py",
+      "sha": "9f866095f86df886fb3ddd8e0e8cd220d241477c",
+      "size": 3107,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/utils/files.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/utils/files.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/9f866095f86df886fb3ddd8e0e8cd220d241477c",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/app/utils/files.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/app/utils/files.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/9f866095f86df886fb3ddd8e0e8cd220d241477c",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/app/utils/files.py"
+      }
+    },
+    {
+      "name": "main.py",
+      "path": "backend/main.py",
+      "sha": "fdbbd6a4f25570f37ac68db1b448e4f5e7d97610",
+      "size": 879,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/main.py?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/main.py",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/fdbbd6a4f25570f37ac68db1b448e4f5e7d97610",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/main.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/main.py?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/fdbbd6a4f25570f37ac68db1b448e4f5e7d97610",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/main.py"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "backend/requirements.txt",
+      "sha": "c9325213d2d4f2283f667d944e5cfcbf2f289b45",
+      "size": 348,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/requirements.txt?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/requirements.txt",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c9325213d2d4f2283f667d944e5cfcbf2f289b45",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/backend/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/backend/requirements.txt?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c9325213d2d4f2283f667d944e5cfcbf2f289b45",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/backend/requirements.txt"
+      }
+    },
+    {
+      "name": "frontend",
+      "path": "frontend",
+      "sha": "8db03c23c4c893542636015002a16a3249510c33",
+      "size": 0,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/tree/main/frontend",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/8db03c23c4c893542636015002a16a3249510c33",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/trees/8db03c23c4c893542636015002a16a3249510c33",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/tree/main/frontend"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "frontend/index.html",
+      "sha": "553f002730a81e7e1286edb7d20488b9e7dde7ac",
+      "size": 656,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/index.html?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/index.html",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/553f002730a81e7e1286edb7d20488b9e7dde7ac",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/index.html?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/553f002730a81e7e1286edb7d20488b9e7dde7ac",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "frontend/package-lock.json",
+      "sha": "4b46e1f6e5d6aacc26fdbdae9e0706384e9c574f",
+      "size": 273954,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/package-lock.json?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/package-lock.json",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/4b46e1f6e5d6aacc26fdbdae9e0706384e9c574f",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/4b46e1f6e5d6aacc26fdbdae9e0706384e9c574f",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "frontend/package.json",
+      "sha": "c278d2e710fa981f9a8aead0ffc7b1a8430ca781",
+      "size": 684,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/package.json?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/package.json",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c278d2e710fa981f9a8aead0ffc7b1a8430ca781",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/package.json?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/c278d2e710fa981f9a8aead0ffc7b1a8430ca781",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "frontend/postcss.config.js",
+      "sha": "387612ed87825698805b998cb7147cb9682a42fb",
+      "size": 80,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/postcss.config.js?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/postcss.config.js",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/387612ed87825698805b998cb7147cb9682a42fb",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/postcss.config.js?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/387612ed87825698805b998cb7147cb9682a42fb",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/postcss.config.js"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "frontend/tailwind.config.js",
+      "sha": "d02c74037a24dd9fb11cf8b866f69808f3e830c4",
+      "size": 2193,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/tailwind.config.js?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/d02c74037a24dd9fb11cf8b866f69808f3e830c4",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/tailwind.config.js?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/d02c74037a24dd9fb11cf8b866f69808f3e830c4",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/tailwind.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "frontend/tsconfig.json",
+      "sha": "71de314e4be8682f643050012d7f618a8484c07f",
+      "size": 484,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/tsconfig.json?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/tsconfig.json",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/71de314e4be8682f643050012d7f618a8484c07f",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/71de314e4be8682f643050012d7f618a8484c07f",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/tsconfig.json"
+      }
+    },
+    {
+      "name": "tsconfig.node.json",
+      "path": "frontend/tsconfig.node.json",
+      "sha": "9e513f4dddc5e68d5a6dc7b909fcbfc7533907c3",
+      "size": 184,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/tsconfig.node.json?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/tsconfig.node.json",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/9e513f4dddc5e68d5a6dc7b909fcbfc7533907c3",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/tsconfig.node.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/tsconfig.node.json?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/9e513f4dddc5e68d5a6dc7b909fcbfc7533907c3",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/tsconfig.node.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "frontend/vite.config.ts",
+      "sha": "4ce600c759399119475f64633bf4b1babd7aadb8",
+      "size": 1336,
+      "url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/vite.config.ts?ref=main",
+      "html_url": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/vite.config.ts",
+      "git_url": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/4ce600c759399119475f64633bf4b1babd7aadb8",
+      "download_url": "https://raw.githubusercontent.com/xPOURY4/crypto-toolkit/main/frontend/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xPOURY4/crypto-toolkit/contents/frontend/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/xPOURY4/crypto-toolkit/git/blobs/4ce600c759399119475f64633bf4b1babd7aadb8",
+        "html": "https://github.com/xPOURY4/crypto-toolkit/blob/main/frontend/vite.config.ts"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6692,
+    "localhost:5173`": null
+  },
+  "collected_at": "2026-02-04T15:45:25.289952"
+}

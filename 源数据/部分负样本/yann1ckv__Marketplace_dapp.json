@@ -1,0 +1,901 @@
+{
+  "repo_full_name": "yann1ckv/Marketplace_dapp",
+  "repo_detail": {
+    "id": 118025518,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMTgwMjU1MTg=",
+    "name": "Marketplace_dapp",
+    "full_name": "yann1ckv/Marketplace_dapp",
+    "private": false,
+    "owner": {
+      "login": "yann1ckv",
+      "id": 1490794,
+      "node_id": "MDQ6VXNlcjE0OTA3OTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1490794?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yann1ckv",
+      "html_url": "https://github.com/yann1ckv",
+      "followers_url": "https://api.github.com/users/yann1ckv/followers",
+      "following_url": "https://api.github.com/users/yann1ckv/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yann1ckv/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yann1ckv/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yann1ckv/subscriptions",
+      "organizations_url": "https://api.github.com/users/yann1ckv/orgs",
+      "repos_url": "https://api.github.com/users/yann1ckv/repos",
+      "events_url": "https://api.github.com/users/yann1ckv/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yann1ckv/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yann1ckv/Marketplace_dapp",
+    "description": "Decentralized marketplace application built on the Ethereum Blockchain using the Truffle Framework",
+    "fork": false,
+    "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp",
+    "forks_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/forks",
+    "keys_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/teams",
+    "hooks_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/hooks",
+    "issue_events_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/events",
+    "assignees_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/tags",
+    "blobs_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/languages",
+    "stargazers_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/stargazers",
+    "contributors_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contributors",
+    "subscribers_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/subscribers",
+    "subscription_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/subscription",
+    "commits_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/merges",
+    "archive_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/downloads",
+    "issues_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/deployments",
+    "created_at": "2018-01-18T19:05:35Z",
+    "updated_at": "2025-12-09T13:24:03Z",
+    "pushed_at": "2023-12-15T08:50:01Z",
+    "git_url": "git://github.com/yann1ckv/Marketplace_dapp.git",
+    "ssh_url": "git@github.com:yann1ckv/Marketplace_dapp.git",
+    "clone_url": "https://github.com/yann1ckv/Marketplace_dapp.git",
+    "svn_url": "https://github.com/yann1ckv/Marketplace_dapp",
+    "homepage": "",
+    "size": 7782,
+    "stargazers_count": 15,
+    "watchers_count": 15,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 7,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "css",
+      "dapp",
+      "ethereum",
+      "html",
+      "javascript",
+      "solidity",
+      "truffle-framework"
+    ],
+    "visibility": "public",
+    "forks": 7,
+    "open_issues": 1,
+    "watchers": 15,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 7,
+    "subscribers_count": 2
+  },
+  "user_detail": {
+    "login": "yann1ckv",
+    "id": 1490794,
+    "node_id": "MDQ6VXNlcjE0OTA3OTQ=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1490794?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yann1ckv",
+    "html_url": "https://github.com/yann1ckv",
+    "followers_url": "https://api.github.com/users/yann1ckv/followers",
+    "following_url": "https://api.github.com/users/yann1ckv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yann1ckv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yann1ckv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yann1ckv/subscriptions",
+    "organizations_url": "https://api.github.com/users/yann1ckv/orgs",
+    "repos_url": "https://api.github.com/users/yann1ckv/repos",
+    "events_url": "https://api.github.com/users/yann1ckv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yann1ckv/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yannick Visbeek",
+    "company": null,
+    "blog": "",
+    "location": "Amsterdam",
+    "email": "yvisbeek@gmail.com",
+    "hireable": true,
+    "bio": "Software Engineer",
+    "twitter_username": null,
+    "public_repos": 8,
+    "public_gists": 5,
+    "followers": 18,
+    "following": 19,
+    "created_at": "2012-03-02T01:47:05Z",
+    "updated_at": "2026-03-08T15:18:37Z"
+  },
+  "readme": "![alt text](https://github.com/yvisbeek/Marketplace_dapp/blob/master/img/Homepage.png \"Screenshot 1\")\n\n# Marketplace_dapp\n\nSimple decentralized auctioning website on the Ethereum Blockchain. An agreement to sell creates an obligation for the buyer to deposit ether in an escrow contract, where the money is stored until the buyer agrees to release the money to the sellers'\naccount or the seller agrees to refund the money to the buyers' account.\n\n## Site\n\n#### Landing Page\n\nThe user should be logged in using MetaMask. He or she then has the ability to either list a new item or view details of already listed items.\n\n![alt text](https://github.com/yvisbeek/Marketplace_dapp/blob/master/img/gif1.gif \"Gif 1\")\n\n\nIt is also possible to make bids on already listed items.\n\n![alt text](https://github.com/yvisbeek/Marketplace_dapp/blob/master/img/gif2.gif \"Gif 2\")\n\n\nAfter an auction is closed, the winner of the auction sends ether to an escrow account, in which it stays until either the buyer releases the funds to the seller or the seller refunds the funds to the buyer.\n\n![alt text](https://github.com/yvisbeek/Marketplace_dapp/blob/master/img/gif4.gif \"Gif 4\")\n\n\nOnce there are funds in the escrow contract, the buyer can decide to release the funds upon receiving the product.\n\n![alt text](https://github.com/yvisbeek/Marketplace_dapp/blob/master/img/gif5.gif \"Gif 5\")\n\n## Installation\n\nStart by cloning this repository.\n\n```\ngit clone https://github.com/yvisbeek/Marketplace_dapp.git\n```\n\nYou will also need a working node.js setup ([instructions](https://github.com/nodejs/node/wiki)) and globally installed ganache-cli ([instructions](https://github.com/trufflesuite/ganache-cli)).\n\n### Install dependencies\n\n```\ncd Marketplace_dapp\nnpm install\n```\n\nInstall MongoDB\n\n`https://docs.mongodb.com/manual/installation/`\n\nInstall IPFS\n\n`https://ipfs.io/docs/install/`\n\nInstall the MetaMask extension for your browser\n\n`https://metamask.io/`\n\n\n## Deployment\n\nOpen a new terminal window and start a local blockchain using the ganache command-line-interface\n\n```\n1. ganache-cli\n2. use the mnemonic to login to Metamask on localhost 8545\n```\n\nOpen another terminal window and compile the contracts and migrate them to the blockchain\n```\n3. truffle compile\n4. truffle migrate\n5. npm run dev (start the dev server on localhost:8080)\n```\nOpen another terminal window and run MongoDB\n\n```\n6. mongod\n```\n\nOpen another terminal window and run the server that listens to activity on the blockchain and interacts with MongoDB\n\n```\n7. nodemon server.js\n```\n\nOpen another terminal windows and start an IPFS connection\n\n```\n8. ipfs daemon\n```\n\nThe app should now be running on http://localhost:8080\n\n## Built with\n\n- [Node.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.\n- [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.\n- [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.\n- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.\n- [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.\n- [MongoDB](https://www.mongodb.com/) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.\n- [Ganache-cli](http://truffleframework.com/ganache/) - Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.\n- [MetaMask](https://metamask.io/) - MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.\n\n## License\n>You can check out the full license [here](https://github.com/yvisbeek/Marketplace_dapp/blob/master/LICENSE)\n\nThis project is licensed under the terms of the **MIT** license.\n",
+  "tree_structure": [
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "176066f0fd416d9033f946fb4bb8ea2610cdf326",
+      "size": 1072,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/176066f0fd416d9033f946fb4bb8ea2610cdf326",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/176066f0fd416d9033f946fb4bb8ea2610cdf326",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "3ec4dbc31abf92a5f5bbdc87f22e723381991093",
+      "size": 4323,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/README.md?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/3ec4dbc31abf92a5f5bbdc87f22e723381991093",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/3ec4dbc31abf92a5f5bbdc87f22e723381991093",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/README.md"
+      }
+    },
+    {
+      "name": "app",
+      "path": "app",
+      "sha": "8a0343b75a60989e38e6600a0aa1217fe8166527",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/app",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/8a0343b75a60989e38e6600a0aa1217fe8166527",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/8a0343b75a60989e38e6600a0aa1217fe8166527",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/app"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "app/index.html",
+      "sha": "801685bb975fe012bf015ad6647bdfa5e9fdb3be",
+      "size": 1143,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/index.html?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/index.html",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/801685bb975fe012bf015ad6647bdfa5e9fdb3be",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/app/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/index.html?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/801685bb975fe012bf015ad6647bdfa5e9fdb3be",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/index.html"
+      }
+    },
+    {
+      "name": "javascripts",
+      "path": "app/javascripts",
+      "sha": "a2662f0f78352a49346f398961de0103c1958806",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/javascripts?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/app/javascripts",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/a2662f0f78352a49346f398961de0103c1958806",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/javascripts?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/a2662f0f78352a49346f398961de0103c1958806",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/app/javascripts"
+      }
+    },
+    {
+      "name": "app.js",
+      "path": "app/javascripts/app.js",
+      "sha": "56ec582c404acba53dbb6d1225ce8ccdfe35f6d4",
+      "size": 16119,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/javascripts/app.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/javascripts/app.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/56ec582c404acba53dbb6d1225ce8ccdfe35f6d4",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/app/javascripts/app.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/javascripts/app.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/56ec582c404acba53dbb6d1225ce8ccdfe35f6d4",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/javascripts/app.js"
+      }
+    },
+    {
+      "name": "module1a.js",
+      "path": "app/javascripts/module1a.js",
+      "sha": "51d96bf18ce3ab890892326ce064656906df4df8",
+      "size": 5467,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/javascripts/module1a.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/javascripts/module1a.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/51d96bf18ce3ab890892326ce064656906df4df8",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/app/javascripts/module1a.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/javascripts/module1a.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/51d96bf18ce3ab890892326ce064656906df4df8",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/javascripts/module1a.js"
+      }
+    },
+    {
+      "name": "list-item.html",
+      "path": "app/list-item.html",
+      "sha": "50ac76bb5e6ccf12a718d06b038d011dedf59891",
+      "size": 4531,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/list-item.html?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/list-item.html",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/50ac76bb5e6ccf12a718d06b038d011dedf59891",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/app/list-item.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/list-item.html?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/50ac76bb5e6ccf12a718d06b038d011dedf59891",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/list-item.html"
+      }
+    },
+    {
+      "name": "product.html",
+      "path": "app/product.html",
+      "sha": "c03170470e252cea19ec43933b1f2578eed0861a",
+      "size": 2951,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/product.html?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/product.html",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/c03170470e252cea19ec43933b1f2578eed0861a",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/app/product.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/product.html?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/c03170470e252cea19ec43933b1f2578eed0861a",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/product.html"
+      }
+    },
+    {
+      "name": "stylesheets",
+      "path": "app/stylesheets",
+      "sha": "c74f01472eb8b655a84bb37d516c6a53a03c4914",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/stylesheets?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/app/stylesheets",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/c74f01472eb8b655a84bb37d516c6a53a03c4914",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/stylesheets?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/c74f01472eb8b655a84bb37d516c6a53a03c4914",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/app/stylesheets"
+      }
+    },
+    {
+      "name": "app.css",
+      "path": "app/stylesheets/app.css",
+      "sha": "63d174e87ab9990a2c0e8a768f7b2e1f2f8fcbfb",
+      "size": 2178,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/stylesheets/app.css?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/stylesheets/app.css",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/63d174e87ab9990a2c0e8a768f7b2e1f2f8fcbfb",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/app/stylesheets/app.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/app/stylesheets/app.css?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/63d174e87ab9990a2c0e8a768f7b2e1f2f8fcbfb",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/app/stylesheets/app.css"
+      }
+    },
+    {
+      "name": "box-img-lg.png",
+      "path": "box-img-lg.png",
+      "sha": "b583f14e5d72bcf276fcd9e4a35f30777e5b3e9a",
+      "size": 10281,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/box-img-lg.png?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/box-img-lg.png",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/b583f14e5d72bcf276fcd9e4a35f30777e5b3e9a",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/box-img-lg.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/box-img-lg.png?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/b583f14e5d72bcf276fcd9e4a35f30777e5b3e9a",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/box-img-lg.png"
+      }
+    },
+    {
+      "name": "box-img-sm.png",
+      "path": "box-img-sm.png",
+      "sha": "074599709fed3caff5c01a298f7f0648728bdc5a",
+      "size": 5386,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/box-img-sm.png?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/box-img-sm.png",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/074599709fed3caff5c01a298f7f0648728bdc5a",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/box-img-sm.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/box-img-sm.png?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/074599709fed3caff5c01a298f7f0648728bdc5a",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/box-img-sm.png"
+      }
+    },
+    {
+      "name": "build",
+      "path": "build",
+      "sha": "2d3e0e88a0a67b754116bbe6057242389a8181f2",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/build",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/2d3e0e88a0a67b754116bbe6057242389a8181f2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/2d3e0e88a0a67b754116bbe6057242389a8181f2",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/build"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "build/contracts",
+      "sha": "f9082b94ddc6459b6de7c01dfa073a932e32db12",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/build/contracts",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/f9082b94ddc6459b6de7c01dfa073a932e32db12",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/f9082b94ddc6459b6de7c01dfa073a932e32db12",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/build/contracts"
+      }
+    },
+    {
+      "name": "Escrow.json",
+      "path": "build/contracts/Escrow.json",
+      "sha": "e361edc322198b4e62686b501b3fcf2af026eff9",
+      "size": 72191,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts/Escrow.json?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/build/contracts/Escrow.json",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/e361edc322198b4e62686b501b3fcf2af026eff9",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/build/contracts/Escrow.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts/Escrow.json?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/e361edc322198b4e62686b501b3fcf2af026eff9",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/build/contracts/Escrow.json"
+      }
+    },
+    {
+      "name": "Marketplace.json",
+      "path": "build/contracts/Marketplace.json",
+      "sha": "b4186d1ebf1483058e0b32819c2588d9e7a70d4c",
+      "size": 390224,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts/Marketplace.json?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/build/contracts/Marketplace.json",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/b4186d1ebf1483058e0b32819c2588d9e7a70d4c",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/build/contracts/Marketplace.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts/Marketplace.json?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/b4186d1ebf1483058e0b32819c2588d9e7a70d4c",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/build/contracts/Marketplace.json"
+      }
+    },
+    {
+      "name": "Migrations.json",
+      "path": "build/contracts/Migrations.json",
+      "sha": "390486d1a536e92f13620458f6f206b865abce13",
+      "size": 39681,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts/Migrations.json?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/build/contracts/Migrations.json",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/390486d1a536e92f13620458f6f206b865abce13",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/build/contracts/Migrations.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/build/contracts/Migrations.json?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/390486d1a536e92f13620458f6f206b865abce13",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/build/contracts/Migrations.json"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "ef9cf12411c2aeb84bb136acca743afc5c815791",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/contracts",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/ef9cf12411c2aeb84bb136acca743afc5c815791",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/ef9cf12411c2aeb84bb136acca743afc5c815791",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/contracts"
+      }
+    },
+    {
+      "name": "Escrow.sol",
+      "path": "contracts/Escrow.sol",
+      "sha": "3cec00d1815c3c4aa83575645681a0e6f9ad8b57",
+      "size": 1290,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts/Escrow.sol?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/contracts/Escrow.sol",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/3cec00d1815c3c4aa83575645681a0e6f9ad8b57",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/contracts/Escrow.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts/Escrow.sol?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/3cec00d1815c3c4aa83575645681a0e6f9ad8b57",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/contracts/Escrow.sol"
+      }
+    },
+    {
+      "name": "Marketplace.sol",
+      "path": "contracts/Marketplace.sol",
+      "sha": "f55f38016560c36e12213e0fae3817fc0f6b72d6",
+      "size": 6109,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts/Marketplace.sol?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/contracts/Marketplace.sol",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/f55f38016560c36e12213e0fae3817fc0f6b72d6",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/contracts/Marketplace.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts/Marketplace.sol?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/f55f38016560c36e12213e0fae3817fc0f6b72d6",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/contracts/Marketplace.sol"
+      }
+    },
+    {
+      "name": "Migrations.sol",
+      "path": "contracts/Migrations.sol",
+      "sha": "5cae7bc8262c136012e633de32989c8208908c54",
+      "size": 555,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts/Migrations.sol?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/contracts/Migrations.sol",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5cae7bc8262c136012e633de32989c8208908c54",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/contracts/Migrations.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/contracts/Migrations.sol?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5cae7bc8262c136012e633de32989c8208908c54",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/contracts/Migrations.sol"
+      }
+    },
+    {
+      "name": "img",
+      "path": "img",
+      "sha": "a939059310e6004dc5b282fad8640551177a952c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/img",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/a939059310e6004dc5b282fad8640551177a952c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/a939059310e6004dc5b282fad8640551177a952c",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/img"
+      }
+    },
+    {
+      "name": ".DS_Store",
+      "path": "img/.DS_Store",
+      "sha": "ae1c86d2fafe9f61bb71b4f36ae73746bd8cea48",
+      "size": 6148,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/.DS_Store?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/.DS_Store",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/ae1c86d2fafe9f61bb71b4f36ae73746bd8cea48",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/.DS_Store?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/ae1c86d2fafe9f61bb71b4f36ae73746bd8cea48",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/.DS_Store"
+      }
+    },
+    {
+      "name": "Homepage.png",
+      "path": "img/Homepage.png",
+      "sha": "06fec32f0643a323c2d6d2dca2afe9a5857fcfb1",
+      "size": 309172,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/Homepage.png?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/Homepage.png",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/06fec32f0643a323c2d6d2dca2afe9a5857fcfb1",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/Homepage.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/Homepage.png?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/06fec32f0643a323c2d6d2dca2afe9a5857fcfb1",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/Homepage.png"
+      }
+    },
+    {
+      "name": "Item Details.png",
+      "path": "img/Item Details.png",
+      "sha": "5ddb813e0aa5ac17aab69f00134f7b77ec6b121d",
+      "size": 403582,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/Item%20Details.png?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/Item%20Details.png",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5ddb813e0aa5ac17aab69f00134f7b77ec6b121d",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/Item%20Details.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/Item%20Details.png?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5ddb813e0aa5ac17aab69f00134f7b77ec6b121d",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/Item%20Details.png"
+      }
+    },
+    {
+      "name": "List Item.png",
+      "path": "img/List Item.png",
+      "sha": "350ab526c68e31ad7fefb8567d37544ae0c26498",
+      "size": 166085,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/List%20Item.png?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/List%20Item.png",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/350ab526c68e31ad7fefb8567d37544ae0c26498",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/List%20Item.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/List%20Item.png?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/350ab526c68e31ad7fefb8567d37544ae0c26498",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/List%20Item.png"
+      }
+    },
+    {
+      "name": "gif1.gif",
+      "path": "img/gif1.gif",
+      "sha": "15c232d3d235cba529bd845681c41ddf0625ceb6",
+      "size": 1162281,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif1.gif?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif1.gif",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/15c232d3d235cba529bd845681c41ddf0625ceb6",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/gif1.gif",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif1.gif?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/15c232d3d235cba529bd845681c41ddf0625ceb6",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif1.gif"
+      }
+    },
+    {
+      "name": "gif2.gif",
+      "path": "img/gif2.gif",
+      "sha": "7b6d1974681733efeed336f93333c63d02884b3e",
+      "size": 1750596,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif2.gif?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif2.gif",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/7b6d1974681733efeed336f93333c63d02884b3e",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/gif2.gif",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif2.gif?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/7b6d1974681733efeed336f93333c63d02884b3e",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif2.gif"
+      }
+    },
+    {
+      "name": "gif3.gif",
+      "path": "img/gif3.gif",
+      "sha": "7b9a14018fb0238b4c19eebb41dd4e7f6c2dd306",
+      "size": 1661161,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif3.gif?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif3.gif",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/7b9a14018fb0238b4c19eebb41dd4e7f6c2dd306",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/gif3.gif",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif3.gif?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/7b9a14018fb0238b4c19eebb41dd4e7f6c2dd306",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif3.gif"
+      }
+    },
+    {
+      "name": "gif4.gif",
+      "path": "img/gif4.gif",
+      "sha": "363e2bc55ec44f33de7bc1c7d5500d0cb4bf116b",
+      "size": 916209,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif4.gif?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif4.gif",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/363e2bc55ec44f33de7bc1c7d5500d0cb4bf116b",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/gif4.gif",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif4.gif?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/363e2bc55ec44f33de7bc1c7d5500d0cb4bf116b",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif4.gif"
+      }
+    },
+    {
+      "name": "gif5.gif",
+      "path": "img/gif5.gif",
+      "sha": "349dc2563acfdd32a01f2859da272b3b8788b12f",
+      "size": 1877199,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif5.gif?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif5.gif",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/349dc2563acfdd32a01f2859da272b3b8788b12f",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/img/gif5.gif",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/img/gif5.gif?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/349dc2563acfdd32a01f2859da272b3b8788b12f",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/img/gif5.gif"
+      }
+    },
+    {
+      "name": "migrations",
+      "path": "migrations",
+      "sha": "406eafc2ed2c13bbb963f7533733a9ce0c7a609c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/migrations?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/migrations",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/406eafc2ed2c13bbb963f7533733a9ce0c7a609c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/migrations?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/406eafc2ed2c13bbb963f7533733a9ce0c7a609c",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/migrations"
+      }
+    },
+    {
+      "name": "1_initial_migration.js",
+      "path": "migrations/1_initial_migration.js",
+      "sha": "4d5f3f9b02eb38313683d980c6b8a759f2b55d45",
+      "size": 129,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/migrations/1_initial_migration.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/migrations/1_initial_migration.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/4d5f3f9b02eb38313683d980c6b8a759f2b55d45",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/migrations/1_initial_migration.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/migrations/1_initial_migration.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/4d5f3f9b02eb38313683d980c6b8a759f2b55d45",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/migrations/1_initial_migration.js"
+      }
+    },
+    {
+      "name": "2_deploy_contracts.js",
+      "path": "migrations/2_deploy_contracts.js",
+      "sha": "fc0132e506116ee4dd0873403e6828c898c4e72c",
+      "size": 131,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/migrations/2_deploy_contracts.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/migrations/2_deploy_contracts.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/fc0132e506116ee4dd0873403e6828c898c4e72c",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/migrations/2_deploy_contracts.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/migrations/2_deploy_contracts.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/fc0132e506116ee4dd0873403e6828c898c4e72c",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/migrations/2_deploy_contracts.js"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "b4fe4201b90930c861faca872909f3dabc9a96a1",
+      "size": 376483,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/package-lock.json?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/package-lock.json",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/b4fe4201b90930c861faca872909f3dabc9a96a1",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/package-lock.json?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/b4fe4201b90930c861faca872909f3dabc9a96a1",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "5a1193b340cb1e5fbbfaa17e4826e61fbb41a643",
+      "size": 1232,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/package.json?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5a1193b340cb1e5fbbfaa17e4826e61fbb41a643",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5a1193b340cb1e5fbbfaa17e4826e61fbb41a643",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/package.json"
+      }
+    },
+    {
+      "name": "product.js",
+      "path": "product.js",
+      "sha": "99ebb8e1552e9c001a9f1026fb647ff7c9313156",
+      "size": 530,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/product.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/product.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/99ebb8e1552e9c001a9f1026fb647ff7c9313156",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/product.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/product.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/99ebb8e1552e9c001a9f1026fb647ff7c9313156",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/product.js"
+      }
+    },
+    {
+      "name": "seed.js",
+      "path": "seed.js",
+      "sha": "a4e9c6b78acae1f832c66cb436828b1061a53462",
+      "size": 1530,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/seed.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/seed.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/a4e9c6b78acae1f832c66cb436828b1061a53462",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/seed.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/seed.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/a4e9c6b78acae1f832c66cb436828b1061a53462",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/seed.js"
+      }
+    },
+    {
+      "name": "server.js",
+      "path": "server.js",
+      "sha": "7288126976fc88ca188d210d13bc3fa001d7d4dd",
+      "size": 4215,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/server.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/server.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/7288126976fc88ca188d210d13bc3fa001d7d4dd",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/server.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/server.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/7288126976fc88ca188d210d13bc3fa001d7d4dd",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/server.js"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "d138a538d5db3dfc7f5270609a2a0a3cf8fa038a",
+      "size": 0,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/test?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/test",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/d138a538d5db3dfc7f5270609a2a0a3cf8fa038a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/test?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/trees/d138a538d5db3dfc7f5270609a2a0a3cf8fa038a",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/tree/master/test"
+      }
+    },
+    {
+      "name": "TestMetacoin.sol",
+      "path": "test/TestMetacoin.sol",
+      "sha": "96ccc1e229b6cae1fb28596428c98bd4b4b7899f",
+      "size": 630,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/test/TestMetacoin.sol?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/test/TestMetacoin.sol",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/96ccc1e229b6cae1fb28596428c98bd4b4b7899f",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/test/TestMetacoin.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/test/TestMetacoin.sol?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/96ccc1e229b6cae1fb28596428c98bd4b4b7899f",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/test/TestMetacoin.sol"
+      }
+    },
+    {
+      "name": "metacoin.js",
+      "path": "test/metacoin.js",
+      "sha": "5164ec37c9954470783997d73ff01ada7fdaf687",
+      "size": 2462,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/test/metacoin.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/test/metacoin.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5164ec37c9954470783997d73ff01ada7fdaf687",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/test/metacoin.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/test/metacoin.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/5164ec37c9954470783997d73ff01ada7fdaf687",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/test/metacoin.js"
+      }
+    },
+    {
+      "name": "truffle.js",
+      "path": "truffle.js",
+      "sha": "bf7bf677ff525837432edf61241fd35fc46eaabe",
+      "size": 210,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/truffle.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/truffle.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/bf7bf677ff525837432edf61241fd35fc46eaabe",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/truffle.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/truffle.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/bf7bf677ff525837432edf61241fd35fc46eaabe",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/truffle.js"
+      }
+    },
+    {
+      "name": "webpack.config.js",
+      "path": "webpack.config.js",
+      "sha": "17be707033b1103556588291f00b304d751578f9",
+      "size": 919,
+      "url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/webpack.config.js?ref=master",
+      "html_url": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/webpack.config.js",
+      "git_url": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/17be707033b1103556588291f00b304d751578f9",
+      "download_url": "https://raw.githubusercontent.com/yann1ckv/Marketplace_dapp/master/webpack.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/contents/webpack.config.js?ref=master",
+        "git": "https://api.github.com/repos/yann1ckv/Marketplace_dapp/git/blobs/17be707033b1103556588291f00b304d751578f9",
+        "html": "https://github.com/yann1ckv/Marketplace_dapp/blob/master/webpack.config.js"
+      }
+    }
+  ],
+  "external_domains": {
+    "nodejs.org": 6005,
+    "github.com": 6726,
+    "docs.mongodb.com": 6453,
+    "truffleframework.com": 3465,
+    "www.mongodb.com": 6453,
+    "www.w3schools.com": 9484,
+    "localhost:8080": null,
+    "ipfs.io": 4315,
+    "metamask.io": 3903,
+    "www.ethereum.org": 4485
+  },
+  "collected_at": "2026-03-10T16:10:20.189954"
+}

@@ -1,0 +1,145 @@
+seed: 42
+output_dir: "./outputs_qwen05b_C_small_feature_add"
+
+data:
+  positive_path: "./data/augmented_300_with_meta.json"
+  negative_path: "./data/negative_github_dataset_cleaned.json"
+
+fields:
+  repo_full_name_path: "features.repo_full_name"
+  negative_group_path: "features.raw_file_name"
+  positive_family_path: "meta.family_label"
+  positive_is_synthetic_path: "meta.is_synthetic"
+  positive_source_raw_path: "meta.source_raw_file_name"
+  positive_source_repo_path: "meta.source_repo_full_name"
+
+model:
+  model_name: "Qwen/Qwen2.5-0.5B-Instruct"
+  use_4bit: true
+  max_length: 512
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 2
+  gradient_accumulation_steps: 16
+  learning_rate: 0.0002
+  num_train_epochs: 2
+  weight_decay: 0.01
+  warmup_ratio: 0.03
+  lr_scheduler_type: "cosine"
+  lora_r: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  lora_target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+  local_model_dir: "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\LLM\\.idea\\Qwen2.5-0.5B-Instruct"
+  local_files_only: true
+
+loss:
+  loss_type: "weighted_ce"
+  positive_class_weight: 3.0
+  focal_gamma: 2.0
+  original_positive_sample_weight: 1.0
+  synthetic_positive_sample_weight: 0.7
+  negative_sample_weight: 1.0
+
+search:
+  random_state: 42
+  selection_metric: "composite"
+  model_name:
+    - "Qwen/Qwen2.5-0.5B-Instruct"
+  max_length:
+    - 512
+  learning_rate:
+    - 0.0002
+  num_train_epochs:
+    - 2
+  lora_r:
+    - 8
+  lora_alpha:
+    - 16
+  lora_dropout:
+    - 0.05
+  gradient_accumulation_steps:
+    - 16
+  loss_type:
+    - "weighted_ce"
+  positive_class_weight:
+    - 3.0
+  focal_gamma:
+    - 2.0
+  max_trials: 1
+
+threshold:
+  start: 0.005
+  end: 0.1
+  step: 0.005
+  objective: "balanced"
+  min_precision: 0.25
+
+input_build:
+  enabled_text_fields:
+    - repo_full_name
+    - description_text
+    - topics_text
+    - readme_text
+  total_text_char_budget: 1400
+  text_min_budgets:
+    repo_full_name: 80
+    description_text: 220
+    topics_text: 120
+    readme_text: 850
+    combined_text: 0
+  structured_feature_mode: "selected"
+  selected_structured_features:
+    - repo_age_days
+    - user_age_days
+    - days_since_last_push
+    - time_to_last_push_days
+    - very_short_activity_window_flag
+    - user_repo_creation_gap_days
+    - is_recent_repo_flag
+    - is_stale_repo_flag
+    - stargazers_count
+    - forks_count
+    - watchers_count
+    - open_issues_count
+    - repo_size_kb
+    - has_homepage
+    - has_license_meta
+    - has_license_file
+    - external_domains_count
+    - external_domains_average_age
+    - risk_filename_count
+    - readme_has_sensitive_request_keywords
+    - readme_has_airdrop_claim_keywords
+    - readme_has_approve_keywords
+    - wallet_frontend_risk_combo_flag
+    - binary_download_lure_combo_flag
+    - framework_hint_count
+    - contract_file_ratio
+    - has_contracts_dir
+    - has_test_dir
+    - has_deploy_dir
+    - has_hardhat_config
+    - has_foundry_toml
+
+    # incremental additions from XGBoost / LinearSVC explanations
+    - repo_is_fork
+    - has_env_file
+    - description_has_blockchain_keyword
+    - topic_has_blockchain_keyword
+    - blockchain_keyword_count
+    - readme_has_install_run_commands
+
+debug:
+  active_folds:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4

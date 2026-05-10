@@ -1,0 +1,1387 @@
+{
+  "repo_full_name": "xerion12/Dapp-algorand",
+  "repo_detail": {
+    "id": 1026218543,
+    "node_id": "R_kgDOPSraLw",
+    "name": "Dapp-algorand",
+    "full_name": "xerion12/Dapp-algorand",
+    "private": false,
+    "owner": {
+      "login": "xerion12",
+      "id": 210365119,
+      "node_id": "U_kgDODInqvw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210365119?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xerion12",
+      "html_url": "https://github.com/xerion12",
+      "followers_url": "https://api.github.com/users/xerion12/followers",
+      "following_url": "https://api.github.com/users/xerion12/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xerion12/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xerion12/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xerion12/subscriptions",
+      "organizations_url": "https://api.github.com/users/xerion12/orgs",
+      "repos_url": "https://api.github.com/users/xerion12/repos",
+      "events_url": "https://api.github.com/users/xerion12/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xerion12/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xerion12/Dapp-algorand",
+    "description": "This architecture integrates several core components: programmable smart contracts that automate deterministic logic, NFTs for representing unique digital assets, decentralized storage mechanisms like IPFS for resilient data distribution, blockchain-based oracles for secure external data provisioning, and crypto wallets for user controlled identity",
+    "fork": false,
+    "url": "https://api.github.com/repos/xerion12/Dapp-algorand",
+    "forks_url": "https://api.github.com/repos/xerion12/Dapp-algorand/forks",
+    "keys_url": "https://api.github.com/repos/xerion12/Dapp-algorand/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xerion12/Dapp-algorand/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xerion12/Dapp-algorand/teams",
+    "hooks_url": "https://api.github.com/repos/xerion12/Dapp-algorand/hooks",
+    "issue_events_url": "https://api.github.com/repos/xerion12/Dapp-algorand/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xerion12/Dapp-algorand/events",
+    "assignees_url": "https://api.github.com/repos/xerion12/Dapp-algorand/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xerion12/Dapp-algorand/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xerion12/Dapp-algorand/tags",
+    "blobs_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xerion12/Dapp-algorand/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xerion12/Dapp-algorand/languages",
+    "stargazers_url": "https://api.github.com/repos/xerion12/Dapp-algorand/stargazers",
+    "contributors_url": "https://api.github.com/repos/xerion12/Dapp-algorand/contributors",
+    "subscribers_url": "https://api.github.com/repos/xerion12/Dapp-algorand/subscribers",
+    "subscription_url": "https://api.github.com/repos/xerion12/Dapp-algorand/subscription",
+    "commits_url": "https://api.github.com/repos/xerion12/Dapp-algorand/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xerion12/Dapp-algorand/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xerion12/Dapp-algorand/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xerion12/Dapp-algorand/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xerion12/Dapp-algorand/merges",
+    "archive_url": "https://api.github.com/repos/xerion12/Dapp-algorand/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xerion12/Dapp-algorand/downloads",
+    "issues_url": "https://api.github.com/repos/xerion12/Dapp-algorand/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xerion12/Dapp-algorand/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xerion12/Dapp-algorand/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xerion12/Dapp-algorand/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xerion12/Dapp-algorand/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xerion12/Dapp-algorand/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xerion12/Dapp-algorand/deployments",
+    "created_at": "2025-07-25T14:01:33Z",
+    "updated_at": "2025-10-03T22:37:49Z",
+    "pushed_at": "2025-08-28T07:56:17Z",
+    "git_url": "git://github.com/xerion12/Dapp-algorand.git",
+    "ssh_url": "git@github.com:xerion12/Dapp-algorand.git",
+    "clone_url": "https://github.com/xerion12/Dapp-algorand.git",
+    "svn_url": "https://github.com/xerion12/Dapp-algorand",
+    "homepage": "",
+    "size": 1057,
+    "stargazers_count": 13,
+    "watchers_count": 13,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 2,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "algorand-blockchain",
+      "nextjs",
+      "python",
+      "web3"
+    ],
+    "visibility": "public",
+    "forks": 2,
+    "open_issues": 0,
+    "watchers": 13,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 2,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "xerion12",
+    "id": 210365119,
+    "node_id": "U_kgDODInqvw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/210365119?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xerion12",
+    "html_url": "https://github.com/xerion12",
+    "followers_url": "https://api.github.com/users/xerion12/followers",
+    "following_url": "https://api.github.com/users/xerion12/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xerion12/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xerion12/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xerion12/subscriptions",
+    "organizations_url": "https://api.github.com/users/xerion12/orgs",
+    "repos_url": "https://api.github.com/users/xerion12/repos",
+    "events_url": "https://api.github.com/users/xerion12/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xerion12/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Xerion",
+    "company": "Web3 & LLM & Mobile",
+    "blog": "",
+    "location": "Remote",
+    "email": "dev.xerion@gmail.com",
+    "hireable": null,
+    "bio": "Tech Lead | Blockchain Engineer | Full Stack Solutions for Modern Web",
+    "twitter_username": null,
+    "public_repos": 90,
+    "public_gists": 0,
+    "followers": 406,
+    "following": 53,
+    "created_at": "2025-05-05T12:04:51Z",
+    "updated_at": "2025-12-20T14:41:48Z"
+  },
+  "readme": "# End-to-End Web3 dApp: Algorand NFTs and Smart Contracts\n\n## Introduction\nWeb3 is defined as a multi-layer architecture that leverages decentralized protocols and distributed technologies to provide a trusted application framework. At the core of this stack is a decentralized ledger system  that enables consensus-based, tamper-proof data management. This architecture integrates several core components: programmable smart contracts that automate deterministic logic, NFTs for representing unique digital assets, decentralized storage mechanisms like IPFS for resilient data distribution, blockchain-based oracles for secure external data provisioning, and crypto wallets for user controlled identity and asset management. This composable technology stack is designed to support powerful, permissionless applications that operate independently of central authorities.\n\n## Project Objective\nThe project addresses the limitations of distributing certificates as static PDF files. The aim is to deliver certificates as digital assets (NFTs) on the Algorand blockchain, supporting on-chain verification, security, and additional functionality through smart contracts.\n\n## Development Environment\n\n### Algorand Sandbox (Testnet)\nAlgorand offers a Docker-based sandbox for node setup and rapid development.  \n\n```bash\ngit clone https://github.com/algorand/sandbox.git\ncd sandbox\n./sandbox up testnet\n./sandbox up testnet -v\n```\n\n### Python SDK Installation\nThe Algorand Python SDK is available via pip.  \n\n```bash\npip3 install py-algorand-sdk\n```\nInstructions for account creation are provided at the official Algorand developer documentation.\n\n### React Application Setup\nThe sample implementation utilizes a React frontend available from an open-source repository:\n\n```bash\ngit clone https://github.com/BirhanuGebisa/Algorand-dapps_smart-contract.git\ncd algorand-NFTs-smartContracts\nnpm start\n```\nAccess the local deployment at `http://localhost:8080`.\n\n### Application Scripts\n- `npm test` initiates the interactive test runner.\n- `npm run build` optimizes the React application for production output.\n\n### Backend Deployment\nUse Flask to run the backend logic:\n\n```bash\nflask run\n```\n\nA deployment instance is available at:\nhttps://lgorand-dapps-smart-contract.herokuapp.com/login\n\n## Author\ndev.xerion@gmail.com\n",
+  "tree_structure": [
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "e32f900055ed339a0322bbb11671f9709fdbc94f",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.github?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/.github",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/e32f900055ed339a0322bbb11671f9709fdbc94f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/e32f900055ed339a0322bbb11671f9709fdbc94f",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/.github"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "147eb8772596007688d34f1efa8e7ab46d093b2d",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.github/workflows?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/.github/workflows",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/147eb8772596007688d34f1efa8e7ab46d093b2d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.github/workflows?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/147eb8772596007688d34f1efa8e7ab46d093b2d",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/.github/workflows"
+      }
+    },
+    {
+      "name": "main.yaml",
+      "path": ".github/workflows/main.yaml",
+      "sha": "dae6c648778ee264c42df003b1d18fc3e00e47cc",
+      "size": 1139,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.github/workflows/main.yaml?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/.github/workflows/main.yaml",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/dae6c648778ee264c42df003b1d18fc3e00e47cc",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/.github/workflows/main.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.github/workflows/main.yaml?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/dae6c648778ee264c42df003b1d18fc3e00e47cc",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/.github/workflows/main.yaml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "0dc1e506ff997bc2ffb0c6f545287872a8ccd179",
+      "size": 25,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/0dc1e506ff997bc2ffb0c6f545287872a8ccd179",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/0dc1e506ff997bc2ffb0c6f545287872a8ccd179",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "a6208cd2549316ca83627713a0f9eca97ac1cea7",
+      "size": 11355,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a6208cd2549316ca83627713a0f9eca97ac1cea7",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a6208cd2549316ca83627713a0f9eca97ac1cea7",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "Notebooks",
+      "path": "Notebooks",
+      "sha": "050b6547e3a78c7d4d3ebf92337fa6e2d8733898",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/Notebooks?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/Notebooks",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/050b6547e3a78c7d4d3ebf92337fa6e2d8733898",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/Notebooks?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/050b6547e3a78c7d4d3ebf92337fa6e2d8733898",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/Notebooks"
+      }
+    },
+    {
+      "name": "first_transaction.ipynb",
+      "path": "Notebooks/first_transaction.ipynb",
+      "sha": "4825cdc5cb8eb4d2461bced561067d3f8c32618d",
+      "size": 12425,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/Notebooks/first_transaction.ipynb?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/Notebooks/first_transaction.ipynb",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/4825cdc5cb8eb4d2461bced561067d3f8c32618d",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/Notebooks/first_transaction.ipynb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/Notebooks/first_transaction.ipynb?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/4825cdc5cb8eb4d2461bced561067d3f8c32618d",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/Notebooks/first_transaction.ipynb"
+      }
+    },
+    {
+      "name": "Procfile",
+      "path": "Procfile",
+      "sha": "fc272ab9983257fdf0d496cda6b3b9962aa4c59e",
+      "size": 22,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/Procfile?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/Procfile",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/fc272ab9983257fdf0d496cda6b3b9962aa4c59e",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/Procfile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/Procfile?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/fc272ab9983257fdf0d496cda6b3b9962aa4c59e",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/Procfile"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "f92b82ba59c1e5a72e4f18cf80f00481f9b6baeb",
+      "size": 2314,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/README.md?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f92b82ba59c1e5a72e4f18cf80f00481f9b6baeb",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f92b82ba59c1e5a72e4f18cf80f00481f9b6baeb",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/README.md"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "favicon.ico",
+      "sha": "ba40c691711fe423f327fadf989c634283f44055",
+      "size": 10109,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/favicon.ico?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/favicon.ico",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/ba40c691711fe423f327fadf989c634283f44055",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/ba40c691711fe423f327fadf989c634283f44055",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/favicon.ico"
+      }
+    },
+    {
+      "name": "front_end",
+      "path": "front_end",
+      "sha": "a1942e29d5838fb6c32af46c00b4d28519f60788",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/front_end",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/a1942e29d5838fb6c32af46c00b4d28519f60788",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/a1942e29d5838fb6c32af46c00b4d28519f60788",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/front_end"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "front_end/.gitignore",
+      "sha": "5f537a9e4181046b52c865d7dcf31e8e0f5619f4",
+      "size": 306,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/.gitignore?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/.gitignore",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5f537a9e4181046b52c865d7dcf31e8e0f5619f4",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5f537a9e4181046b52c865d7dcf31e8e0f5619f4",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "front_end/README.md",
+      "sha": "58beeaccd87e230076cab531b8f418f40b6d1aeb",
+      "size": 3359,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/README.md?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/README.md",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/58beeaccd87e230076cab531b8f418f40b6d1aeb",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/README.md?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/58beeaccd87e230076cab531b8f418f40b6d1aeb",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/README.md"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "front_end/package-lock.json",
+      "sha": "752ef40623f7a0b389dea727ea9fb4685cc15833",
+      "size": 1185661,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/package-lock.json?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/package-lock.json",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/752ef40623f7a0b389dea727ea9fb4685cc15833",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/752ef40623f7a0b389dea727ea9fb4685cc15833",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "front_end/package.json",
+      "sha": "783e03f883eec7aa360711c30c8e2a65371aeb25",
+      "size": 812,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/package.json?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/package.json",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/783e03f883eec7aa360711c30c8e2a65371aeb25",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/package.json?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/783e03f883eec7aa360711c30c8e2a65371aeb25",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/package.json"
+      }
+    },
+    {
+      "name": "public",
+      "path": "front_end/public",
+      "sha": "e803507fc7528f858bb6eb1384fc1bb602aa8ff0",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/front_end/public",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/e803507fc7528f858bb6eb1384fc1bb602aa8ff0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/e803507fc7528f858bb6eb1384fc1bb602aa8ff0",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/front_end/public"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "front_end/public/favicon.ico",
+      "sha": "a11777cc471a4344702741ab1c8a588998b1311a",
+      "size": 3870,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a11777cc471a4344702741ab1c8a588998b1311a",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a11777cc471a4344702741ab1c8a588998b1311a",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/favicon.ico"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "front_end/public/index.html",
+      "sha": "e0841795118f10376cdc0996e51241ec09e89da3",
+      "size": 1735,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/index.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/index.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e0841795118f10376cdc0996e51241ec09e89da3",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/index.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e0841795118f10376cdc0996e51241ec09e89da3",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/index.html"
+      }
+    },
+    {
+      "name": "logo192.png",
+      "path": "front_end/public/logo192.png",
+      "sha": "fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+      "size": 5347,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/logo192.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/logo192.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/public/logo192.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/logo192.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/fc44b0a3796c0e0a64c3d858ca038bd4570465d9",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/logo192.png"
+      }
+    },
+    {
+      "name": "logo512.png",
+      "path": "front_end/public/logo512.png",
+      "sha": "a4e47a6545bc15971f8f63fba70e4013df88a664",
+      "size": 9664,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/logo512.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/logo512.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a4e47a6545bc15971f8f63fba70e4013df88a664",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/public/logo512.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/logo512.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a4e47a6545bc15971f8f63fba70e4013df88a664",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/logo512.png"
+      }
+    },
+    {
+      "name": "manifest.json",
+      "path": "front_end/public/manifest.json",
+      "sha": "080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+      "size": 492,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/manifest.json?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/manifest.json",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/public/manifest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/manifest.json?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/080d6c77ac21bb2ef88a6992b2b73ad93daaca92",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/manifest.json"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "front_end/public/robots.txt",
+      "sha": "e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "size": 67,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/robots.txt?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/robots.txt",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/public/robots.txt?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/public/robots.txt"
+      }
+    },
+    {
+      "name": "src",
+      "path": "front_end/src",
+      "sha": "ff628528ac7be85b687a4651c4ba3c54283cc68e",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/front_end/src",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/ff628528ac7be85b687a4651c4ba3c54283cc68e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/ff628528ac7be85b687a4651c4ba3c54283cc68e",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/front_end/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "front_end/src/App.css",
+      "sha": "74b5e053450a48a6bdb4d71aad648e7af821975c",
+      "size": 564,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/App.css?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/App.css",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/74b5e053450a48a6bdb4d71aad648e7af821975c",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/74b5e053450a48a6bdb4d71aad648e7af821975c",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/App.css"
+      }
+    },
+    {
+      "name": "App.js",
+      "path": "front_end/src/App.js",
+      "sha": "fd58f8a4eff66e50143b23fc423b54682c97f564",
+      "size": 543,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/App.js?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/App.js",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/fd58f8a4eff66e50143b23fc423b54682c97f564",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/App.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/App.js?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/fd58f8a4eff66e50143b23fc423b54682c97f564",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/App.js"
+      }
+    },
+    {
+      "name": "App.test.js",
+      "path": "front_end/src/App.test.js",
+      "sha": "1f03afeece5ac28064fa3c73a29215037465f789",
+      "size": 246,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/App.test.js?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/App.test.js",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/1f03afeece5ac28064fa3c73a29215037465f789",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/App.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/App.test.js?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/1f03afeece5ac28064fa3c73a29215037465f789",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/App.test.js"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "front_end/src/index.css",
+      "sha": "ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0",
+      "size": 366,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/index.css?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/index.css",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/index.css?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/index.css"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "front_end/src/index.js",
+      "sha": "286ba245dd92650aecf90f0045e591b703bb8e8d",
+      "size": 2942,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/index.js?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/index.js",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/286ba245dd92650aecf90f0045e591b703bb8e8d",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/index.js?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/286ba245dd92650aecf90f0045e591b703bb8e8d",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/index.js"
+      }
+    },
+    {
+      "name": "logo.svg",
+      "path": "front_end/src/logo.svg",
+      "sha": "9dfc1c058cebbef8b891c5062be6f31033d7d186",
+      "size": 2632,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/logo.svg?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/logo.svg",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/9dfc1c058cebbef8b891c5062be6f31033d7d186",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/logo.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/logo.svg?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/9dfc1c058cebbef8b891c5062be6f31033d7d186",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/logo.svg"
+      }
+    },
+    {
+      "name": "reportWebVitals.js",
+      "path": "front_end/src/reportWebVitals.js",
+      "sha": "5253d3ad9e6be6690549cb255f5952337b02401d",
+      "size": 362,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/reportWebVitals.js?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/reportWebVitals.js",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5253d3ad9e6be6690549cb255f5952337b02401d",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/reportWebVitals.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/reportWebVitals.js?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5253d3ad9e6be6690549cb255f5952337b02401d",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/reportWebVitals.js"
+      }
+    },
+    {
+      "name": "setupTests.js",
+      "path": "front_end/src/setupTests.js",
+      "sha": "8f2609b7b3e0e3897ab3bcaad13caf6876e48699",
+      "size": 241,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/setupTests.js?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/setupTests.js",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/8f2609b7b3e0e3897ab3bcaad13caf6876e48699",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/front_end/src/setupTests.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/front_end/src/setupTests.js?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/8f2609b7b3e0e3897ab3bcaad13caf6876e48699",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/front_end/src/setupTests.js"
+      }
+    },
+    {
+      "name": "main.py",
+      "path": "main.py",
+      "sha": "a6b11594c99960d28c605d1d3cbcb4f1cb87e01a",
+      "size": 1658,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/main.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/main.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a6b11594c99960d28c605d1d3cbcb4f1cb87e01a",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/main.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/main.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a6b11594c99960d28c605d1d3cbcb4f1cb87e01a",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/main.py"
+      }
+    },
+    {
+      "name": "mypy.ini",
+      "path": "mypy.ini",
+      "sha": "4d9be25af9780ac9ae05d0cb371387488f09a6e7",
+      "size": 102,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/mypy.ini?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/mypy.ini",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/4d9be25af9780ac9ae05d0cb371387488f09a6e7",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/mypy.ini",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/mypy.ini?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/4d9be25af9780ac9ae05d0cb371387488f09a6e7",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/mypy.ini"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "sha": "b4848a3a45219637773751c9d47ed268a7d1132b",
+      "size": 516,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/requirements.txt?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/requirements.txt",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/b4848a3a45219637773751c9d47ed268a7d1132b",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/requirements.txt?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/b4848a3a45219637773751c9d47ed268a7d1132b",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/requirements.txt"
+      }
+    },
+    {
+      "name": "sandbox",
+      "path": "sandbox",
+      "sha": "5b23b4631e0bd1efe115a1563bb34852251d3acd",
+      "size": 282,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/sandbox?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/sandbox",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5b23b4631e0bd1efe115a1563bb34852251d3acd",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/sandbox",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/sandbox?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5b23b4631e0bd1efe115a1563bb34852251d3acd",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/sandbox"
+      }
+    },
+    {
+      "name": "screenshots",
+      "path": "screenshots",
+      "sha": "1fec623b798b7a213734ba94f646c784f0e967c3",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/screenshots",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/1fec623b798b7a213734ba94f646c784f0e967c3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/1fec623b798b7a213734ba94f646c784f0e967c3",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/screenshots"
+      }
+    },
+    {
+      "name": "Screenshot from 2022-09-27 14-55-34.png",
+      "path": "screenshots/Screenshot from 2022-09-27 14-55-34.png",
+      "sha": "5a0109aa853e6df326b4610065fefe6ca26088e4",
+      "size": 106796,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2014-55-34.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2014-55-34.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5a0109aa853e6df326b4610065fefe6ca26088e4",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/Screenshot%20from%202022-09-27%2014-55-34.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2014-55-34.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/5a0109aa853e6df326b4610065fefe6ca26088e4",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2014-55-34.png"
+      }
+    },
+    {
+      "name": "Screenshot from 2022-09-27 21-50-09.png",
+      "path": "screenshots/Screenshot from 2022-09-27 21-50-09.png",
+      "sha": "caca877bbe898e8e3bd216e515cc1eab2d464d89",
+      "size": 75255,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2021-50-09.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2021-50-09.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/caca877bbe898e8e3bd216e515cc1eab2d464d89",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/Screenshot%20from%202022-09-27%2021-50-09.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2021-50-09.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/caca877bbe898e8e3bd216e515cc1eab2d464d89",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2021-50-09.png"
+      }
+    },
+    {
+      "name": "Screenshot from 2022-09-27 21-50-44.png",
+      "path": "screenshots/Screenshot from 2022-09-27 21-50-44.png",
+      "sha": "760011071c2f91a4bb5893ebd2e7dc50fc6d8d55",
+      "size": 108842,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2021-50-44.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2021-50-44.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/760011071c2f91a4bb5893ebd2e7dc50fc6d8d55",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/Screenshot%20from%202022-09-27%2021-50-44.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2021-50-44.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/760011071c2f91a4bb5893ebd2e7dc50fc6d8d55",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2021-50-44.png"
+      }
+    },
+    {
+      "name": "Screenshot from 2022-09-27 22-39-11.png",
+      "path": "screenshots/Screenshot from 2022-09-27 22-39-11.png",
+      "sha": "9f6e1e2f4c3fb9fe5d83454c8c650afdfd916cb3",
+      "size": 165330,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2022-39-11.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2022-39-11.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/9f6e1e2f4c3fb9fe5d83454c8c650afdfd916cb3",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/Screenshot%20from%202022-09-27%2022-39-11.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/Screenshot%20from%202022-09-27%2022-39-11.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/9f6e1e2f4c3fb9fe5d83454c8c650afdfd916cb3",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/Screenshot%20from%202022-09-27%2022-39-11.png"
+      }
+    },
+    {
+      "name": "asset.png",
+      "path": "screenshots/asset.png",
+      "sha": "418ac52b73d0748e8b7f53ad315c1b2e5389ccca",
+      "size": 40287,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/asset.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/asset.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/418ac52b73d0748e8b7f53ad315c1b2e5389ccca",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/asset.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/asset.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/418ac52b73d0748e8b7f53ad315c1b2e5389ccca",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/asset.png"
+      }
+    },
+    {
+      "name": "balance.png",
+      "path": "screenshots/balance.png",
+      "sha": "f032588c85de39cb015ee25e71594cc36d7020b5",
+      "size": 21155,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/balance.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/balance.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f032588c85de39cb015ee25e71594cc36d7020b5",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/balance.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/balance.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f032588c85de39cb015ee25e71594cc36d7020b5",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/balance.png"
+      }
+    },
+    {
+      "name": "login interface.png",
+      "path": "screenshots/login interface.png",
+      "sha": "80ce24658a1334ff40da6af744f83d7453136c53",
+      "size": 100573,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/login%20interface.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/login%20interface.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/80ce24658a1334ff40da6af744f83d7453136c53",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/login%20interface.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/login%20interface.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/80ce24658a1334ff40da6af744f83d7453136c53",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/login%20interface.png"
+      }
+    },
+    {
+      "name": "mainNet.png",
+      "path": "screenshots/mainNet.png",
+      "sha": "f37bb12bcb4f5d75103123d4bde44c3d95b560f0",
+      "size": 21308,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/mainNet.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/mainNet.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f37bb12bcb4f5d75103123d4bde44c3d95b560f0",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/mainNet.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/mainNet.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f37bb12bcb4f5d75103123d4bde44c3d95b560f0",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/mainNet.png"
+      }
+    },
+    {
+      "name": "transactionlist.png",
+      "path": "screenshots/transactionlist.png",
+      "sha": "a2d4612092449fa4f7e893e77380750648c9b03c",
+      "size": 103964,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/transactionlist.png?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/transactionlist.png",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a2d4612092449fa4f7e893e77380750648c9b03c",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/screenshots/transactionlist.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/screenshots/transactionlist.png?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a2d4612092449fa4f7e893e77380750648c9b03c",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/screenshots/transactionlist.png"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "449ce393f9dfcc2986cf268040ba8b9c97f11c2d",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/scripts?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/scripts",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/449ce393f9dfcc2986cf268040ba8b9c97f11c2d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/scripts?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/449ce393f9dfcc2986cf268040ba8b9c97f11c2d",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/scripts"
+      }
+    },
+    {
+      "name": "first_transaction_example.py",
+      "path": "scripts/first_transaction_example.py",
+      "sha": "0b6b1e68fc82c8527b6660383360184139166109",
+      "size": 2484,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/scripts/first_transaction_example.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/scripts/first_transaction_example.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/0b6b1e68fc82c8527b6660383360184139166109",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/scripts/first_transaction_example.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/scripts/first_transaction_example.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/0b6b1e68fc82c8527b6660383360184139166109",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/scripts/first_transaction_example.py"
+      }
+    },
+    {
+      "name": "tests",
+      "path": "tests",
+      "sha": "dd0c0246788eec9dd7681cd2ebc8369776048495",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/tests?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/tests",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/dd0c0246788eec9dd7681cd2ebc8369776048495",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/tests?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/dd0c0246788eec9dd7681cd2ebc8369776048495",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/tests"
+      }
+    },
+    {
+      "name": "test_account.py",
+      "path": "tests/test_account.py",
+      "sha": "3d383feca4e634961d15403db6eecd9e84e4a303",
+      "size": 582,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/tests/test_account.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/tests/test_account.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/3d383feca4e634961d15403db6eecd9e84e4a303",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/tests/test_account.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/tests/test_account.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/3d383feca4e634961d15403db6eecd9e84e4a303",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/tests/test_account.py"
+      }
+    },
+    {
+      "name": "webapps",
+      "path": "webapps",
+      "sha": "77c92aa76e0a90a5f55f0ef4fe7b622c52593163",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/77c92aa76e0a90a5f55f0ef4fe7b622c52593163",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/77c92aa76e0a90a5f55f0ef4fe7b622c52593163",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "webapps/__init__.py",
+      "sha": "e456b977b26b265e79cf3d7e700a6411c9d6a1fd",
+      "size": 343,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/__init__.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/__init__.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e456b977b26b265e79cf3d7e700a6411c9d6a1fd",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e456b977b26b265e79cf3d7e700a6411c9d6a1fd",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/__init__.py"
+      }
+    },
+    {
+      "name": "admin_page.py",
+      "path": "webapps/admin_page.py",
+      "sha": "a1d07af42e50d9af841cb420b6d95f16b13e33ba",
+      "size": 1536,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/admin_page.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/admin_page.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a1d07af42e50d9af841cb420b6d95f16b13e33ba",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/admin_page.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/admin_page.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a1d07af42e50d9af841cb420b6d95f16b13e33ba",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/admin_page.py"
+      }
+    },
+    {
+      "name": "algodand.py",
+      "path": "webapps/algodand.py",
+      "sha": "c7749a805e854fcdf9a8d2074945a3458e2fc2f8",
+      "size": 3681,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/algodand.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/algodand.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/c7749a805e854fcdf9a8d2074945a3458e2fc2f8",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/algodand.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/algodand.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/c7749a805e854fcdf9a8d2074945a3458e2fc2f8",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/algodand.py"
+      }
+    },
+    {
+      "name": "forms.py",
+      "path": "webapps/forms.py",
+      "sha": "b09b4344c026398d4eb1b579bac8bd4ddbabbeee",
+      "size": 2054,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/forms.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/forms.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/b09b4344c026398d4eb1b579bac8bd4ddbabbeee",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/forms.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/forms.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/b09b4344c026398d4eb1b579bac8bd4ddbabbeee",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/forms.py"
+      }
+    },
+    {
+      "name": "frontend_page",
+      "path": "webapps/frontend_page",
+      "sha": "8502e5fbf957434f6561376efdba4c5cf883c58e",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/frontend_page",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/8502e5fbf957434f6561376efdba4c5cf883c58e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/8502e5fbf957434f6561376efdba4c5cf883c58e",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/frontend_page"
+      }
+    },
+    {
+      "name": "assets.html",
+      "path": "webapps/frontend_page/assets.html",
+      "sha": "e86649c0f010bc0e4aa311a4623feeb8a820b9b3",
+      "size": 824,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/assets.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/assets.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e86649c0f010bc0e4aa311a4623feeb8a820b9b3",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/assets.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/assets.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/e86649c0f010bc0e4aa311a4623feeb8a820b9b3",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/assets.html"
+      }
+    },
+    {
+      "name": "create_asset.html",
+      "path": "webapps/frontend_page/create_asset.html",
+      "sha": "38b698428b39e27aaf2d6cc7edec2336ac97c380",
+      "size": 757,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/create_asset.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/create_asset.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/38b698428b39e27aaf2d6cc7edec2336ac97c380",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/create_asset.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/create_asset.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/38b698428b39e27aaf2d6cc7edec2336ac97c380",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/create_asset.html"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "webapps/frontend_page/index.html",
+      "sha": "033f0951d79d0d7de9a0f035f4843f374aae5c40",
+      "size": 202,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/index.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/index.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/033f0951d79d0d7de9a0f035f4843f374aae5c40",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/index.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/033f0951d79d0d7de9a0f035f4843f374aae5c40",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/index.html"
+      }
+    },
+    {
+      "name": "layout.html",
+      "path": "webapps/frontend_page/layout.html",
+      "sha": "f5c4e8c879fef38409fda3fc2c3941f5cecd4c77",
+      "size": 517,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/layout.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/layout.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f5c4e8c879fef38409fda3fc2c3941f5cecd4c77",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/layout.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/layout.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f5c4e8c879fef38409fda3fc2c3941f5cecd4c77",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/layout.html"
+      }
+    },
+    {
+      "name": "login.html",
+      "path": "webapps/frontend_page/login.html",
+      "sha": "27050af8ec679191b579e41790ca37551c9e1aa6",
+      "size": 575,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/login.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/login.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/27050af8ec679191b579e41790ca37551c9e1aa6",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/login.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/login.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/27050af8ec679191b579e41790ca37551c9e1aa6",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/login.html"
+      }
+    },
+    {
+      "name": "mnemonic.html",
+      "path": "webapps/frontend_page/mnemonic.html",
+      "sha": "f9bd38ed4954267b9620f1c0944aeb615e483073",
+      "size": 180,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/mnemonic.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/mnemonic.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f9bd38ed4954267b9620f1c0944aeb615e483073",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/mnemonic.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/mnemonic.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f9bd38ed4954267b9620f1c0944aeb615e483073",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/mnemonic.html"
+      }
+    },
+    {
+      "name": "nav.html",
+      "path": "webapps/frontend_page/nav.html",
+      "sha": "2dba80680e5914dcf35d98c9acd7dcc08af3224b",
+      "size": 826,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/nav.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/nav.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/2dba80680e5914dcf35d98c9acd7dcc08af3224b",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/nav.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/nav.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/2dba80680e5914dcf35d98c9acd7dcc08af3224b",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/nav.html"
+      }
+    },
+    {
+      "name": "nft.html",
+      "path": "webapps/frontend_page/nft.html",
+      "sha": "a44c4c85e66b6591a4af46e8b288d86b2d1a7152",
+      "size": 612,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/nft.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/nft.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a44c4c85e66b6591a4af46e8b288d86b2d1a7152",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/nft.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/nft.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a44c4c85e66b6591a4af46e8b288d86b2d1a7152",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/nft.html"
+      }
+    },
+    {
+      "name": "send.html",
+      "path": "webapps/frontend_page/send.html",
+      "sha": "a781b8597b376a3b981201d86c9afabdeb16bf26",
+      "size": 796,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/send.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/send.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a781b8597b376a3b981201d86c9afabdeb16bf26",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/send.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/send.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a781b8597b376a3b981201d86c9afabdeb16bf26",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/send.html"
+      }
+    },
+    {
+      "name": "success.html",
+      "path": "webapps/frontend_page/success.html",
+      "sha": "42c24fe60632612eebee64c6df5a0cfe6440f9a0",
+      "size": 161,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/success.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/success.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/42c24fe60632612eebee64c6df5a0cfe6440f9a0",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/success.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/success.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/42c24fe60632612eebee64c6df5a0cfe6440f9a0",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/success.html"
+      }
+    },
+    {
+      "name": "transactions.html",
+      "path": "webapps/frontend_page/transactions.html",
+      "sha": "140262dd0b9579f617d73e7b003f7637d3e1178a",
+      "size": 470,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/transactions.html?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/transactions.html",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/140262dd0b9579f617d73e7b003f7637d3e1178a",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/frontend_page/transactions.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/frontend_page/transactions.html?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/140262dd0b9579f617d73e7b003f7637d3e1178a",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/frontend_page/transactions.html"
+      }
+    },
+    {
+      "name": "index.py",
+      "path": "webapps/index.py",
+      "sha": "99d8b70d1f22de8b7e01236e5e42b3801b57d93d",
+      "size": 1539,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/index.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/index.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/99d8b70d1f22de8b7e01236e5e42b3801b57d93d",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/index.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/index.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/99d8b70d1f22de8b7e01236e5e42b3801b57d93d",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/index.py"
+      }
+    },
+    {
+      "name": "models.py",
+      "path": "webapps/models.py",
+      "sha": "caff9e61aa1b1cda976bac48a97d779faec5835e",
+      "size": 1765,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/models.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/models.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/caff9e61aa1b1cda976bac48a97d779faec5835e",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/models.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/models.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/caff9e61aa1b1cda976bac48a97d779faec5835e",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/models.py"
+      }
+    },
+    {
+      "name": "static",
+      "path": "webapps/static",
+      "sha": "119aaf4c1857fba4de9506e7097339c01493874c",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/static",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/119aaf4c1857fba4de9506e7097339c01493874c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/119aaf4c1857fba4de9506e7097339c01493874c",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/static"
+      }
+    },
+    {
+      "name": "css",
+      "path": "webapps/static/css",
+      "sha": "ce3aa523ef84d02351bf1d3c213fa59ebd00b3a4",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/css?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/static/css",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/ce3aa523ef84d02351bf1d3c213fa59ebd00b3a4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/css?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/ce3aa523ef84d02351bf1d3c213fa59ebd00b3a4",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/static/css"
+      }
+    },
+    {
+      "name": "nav.css",
+      "path": "webapps/static/css/nav.css",
+      "sha": "f3102ca132e9809a86bb30edbfca2eeb3dfc9d97",
+      "size": 780,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/css/nav.css?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/static/css/nav.css",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f3102ca132e9809a86bb30edbfca2eeb3dfc9d97",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/static/css/nav.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/css/nav.css?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/f3102ca132e9809a86bb30edbfca2eeb3dfc9d97",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/static/css/nav.css"
+      }
+    },
+    {
+      "name": "style.css",
+      "path": "webapps/static/css/style.css",
+      "sha": "32a18772c6e5cbfcd542dc26f15122041c1d9300",
+      "size": 995,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/css/style.css?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/static/css/style.css",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/32a18772c6e5cbfcd542dc26f15122041c1d9300",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/static/css/style.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/css/style.css?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/32a18772c6e5cbfcd542dc26f15122041c1d9300",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/static/css/style.css"
+      }
+    },
+    {
+      "name": "img",
+      "path": "webapps/static/img",
+      "sha": "807c25c84842223c61928febdfd1cf179f1e7123",
+      "size": 0,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/img?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/static/img",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/807c25c84842223c61928febdfd1cf179f1e7123",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/img?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/trees/807c25c84842223c61928febdfd1cf179f1e7123",
+        "html": "https://github.com/xerion12/Dapp-algorand/tree/main/webapps/static/img"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "webapps/static/img/favicon.ico",
+      "sha": "ba40c691711fe423f327fadf989c634283f44055",
+      "size": 10109,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/img/favicon.ico?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/static/img/favicon.ico",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/ba40c691711fe423f327fadf989c634283f44055",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/static/img/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/static/img/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/ba40c691711fe423f327fadf989c634283f44055",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/static/img/favicon.ico"
+      }
+    },
+    {
+      "name": "views_pages.py",
+      "path": "webapps/views_pages.py",
+      "sha": "45fd32c636aaa851d8ad22a95e976f09438329c1",
+      "size": 3258,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/views_pages.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/views_pages.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/45fd32c636aaa851d8ad22a95e976f09438329c1",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/webapps/views_pages.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/webapps/views_pages.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/45fd32c636aaa851d8ad22a95e976f09438329c1",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/webapps/views_pages.py"
+      }
+    },
+    {
+      "name": "wsgi.py",
+      "path": "wsgi.py",
+      "sha": "a69969582b1ce0673e04cfbdd17d20d279a61e54",
+      "size": 119,
+      "url": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/wsgi.py?ref=main",
+      "html_url": "https://github.com/xerion12/Dapp-algorand/blob/main/wsgi.py",
+      "git_url": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a69969582b1ce0673e04cfbdd17d20d279a61e54",
+      "download_url": "https://raw.githubusercontent.com/xerion12/Dapp-algorand/main/wsgi.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xerion12/Dapp-algorand/contents/wsgi.py?ref=main",
+        "git": "https://api.github.com/repos/xerion12/Dapp-algorand/git/blobs/a69969582b1ce0673e04cfbdd17d20d279a61e54",
+        "html": "https://github.com/xerion12/Dapp-algorand/blob/main/wsgi.py"
+      }
+    }
+  ],
+  "external_domains": {
+    "localhost:8080`.": null,
+    "lgorand-dapps-smart-contract.herokuapp.com": null,
+    "github.com": 6723
+  },
+  "collected_at": "2026-03-07T10:40:27.138100"
+}

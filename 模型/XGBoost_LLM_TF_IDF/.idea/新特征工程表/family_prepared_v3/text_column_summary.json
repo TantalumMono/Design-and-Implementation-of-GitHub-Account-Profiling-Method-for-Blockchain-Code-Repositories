@@ -1,0 +1,14 @@
+{
+  "recommended_tfidf_column": "text_for_tfidf_clean",
+  "available_clean_text_columns": [
+    "readme_text_clean",
+    "description_text_clean",
+    "topics_text_clean",
+    "combined_text_clean",
+    "text_for_tfidf_clean"
+  ],
+  "family_rule": {
+    "positive": "优先读取 meta.family_label；若缺失则回退到 family_id/family/source_repo_full_name 等字段。",
+    "negative": "负样本没有 family，统一使用 NEG_样本编号 作为 family_id，group_id 也是唯一值。"
+  }
+}

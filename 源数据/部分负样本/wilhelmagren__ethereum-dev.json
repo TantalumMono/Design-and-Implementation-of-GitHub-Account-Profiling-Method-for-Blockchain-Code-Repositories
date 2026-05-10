@@ -1,0 +1,2116 @@
+{
+  "repo_full_name": "wilhelmagren/ethereum-dev",
+  "repo_detail": {
+    "id": 923061581,
+    "node_id": "R_kgDONwTNTQ",
+    "name": "ethereum-dev",
+    "full_name": "wilhelmagren/ethereum-dev",
+    "private": false,
+    "owner": {
+      "login": "wilhelmagren",
+      "id": 36638274,
+      "node_id": "MDQ6VXNlcjM2NjM4Mjc0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36638274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wilhelmagren",
+      "html_url": "https://github.com/wilhelmagren",
+      "followers_url": "https://api.github.com/users/wilhelmagren/followers",
+      "following_url": "https://api.github.com/users/wilhelmagren/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wilhelmagren/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wilhelmagren/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wilhelmagren/subscriptions",
+      "organizations_url": "https://api.github.com/users/wilhelmagren/orgs",
+      "repos_url": "https://api.github.com/users/wilhelmagren/repos",
+      "events_url": "https://api.github.com/users/wilhelmagren/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wilhelmagren/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/wilhelmagren/ethereum-dev",
+    "description": "Scripts and smart contracts for Ethereum web3 development.",
+    "fork": false,
+    "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev",
+    "forks_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/forks",
+    "keys_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/teams",
+    "hooks_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/hooks",
+    "issue_events_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/events",
+    "assignees_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/tags",
+    "blobs_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/languages",
+    "stargazers_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/stargazers",
+    "contributors_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contributors",
+    "subscribers_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/subscribers",
+    "subscription_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/subscription",
+    "commits_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/merges",
+    "archive_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/downloads",
+    "issues_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/labels{/name}",
+    "releases_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/deployments",
+    "created_at": "2025-01-27T15:24:10Z",
+    "updated_at": "2025-05-20T10:42:59Z",
+    "pushed_at": "2025-03-05T14:04:30Z",
+    "git_url": "git://github.com/wilhelmagren/ethereum-dev.git",
+    "ssh_url": "git@github.com:wilhelmagren/ethereum-dev.git",
+    "clone_url": "https://github.com/wilhelmagren/ethereum-dev.git",
+    "svn_url": "https://github.com/wilhelmagren/ethereum-dev",
+    "homepage": null,
+    "size": 136,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Solidity",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "wilhelmagren",
+    "id": 36638274,
+    "node_id": "MDQ6VXNlcjM2NjM4Mjc0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/36638274?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wilhelmagren",
+    "html_url": "https://github.com/wilhelmagren",
+    "followers_url": "https://api.github.com/users/wilhelmagren/followers",
+    "following_url": "https://api.github.com/users/wilhelmagren/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wilhelmagren/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wilhelmagren/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wilhelmagren/subscriptions",
+    "organizations_url": "https://api.github.com/users/wilhelmagren/orgs",
+    "repos_url": "https://api.github.com/users/wilhelmagren/repos",
+    "events_url": "https://api.github.com/users/wilhelmagren/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wilhelmagren/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Wilhelm Ågren",
+    "company": "Utbetalningsmyndigheten",
+    "blog": "wilhelmagren.github.io",
+    "location": "Stockholm Sweden",
+    "email": null,
+    "hireable": null,
+    "bio": "data data data",
+    "twitter_username": null,
+    "public_repos": 71,
+    "public_gists": 0,
+    "followers": 24,
+    "following": 36,
+    "created_at": "2018-02-19T16:10:30Z",
+    "updated_at": "2026-03-04T18:08:05Z"
+  },
+  "readme": "# Private Proof-of-Stake Ethereum devnet toolbox\n\nScripts and smart contracts for Ethereum web3 development.\n\n\n## Setting up the blockchain\n\nCreate a directory where you want to store all of the devnet chain data.\nI ususally call mine `chain`, and inside that directory you want to create\ntwo additional directories called:\n\n- `execution`: this directory will store all of the execution layer nodes and [clef](https://geth.ethereum.org/docs/tools/clef/introduction) data,\n- `consensus`: this directory will store the software to run the Proof-of-Stake (PoS) consensus nodes.\n\nGenerate the necessary genesis state file modifications by running:\n\n```\n./consensus/prysmctl testnet generate-gensis \\\n  --fork capella \\\n  --num-validators 10 \\\n  --genesis-time-delay 600 \\\n  --chain-config-file ./chain-config.yml \\\n  --geth-gensis-json-in ./original-genesis.json \\\n  --geth-gensis-json-out ./genesis.json ¿\n  --output-ssz ./genesis.ssz\n\n```\n\nwhich will move the genesis time forward into the future by 10 minutes (600 seconds).\n\nPrepare your account by running:\n\n```\ngeth --datadir ./execution/data account import ./secret.txt\ngeth --dataidr ./execution/data init ./genesis.json\n\n```\n\n\n## Deploying contracts\n\nYou can use the script [deploy_contract.py](./deploy_contract.py) to deploy contracts to the chain.\n\n```\npy deploy_contract.py --help\n\nusage:\n        Deploy a smart contract to a private PoS Ethereum devnet over IPC.\n\npositional arguments:\n  contract              the name of the contract to deploy\n\noptional arguments:\n  -h, --help            show this help message and exit\n  -i IPC_ENDPOINT, --ipc-endpoint IPC_ENDPOINT\n                        the IPC endpoint to connect to (default: ./chain/execution/data/geth.ipc)\n  -a ARGS [ARGS ...], --args ARGS [ARGS ...]\n                        optional positional arguments for the constructor of the contract\n  -p PARSE_ARGS [PARSE_ARGS ...], --parse-args PARSE_ARGS [PARSE_ARGS ...]\n\nDon't you dare go hollow.\n\n```\n\n\n## Interacting with contracts\n\nYou can use the script [interact_with_contract.py](./interact_with_contract.py) to call/transact with contract methods.\n\n```\npy interact_with_contract.py --help\n\nusage: interact_with_contract.py [-h] [-a ARGS [ARGS ...]] [--parse-args PARSE_ARGS [PARSE_ARGS ...]] [-i IPC_ENDPOINT] [-p PRIVATE_KEY] [--gas GAS] [--gas-price GAS_PRICE]\n                                 contract function {call,transact}\n\npositional arguments:\n  contract              the name of the contract to interact with\n  function              the name of the function to call/transact\n  {call,transact}       how to use the contract function\n\noptional arguments:\n  -h, --help            show this help message and exit\n  -a ARGS [ARGS ...], --args ARGS [ARGS ...]\n                        optional positional arguments to pass to the contract function\n  --parse-args PARSE_ARGS [PARSE_ARGS ...]\n  -i IPC_ENDPOINT, --ipc-endpoint IPC_ENDPOINT\n                        the IPC endpoint to connect to (default: ./chain/execution/data/geth.ipc)\n  -p PRIVATE_KEY, --private-key PRIVATE_KEY\n                        the file containing the private key for the account to use (default: ./secret.txt)\n  --gas GAS             the price that you are prepared to pay to execute a transaction (default: 3000000)\n  --gas-price GAS_PRICE\n                        the amount that you are willing to pay per unit of gas (default: 10)\n\n```\n\n...\n\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "b8345919e76e589c027b6cacb136d2293bf91116",
+      "size": 3655,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b8345919e76e589c027b6cacb136d2293bf91116",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b8345919e76e589c027b6cacb136d2293bf91116",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "DEMO_ACCOUNTS.txt",
+      "path": "DEMO_ACCOUNTS.txt",
+      "sha": "44a442370107d6aad1ede7024fd37989deaa8404",
+      "size": 86,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/DEMO_ACCOUNTS.txt?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/DEMO_ACCOUNTS.txt",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/44a442370107d6aad1ede7024fd37989deaa8404",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/DEMO_ACCOUNTS.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/DEMO_ACCOUNTS.txt?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/44a442370107d6aad1ede7024fd37989deaa8404",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/DEMO_ACCOUNTS.txt"
+      }
+    },
+    {
+      "name": "DEPLOYED_ESCROWS.json",
+      "path": "DEPLOYED_ESCROWS.json",
+      "sha": "bd713a4e4d3c54f389f0d313a8778df67c2de1e6",
+      "size": 98311,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/DEPLOYED_ESCROWS.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/DEPLOYED_ESCROWS.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bd713a4e4d3c54f389f0d313a8778df67c2de1e6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/DEPLOYED_ESCROWS.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/DEPLOYED_ESCROWS.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bd713a4e4d3c54f389f0d313a8778df67c2de1e6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/DEPLOYED_ESCROWS.json"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "e4012b63da27c430df669e4db05f8cf69563bc44",
+      "size": 1071,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e4012b63da27c430df669e4db05f8cf69563bc44",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e4012b63da27c430df669e4db05f8cf69563bc44",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "PRIVATE_KEYS.json",
+      "path": "PRIVATE_KEYS.json",
+      "sha": "fcef64e7f2f12fc9ec99f966327df0837cdd105f",
+      "size": 228,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/PRIVATE_KEYS.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/PRIVATE_KEYS.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/fcef64e7f2f12fc9ec99f966327df0837cdd105f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/PRIVATE_KEYS.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/PRIVATE_KEYS.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/fcef64e7f2f12fc9ec99f966327df0837cdd105f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/PRIVATE_KEYS.json"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "61ceb6421bca8eff18e00301d744ff8d8edb309d",
+      "size": 3400,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/README.md?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/61ceb6421bca8eff18e00301d744ff8d8edb309d",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/61ceb6421bca8eff18e00301d744ff8d8edb309d",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/README.md"
+      }
+    },
+    {
+      "name": "backend",
+      "path": "backend",
+      "sha": "13f7398642c6238a49c7d6494ce47701af7f8c66",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/backend?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/backend",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/13f7398642c6238a49c7d6494ce47701af7f8c66",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/backend?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/13f7398642c6238a49c7d6494ce47701af7f8c66",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/backend"
+      }
+    },
+    {
+      "name": "app.py",
+      "path": "backend/app.py",
+      "sha": "617d661b8070bd55afe9c23570629248a7633959",
+      "size": 21164,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/backend/app.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/backend/app.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/617d661b8070bd55afe9c23570629248a7633959",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/backend/app.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/backend/app.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/617d661b8070bd55afe9c23570629248a7633959",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/backend/app.py"
+      }
+    },
+    {
+      "name": "oracle.py",
+      "path": "backend/oracle.py",
+      "sha": "bcec3e0e907785c86ed79ed3f1dd1dc03b5b1f88",
+      "size": 3001,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/backend/oracle.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/backend/oracle.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bcec3e0e907785c86ed79ed3f1dd1dc03b5b1f88",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/backend/oracle.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/backend/oracle.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bcec3e0e907785c86ed79ed3f1dd1dc03b5b1f88",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/backend/oracle.py"
+      }
+    },
+    {
+      "name": "car_register_api.py",
+      "path": "car_register_api.py",
+      "sha": "8898315f45a55e5de307fb441afd89143c02cdc5",
+      "size": 1208,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/car_register_api.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/car_register_api.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8898315f45a55e5de307fb441afd89143c02cdc5",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/car_register_api.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/car_register_api.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8898315f45a55e5de307fb441afd89143c02cdc5",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/car_register_api.py"
+      }
+    },
+    {
+      "name": "car_register_oracle.py",
+      "path": "car_register_oracle.py",
+      "sha": "163f3a00eb7795fcfe66f2113886106b08fa6d64",
+      "size": 1427,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/car_register_oracle.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/car_register_oracle.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/163f3a00eb7795fcfe66f2113886106b08fa6d64",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/car_register_oracle.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/car_register_oracle.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/163f3a00eb7795fcfe66f2113886106b08fa6d64",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/car_register_oracle.py"
+      }
+    },
+    {
+      "name": "chain-config.yml",
+      "path": "chain-config.yml",
+      "sha": "a88bf74d1c1d5d1371301e7d3d14bfa4bf0a58f1",
+      "size": 484,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain-config.yml?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain-config.yml",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a88bf74d1c1d5d1371301e7d3d14bfa4bf0a58f1",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain-config.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain-config.yml?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a88bf74d1c1d5d1371301e7d3d14bfa4bf0a58f1",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain-config.yml"
+      }
+    },
+    {
+      "name": "chain",
+      "path": "chain",
+      "sha": "2823c304634a7a25e5c92cf31635ab08adad7a9f",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/chain",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/2823c304634a7a25e5c92cf31635ab08adad7a9f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/2823c304634a7a25e5c92cf31635ab08adad7a9f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/chain"
+      }
+    },
+    {
+      "name": "chain-config.yml",
+      "path": "chain/chain-config.yml",
+      "sha": "d314f101eab4ff70fbd6f2a99464e6a741233016",
+      "size": 484,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/chain-config.yml?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/chain-config.yml",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/d314f101eab4ff70fbd6f2a99464e6a741233016",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/chain-config.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/chain-config.yml?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/d314f101eab4ff70fbd6f2a99464e6a741233016",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/chain-config.yml"
+      }
+    },
+    {
+      "name": "create-genesis-config.sh",
+      "path": "chain/create-genesis-config.sh",
+      "sha": "1d42226c02243d1b297838a18b5a177b1277467c",
+      "size": 278,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/create-genesis-config.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/create-genesis-config.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/1d42226c02243d1b297838a18b5a177b1277467c",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/create-genesis-config.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/create-genesis-config.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/1d42226c02243d1b297838a18b5a177b1277467c",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/create-genesis-config.sh"
+      }
+    },
+    {
+      "name": "genesis.json",
+      "path": "chain/genesis.json",
+      "sha": "93973ee639099298699efc325fdbf64950f3652f",
+      "size": 14021,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/genesis.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/genesis.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/93973ee639099298699efc325fdbf64950f3652f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/genesis.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/genesis.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/93973ee639099298699efc325fdbf64950f3652f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/genesis.json"
+      }
+    },
+    {
+      "name": "genesis.ssz",
+      "path": "chain/genesis.ssz",
+      "sha": "3fa385c06610513ec1a9b8d05a16d8453526604e",
+      "size": 2737531,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/genesis.ssz?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/genesis.ssz",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3fa385c06610513ec1a9b8d05a16d8453526604e",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/genesis.ssz",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/genesis.ssz?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3fa385c06610513ec1a9b8d05a16d8453526604e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/genesis.ssz"
+      }
+    },
+    {
+      "name": "jwt.hex",
+      "path": "chain/jwt.hex",
+      "sha": "1b4117a2d4bf7a44f614a4482d353143428c7632",
+      "size": 64,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/jwt.hex?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/jwt.hex",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/1b4117a2d4bf7a44f614a4482d353143428c7632",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/jwt.hex",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/jwt.hex?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/1b4117a2d4bf7a44f614a4482d353143428c7632",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/jwt.hex"
+      }
+    },
+    {
+      "name": "original-genesis.json",
+      "path": "chain/original-genesis.json",
+      "sha": "ced4cd8842bc6fcff9d48c41c4c7262cdfa980cb",
+      "size": 14066,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/original-genesis.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/original-genesis.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/ced4cd8842bc6fcff9d48c41c4c7262cdfa980cb",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/original-genesis.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/original-genesis.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/ced4cd8842bc6fcff9d48c41c4c7262cdfa980cb",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/original-genesis.json"
+      }
+    },
+    {
+      "name": "secret.txt",
+      "path": "chain/secret.txt",
+      "sha": "8fe79fab509582195692ce31425a862b8f670e9e",
+      "size": 65,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/secret.txt?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/secret.txt",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8fe79fab509582195692ce31425a862b8f670e9e",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/secret.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/secret.txt?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8fe79fab509582195692ce31425a862b8f670e9e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/secret.txt"
+      }
+    },
+    {
+      "name": "setup-execution-node.sh",
+      "path": "chain/setup-execution-node.sh",
+      "sha": "4d9b1142577fa30691e88823214bb5d79d441f09",
+      "size": 161,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/setup-execution-node.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/setup-execution-node.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d9b1142577fa30691e88823214bb5d79d441f09",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/setup-execution-node.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/setup-execution-node.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d9b1142577fa30691e88823214bb5d79d441f09",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/setup-execution-node.sh"
+      }
+    },
+    {
+      "name": "setup-signer.sh",
+      "path": "chain/setup-signer.sh",
+      "sha": "c877005a1723da390515f7d9253c854c3963048e",
+      "size": 73,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/setup-signer.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/setup-signer.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c877005a1723da390515f7d9253c854c3963048e",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/setup-signer.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/setup-signer.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c877005a1723da390515f7d9253c854c3963048e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/setup-signer.sh"
+      }
+    },
+    {
+      "name": "start-beacon-chain.sh",
+      "path": "chain/start-beacon-chain.sh",
+      "sha": "13141ed69e4b0b2d7d69669c99842a096551d223",
+      "size": 515,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-beacon-chain.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-beacon-chain.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/13141ed69e4b0b2d7d69669c99842a096551d223",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/start-beacon-chain.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-beacon-chain.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/13141ed69e4b0b2d7d69669c99842a096551d223",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-beacon-chain.sh"
+      }
+    },
+    {
+      "name": "start-execution-node.sh",
+      "path": "chain/start-execution-node.sh",
+      "sha": "bfb991bff6a351b40c6f76b97265833848083b54",
+      "size": 505,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-execution-node.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-execution-node.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bfb991bff6a351b40c6f76b97265833848083b54",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/start-execution-node.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-execution-node.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bfb991bff6a351b40c6f76b97265833848083b54",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-execution-node.sh"
+      }
+    },
+    {
+      "name": "start-signer.sh",
+      "path": "chain/start-signer.sh",
+      "sha": "206c4ac8e7e33ae95d071466fbf640097fbf3521",
+      "size": 146,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-signer.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-signer.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/206c4ac8e7e33ae95d071466fbf640097fbf3521",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/start-signer.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-signer.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/206c4ac8e7e33ae95d071466fbf640097fbf3521",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-signer.sh"
+      }
+    },
+    {
+      "name": "start-validators.sh",
+      "path": "chain/start-validators.sh",
+      "sha": "8d1c7d91806175b08593cde16b2cf16214d9dd3f",
+      "size": 207,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-validators.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-validators.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8d1c7d91806175b08593cde16b2cf16214d9dd3f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/chain/start-validators.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/chain/start-validators.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8d1c7d91806175b08593cde16b2cf16214d9dd3f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/chain/start-validators.sh"
+      }
+    },
+    {
+      "name": "check_balances.py",
+      "path": "check_balances.py",
+      "sha": "0eb488e484f5fc2ad06e0b929a40893acbdeec57",
+      "size": 1068,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/check_balances.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/check_balances.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0eb488e484f5fc2ad06e0b929a40893acbdeec57",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/check_balances.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/check_balances.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0eb488e484f5fc2ad06e0b929a40893acbdeec57",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/check_balances.py"
+      }
+    },
+    {
+      "name": "compile-contract.sh",
+      "path": "compile-contract.sh",
+      "sha": "101629fc1f7d83e203c3a3748fd723fc5ed89d56",
+      "size": 114,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/compile-contract.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/compile-contract.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/101629fc1f7d83e203c3a3748fd723fc5ed89d56",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/compile-contract.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/compile-contract.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/101629fc1f7d83e203c3a3748fd723fc5ed89d56",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/compile-contract.sh"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "4b182e05c6a525ef92695518832ca1fb6f63bd5d",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/4b182e05c6a525ef92695518832ca1fb6f63bd5d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/4b182e05c6a525ef92695518832ca1fb6f63bd5d",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts"
+      }
+    },
+    {
+      "name": "car",
+      "path": "contracts/car",
+      "sha": "8b6ab0c6a6b3de758518ac1dc81ae2a4466ffc18",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/car",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/8b6ab0c6a6b3de758518ac1dc81ae2a4466ffc18",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/8b6ab0c6a6b3de758518ac1dc81ae2a4466ffc18",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/car"
+      }
+    },
+    {
+      "name": "BlueToken.sol",
+      "path": "contracts/car/BlueToken.sol",
+      "sha": "750b8a257097ffbc8224ccd90b93980e846faac6",
+      "size": 1644,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/BlueToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/BlueToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/750b8a257097ffbc8224ccd90b93980e846faac6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car/BlueToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/BlueToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/750b8a257097ffbc8224ccd90b93980e846faac6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/BlueToken.sol"
+      }
+    },
+    {
+      "name": "Car.sol",
+      "path": "contracts/car/Car.sol",
+      "sha": "4a534232bac45cb282e4e78aa02981d9d2a2ed93",
+      "size": 752,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/Car.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/Car.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4a534232bac45cb282e4e78aa02981d9d2a2ed93",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car/Car.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/Car.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4a534232bac45cb282e4e78aa02981d9d2a2ed93",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/Car.sol"
+      }
+    },
+    {
+      "name": "CarDeal.sol",
+      "path": "contracts/car/CarDeal.sol",
+      "sha": "6946713776aae23a4d2d0ab794e6fddfd17d3b41",
+      "size": 1370,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/CarDeal.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/CarDeal.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6946713776aae23a4d2d0ab794e6fddfd17d3b41",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car/CarDeal.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/CarDeal.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6946713776aae23a4d2d0ab794e6fddfd17d3b41",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/CarDeal.sol"
+      }
+    },
+    {
+      "name": "CarEscrow.sol",
+      "path": "contracts/car/CarEscrow.sol",
+      "sha": "043bec55aa67ae13cd2b16864f0fb46ff1f848ac",
+      "size": 4467,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/CarEscrow.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/CarEscrow.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/043bec55aa67ae13cd2b16864f0fb46ff1f848ac",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car/CarEscrow.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/CarEscrow.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/043bec55aa67ae13cd2b16864f0fb46ff1f848ac",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/CarEscrow.sol"
+      }
+    },
+    {
+      "name": "IToken.sol",
+      "path": "contracts/car/IToken.sol",
+      "sha": "91aca3355ada66166ca8b7f5f187a1f0a77d4870",
+      "size": 787,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/IToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/IToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/91aca3355ada66166ca8b7f5f187a1f0a77d4870",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car/IToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/IToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/91aca3355ada66166ca8b7f5f187a1f0a77d4870",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/IToken.sol"
+      }
+    },
+    {
+      "name": "RedToken.sol",
+      "path": "contracts/car/RedToken.sol",
+      "sha": "e5c7f061d35f290ee7e0b22b080ddbab0ec2a9a3",
+      "size": 1641,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/RedToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/RedToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e5c7f061d35f290ee7e0b22b080ddbab0ec2a9a3",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car/RedToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car/RedToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e5c7f061d35f290ee7e0b22b080ddbab0ec2a9a3",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car/RedToken.sol"
+      }
+    },
+    {
+      "name": "car2",
+      "path": "contracts/car2",
+      "sha": "32e9d5ea5c7988d4e768bc8a754f05a1b7fc6c61",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/car2",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/32e9d5ea5c7988d4e768bc8a754f05a1b7fc6c61",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/32e9d5ea5c7988d4e768bc8a754f05a1b7fc6c61",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/car2"
+      }
+    },
+    {
+      "name": "BlueToken.sol",
+      "path": "contracts/car2/BlueToken.sol",
+      "sha": "750b8a257097ffbc8224ccd90b93980e846faac6",
+      "size": 1644,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/BlueToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/BlueToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/750b8a257097ffbc8224ccd90b93980e846faac6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car2/BlueToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/BlueToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/750b8a257097ffbc8224ccd90b93980e846faac6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/BlueToken.sol"
+      }
+    },
+    {
+      "name": "Car.sol",
+      "path": "contracts/car2/Car.sol",
+      "sha": "420b8df1fd1058caa2db7ac8a24b10a8f14591a7",
+      "size": 2236,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/Car.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/Car.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/420b8df1fd1058caa2db7ac8a24b10a8f14591a7",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car2/Car.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/Car.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/420b8df1fd1058caa2db7ac8a24b10a8f14591a7",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/Car.sol"
+      }
+    },
+    {
+      "name": "CarEscrow.sol",
+      "path": "contracts/car2/CarEscrow.sol",
+      "sha": "61ba19b885d1feceb8c420cb5a41e78c93cb5b3f",
+      "size": 5486,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/CarEscrow.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/CarEscrow.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/61ba19b885d1feceb8c420cb5a41e78c93cb5b3f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car2/CarEscrow.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/CarEscrow.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/61ba19b885d1feceb8c420cb5a41e78c93cb5b3f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/CarEscrow.sol"
+      }
+    },
+    {
+      "name": "CarLedger.sol",
+      "path": "contracts/car2/CarLedger.sol",
+      "sha": "13f4699e164788adc08e9d63dce0fb3972f640a5",
+      "size": 775,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/CarLedger.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/CarLedger.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/13f4699e164788adc08e9d63dce0fb3972f640a5",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car2/CarLedger.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/CarLedger.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/13f4699e164788adc08e9d63dce0fb3972f640a5",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/CarLedger.sol"
+      }
+    },
+    {
+      "name": "IToken.sol",
+      "path": "contracts/car2/IToken.sol",
+      "sha": "91aca3355ada66166ca8b7f5f187a1f0a77d4870",
+      "size": 787,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/IToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/IToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/91aca3355ada66166ca8b7f5f187a1f0a77d4870",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car2/IToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/IToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/91aca3355ada66166ca8b7f5f187a1f0a77d4870",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/IToken.sol"
+      }
+    },
+    {
+      "name": "RedToken.sol",
+      "path": "contracts/car2/RedToken.sol",
+      "sha": "e5c7f061d35f290ee7e0b22b080ddbab0ec2a9a3",
+      "size": 1641,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/RedToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/RedToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e5c7f061d35f290ee7e0b22b080ddbab0ec2a9a3",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/car2/RedToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/car2/RedToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e5c7f061d35f290ee7e0b22b080ddbab0ec2a9a3",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/car2/RedToken.sol"
+      }
+    },
+    {
+      "name": "greeter",
+      "path": "contracts/greeter",
+      "sha": "b32de55cb3a9b75db2985eb638737a3ecfd42f0e",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/greeter?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/greeter",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/b32de55cb3a9b75db2985eb638737a3ecfd42f0e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/greeter?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/b32de55cb3a9b75db2985eb638737a3ecfd42f0e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/greeter"
+      }
+    },
+    {
+      "name": "Greeter.sol",
+      "path": "contracts/greeter/Greeter.sol",
+      "sha": "0e577bdad60cd3b83d6387aec7c5f91028f9f616",
+      "size": 363,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/greeter/Greeter.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/greeter/Greeter.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0e577bdad60cd3b83d6387aec7c5f91028f9f616",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/greeter/Greeter.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/greeter/Greeter.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0e577bdad60cd3b83d6387aec7c5f91028f9f616",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/greeter/Greeter.sol"
+      }
+    },
+    {
+      "name": "piano",
+      "path": "contracts/piano",
+      "sha": "c95009b1a08083cfcb46aad85f771ae93c27f4ab",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/piano",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/c95009b1a08083cfcb46aad85f771ae93c27f4ab",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/c95009b1a08083cfcb46aad85f771ae93c27f4ab",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/piano"
+      }
+    },
+    {
+      "name": "BlueToken.sol",
+      "path": "contracts/piano/BlueToken.sol",
+      "sha": "31b82f31c3899abb732dd0536c19101694e9f4fd",
+      "size": 1106,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/BlueToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/BlueToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/31b82f31c3899abb732dd0536c19101694e9f4fd",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/piano/BlueToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/BlueToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/31b82f31c3899abb732dd0536c19101694e9f4fd",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/BlueToken.sol"
+      }
+    },
+    {
+      "name": "IToken.sol",
+      "path": "contracts/piano/IToken.sol",
+      "sha": "488ca10a8fade721dadc1614cd07dcb5c1e07146",
+      "size": 201,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/IToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/IToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/488ca10a8fade721dadc1614cd07dcb5c1e07146",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/piano/IToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/IToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/488ca10a8fade721dadc1614cd07dcb5c1e07146",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/IToken.sol"
+      }
+    },
+    {
+      "name": "PianoEscrow.sol",
+      "path": "contracts/piano/PianoEscrow.sol",
+      "sha": "08826c71fe5b6c9d6b2c8391630e6772d6e8750a",
+      "size": 2733,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/PianoEscrow.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/PianoEscrow.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/08826c71fe5b6c9d6b2c8391630e6772d6e8750a",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/piano/PianoEscrow.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/PianoEscrow.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/08826c71fe5b6c9d6b2c8391630e6772d6e8750a",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/PianoEscrow.sol"
+      }
+    },
+    {
+      "name": "RedToken.sol",
+      "path": "contracts/piano/RedToken.sol",
+      "sha": "0e178ca86b76a8f34b10f8e3b1564e4fb479c5d6",
+      "size": 1103,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/RedToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/RedToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0e178ca86b76a8f34b10f8e3b1564e4fb479c5d6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/piano/RedToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/piano/RedToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0e178ca86b76a8f34b10f8e3b1564e4fb479c5d6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/piano/RedToken.sol"
+      }
+    },
+    {
+      "name": "token",
+      "path": "contracts/token",
+      "sha": "ad65e5b3175f5e4ce01c7010a9195b8de1de39cf",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/token",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/ad65e5b3175f5e4ce01c7010a9195b8de1de39cf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/ad65e5b3175f5e4ce01c7010a9195b8de1de39cf",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/contracts/token"
+      }
+    },
+    {
+      "name": "BlueToken.sol",
+      "path": "contracts/token/BlueToken.sol",
+      "sha": "250059449c280f3760d1bd279f4ad27b0a7da3f2",
+      "size": 3423,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/BlueToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/BlueToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/250059449c280f3760d1bd279f4ad27b0a7da3f2",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/BlueToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/BlueToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/250059449c280f3760d1bd279f4ad27b0a7da3f2",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/BlueToken.sol"
+      }
+    },
+    {
+      "name": "Context.sol",
+      "path": "contracts/token/Context.sol",
+      "sha": "4e535fe03c243f864568b8f4430c17c25dbadb47",
+      "size": 963,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/Context.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/Context.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4e535fe03c243f864568b8f4430c17c25dbadb47",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/Context.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/Context.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4e535fe03c243f864568b8f4430c17c25dbadb47",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/Context.sol"
+      }
+    },
+    {
+      "name": "ERC20.sol",
+      "path": "contracts/token/ERC20.sol",
+      "sha": "5f5cb707b55f2653b95a9f3d13fc0b40164cee23",
+      "size": 10852,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/ERC20.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/ERC20.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/5f5cb707b55f2653b95a9f3d13fc0b40164cee23",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/ERC20.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/ERC20.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/5f5cb707b55f2653b95a9f3d13fc0b40164cee23",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/ERC20.sol"
+      }
+    },
+    {
+      "name": "IERC20.sol",
+      "path": "contracts/token/IERC20.sol",
+      "sha": "7d1019563f5af1dfe72a771bc4d5fac1ffc8afd9",
+      "size": 2780,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/IERC20.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/IERC20.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/7d1019563f5af1dfe72a771bc4d5fac1ffc8afd9",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/IERC20.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/IERC20.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/7d1019563f5af1dfe72a771bc4d5fac1ffc8afd9",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/IERC20.sol"
+      }
+    },
+    {
+      "name": "IERC20Metadata.sol",
+      "path": "contracts/token/IERC20Metadata.sol",
+      "sha": "6c77467b786b99de57432db4f63d97aebb693f83",
+      "size": 683,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/IERC20Metadata.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/IERC20Metadata.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6c77467b786b99de57432db4f63d97aebb693f83",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/IERC20Metadata.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/IERC20Metadata.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6c77467b786b99de57432db4f63d97aebb693f83",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/IERC20Metadata.sol"
+      }
+    },
+    {
+      "name": "IERC6093.sol",
+      "path": "contracts/token/IERC6093.sol",
+      "sha": "3227fd624fca8e3dc2ba54e672c550be7a158e5f",
+      "size": 6538,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/IERC6093.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/IERC6093.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3227fd624fca8e3dc2ba54e672c550be7a158e5f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/IERC6093.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/IERC6093.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3227fd624fca8e3dc2ba54e672c550be7a158e5f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/IERC6093.sol"
+      }
+    },
+    {
+      "name": "XDToken.sol",
+      "path": "contracts/token/XDToken.sol",
+      "sha": "15e01946311da8bc02fa677d7e9520c91d558c81",
+      "size": 1170,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/XDToken.sol?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/XDToken.sol",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/15e01946311da8bc02fa677d7e9520c91d558c81",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/contracts/token/XDToken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/contracts/token/XDToken.sol?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/15e01946311da8bc02fa677d7e9520c91d558c81",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/contracts/token/XDToken.sol"
+      }
+    },
+    {
+      "name": "create_new_wallet.py",
+      "path": "create_new_wallet.py",
+      "sha": "052ee65c30336e0d85704c329d777cf8184a374f",
+      "size": 502,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/create_new_wallet.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/create_new_wallet.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/052ee65c30336e0d85704c329d777cf8184a374f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/create_new_wallet.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/create_new_wallet.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/052ee65c30336e0d85704c329d777cf8184a374f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/create_new_wallet.py"
+      }
+    },
+    {
+      "name": "deploy_contract.js",
+      "path": "deploy_contract.js",
+      "sha": "072ed17ebda27bc1d167cef02d69a146be16b855",
+      "size": 722,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_contract.js?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_contract.js",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/072ed17ebda27bc1d167cef02d69a146be16b855",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/deploy_contract.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_contract.js?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/072ed17ebda27bc1d167cef02d69a146be16b855",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_contract.js"
+      }
+    },
+    {
+      "name": "deploy_contract.py",
+      "path": "deploy_contract.py",
+      "sha": "c79802ed272249395202832be46d7a15df9e67df",
+      "size": 5149,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_contract.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_contract.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c79802ed272249395202832be46d7a15df9e67df",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/deploy_contract.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_contract.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c79802ed272249395202832be46d7a15df9e67df",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_contract.py"
+      }
+    },
+    {
+      "name": "deploy_contract_async.py",
+      "path": "deploy_contract_async.py",
+      "sha": "88ae40581d3663513effdf53671b7f67c5262337",
+      "size": 3360,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_contract_async.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_contract_async.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/88ae40581d3663513effdf53671b7f67c5262337",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/deploy_contract_async.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_contract_async.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/88ae40581d3663513effdf53671b7f67c5262337",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_contract_async.py"
+      }
+    },
+    {
+      "name": "deploy_greeter_contract.js",
+      "path": "deploy_greeter_contract.js",
+      "sha": "39dad95fd7fec3a955356108456be779dd38012b",
+      "size": 5531,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_greeter_contract.js?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_greeter_contract.js",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/39dad95fd7fec3a955356108456be779dd38012b",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/deploy_greeter_contract.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deploy_greeter_contract.js?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/39dad95fd7fec3a955356108456be779dd38012b",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deploy_greeter_contract.js"
+      }
+    },
+    {
+      "name": "deposit_amount.py",
+      "path": "deposit_amount.py",
+      "sha": "4c423c6ccf58114274fe492aa9a8e3331167bffc",
+      "size": 1715,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deposit_amount.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deposit_amount.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4c423c6ccf58114274fe492aa9a8e3331167bffc",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/deposit_amount.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/deposit_amount.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4c423c6ccf58114274fe492aa9a8e3331167bffc",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/deposit_amount.py"
+      }
+    },
+    {
+      "name": "frontend",
+      "path": "frontend",
+      "sha": "a2f115807d15727a31d0357ea90293d9e02fbe83",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/a2f115807d15727a31d0357ea90293d9e02fbe83",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/a2f115807d15727a31d0357ea90293d9e02fbe83",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "frontend/.gitignore",
+      "sha": "3b462cb0c4158547145078184d816bdcf314eaba",
+      "size": 210,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.gitignore?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.gitignore",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3b462cb0c4158547145078184d816bdcf314eaba",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3b462cb0c4158547145078184d816bdcf314eaba",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.gitignore"
+      }
+    },
+    {
+      "name": ".npmrc",
+      "path": "frontend/.npmrc",
+      "sha": "b6f27f135954640c8cc5bfd7b8c9922ca6eb2aad",
+      "size": 19,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.npmrc?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.npmrc",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b6f27f135954640c8cc5bfd7b8c9922ca6eb2aad",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/.npmrc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.npmrc?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b6f27f135954640c8cc5bfd7b8c9922ca6eb2aad",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.npmrc"
+      }
+    },
+    {
+      "name": ".prettierignore",
+      "path": "frontend/.prettierignore",
+      "sha": "ab78a95ddd13952edde9aa3dd79d9718f0457051",
+      "size": 62,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.prettierignore?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.prettierignore",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/ab78a95ddd13952edde9aa3dd79d9718f0457051",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/.prettierignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.prettierignore?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/ab78a95ddd13952edde9aa3dd79d9718f0457051",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.prettierignore"
+      }
+    },
+    {
+      "name": ".prettierrc",
+      "path": "frontend/.prettierrc",
+      "sha": "3f7802c3728f1ae67e245f68735362eb8fa4fe4b",
+      "size": 225,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.prettierrc?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.prettierrc",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3f7802c3728f1ae67e245f68735362eb8fa4fe4b",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/.prettierrc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/.prettierrc?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/3f7802c3728f1ae67e245f68735362eb8fa4fe4b",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/.prettierrc"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "frontend/README.md",
+      "sha": "b5b295070b440f5eb2881ca213b1dc68a4e910ea",
+      "size": 865,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/README.md?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/README.md",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b5b295070b440f5eb2881ca213b1dc68a4e910ea",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/README.md?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b5b295070b440f5eb2881ca213b1dc68a4e910ea",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/README.md"
+      }
+    },
+    {
+      "name": "eslint.config.js",
+      "path": "frontend/eslint.config.js",
+      "sha": "aa5987f2676e8fe18b4443ae96209231356be180",
+      "size": 765,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/eslint.config.js?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/eslint.config.js",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/aa5987f2676e8fe18b4443ae96209231356be180",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/eslint.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/eslint.config.js?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/aa5987f2676e8fe18b4443ae96209231356be180",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/eslint.config.js"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "frontend/package.json",
+      "sha": "dd3ca79be4f8a69b855653b8d71cc51867dc25f6",
+      "size": 965,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/package.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/package.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/dd3ca79be4f8a69b855653b8d71cc51867dc25f6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/package.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/dd3ca79be4f8a69b855653b8d71cc51867dc25f6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "frontend/src",
+      "sha": "f6b52ebf7955c2ba42c851c73e862b49bf0b089e",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/f6b52ebf7955c2ba42c851c73e862b49bf0b089e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/f6b52ebf7955c2ba42c851c73e862b49bf0b089e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src"
+      }
+    },
+    {
+      "name": "app.d.ts",
+      "path": "frontend/src/app.d.ts",
+      "sha": "da08e6da592d210d5cc574d8a629868eced88543",
+      "size": 274,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/app.d.ts?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/app.d.ts",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/da08e6da592d210d5cc574d8a629868eced88543",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/app.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/app.d.ts?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/da08e6da592d210d5cc574d8a629868eced88543",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/app.d.ts"
+      }
+    },
+    {
+      "name": "app.html",
+      "path": "frontend/src/app.html",
+      "sha": "77a5ff52c9239ef2a5c38ba452c659f49e64a7db",
+      "size": 346,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/app.html?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/app.html",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/77a5ff52c9239ef2a5c38ba452c659f49e64a7db",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/app.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/app.html?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/77a5ff52c9239ef2a5c38ba452c659f49e64a7db",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/app.html"
+      }
+    },
+    {
+      "name": "global.css",
+      "path": "frontend/src/global.css",
+      "sha": "6b8158f2c8ba1a221e2d3989047f5736cb13cf8e",
+      "size": 3230,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/global.css?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/global.css",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6b8158f2c8ba1a221e2d3989047f5736cb13cf8e",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/global.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/global.css?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6b8158f2c8ba1a221e2d3989047f5736cb13cf8e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/global.css"
+      }
+    },
+    {
+      "name": "routes",
+      "path": "frontend/src/routes",
+      "sha": "54eca4701d927e1a20f802074b04ea2029938dc4",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/54eca4701d927e1a20f802074b04ea2029938dc4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/54eca4701d927e1a20f802074b04ea2029938dc4",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes"
+      }
+    },
+    {
+      "name": "+layout.svelte",
+      "path": "frontend/src/routes/+layout.svelte",
+      "sha": "69789dd05becd6d27050efc2e3c6d38b4dc044ad",
+      "size": 62,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/%2Blayout.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/%2Blayout.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/69789dd05becd6d27050efc2e3c6d38b4dc044ad",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/+layout.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/%2Blayout.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/69789dd05becd6d27050efc2e3c6d38b4dc044ad",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/%2Blayout.svelte"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/+page.svelte",
+      "sha": "9f71ff0f349d8a443946f2428e66673d8cda5c4c",
+      "size": 531,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/9f71ff0f349d8a443946f2428e66673d8cda5c4c",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/9f71ff0f349d8a443946f2428e66673d8cda5c4c",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "bluebank",
+      "path": "frontend/src/routes/bluebank",
+      "sha": "439eb91ae8bcc0cca2a2d54a9bdc6cb2509e2dc9",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/439eb91ae8bcc0cca2a2d54a9bdc6cb2509e2dc9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/439eb91ae8bcc0cca2a2d54a9bdc6cb2509e2dc9",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/bluebank/+page.svelte",
+      "sha": "d931f0afe94dd13d2feedd053631b5c03daa3584",
+      "size": 600,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/d931f0afe94dd13d2feedd053631b5c03daa3584",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/bluebank/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/d931f0afe94dd13d2feedd053631b5c03daa3584",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "account",
+      "path": "frontend/src/routes/bluebank/account",
+      "sha": "580a319a93c40bd9dab21a9a3bf870e1a15dca47",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/account?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank/account",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/580a319a93c40bd9dab21a9a3bf870e1a15dca47",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/account?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/580a319a93c40bd9dab21a9a3bf870e1a15dca47",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank/account"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/bluebank/account/+page.svelte",
+      "sha": "d463a336e8e3a6b699ca1d6bfb82a963a57585ad",
+      "size": 4425,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/account/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/account/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/d463a336e8e3a6b699ca1d6bfb82a963a57585ad",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/bluebank/account/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/account/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/d463a336e8e3a6b699ca1d6bfb82a963a57585ad",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/account/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "carListings",
+      "path": "frontend/src/routes/bluebank/carListings",
+      "sha": "7d12b6a4bb62ab6876c73a0c8b654a13d6410786",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/carListings?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank/carListings",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/7d12b6a4bb62ab6876c73a0c8b654a13d6410786",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/carListings?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/7d12b6a4bb62ab6876c73a0c8b654a13d6410786",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank/carListings"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/bluebank/carListings/+page.svelte",
+      "sha": "f3e2d512749169bb52b3357cc0406e82b2a21fdf",
+      "size": 1791,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/carListings/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/carListings/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/f3e2d512749169bb52b3357cc0406e82b2a21fdf",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/bluebank/carListings/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/carListings/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/f3e2d512749169bb52b3357cc0406e82b2a21fdf",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/carListings/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "depositForPurchase",
+      "path": "frontend/src/routes/bluebank/depositForPurchase",
+      "sha": "4ee42d8829145f34fcab803d8d2101d706b61b93",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/depositForPurchase?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank/depositForPurchase",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/4ee42d8829145f34fcab803d8d2101d706b61b93",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/depositForPurchase?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/4ee42d8829145f34fcab803d8d2101d706b61b93",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/bluebank/depositForPurchase"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/bluebank/depositForPurchase/+page.svelte",
+      "sha": "dfd5612375256a158cf991113563a47d98a5a878",
+      "size": 1712,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/depositForPurchase/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/depositForPurchase/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/dfd5612375256a158cf991113563a47d98a5a878",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/bluebank/depositForPurchase/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/bluebank/depositForPurchase/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/dfd5612375256a158cf991113563a47d98a5a878",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/bluebank/depositForPurchase/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "cars",
+      "path": "frontend/src/routes/cars",
+      "sha": "6119b0008d4296a063a74e55931b2681f47d269d",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/cars?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/cars",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/6119b0008d4296a063a74e55931b2681f47d269d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/cars?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/6119b0008d4296a063a74e55931b2681f47d269d",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/cars"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/cars/+page.svelte",
+      "sha": "b853c2061fa952746480e73d10854a5841df8eb8",
+      "size": 1653,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/cars/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/cars/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b853c2061fa952746480e73d10854a5841df8eb8",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/cars/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/cars/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b853c2061fa952746480e73d10854a5841df8eb8",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/cars/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "redbank",
+      "path": "frontend/src/routes/redbank",
+      "sha": "4b57cccf82448a8e55c1f8dffb889455970e88a8",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/4b57cccf82448a8e55c1f8dffb889455970e88a8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/4b57cccf82448a8e55c1f8dffb889455970e88a8",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/redbank/+page.svelte",
+      "sha": "467521146a763bd78c2ba4920ba9c2ccf4910204",
+      "size": 481,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/467521146a763bd78c2ba4920ba9c2ccf4910204",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/redbank/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/467521146a763bd78c2ba4920ba9c2ccf4910204",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "account",
+      "path": "frontend/src/routes/redbank/account",
+      "sha": "113fdf8b0b29ced4b57a123db01740c3fd150795",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/account?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank/account",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/113fdf8b0b29ced4b57a123db01740c3fd150795",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/account?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/113fdf8b0b29ced4b57a123db01740c3fd150795",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank/account"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/redbank/account/+page.svelte",
+      "sha": "bb19a9de92b29b1de3cb834184c9a4c7fd9f2eca",
+      "size": 4411,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/account/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/account/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bb19a9de92b29b1de3cb834184c9a4c7fd9f2eca",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/redbank/account/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/account/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bb19a9de92b29b1de3cb834184c9a4c7fd9f2eca",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/account/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "carListings",
+      "path": "frontend/src/routes/redbank/carListings",
+      "sha": "c3b0754df53ebb864845363803515b06de685d72",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/carListings?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank/carListings",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/c3b0754df53ebb864845363803515b06de685d72",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/carListings?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/c3b0754df53ebb864845363803515b06de685d72",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank/carListings"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/redbank/carListings/+page.svelte",
+      "sha": "c8a595d800ca217c5b101065120919e5928464de",
+      "size": 1706,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/carListings/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/carListings/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c8a595d800ca217c5b101065120919e5928464de",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/redbank/carListings/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/carListings/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c8a595d800ca217c5b101065120919e5928464de",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/carListings/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "sellCar",
+      "path": "frontend/src/routes/redbank/sellCar",
+      "sha": "dbc1899bac5de07798c6747adf8895e38918a63a",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/sellCar?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank/sellCar",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/dbc1899bac5de07798c6747adf8895e38918a63a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/sellCar?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/dbc1899bac5de07798c6747adf8895e38918a63a",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/redbank/sellCar"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/redbank/sellCar/+page.svelte",
+      "sha": "0f8bf386614ee3bf61ca12507edb26e672f491c3",
+      "size": 2183,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/sellCar/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/sellCar/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0f8bf386614ee3bf61ca12507edb26e672f491c3",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/redbank/sellCar/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/redbank/sellCar/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0f8bf386614ee3bf61ca12507edb26e672f491c3",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/redbank/sellCar/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "tokenize",
+      "path": "frontend/src/routes/tokenize",
+      "sha": "6c6476e077c7f5c2056bfc288dcd131c0d3ff017",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/tokenize?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/tokenize",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/6c6476e077c7f5c2056bfc288dcd131c0d3ff017",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/tokenize?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/6c6476e077c7f5c2056bfc288dcd131c0d3ff017",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/src/routes/tokenize"
+      }
+    },
+    {
+      "name": "+page.svelte",
+      "path": "frontend/src/routes/tokenize/+page.svelte",
+      "sha": "c27172e69dc68ceeecd24285e2266edcaf6ee49f",
+      "size": 2377,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/tokenize/%2Bpage.svelte?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/tokenize/%2Bpage.svelte",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c27172e69dc68ceeecd24285e2266edcaf6ee49f",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/src/routes/tokenize/+page.svelte",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/src/routes/tokenize/%2Bpage.svelte?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/c27172e69dc68ceeecd24285e2266edcaf6ee49f",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/src/routes/tokenize/%2Bpage.svelte"
+      }
+    },
+    {
+      "name": "static",
+      "path": "frontend/static",
+      "sha": "7682b0d50309ae43b647d5588c5c9f82ca6f3604",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/static?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/static",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/7682b0d50309ae43b647d5588c5c9f82ca6f3604",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/static?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/7682b0d50309ae43b647d5588c5c9f82ca6f3604",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/frontend/static"
+      }
+    },
+    {
+      "name": "favicon.png",
+      "path": "frontend/static/favicon.png",
+      "sha": "825b9e65af7c104cfb07089bb28659393b4f2097",
+      "size": 1571,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/static/favicon.png?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/static/favicon.png",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/825b9e65af7c104cfb07089bb28659393b4f2097",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/static/favicon.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/static/favicon.png?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/825b9e65af7c104cfb07089bb28659393b4f2097",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/static/favicon.png"
+      }
+    },
+    {
+      "name": "svelte.config.js",
+      "path": "frontend/svelte.config.js",
+      "sha": "1295460d122f0bd1a34b530197ed691dd43c2fe0",
+      "size": 662,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/svelte.config.js?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/svelte.config.js",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/1295460d122f0bd1a34b530197ed691dd43c2fe0",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/svelte.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/svelte.config.js?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/1295460d122f0bd1a34b530197ed691dd43c2fe0",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/svelte.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "frontend/tsconfig.json",
+      "sha": "0b2d8865f4efe30f84b6516a5de8d6bd6b927fb6",
+      "size": 649,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/tsconfig.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/tsconfig.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0b2d8865f4efe30f84b6516a5de8d6bd6b927fb6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/0b2d8865f4efe30f84b6516a5de8d6bd6b927fb6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/tsconfig.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "frontend/vite.config.ts",
+      "sha": "bbf8c7da43f0080dc6b9fb275f9583b7c17f1506",
+      "size": 144,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/vite.config.ts?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/vite.config.ts",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bbf8c7da43f0080dc6b9fb275f9583b7c17f1506",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/frontend/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/frontend/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/bbf8c7da43f0080dc6b9fb275f9583b7c17f1506",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/frontend/vite.config.ts"
+      }
+    },
+    {
+      "name": "interact_with_contract.py",
+      "path": "interact_with_contract.py",
+      "sha": "6ed49372f732073d5bdb593e7ac7d83b4498c839",
+      "size": 3368,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/interact_with_contract.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/interact_with_contract.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6ed49372f732073d5bdb593e7ac7d83b4498c839",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/interact_with_contract.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/interact_with_contract.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/6ed49372f732073d5bdb593e7ac7d83b4498c839",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/interact_with_contract.py"
+      }
+    },
+    {
+      "name": "original-genesis.json",
+      "path": "original-genesis.json",
+      "sha": "f5cc94735138001ff6f2bd4917372969777af0cd",
+      "size": 13812,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/original-genesis.json?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/original-genesis.json",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/f5cc94735138001ff6f2bd4917372969777af0cd",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/original-genesis.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/original-genesis.json?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/f5cc94735138001ff6f2bd4917372969777af0cd",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/original-genesis.json"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "e00da3b3be564c206c746a8f4c428291e3b73e4e",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/scripts",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/e00da3b3be564c206c746a8f4c428291e3b73e4e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/e00da3b3be564c206c746a8f4c428291e3b73e4e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/scripts"
+      }
+    },
+    {
+      "name": "create-genesis-config.sh",
+      "path": "scripts/create-genesis-config.sh",
+      "sha": "09a4bedf2623679e2fbb36398d6abead9404322d",
+      "size": 279,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/create-genesis-config.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/create-genesis-config.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/09a4bedf2623679e2fbb36398d6abead9404322d",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/create-genesis-config.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/create-genesis-config.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/09a4bedf2623679e2fbb36398d6abead9404322d",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/create-genesis-config.sh"
+      }
+    },
+    {
+      "name": "generate-jwt.sh",
+      "path": "scripts/generate-jwt.sh",
+      "sha": "b78c9f2e49f7fe6e534c0d3419e2dd084f2d56b6",
+      "size": 144,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/generate-jwt.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/generate-jwt.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b78c9f2e49f7fe6e534c0d3419e2dd084f2d56b6",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/generate-jwt.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/generate-jwt.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/b78c9f2e49f7fe6e534c0d3419e2dd084f2d56b6",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/generate-jwt.sh"
+      }
+    },
+    {
+      "name": "install-geth.sh",
+      "path": "scripts/install-geth.sh",
+      "sha": "4d751b16999ddd4ec517fac8373fcc6dfd86c4e8",
+      "size": 169,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/install-geth.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/install-geth.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d751b16999ddd4ec517fac8373fcc6dfd86c4e8",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/install-geth.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/install-geth.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d751b16999ddd4ec517fac8373fcc6dfd86c4e8",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/install-geth.sh"
+      }
+    },
+    {
+      "name": "install-prysm.sh",
+      "path": "scripts/install-prysm.sh",
+      "sha": "a045a14ddf257222208abdeb00932bef6d3c3ba7",
+      "size": 263,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/install-prysm.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/install-prysm.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a045a14ddf257222208abdeb00932bef6d3c3ba7",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/install-prysm.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/install-prysm.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a045a14ddf257222208abdeb00932bef6d3c3ba7",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/install-prysm.sh"
+      }
+    },
+    {
+      "name": "setup-execution-node.sh",
+      "path": "scripts/setup-execution-node.sh",
+      "sha": "4d9b1142577fa30691e88823214bb5d79d441f09",
+      "size": 161,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/setup-execution-node.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/setup-execution-node.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d9b1142577fa30691e88823214bb5d79d441f09",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/setup-execution-node.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/setup-execution-node.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d9b1142577fa30691e88823214bb5d79d441f09",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/setup-execution-node.sh"
+      }
+    },
+    {
+      "name": "start-beacon-chain.sh",
+      "path": "scripts/start-beacon-chain.sh",
+      "sha": "a3780196bc414faebe58a36a4acbb80469555899",
+      "size": 480,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/start-beacon-chain.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/start-beacon-chain.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a3780196bc414faebe58a36a4acbb80469555899",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/start-beacon-chain.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/start-beacon-chain.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a3780196bc414faebe58a36a4acbb80469555899",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/start-beacon-chain.sh"
+      }
+    },
+    {
+      "name": "start-execution-node.sh",
+      "path": "scripts/start-execution-node.sh",
+      "sha": "9f2f76a961ce3e5572b667d1fba4ce1e23117e6a",
+      "size": 194,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/start-execution-node.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/start-execution-node.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/9f2f76a961ce3e5572b667d1fba4ce1e23117e6a",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/start-execution-node.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/start-execution-node.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/9f2f76a961ce3e5572b667d1fba4ce1e23117e6a",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/start-execution-node.sh"
+      }
+    },
+    {
+      "name": "start-validators.sh",
+      "path": "scripts/start-validators.sh",
+      "sha": "e6835ed516d1768ca0a3a87ea7a71e90ae107259",
+      "size": 173,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/start-validators.sh?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/start-validators.sh",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e6835ed516d1768ca0a3a87ea7a71e90ae107259",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/scripts/start-validators.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/scripts/start-validators.sh?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/e6835ed516d1768ca0a3a87ea7a71e90ae107259",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/scripts/start-validators.sh"
+      }
+    },
+    {
+      "name": "secret.txt",
+      "path": "secret.txt",
+      "sha": "8fe79fab509582195692ce31425a862b8f670e9e",
+      "size": 65,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/secret.txt?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/secret.txt",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8fe79fab509582195692ce31425a862b8f670e9e",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/secret.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/secret.txt?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/8fe79fab509582195692ce31425a862b8f670e9e",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/secret.txt"
+      }
+    },
+    {
+      "name": "setup_cars_db.py",
+      "path": "setup_cars_db.py",
+      "sha": "4d7465895ea3ada46ddb7428b58b210f3534c172",
+      "size": 800,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/setup_cars_db.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/setup_cars_db.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d7465895ea3ada46ddb7428b58b210f3534c172",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/setup_cars_db.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/setup_cars_db.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/4d7465895ea3ada46ddb7428b58b210f3534c172",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/setup_cars_db.py"
+      }
+    },
+    {
+      "name": "setup_db.py",
+      "path": "setup_db.py",
+      "sha": "a40af6a389f0b978a1a7f2fec499d860b4f073b7",
+      "size": 801,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/setup_db.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/setup_db.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a40af6a389f0b978a1a7f2fec499d860b4f073b7",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/setup_db.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/setup_db.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/a40af6a389f0b978a1a7f2fec499d860b4f073b7",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/setup_db.py"
+      }
+    },
+    {
+      "name": "static",
+      "path": "static",
+      "sha": "8bf788f6c08e062e91c0c32ae398d7a3bb3a8b14",
+      "size": 0,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/static?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/tree/main/static",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/8bf788f6c08e062e91c0c32ae398d7a3bb3a8b14",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/static?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/trees/8bf788f6c08e062e91c0c32ae398d7a3bb3a8b14",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/tree/main/static"
+      }
+    },
+    {
+      "name": "styles.css",
+      "path": "static/styles.css",
+      "sha": "30b51695db0b1df0b67ae781e766d4e0e055f0d7",
+      "size": 858,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/static/styles.css?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/static/styles.css",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/30b51695db0b1df0b67ae781e766d4e0e055f0d7",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/static/styles.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/static/styles.css?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/30b51695db0b1df0b67ae781e766d4e0e055f0d7",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/static/styles.css"
+      }
+    },
+    {
+      "name": "test_geth_ipc_connection.py",
+      "path": "test_geth_ipc_connection.py",
+      "sha": "329cc34b349ca3b8afa34283e89d118011729292",
+      "size": 241,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/test_geth_ipc_connection.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/test_geth_ipc_connection.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/329cc34b349ca3b8afa34283e89d118011729292",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/test_geth_ipc_connection.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/test_geth_ipc_connection.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/329cc34b349ca3b8afa34283e89d118011729292",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/test_geth_ipc_connection.py"
+      }
+    },
+    {
+      "name": "withdraw_amount.py",
+      "path": "withdraw_amount.py",
+      "sha": "da13851c400f95622d791923f8bd1fe327a6a792",
+      "size": 1742,
+      "url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/withdraw_amount.py?ref=main",
+      "html_url": "https://github.com/wilhelmagren/ethereum-dev/blob/main/withdraw_amount.py",
+      "git_url": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/da13851c400f95622d791923f8bd1fe327a6a792",
+      "download_url": "https://raw.githubusercontent.com/wilhelmagren/ethereum-dev/main/withdraw_amount.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/wilhelmagren/ethereum-dev/contents/withdraw_amount.py?ref=main",
+        "git": "https://api.github.com/repos/wilhelmagren/ethereum-dev/git/blobs/da13851c400f95622d791923f8bd1fe327a6a792",
+        "html": "https://github.com/wilhelmagren/ethereum-dev/blob/main/withdraw_amount.py"
+      }
+    }
+  ],
+  "external_domains": {
+    "geth.ethereum.org": 4482
+  },
+  "collected_at": "2026-03-07T10:51:04.641759"
+}

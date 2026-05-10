@@ -1,0 +1,16 @@
+﻿feature,shap_value,abs_shap
+repo_age_days,1.4165927,1.4165927
+description_has_blockchain_keyword,1.0850532,1.0850532
+tfidf_readme::install,0.5247006,0.5247006
+blockchain_keyword_count,-0.5057193,0.5057193
+tfidf_readme::launch,-0.47273117,0.47273117
+has_env_file,-0.43857238,0.43857238
+repo_name_has_blockchain_keyword,-0.34900382,0.34900382
+topic_has_blockchain_keyword,0.28889155,0.28889155
+repo_is_fork,-0.24446307,0.24446307
+js_ts_file_count,-0.24339464,0.24339464
+subscribers_count,0.21594577,0.21594577
+tfidf_readme::cd,-0.18756758,0.18756758
+tfidf_readme::dex,-0.14066353,0.14066353
+tfidf_readme::trading,-0.14030154,0.14030154
+tfidf_readme::contract,-0.12094815,0.12094815

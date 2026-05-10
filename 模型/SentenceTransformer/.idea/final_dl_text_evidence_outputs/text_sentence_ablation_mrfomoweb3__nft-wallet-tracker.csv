@@ -1,0 +1,23 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+README,login railway login 3.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,init railway init 4.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,deploy railway required environment variables variable description ---------- ------------- eth rpc url http provider url alchemy infura eth ws url websocket provider url alchemy infura telegram bot token token botfather telegram chat id admin chat id wallet encryption password min 16 chars securing keys local development 1.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,clone install bash git clone cd nft-wallet-tracker npm install 2.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,alert bayc -5 snipe premium set auto-buy target e.g.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,stats bayc history view recent transaction history killswitch emergency stop trading portfolio premium view nft portfolio value alert premium set floor price alert e.g.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,configure bash cp .env.example .env edit .env keys 3.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,run bash npm run dev architecture core node.js typescript database local json storage external db required basic setup blockchain ethers.js v6 viem apis alchemy portfolio reservoir prices opensea stats security node.js crypto module scrypt aes-256-gcm license mit,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,install cli npm install -g railway cli 2.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,snipe bayc 10.5 deployment railway recommended optimized railway 1.,0.2579788395730792,0.25797904495068996,-2.0537761075134497e-07
+README,price alerts premium notified collection floor prices hit target.,0.2579788395730792,0.29170889813248263,-0.03373005855940342
+README,snipe mode premium auto-buy listings specific price.,0.2579788395730792,0.30178695987829607,-0.04380812030521686
+README,portfolio tracking premium view estimated value nft holdings.,0.2579788395730792,0.3186694457272464,-0.060690606154167215
+README,real-time tracking monitor ethereum wallets mints buys sells transfers.,0.2579788395730792,0.3271306024058087,-0.0691517628327295
+README,whale alerts global alerts high-value transactions eth gas tracker real-time eth gas prices.,0.2579788395730792,0.32914267595186786,-0.07116383637878865
+README,track 0x123...,0.2579788395730792,0.33742915631454606,-0.07945031674146685
+README,subscription tiers free premium tiers different limits feature sets.,0.2579788395730792,0.3425521765261443,-0.08457333695306507
+README,untrack stop tracking wallet wallets list tracked wallets autobuy toggle auto-buy functionality status view bot status stats gas view current gas prices stats collection stats e.g.,0.2579788395730792,0.3458478789397694,-0.08786903936669022
+README,typescript node.js docker features multi-user support individual accounts settings wallet lists user.,0.2579788395730792,0.3519543989936792,-0.09397555942059999
+README,telegram commands command tier description --------- ------ ------------- start register welcome message help view available commands tier check current subscription status track track wallet e.g.,0.2579788395730792,0.3588407805625358,-0.10086194098945661
+README,copy-trading auto-buy nfts tracked wallet buys optional security aes-256-gcm encryption keys kill switch spending limits.,0.2579788395730792,0.44716127531689054,-0.18918243574381133
+README,nft wallet tracker copy-buy bot production-grade multi-user telegram bot tracking nft wallet activity portfolio values automated copy-buying.,0.2579788395730792,0.7975278387876765,-0.5395489992145973

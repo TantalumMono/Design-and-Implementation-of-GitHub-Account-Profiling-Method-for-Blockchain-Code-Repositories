@@ -1,0 +1,2043 @@
+{
+  "repo_full_name": "yuzushioh/EthereumKit",
+  "repo_detail": {
+    "id": 120430630,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMjA0MzA2MzA=",
+    "name": "EthereumKit",
+    "full_name": "yuzushioh/EthereumKit",
+    "private": false,
+    "owner": {
+      "login": "yuzushioh",
+      "id": 12425729,
+      "node_id": "MDQ6VXNlcjEyNDI1NzI5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12425729?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yuzushioh",
+      "html_url": "https://github.com/yuzushioh",
+      "followers_url": "https://api.github.com/users/yuzushioh/followers",
+      "following_url": "https://api.github.com/users/yuzushioh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yuzushioh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yuzushioh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yuzushioh/subscriptions",
+      "organizations_url": "https://api.github.com/users/yuzushioh/orgs",
+      "repos_url": "https://api.github.com/users/yuzushioh/repos",
+      "events_url": "https://api.github.com/users/yuzushioh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yuzushioh/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yuzushioh/EthereumKit",
+    "description": "EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.",
+    "fork": false,
+    "url": "https://api.github.com/repos/yuzushioh/EthereumKit",
+    "forks_url": "https://api.github.com/repos/yuzushioh/EthereumKit/forks",
+    "keys_url": "https://api.github.com/repos/yuzushioh/EthereumKit/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yuzushioh/EthereumKit/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yuzushioh/EthereumKit/teams",
+    "hooks_url": "https://api.github.com/repos/yuzushioh/EthereumKit/hooks",
+    "issue_events_url": "https://api.github.com/repos/yuzushioh/EthereumKit/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yuzushioh/EthereumKit/events",
+    "assignees_url": "https://api.github.com/repos/yuzushioh/EthereumKit/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yuzushioh/EthereumKit/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yuzushioh/EthereumKit/tags",
+    "blobs_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yuzushioh/EthereumKit/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yuzushioh/EthereumKit/languages",
+    "stargazers_url": "https://api.github.com/repos/yuzushioh/EthereumKit/stargazers",
+    "contributors_url": "https://api.github.com/repos/yuzushioh/EthereumKit/contributors",
+    "subscribers_url": "https://api.github.com/repos/yuzushioh/EthereumKit/subscribers",
+    "subscription_url": "https://api.github.com/repos/yuzushioh/EthereumKit/subscription",
+    "commits_url": "https://api.github.com/repos/yuzushioh/EthereumKit/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yuzushioh/EthereumKit/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yuzushioh/EthereumKit/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yuzushioh/EthereumKit/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yuzushioh/EthereumKit/merges",
+    "archive_url": "https://api.github.com/repos/yuzushioh/EthereumKit/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yuzushioh/EthereumKit/downloads",
+    "issues_url": "https://api.github.com/repos/yuzushioh/EthereumKit/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yuzushioh/EthereumKit/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yuzushioh/EthereumKit/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yuzushioh/EthereumKit/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yuzushioh/EthereumKit/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yuzushioh/EthereumKit/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yuzushioh/EthereumKit/deployments",
+    "created_at": "2018-02-06T09:19:50Z",
+    "updated_at": "2026-01-28T22:26:00Z",
+    "pushed_at": "2021-12-07T13:16:34Z",
+    "git_url": "git://github.com/yuzushioh/EthereumKit.git",
+    "ssh_url": "git@github.com:yuzushioh/EthereumKit.git",
+    "clone_url": "https://github.com/yuzushioh/EthereumKit.git",
+    "svn_url": "https://github.com/yuzushioh/EthereumKit",
+    "homepage": "",
+    "size": 62889,
+    "stargazers_count": 487,
+    "watchers_count": 487,
+    "language": "Swift",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 106,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 13,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "ethereum",
+      "wallet"
+    ],
+    "visibility": "public",
+    "forks": 106,
+    "open_issues": 13,
+    "watchers": 487,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 106,
+    "subscribers_count": 23
+  },
+  "user_detail": {
+    "login": "yuzushioh",
+    "id": 12425729,
+    "node_id": "MDQ6VXNlcjEyNDI1NzI5",
+    "avatar_url": "https://avatars.githubusercontent.com/u/12425729?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yuzushioh",
+    "html_url": "https://github.com/yuzushioh",
+    "followers_url": "https://api.github.com/users/yuzushioh/followers",
+    "following_url": "https://api.github.com/users/yuzushioh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yuzushioh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yuzushioh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yuzushioh/subscriptions",
+    "organizations_url": "https://api.github.com/users/yuzushioh/orgs",
+    "repos_url": "https://api.github.com/users/yuzushioh/repos",
+    "events_url": "https://api.github.com/users/yuzushioh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yuzushioh/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "yuzushioh",
+    "company": "@stack",
+    "blog": "https://twitter.com/yuzushioh",
+    "location": "Japan",
+    "email": "yuzushioh@gmail.com",
+    "hireable": null,
+    "bio": "yuzushioh ",
+    "twitter_username": "yuzushioh",
+    "public_repos": 62,
+    "public_gists": 5,
+    "followers": 197,
+    "following": 42,
+    "created_at": "2015-05-13T08:32:34Z",
+    "updated_at": "2026-03-17T10:18:54Z"
+  },
+  "readme": "<p align=\"center\">\n    <img src=\"https://user-images.githubusercontent.com/12425729/40763856-5f14764a-64e1-11e8-8684-2f1c8497abd5.png\" alt=\"EthereumKit\" height=\"300px\">\n</p>\n\nEthereumKit is a Swift framework that enables you to create Ethereum wallet and use it in your app.\n\n```swift\n// BIP39: Generate seed and mnemonic sentence.\n\nlet mnemonic = Mnemonic.create()\nlet seed = Mnemonic.createSeed(mnemonic: mnemonic)\n\n// BIP32: Key derivation and address generation\n\nlet wallet = try! Wallet(seed: seed, network: .main)\n\n// Send some ether\n\nlet rawTransaction = RawTransaction(\n    ether: try! Converter.toWei(ether: \"0.00001\"), \n    to: address, \n    gasPrice: Converter.toWei(GWei: 10), \n    gasLimit: 21000, \n    nonce: 0\n)\n\nlet tx = try! wallet.signTransaction(rawTransaction)\ngeth.sendRawTransaction(rawTransaction: tx) { result in \n    // Do something...\n}\n```\n\n## Set up\n\n- Run `make bootstrap`\n\n## Features\n- Mnemonic recovery phrease in [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)\n- [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)/[BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki) HD wallet\n- [EIP55](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md) format address encoding\n- [EIP155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md) replay attack protection\n- Sign transaction\n- ERC20 token transfer\n\n## Documentations\n\n- [Getting Started](Documentation/GettingStarted.md)\n- [ERC20 Token](Documentation/ERC20.md)\n- [JSONRPC API](Documentation/JSONRPC.md)\n- [Etherscan API](Documentation/Etherscan.md)\n\n## Requirements\n\n- Swift 4.0 or later\n- iOS 9.0 or later\n\n## Installation\n#### [Carthage](https://github.com/Carthage/Carthage)\n\n- Insert `github \"yuzushioh/EthereumKit\"` to your Cartfile.\n- Run `carthage update --platform ios`.\n\n## Dependency\n\n- [CryptoEthereumSwift](https://github.com/yuzushioh/CryptoEthereumSwift): Ethereum cryptography implementations for iOS framework\n\n## Apps using EthereumKit\n\n- [gnosis/safe-ios](https://github.com/gnosis/safe-ios): Gnosis Safe is a multi signature (2FA) wallet for personal usage.\n- [popshootjapan/WeiWallet-iOS](https://github.com/popshootjapan/WeiWallet-iOS): Wei Wallet for iOS\n## Author\n\nRyo Fukuda, [@yuzushioh](https://twitter.com/yuzushioh), yuzushioh@gmail.com\n\n\n## License\nEthereumKit is released under the [Apache License 2.0](LICENSE.md).\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "0075cb1d681b162a386a91a6cc649d9308806244",
+      "size": 1527,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/0075cb1d681b162a386a91a6cc649d9308806244",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/0075cb1d681b162a386a91a6cc649d9308806244",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": ".swiftlint.yml",
+      "path": ".swiftlint.yml",
+      "sha": "df98a81f155ca242eb8272fe8c97e889d2ed133c",
+      "size": 440,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/.swiftlint.yml?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/.swiftlint.yml",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/df98a81f155ca242eb8272fe8c97e889d2ed133c",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/.swiftlint.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/.swiftlint.yml?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/df98a81f155ca242eb8272fe8c97e889d2ed133c",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/.swiftlint.yml"
+      }
+    },
+    {
+      "name": "Cartfile",
+      "path": "Cartfile",
+      "sha": "8297d9c628cae95df920a9c790885f36e921d932",
+      "size": 39,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Cartfile?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Cartfile",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8297d9c628cae95df920a9c790885f36e921d932",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Cartfile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Cartfile?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8297d9c628cae95df920a9c790885f36e921d932",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Cartfile"
+      }
+    },
+    {
+      "name": "Cartfile.resolved",
+      "path": "Cartfile.resolved",
+      "sha": "8b08fc5639fb2198eeedc54ad9d8da89e66faa20",
+      "size": 91,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Cartfile.resolved?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Cartfile.resolved",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8b08fc5639fb2198eeedc54ad9d8da89e66faa20",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Cartfile.resolved",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Cartfile.resolved?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8b08fc5639fb2198eeedc54ad9d8da89e66faa20",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Cartfile.resolved"
+      }
+    },
+    {
+      "name": "Documentation",
+      "path": "Documentation",
+      "sha": "1b60243f6deda11056cf93cab81ed87b01256f06",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/Documentation",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/1b60243f6deda11056cf93cab81ed87b01256f06",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/1b60243f6deda11056cf93cab81ed87b01256f06",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/Documentation"
+      }
+    },
+    {
+      "name": "ERC20.md",
+      "path": "Documentation/ERC20.md",
+      "sha": "0c38f0b4404a6fb5b35fafd35bb7b66638c72f95",
+      "size": 1113,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/ERC20.md?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/ERC20.md",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/0c38f0b4404a6fb5b35fafd35bb7b66638c72f95",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Documentation/ERC20.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/ERC20.md?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/0c38f0b4404a6fb5b35fafd35bb7b66638c72f95",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/ERC20.md"
+      }
+    },
+    {
+      "name": "Etherscan.md",
+      "path": "Documentation/Etherscan.md",
+      "sha": "3ba4562dce5ef0248cccda85b0cba9a200196881",
+      "size": 588,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/Etherscan.md?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/Etherscan.md",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/3ba4562dce5ef0248cccda85b0cba9a200196881",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Documentation/Etherscan.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/Etherscan.md?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/3ba4562dce5ef0248cccda85b0cba9a200196881",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/Etherscan.md"
+      }
+    },
+    {
+      "name": "GettingStarted.md",
+      "path": "Documentation/GettingStarted.md",
+      "sha": "2e7fdffbf575019aa3c939082dd2139f5d0064bc",
+      "size": 4125,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/GettingStarted.md?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/GettingStarted.md",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2e7fdffbf575019aa3c939082dd2139f5d0064bc",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Documentation/GettingStarted.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/GettingStarted.md?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2e7fdffbf575019aa3c939082dd2139f5d0064bc",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/GettingStarted.md"
+      }
+    },
+    {
+      "name": "JSONRPC.md",
+      "path": "Documentation/JSONRPC.md",
+      "sha": "61da965031fd81c8a4107eaee033210db12775df",
+      "size": 4932,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/JSONRPC.md?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/JSONRPC.md",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/61da965031fd81c8a4107eaee033210db12775df",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Documentation/JSONRPC.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Documentation/JSONRPC.md?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/61da965031fd81c8a4107eaee033210db12775df",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Documentation/JSONRPC.md"
+      }
+    },
+    {
+      "name": "EthereumKit.xcodeproj",
+      "path": "EthereumKit.xcodeproj",
+      "sha": "46096098a6b0fa1b0a69d31f507c6960f883cdc6",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/46096098a6b0fa1b0a69d31f507c6960f883cdc6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/46096098a6b0fa1b0a69d31f507c6960f883cdc6",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj"
+      }
+    },
+    {
+      "name": "project.pbxproj",
+      "path": "EthereumKit.xcodeproj/project.pbxproj",
+      "sha": "8def2c8cbd53db2d25ac6daf47c9a4c5d3182a6a",
+      "size": 61540,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.pbxproj?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/project.pbxproj",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8def2c8cbd53db2d25ac6daf47c9a4c5d3182a6a",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit.xcodeproj/project.pbxproj",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.pbxproj?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8def2c8cbd53db2d25ac6daf47c9a4c5d3182a6a",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/project.pbxproj"
+      }
+    },
+    {
+      "name": "project.xcworkspace",
+      "path": "EthereumKit.xcodeproj/project.xcworkspace",
+      "sha": "ffd3a30c4eb6a09b16776dfbb1f398bcc0a57490",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/project.xcworkspace",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/ffd3a30c4eb6a09b16776dfbb1f398bcc0a57490",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/ffd3a30c4eb6a09b16776dfbb1f398bcc0a57490",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/project.xcworkspace"
+      }
+    },
+    {
+      "name": "contents.xcworkspacedata",
+      "path": "EthereumKit.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "sha": "9c49ac613b91180af5802cd97d4e6ca83e31d0e3",
+      "size": 207,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace/contents.xcworkspacedata?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/9c49ac613b91180af5802cd97d4e6ca83e31d0e3",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace/contents.xcworkspacedata?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/9c49ac613b91180af5802cd97d4e6ca83e31d0e3",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/project.xcworkspace/contents.xcworkspacedata"
+      }
+    },
+    {
+      "name": "xcshareddata",
+      "path": "EthereumKit.xcodeproj/project.xcworkspace/xcshareddata",
+      "sha": "c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata"
+      }
+    },
+    {
+      "name": "IDEWorkspaceChecks.plist",
+      "path": "EthereumKit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "sha": "18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "size": 238,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist"
+      }
+    },
+    {
+      "name": "xcshareddata",
+      "path": "EthereumKit.xcodeproj/xcshareddata",
+      "sha": "82be2faac99d18e3f74f75af852cc0938671ff92",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/xcshareddata?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/xcshareddata",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/82be2faac99d18e3f74f75af852cc0938671ff92",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/xcshareddata?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/82be2faac99d18e3f74f75af852cc0938671ff92",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/xcshareddata"
+      }
+    },
+    {
+      "name": "xcschemes",
+      "path": "EthereumKit.xcodeproj/xcshareddata/xcschemes",
+      "sha": "78fba22e962102fdb65f40ad244963451e9d6ee4",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/xcshareddata/xcschemes?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/xcshareddata/xcschemes",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/78fba22e962102fdb65f40ad244963451e9d6ee4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/xcshareddata/xcschemes?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/78fba22e962102fdb65f40ad244963451e9d6ee4",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit.xcodeproj/xcshareddata/xcschemes"
+      }
+    },
+    {
+      "name": "EthereumKit.xcscheme",
+      "path": "EthereumKit.xcodeproj/xcshareddata/xcschemes/EthereumKit.xcscheme",
+      "sha": "034452739d19d2b36636eaf0728c95bd31d1416c",
+      "size": 3703,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/xcshareddata/xcschemes/EthereumKit.xcscheme?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/xcshareddata/xcschemes/EthereumKit.xcscheme",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/034452739d19d2b36636eaf0728c95bd31d1416c",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit.xcodeproj/xcshareddata/xcschemes/EthereumKit.xcscheme",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit.xcodeproj/xcshareddata/xcschemes/EthereumKit.xcscheme?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/034452739d19d2b36636eaf0728c95bd31d1416c",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit.xcodeproj/xcshareddata/xcschemes/EthereumKit.xcscheme"
+      }
+    },
+    {
+      "name": "EthereumKit",
+      "path": "EthereumKit",
+      "sha": "3eeea9da12530be8d7554ce7f3fc6419441b2c09",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/3eeea9da12530be8d7554ce7f3fc6419441b2c09",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/3eeea9da12530be8d7554ce7f3fc6419441b2c09",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit"
+      }
+    },
+    {
+      "name": "EthereumKit.h",
+      "path": "EthereumKit/EthereumKit.h",
+      "sha": "0990446d2cb5e6fd552eed7054145c0c1d67e9da",
+      "size": 371,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/EthereumKit.h?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/EthereumKit.h",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/0990446d2cb5e6fd552eed7054145c0c1d67e9da",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/EthereumKit.h",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/EthereumKit.h?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/0990446d2cb5e6fd552eed7054145c0c1d67e9da",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/EthereumKit.h"
+      }
+    },
+    {
+      "name": "Extension",
+      "path": "EthereumKit/Extension",
+      "sha": "dce787e99f76d70508a9d0e36e1713632c537ec2",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Extension?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Extension",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/dce787e99f76d70508a9d0e36e1713632c537ec2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Extension?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/dce787e99f76d70508a9d0e36e1713632c537ec2",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Extension"
+      }
+    },
+    {
+      "name": "SMP+Extensions.swift",
+      "path": "EthereumKit/Extension/SMP+Extensions.swift",
+      "sha": "abc09f5d515376a72abc5adb260240c5d6d3b593",
+      "size": 1139,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Extension/SMP%2BExtensions.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Extension/SMP%2BExtensions.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/abc09f5d515376a72abc5adb260240c5d6d3b593",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Extension/SMP+Extensions.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Extension/SMP%2BExtensions.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/abc09f5d515376a72abc5adb260240c5d6d3b593",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Extension/SMP%2BExtensions.swift"
+      }
+    },
+    {
+      "name": "String+Extension.swift",
+      "path": "EthereumKit/Extension/String+Extension.swift",
+      "sha": "9a07a394060fa56a2af8f6d937ea287002dc53ad",
+      "size": 461,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Extension/String%2BExtension.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Extension/String%2BExtension.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/9a07a394060fa56a2af8f6d937ea287002dc53ad",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Extension/String+Extension.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Extension/String%2BExtension.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/9a07a394060fa56a2af8f6d937ea287002dc53ad",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Extension/String%2BExtension.swift"
+      }
+    },
+    {
+      "name": "Helper",
+      "path": "EthereumKit/Helper",
+      "sha": "b8418979969b5a0e40f7fdcfc3be47938daca909",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Helper",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/b8418979969b5a0e40f7fdcfc3be47938daca909",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/b8418979969b5a0e40f7fdcfc3be47938daca909",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Helper"
+      }
+    },
+    {
+      "name": "Base58Encode.swift",
+      "path": "EthereumKit/Helper/Base58Encode.swift",
+      "sha": "032d5b0591a7af50fb85ff444e9ee124ffaac3a4",
+      "size": 1579,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Base58Encode.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Base58Encode.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/032d5b0591a7af50fb85ff444e9ee124ffaac3a4",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/Base58Encode.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Base58Encode.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/032d5b0591a7af50fb85ff444e9ee124ffaac3a4",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Base58Encode.swift"
+      }
+    },
+    {
+      "name": "Converter.swift",
+      "path": "EthereumKit/Helper/Converter.swift",
+      "sha": "58f1e5d1e041f7641f5a0e6add8a00190b46c214",
+      "size": 1346,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Converter.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Converter.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/58f1e5d1e041f7641f5a0e6add8a00190b46c214",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/Converter.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Converter.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/58f1e5d1e041f7641f5a0e6add8a00190b46c214",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Converter.swift"
+      }
+    },
+    {
+      "name": "Crypto.swift",
+      "path": "EthereumKit/Helper/Crypto.swift",
+      "sha": "c91b12069ad288fde033c8c558fe848a0df9e8d9",
+      "size": 4122,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Crypto.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Crypto.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/c91b12069ad288fde033c8c558fe848a0df9e8d9",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/Crypto.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Crypto.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/c91b12069ad288fde033c8c558fe848a0df9e8d9",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Crypto.swift"
+      }
+    },
+    {
+      "name": "DataConvertable.swift",
+      "path": "EthereumKit/Helper/DataConvertable.swift",
+      "sha": "bde0f903f9995f53a4436f407150d1e63daae4dc",
+      "size": 650,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/DataConvertable.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/DataConvertable.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/bde0f903f9995f53a4436f407150d1e63daae4dc",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/DataConvertable.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/DataConvertable.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/bde0f903f9995f53a4436f407150d1e63daae4dc",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/DataConvertable.swift"
+      }
+    },
+    {
+      "name": "EIP155Signer.swift",
+      "path": "EthereumKit/Helper/EIP155Signer.swift",
+      "sha": "db8d3d9181affcf3da816ddb1b0171a0a261b6d2",
+      "size": 2405,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/EIP155Signer.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/EIP155Signer.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/db8d3d9181affcf3da816ddb1b0171a0a261b6d2",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/EIP155Signer.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/EIP155Signer.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/db8d3d9181affcf3da816ddb1b0171a0a261b6d2",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/EIP155Signer.swift"
+      }
+    },
+    {
+      "name": "EIP55.swift",
+      "path": "EthereumKit/Helper/EIP55.swift",
+      "sha": "12819925b6ec27938f0fdc741df458b02bb7d958",
+      "size": 849,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/EIP55.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/EIP55.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/12819925b6ec27938f0fdc741df458b02bb7d958",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/EIP55.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/EIP55.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/12819925b6ec27938f0fdc741df458b02bb7d958",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/EIP55.swift"
+      }
+    },
+    {
+      "name": "ERC20+Contract.swift",
+      "path": "EthereumKit/Helper/ERC20+Contract.swift",
+      "sha": "e44a57e062fafa3c8ea136f2a02a2557f02411f2",
+      "size": 1231,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/ERC20%2BContract.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/ERC20%2BContract.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e44a57e062fafa3c8ea136f2a02a2557f02411f2",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/ERC20+Contract.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/ERC20%2BContract.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e44a57e062fafa3c8ea136f2a02a2557f02411f2",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/ERC20%2BContract.swift"
+      }
+    },
+    {
+      "name": "ERC20.swift",
+      "path": "EthereumKit/Helper/ERC20.swift",
+      "sha": "2f1cb0a6b9e8d6b91d69127d59f989aee4e87668",
+      "size": 3099,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/ERC20.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/ERC20.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2f1cb0a6b9e8d6b91d69127d59f989aee4e87668",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/ERC20.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/ERC20.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2f1cb0a6b9e8d6b91d69127d59f989aee4e87668",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/ERC20.swift"
+      }
+    },
+    {
+      "name": "EthereumKitError.swift",
+      "path": "EthereumKit/Helper/EthereumKitError.swift",
+      "sha": "c1a3197a2446ddd256d3fffe7f05107a736546d2",
+      "size": 949,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/EthereumKitError.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/EthereumKitError.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/c1a3197a2446ddd256d3fffe7f05107a736546d2",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/EthereumKitError.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/EthereumKitError.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/c1a3197a2446ddd256d3fffe7f05107a736546d2",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/EthereumKitError.swift"
+      }
+    },
+    {
+      "name": "Network.swift",
+      "path": "EthereumKit/Helper/Network.swift",
+      "sha": "f045b2412baab5c74de6efd8fb7a0068b3435669",
+      "size": 3030,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Network.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Network.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/f045b2412baab5c74de6efd8fb7a0068b3435669",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/Network.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Network.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/f045b2412baab5c74de6efd8fb7a0068b3435669",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Network.swift"
+      }
+    },
+    {
+      "name": "RLP.swift",
+      "path": "EthereumKit/Helper/RLP.swift",
+      "sha": "61c9a72089d5395db75b055683ec80996ff5b05b",
+      "size": 4536,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/RLP.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/RLP.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/61c9a72089d5395db75b055683ec80996ff5b05b",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/RLP.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/RLP.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/61c9a72089d5395db75b055683ec80996ff5b05b",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/RLP.swift"
+      }
+    },
+    {
+      "name": "Result.swift",
+      "path": "EthereumKit/Helper/Result.swift",
+      "sha": "4bccc4d3c8b10b96ee764ff5bf63653c426316a4",
+      "size": 345,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Result.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Result.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4bccc4d3c8b10b96ee764ff5bf63653c426316a4",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/Result.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/Result.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4bccc4d3c8b10b96ee764ff5bf63653c426316a4",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/Result.swift"
+      }
+    },
+    {
+      "name": "SMP.swift",
+      "path": "EthereumKit/Helper/SMP.swift",
+      "sha": "25eec1704c183ea93bf5ac94c2384ee655c8be82",
+      "size": 64549,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/SMP.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/SMP.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/25eec1704c183ea93bf5ac94c2384ee655c8be82",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Helper/SMP.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Helper/SMP.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/25eec1704c183ea93bf5ac94c2384ee655c8be82",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Helper/SMP.swift"
+      }
+    },
+    {
+      "name": "Info.plist",
+      "path": "EthereumKit/Info.plist",
+      "sha": "d04a6b47184b2a3f16af7f8a7564c24e10f346e5",
+      "size": 776,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Info.plist?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Info.plist",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/d04a6b47184b2a3f16af7f8a7564c24e10f346e5",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Info.plist",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Info.plist?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/d04a6b47184b2a3f16af7f8a7564c24e10f346e5",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Info.plist"
+      }
+    },
+    {
+      "name": "Key",
+      "path": "EthereumKit/Key",
+      "sha": "71c682e290f802184670bc4b644b0097dd25e1bb",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Key",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/71c682e290f802184670bc4b644b0097dd25e1bb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/71c682e290f802184670bc4b644b0097dd25e1bb",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Key"
+      }
+    },
+    {
+      "name": "HDPrivateKey.swift",
+      "path": "EthereumKit/Key/HDPrivateKey.swift",
+      "sha": "81c6e34ff2b0a62cee05775d07df804998ecf6cb",
+      "size": 2783,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/HDPrivateKey.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/HDPrivateKey.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/81c6e34ff2b0a62cee05775d07df804998ecf6cb",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Key/HDPrivateKey.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/HDPrivateKey.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/81c6e34ff2b0a62cee05775d07df804998ecf6cb",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/HDPrivateKey.swift"
+      }
+    },
+    {
+      "name": "HDPublicKey.swift",
+      "path": "EthereumKit/Key/HDPublicKey.swift",
+      "sha": "70404e3fd77416610e07f41759334eed64ae558e",
+      "size": 1364,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/HDPublicKey.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/HDPublicKey.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/70404e3fd77416610e07f41759334eed64ae558e",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Key/HDPublicKey.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/HDPublicKey.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/70404e3fd77416610e07f41759334eed64ae558e",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/HDPublicKey.swift"
+      }
+    },
+    {
+      "name": "PrivateKey.swift",
+      "path": "EthereumKit/Key/PrivateKey.swift",
+      "sha": "7a661cbbafe26f53cfee0d883b09111f2cdd82d7",
+      "size": 685,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/PrivateKey.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/PrivateKey.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/7a661cbbafe26f53cfee0d883b09111f2cdd82d7",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Key/PrivateKey.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/PrivateKey.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/7a661cbbafe26f53cfee0d883b09111f2cdd82d7",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/PrivateKey.swift"
+      }
+    },
+    {
+      "name": "PublicKey.swift",
+      "path": "EthereumKit/Key/PublicKey.swift",
+      "sha": "90f415bf99eacea935417e1476408aaa3a2fbad9",
+      "size": 1024,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/PublicKey.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/PublicKey.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/90f415bf99eacea935417e1476408aaa3a2fbad9",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Key/PublicKey.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Key/PublicKey.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/90f415bf99eacea935417e1476408aaa3a2fbad9",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Key/PublicKey.swift"
+      }
+    },
+    {
+      "name": "Mnemonic",
+      "path": "EthereumKit/Mnemonic",
+      "sha": "ba37cf122f26f233b711b7ed2648bc83ef160a61",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Mnemonic",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/ba37cf122f26f233b711b7ed2648bc83ef160a61",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/ba37cf122f26f233b711b7ed2648bc83ef160a61",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Mnemonic"
+      }
+    },
+    {
+      "name": "English.swift",
+      "path": "EthereumKit/Mnemonic/English.swift",
+      "sha": "2a671bce94eca00b1c0d95aa89ea7e7771b36a48",
+      "size": 19339,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/English.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/English.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2a671bce94eca00b1c0d95aa89ea7e7771b36a48",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Mnemonic/English.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/English.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2a671bce94eca00b1c0d95aa89ea7e7771b36a48",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/English.swift"
+      }
+    },
+    {
+      "name": "Japanese.swift",
+      "path": "EthereumKit/Mnemonic/Japanese.swift",
+      "sha": "fa2cd9f3dec8f906df64f3b4b3f1fc5c66a921df",
+      "size": 43010,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/Japanese.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/Japanese.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/fa2cd9f3dec8f906df64f3b4b3f1fc5c66a921df",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Mnemonic/Japanese.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/Japanese.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/fa2cd9f3dec8f906df64f3b4b3f1fc5c66a921df",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/Japanese.swift"
+      }
+    },
+    {
+      "name": "Mnemonic.swift",
+      "path": "EthereumKit/Mnemonic/Mnemonic.swift",
+      "sha": "953bc5a841e0b25b9c4649d3ba5b365f7c06755e",
+      "size": 2036,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/Mnemonic.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/Mnemonic.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/953bc5a841e0b25b9c4649d3ba5b365f7c06755e",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Mnemonic/Mnemonic.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/Mnemonic.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/953bc5a841e0b25b9c4649d3ba5b365f7c06755e",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/Mnemonic.swift"
+      }
+    },
+    {
+      "name": "WordList.swift",
+      "path": "EthereumKit/Mnemonic/WordList.swift",
+      "sha": "96745643c0466fe873ea85961c933299cc798ca2",
+      "size": 248,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/WordList.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/WordList.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/96745643c0466fe873ea85961c933299cc798ca2",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Mnemonic/WordList.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Mnemonic/WordList.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/96745643c0466fe873ea85961c933299cc798ca2",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Mnemonic/WordList.swift"
+      }
+    },
+    {
+      "name": "Model",
+      "path": "EthereumKit/Model",
+      "sha": "1cc95e367e89e60064b9ab9c22458a42df5bd536",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Model",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/1cc95e367e89e60064b9ab9c22458a42df5bd536",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/1cc95e367e89e60064b9ab9c22458a42df5bd536",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Model"
+      }
+    },
+    {
+      "name": "Address.swift",
+      "path": "EthereumKit/Model/Address.swift",
+      "sha": "160c372fcb33c233822b9bf011aec6f7eb358f9e",
+      "size": 1191,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/Address.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/Address.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/160c372fcb33c233822b9bf011aec6f7eb358f9e",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Model/Address.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/Address.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/160c372fcb33c233822b9bf011aec6f7eb358f9e",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/Address.swift"
+      }
+    },
+    {
+      "name": "Balance.swift",
+      "path": "EthereumKit/Model/Balance.swift",
+      "sha": "5ef7708ed59d81be5425e3d6923e60284a4b17bf",
+      "size": 788,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/Balance.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/Balance.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/5ef7708ed59d81be5425e3d6923e60284a4b17bf",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Model/Balance.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/Balance.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/5ef7708ed59d81be5425e3d6923e60284a4b17bf",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/Balance.swift"
+      }
+    },
+    {
+      "name": "BlockParameter.swift",
+      "path": "EthereumKit/Model/BlockParameter.swift",
+      "sha": "8aeb4110e407e6d70660bb6f2f05288c1eedaed2",
+      "size": 313,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/BlockParameter.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/BlockParameter.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8aeb4110e407e6d70660bb6f2f05288c1eedaed2",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Model/BlockParameter.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/BlockParameter.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8aeb4110e407e6d70660bb6f2f05288c1eedaed2",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/BlockParameter.swift"
+      }
+    },
+    {
+      "name": "RawTransaction.swift",
+      "path": "EthereumKit/Model/RawTransaction.swift",
+      "sha": "ba906c365ddad65f090b395fbbdefb4e22488b91",
+      "size": 2514,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/RawTransaction.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/RawTransaction.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/ba906c365ddad65f090b395fbbdefb4e22488b91",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Model/RawTransaction.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/RawTransaction.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/ba906c365ddad65f090b395fbbdefb4e22488b91",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/RawTransaction.swift"
+      }
+    },
+    {
+      "name": "SentTransaction.swift",
+      "path": "EthereumKit/Model/SentTransaction.swift",
+      "sha": "19d0395ad82c8d60a041198ca6bb8fb24fc03119",
+      "size": 217,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/SentTransaction.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/SentTransaction.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/19d0395ad82c8d60a041198ca6bb8fb24fc03119",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Model/SentTransaction.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/SentTransaction.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/19d0395ad82c8d60a041198ca6bb8fb24fc03119",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/SentTransaction.swift"
+      }
+    },
+    {
+      "name": "Transaction.swift",
+      "path": "EthereumKit/Model/Transaction.swift",
+      "sha": "5c737aa5b3528906e4b54f0d8f20eeeaf3008d22",
+      "size": 6348,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/Transaction.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/Transaction.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/5c737aa5b3528906e4b54f0d8f20eeeaf3008d22",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Model/Transaction.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Model/Transaction.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/5c737aa5b3528906e4b54f0d8f20eeeaf3008d22",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Model/Transaction.swift"
+      }
+    },
+    {
+      "name": "Networking",
+      "path": "EthereumKit/Networking",
+      "sha": "c5958fc8309c5484689e2dd1e9fe065e118d779c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c5958fc8309c5484689e2dd1e9fe065e118d779c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c5958fc8309c5484689e2dd1e9fe065e118d779c",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking"
+      }
+    },
+    {
+      "name": "Geth+Contract.swift",
+      "path": "EthereumKit/Networking/Geth+Contract.swift",
+      "sha": "a08cf1754e164af3e33fb67849bd18307274f77d",
+      "size": 1146,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Geth%2BContract.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Geth%2BContract.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/a08cf1754e164af3e33fb67849bd18307274f77d",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/Geth+Contract.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Geth%2BContract.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/a08cf1754e164af3e33fb67849bd18307274f77d",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Geth%2BContract.swift"
+      }
+    },
+    {
+      "name": "Geth.swift",
+      "path": "EthereumKit/Networking/Geth.swift",
+      "sha": "bb950d3c836f7733c571197180a93e9c2c1c47c6",
+      "size": 5259,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Geth.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Geth.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/bb950d3c836f7733c571197180a93e9c2c1c47c6",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/Geth.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Geth.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/bb950d3c836f7733c571197180a93e9c2c1c47c6",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Geth.swift"
+      }
+    },
+    {
+      "name": "HTTPClient",
+      "path": "EthereumKit/Networking/HTTPClient",
+      "sha": "c769d36e4e34f893b06f8905f1d8de4b82cf9a00",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/HTTPClient",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c769d36e4e34f893b06f8905f1d8de4b82cf9a00",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c769d36e4e34f893b06f8905f1d8de4b82cf9a00",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/HTTPClient"
+      }
+    },
+    {
+      "name": "Cancellable.swift",
+      "path": "EthereumKit/Networking/HTTPClient/Cancellable.swift",
+      "sha": "a1690c454a34ca0e74a3ccab34c5c030a65b50b4",
+      "size": 99,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/Cancellable.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/Cancellable.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/a1690c454a34ca0e74a3ccab34c5c030a65b50b4",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/HTTPClient/Cancellable.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/Cancellable.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/a1690c454a34ca0e74a3ccab34c5c030a65b50b4",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/Cancellable.swift"
+      }
+    },
+    {
+      "name": "Configuration.swift",
+      "path": "EthereumKit/Networking/HTTPClient/Configuration.swift",
+      "sha": "74217e0408a38ce4c210b2f8c06359331b7d91de",
+      "size": 1432,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/Configuration.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/Configuration.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/74217e0408a38ce4c210b2f8c06359331b7d91de",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/HTTPClient/Configuration.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/Configuration.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/74217e0408a38ce4c210b2f8c06359331b7d91de",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/Configuration.swift"
+      }
+    },
+    {
+      "name": "HTTPClient.swift",
+      "path": "EthereumKit/Networking/HTTPClient/HTTPClient.swift",
+      "sha": "20ec3179e609d4ed96ca99b417ad7559151b5978",
+      "size": 2691,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/HTTPClient.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/HTTPClient.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/20ec3179e609d4ed96ca99b417ad7559151b5978",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/HTTPClient/HTTPClient.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/HTTPClient.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/20ec3179e609d4ed96ca99b417ad7559151b5978",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/HTTPClient.swift"
+      }
+    },
+    {
+      "name": "HTTPClientType.swift",
+      "path": "EthereumKit/Networking/HTTPClient/HTTPClientType.swift",
+      "sha": "ee8acb5292f97b88363978480af067932b9c13b0",
+      "size": 397,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/HTTPClientType.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/HTTPClientType.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/ee8acb5292f97b88363978480af067932b9c13b0",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/HTTPClient/HTTPClientType.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/HTTPClientType.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/ee8acb5292f97b88363978480af067932b9c13b0",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/HTTPClientType.swift"
+      }
+    },
+    {
+      "name": "Method.swift",
+      "path": "EthereumKit/Networking/HTTPClient/Method.swift",
+      "sha": "05f7196a91cd7e676486f2f218f7960f36338b63",
+      "size": 235,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/Method.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/Method.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/05f7196a91cd7e676486f2f218f7960f36338b63",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/HTTPClient/Method.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/Method.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/05f7196a91cd7e676486f2f218f7960f36338b63",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/Method.swift"
+      }
+    },
+    {
+      "name": "RequestType.swift",
+      "path": "EthereumKit/Networking/HTTPClient/RequestType.swift",
+      "sha": "2b19382a5f2215b9be44b602926ee962f051ab20",
+      "size": 4902,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/RequestType.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/RequestType.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2b19382a5f2215b9be44b602926ee962f051ab20",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/HTTPClient/RequestType.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/HTTPClient/RequestType.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2b19382a5f2215b9be44b602926ee962f051ab20",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/HTTPClient/RequestType.swift"
+      }
+    },
+    {
+      "name": "JSONRPC",
+      "path": "EthereumKit/Networking/JSONRPC",
+      "sha": "c50b39affc286ac7bf5b29f684fb9e7ce5c47134",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/JSONRPC",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c50b39affc286ac7bf5b29f684fb9e7ce5c47134",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/c50b39affc286ac7bf5b29f684fb9e7ce5c47134",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/JSONRPC"
+      }
+    },
+    {
+      "name": "Batch.swift",
+      "path": "EthereumKit/Networking/JSONRPC/Batch.swift",
+      "sha": "7dafae06b552f8fcbb69e30450666254cbc45667",
+      "size": 1285,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/Batch.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/Batch.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/7dafae06b552f8fcbb69e30450666254cbc45667",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/Batch.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/Batch.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/7dafae06b552f8fcbb69e30450666254cbc45667",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/Batch.swift"
+      }
+    },
+    {
+      "name": "BatchElement.swift",
+      "path": "EthereumKit/Networking/JSONRPC/BatchElement.swift",
+      "sha": "2010e64df66ae4aa2295859bf63f6ff5f2dd3a16",
+      "size": 3008,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/BatchElement.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/BatchElement.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2010e64df66ae4aa2295859bf63f6ff5f2dd3a16",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/BatchElement.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/BatchElement.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2010e64df66ae4aa2295859bf63f6ff5f2dd3a16",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/BatchElement.swift"
+      }
+    },
+    {
+      "name": "BatchFactory.swift",
+      "path": "EthereumKit/Networking/JSONRPC/BatchFactory.swift",
+      "sha": "e97ad83ca1f92707d778d4cdecbe6124cb2a4711",
+      "size": 1137,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/BatchFactory.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/BatchFactory.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e97ad83ca1f92707d778d4cdecbe6124cb2a4711",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/BatchFactory.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/BatchFactory.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e97ad83ca1f92707d778d4cdecbe6124cb2a4711",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/BatchFactory.swift"
+      }
+    },
+    {
+      "name": "HTTPJSONRPCRequest.swift",
+      "path": "EthereumKit/Networking/JSONRPC/HTTPJSONRPCRequest.swift",
+      "sha": "18a3119774e91061ab33fb9f6dda1181e80c061f",
+      "size": 697,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/HTTPJSONRPCRequest.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/HTTPJSONRPCRequest.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/18a3119774e91061ab33fb9f6dda1181e80c061f",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/HTTPJSONRPCRequest.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/HTTPJSONRPCRequest.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/18a3119774e91061ab33fb9f6dda1181e80c061f",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/HTTPJSONRPCRequest.swift"
+      }
+    },
+    {
+      "name": "IDGenerator.swift",
+      "path": "EthereumKit/Networking/JSONRPC/IDGenerator.swift",
+      "sha": "354444a91124bbbb06dfb9e6a300d8fe607e7b4b",
+      "size": 170,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/IDGenerator.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/IDGenerator.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/354444a91124bbbb06dfb9e6a300d8fe607e7b4b",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/IDGenerator.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/IDGenerator.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/354444a91124bbbb06dfb9e6a300d8fe607e7b4b",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/IDGenerator.swift"
+      }
+    },
+    {
+      "name": "JSONRPCError.swift",
+      "path": "EthereumKit/Networking/JSONRPC/JSONRPCError.swift",
+      "sha": "9c265e5b98662fd2b3dc0c951d867593306c710f",
+      "size": 1263,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/JSONRPCError.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/JSONRPCError.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/9c265e5b98662fd2b3dc0c951d867593306c710f",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/JSONRPCError.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/JSONRPCError.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/9c265e5b98662fd2b3dc0c951d867593306c710f",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/JSONRPCError.swift"
+      }
+    },
+    {
+      "name": "JSONRPCRequest.swift",
+      "path": "EthereumKit/Networking/JSONRPC/JSONRPCRequest.swift",
+      "sha": "dacd7a223f868a1ff873d42ba7eb9cbac5171c1d",
+      "size": 294,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/JSONRPCRequest.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/JSONRPCRequest.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/dacd7a223f868a1ff873d42ba7eb9cbac5171c1d",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/JSONRPC/JSONRPCRequest.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/JSONRPC/JSONRPCRequest.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/dacd7a223f868a1ff873d42ba7eb9cbac5171c1d",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/JSONRPC/JSONRPCRequest.swift"
+      }
+    },
+    {
+      "name": "Request",
+      "path": "EthereumKit/Networking/Request",
+      "sha": "84af83da8c19079914d8848a8a6b8683f243da18",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Request?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/Request",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/84af83da8c19079914d8848a8a6b8683f243da18",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Request?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/84af83da8c19079914d8848a8a6b8683f243da18",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/Request"
+      }
+    },
+    {
+      "name": "Etherscan.swift",
+      "path": "EthereumKit/Networking/Request/Etherscan.swift",
+      "sha": "1995e9203463e71489dfefe8148f51df38a22ac4",
+      "size": 1353,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Request/Etherscan.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Request/Etherscan.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/1995e9203463e71489dfefe8148f51df38a22ac4",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/Request/Etherscan.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Request/Etherscan.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/1995e9203463e71489dfefe8148f51df38a22ac4",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Request/Etherscan.swift"
+      }
+    },
+    {
+      "name": "JSONRPC.swift",
+      "path": "EthereumKit/Networking/Request/JSONRPC.swift",
+      "sha": "eb0061c66cdbdc93e317aa2196c8ae5f4e9ee271",
+      "size": 6067,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Request/JSONRPC.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Request/JSONRPC.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/eb0061c66cdbdc93e317aa2196c8ae5f4e9ee271",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/Request/JSONRPC.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Request/JSONRPC.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/eb0061c66cdbdc93e317aa2196c8ae5f4e9ee271",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Request/JSONRPC.swift"
+      }
+    },
+    {
+      "name": "Serialization",
+      "path": "EthereumKit/Networking/Serialization",
+      "sha": "8398059a83bcff883bfb143a895099888982f0c0",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Serialization?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/Serialization",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/8398059a83bcff883bfb143a895099888982f0c0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Serialization?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/8398059a83bcff883bfb143a895099888982f0c0",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Networking/Serialization"
+      }
+    },
+    {
+      "name": "JSONBodySerialization.swift",
+      "path": "EthereumKit/Networking/Serialization/JSONBodySerialization.swift",
+      "sha": "d4aff03438c652ac357a495a819936e0bdbf038b",
+      "size": 1551,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Serialization/JSONBodySerialization.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Serialization/JSONBodySerialization.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/d4aff03438c652ac357a495a819936e0bdbf038b",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/Serialization/JSONBodySerialization.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Serialization/JSONBodySerialization.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/d4aff03438c652ac357a495a819936e0bdbf038b",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Serialization/JSONBodySerialization.swift"
+      }
+    },
+    {
+      "name": "URLEncodedSerialization.swift",
+      "path": "EthereumKit/Networking/Serialization/URLEncodedSerialization.swift",
+      "sha": "e4210fd850d985e5afe97f6bda94a0c778c14148",
+      "size": 2154,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Serialization/URLEncodedSerialization.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Serialization/URLEncodedSerialization.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e4210fd850d985e5afe97f6bda94a0c778c14148",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Networking/Serialization/URLEncodedSerialization.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Networking/Serialization/URLEncodedSerialization.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e4210fd850d985e5afe97f6bda94a0c778c14148",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Networking/Serialization/URLEncodedSerialization.swift"
+      }
+    },
+    {
+      "name": "Wallet",
+      "path": "EthereumKit/Wallet",
+      "sha": "62559302157e5009f4201deede4bc6d6be7db01b",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Wallet?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Wallet",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/62559302157e5009f4201deede4bc6d6be7db01b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Wallet?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/62559302157e5009f4201deede4bc6d6be7db01b",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKit/Wallet"
+      }
+    },
+    {
+      "name": "HDWallet.swift",
+      "path": "EthereumKit/Wallet/HDWallet.swift",
+      "sha": "05438cc9e6a00bb9740ef4d0a07ea91fad595d66",
+      "size": 4600,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Wallet/HDWallet.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Wallet/HDWallet.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/05438cc9e6a00bb9740ef4d0a07ea91fad595d66",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Wallet/HDWallet.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Wallet/HDWallet.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/05438cc9e6a00bb9740ef4d0a07ea91fad595d66",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Wallet/HDWallet.swift"
+      }
+    },
+    {
+      "name": "Wallet.swift",
+      "path": "EthereumKit/Wallet/Wallet.swift",
+      "sha": "515952b40b2dee327661ee2aa1d82c0c5a5efa8b",
+      "size": 7663,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Wallet/Wallet.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Wallet/Wallet.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/515952b40b2dee327661ee2aa1d82c0c5a5efa8b",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKit/Wallet/Wallet.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKit/Wallet/Wallet.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/515952b40b2dee327661ee2aa1d82c0c5a5efa8b",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKit/Wallet/Wallet.swift"
+      }
+    },
+    {
+      "name": "EthereumKitTests",
+      "path": "EthereumKitTests",
+      "sha": "0c91b0406f4bfca3ee9bf4452c04d430ccd0173e",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKitTests",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/0c91b0406f4bfca3ee9bf4452c04d430ccd0173e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/0c91b0406f4bfca3ee9bf4452c04d430ccd0173e",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/EthereumKitTests"
+      }
+    },
+    {
+      "name": "AddressTests.swift",
+      "path": "EthereumKitTests/AddressTests.swift",
+      "sha": "da5e1f6565fb9b06cf90dc33524583dd01d2cbba",
+      "size": 1268,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/AddressTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/AddressTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/da5e1f6565fb9b06cf90dc33524583dd01d2cbba",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/AddressTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/AddressTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/da5e1f6565fb9b06cf90dc33524583dd01d2cbba",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/AddressTests.swift"
+      }
+    },
+    {
+      "name": "BIP32Tests.swift",
+      "path": "EthereumKitTests/BIP32Tests.swift",
+      "sha": "60030b19b1bd96a8da847608de86cf0a8f68e0d1",
+      "size": 4165,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/BIP32Tests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/BIP32Tests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/60030b19b1bd96a8da847608de86cf0a8f68e0d1",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/BIP32Tests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/BIP32Tests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/60030b19b1bd96a8da847608de86cf0a8f68e0d1",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/BIP32Tests.swift"
+      }
+    },
+    {
+      "name": "BalanceTests.swift",
+      "path": "EthereumKitTests/BalanceTests.swift",
+      "sha": "519930fa4c295af4b8f7e4f6e1b87f981a179abb",
+      "size": 287,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/BalanceTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/BalanceTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/519930fa4c295af4b8f7e4f6e1b87f981a179abb",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/BalanceTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/BalanceTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/519930fa4c295af4b8f7e4f6e1b87f981a179abb",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/BalanceTests.swift"
+      }
+    },
+    {
+      "name": "BlockParameterTests.swift",
+      "path": "EthereumKitTests/BlockParameterTests.swift",
+      "sha": "94d5455b92327342e6fcd2336d7eb880f56dd31f",
+      "size": 594,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/BlockParameterTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/BlockParameterTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/94d5455b92327342e6fcd2336d7eb880f56dd31f",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/BlockParameterTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/BlockParameterTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/94d5455b92327342e6fcd2336d7eb880f56dd31f",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/BlockParameterTests.swift"
+      }
+    },
+    {
+      "name": "ConverterTests.swift",
+      "path": "EthereumKitTests/ConverterTests.swift",
+      "sha": "068f87b1f5df5caafdd4d814cc8cf5de2a9da95a",
+      "size": 2081,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/ConverterTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/ConverterTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/068f87b1f5df5caafdd4d814cc8cf5de2a9da95a",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/ConverterTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/ConverterTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/068f87b1f5df5caafdd4d814cc8cf5de2a9da95a",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/ConverterTests.swift"
+      }
+    },
+    {
+      "name": "CryptoTests.swift",
+      "path": "EthereumKitTests/CryptoTests.swift",
+      "sha": "6e3caf572edc4c3c50da1d0110e8373e47c5bb03",
+      "size": 1895,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/CryptoTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/CryptoTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/6e3caf572edc4c3c50da1d0110e8373e47c5bb03",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/CryptoTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/CryptoTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/6e3caf572edc4c3c50da1d0110e8373e47c5bb03",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/CryptoTests.swift"
+      }
+    },
+    {
+      "name": "EIP155SignerTests.swift",
+      "path": "EthereumKitTests/EIP155SignerTests.swift",
+      "sha": "4bd53b50159f3b07b1e6cb8a930069b375e1fe93",
+      "size": 7849,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/EIP155SignerTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/EIP155SignerTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4bd53b50159f3b07b1e6cb8a930069b375e1fe93",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/EIP155SignerTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/EIP155SignerTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4bd53b50159f3b07b1e6cb8a930069b375e1fe93",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/EIP155SignerTests.swift"
+      }
+    },
+    {
+      "name": "ERC20Tests.swift",
+      "path": "EthereumKitTests/ERC20Tests.swift",
+      "sha": "4927ccc469c14a9daeaf1c0a567fdcb9923c0c41",
+      "size": 2345,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/ERC20Tests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/ERC20Tests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4927ccc469c14a9daeaf1c0a567fdcb9923c0c41",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/ERC20Tests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/ERC20Tests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4927ccc469c14a9daeaf1c0a567fdcb9923c0c41",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/ERC20Tests.swift"
+      }
+    },
+    {
+      "name": "EthereumKitTests.swift",
+      "path": "EthereumKitTests/EthereumKitTests.swift",
+      "sha": "789c00a59e2cae4ffc98b093a7c91726fd396705",
+      "size": 3631,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/EthereumKitTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/EthereumKitTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/789c00a59e2cae4ffc98b093a7c91726fd396705",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/EthereumKitTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/EthereumKitTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/789c00a59e2cae4ffc98b093a7c91726fd396705",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/EthereumKitTests.swift"
+      }
+    },
+    {
+      "name": "HDPublicKeyTests.swift",
+      "path": "EthereumKitTests/HDPublicKeyTests.swift",
+      "sha": "03407c862fd5d4df28dff365126b9335089e9b2a",
+      "size": 1665,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/HDPublicKeyTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/HDPublicKeyTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/03407c862fd5d4df28dff365126b9335089e9b2a",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/HDPublicKeyTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/HDPublicKeyTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/03407c862fd5d4df28dff365126b9335089e9b2a",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/HDPublicKeyTests.swift"
+      }
+    },
+    {
+      "name": "Info.plist",
+      "path": "EthereumKitTests/Info.plist",
+      "sha": "6c40a6cd0c4af2f0d93b697fbfb066793681b045",
+      "size": 701,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/Info.plist?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/Info.plist",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/6c40a6cd0c4af2f0d93b697fbfb066793681b045",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/Info.plist",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/Info.plist?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/6c40a6cd0c4af2f0d93b697fbfb066793681b045",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/Info.plist"
+      }
+    },
+    {
+      "name": "MessageSigningTests.swift",
+      "path": "EthereumKitTests/MessageSigningTests.swift",
+      "sha": "99688aca10ee639acc4142228cfe53a030ca36b6",
+      "size": 1924,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/MessageSigningTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/MessageSigningTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/99688aca10ee639acc4142228cfe53a030ca36b6",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/MessageSigningTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/MessageSigningTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/99688aca10ee639acc4142228cfe53a030ca36b6",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/MessageSigningTests.swift"
+      }
+    },
+    {
+      "name": "MnemonicTests.swift",
+      "path": "EthereumKitTests/MnemonicTests.swift",
+      "sha": "3881da715327ec10a33f9b1598c4c58ac52ced99",
+      "size": 2020,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/MnemonicTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/MnemonicTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/3881da715327ec10a33f9b1598c4c58ac52ced99",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/MnemonicTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/MnemonicTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/3881da715327ec10a33f9b1598c4c58ac52ced99",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/MnemonicTests.swift"
+      }
+    },
+    {
+      "name": "NetworkTests.swift",
+      "path": "EthereumKitTests/NetworkTests.swift",
+      "sha": "c406a3e568121fa0427ba734b536b913b1620613",
+      "size": 2647,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/NetworkTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/NetworkTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/c406a3e568121fa0427ba734b536b913b1620613",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/NetworkTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/NetworkTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/c406a3e568121fa0427ba734b536b913b1620613",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/NetworkTests.swift"
+      }
+    },
+    {
+      "name": "PrivateKeyAndPublicKeyTests.swift",
+      "path": "EthereumKitTests/PrivateKeyAndPublicKeyTests.swift",
+      "sha": "2fbe1f2057d3efcd0026f9cfdab9a25d5b0cc6bc",
+      "size": 5117,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/PrivateKeyAndPublicKeyTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/PrivateKeyAndPublicKeyTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2fbe1f2057d3efcd0026f9cfdab9a25d5b0cc6bc",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/PrivateKeyAndPublicKeyTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/PrivateKeyAndPublicKeyTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2fbe1f2057d3efcd0026f9cfdab9a25d5b0cc6bc",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/PrivateKeyAndPublicKeyTests.swift"
+      }
+    },
+    {
+      "name": "RLPTests.swift",
+      "path": "EthereumKitTests/RLPTests.swift",
+      "sha": "b39c049654e953f99175d4a5b694ca4b573026a0",
+      "size": 6373,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/RLPTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/RLPTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/b39c049654e953f99175d4a5b694ca4b573026a0",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/RLPTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/RLPTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/b39c049654e953f99175d4a5b694ca4b573026a0",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/RLPTests.swift"
+      }
+    },
+    {
+      "name": "RawTransactionTests.swift",
+      "path": "EthereumKitTests/RawTransactionTests.swift",
+      "sha": "e9c4edd4c25e427e25c021909bd13b862a400bba",
+      "size": 762,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/RawTransactionTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/RawTransactionTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e9c4edd4c25e427e25c021909bd13b862a400bba",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/RawTransactionTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/RawTransactionTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e9c4edd4c25e427e25c021909bd13b862a400bba",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/RawTransactionTests.swift"
+      }
+    },
+    {
+      "name": "SentTransactionTests.swift",
+      "path": "EthereumKitTests/SentTransactionTests.swift",
+      "sha": "8f687b73da7f8585653d54948500d5a20ab82b34",
+      "size": 244,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/SentTransactionTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/SentTransactionTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8f687b73da7f8585653d54948500d5a20ab82b34",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/SentTransactionTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/SentTransactionTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/8f687b73da7f8585653d54948500d5a20ab82b34",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/SentTransactionTests.swift"
+      }
+    },
+    {
+      "name": "TransactionSigningTests.swift",
+      "path": "EthereumKitTests/TransactionSigningTests.swift",
+      "sha": "e798a4b5797b4493b52c2139223b84eecfac866f",
+      "size": 13745,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/TransactionSigningTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/TransactionSigningTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e798a4b5797b4493b52c2139223b84eecfac866f",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/TransactionSigningTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/TransactionSigningTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/e798a4b5797b4493b52c2139223b84eecfac866f",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/TransactionSigningTests.swift"
+      }
+    },
+    {
+      "name": "TransactionTests.swift",
+      "path": "EthereumKitTests/TransactionTests.swift",
+      "sha": "2eb00043bb2f2f736cd62a562c5f580c4a033054",
+      "size": 2098,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/TransactionTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/TransactionTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2eb00043bb2f2f736cd62a562c5f580c4a033054",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/TransactionTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/TransactionTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/2eb00043bb2f2f736cd62a562c5f580c4a033054",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/TransactionTests.swift"
+      }
+    },
+    {
+      "name": "WalletTests.swift",
+      "path": "EthereumKitTests/WalletTests.swift",
+      "sha": "71ad2d285b11a9a6ce680c66eb6bfb63abb1c2a9",
+      "size": 1150,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/WalletTests.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/WalletTests.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/71ad2d285b11a9a6ce680c66eb6bfb63abb1c2a9",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/EthereumKitTests/WalletTests.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/EthereumKitTests/WalletTests.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/71ad2d285b11a9a6ce680c66eb6bfb63abb1c2a9",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/EthereumKitTests/WalletTests.swift"
+      }
+    },
+    {
+      "name": "Example",
+      "path": "Example",
+      "sha": "644b9b8de835a432ad54e4e02dbf04773c99e7aa",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/Example",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/644b9b8de835a432ad54e4e02dbf04773c99e7aa",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/644b9b8de835a432ad54e4e02dbf04773c99e7aa",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/Example"
+      }
+    },
+    {
+      "name": "AppDelegate.swift",
+      "path": "Example/AppDelegate.swift",
+      "sha": "f82a8c28b0e790e207ed109d8d2fcb3b98b9b132",
+      "size": 2168,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/AppDelegate.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/AppDelegate.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/f82a8c28b0e790e207ed109d8d2fcb3b98b9b132",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Example/AppDelegate.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/AppDelegate.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/f82a8c28b0e790e207ed109d8d2fcb3b98b9b132",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/AppDelegate.swift"
+      }
+    },
+    {
+      "name": "Assets.xcassets",
+      "path": "Example/Assets.xcassets",
+      "sha": "e1876e2b451ed7ab7f9b997e5d69f1757fc8db36",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Assets.xcassets?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/Example/Assets.xcassets",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/e1876e2b451ed7ab7f9b997e5d69f1757fc8db36",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Assets.xcassets?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/e1876e2b451ed7ab7f9b997e5d69f1757fc8db36",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/Example/Assets.xcassets"
+      }
+    },
+    {
+      "name": "AppIcon.appiconset",
+      "path": "Example/Assets.xcassets/AppIcon.appiconset",
+      "sha": "2708767942efb50b50b9a3c79288121cd70a2a9f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Assets.xcassets/AppIcon.appiconset?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/Example/Assets.xcassets/AppIcon.appiconset",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/2708767942efb50b50b9a3c79288121cd70a2a9f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Assets.xcassets/AppIcon.appiconset?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/2708767942efb50b50b9a3c79288121cd70a2a9f",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/Example/Assets.xcassets/AppIcon.appiconset"
+      }
+    },
+    {
+      "name": "Contents.json",
+      "path": "Example/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "sha": "d8db8d65fd79fd541b2b7eba75c7378af3448f9c",
+      "size": 1590,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Assets.xcassets/AppIcon.appiconset/Contents.json?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/d8db8d65fd79fd541b2b7eba75c7378af3448f9c",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Example/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Assets.xcassets/AppIcon.appiconset/Contents.json?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/d8db8d65fd79fd541b2b7eba75c7378af3448f9c",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Assets.xcassets/AppIcon.appiconset/Contents.json"
+      }
+    },
+    {
+      "name": "Base.lproj",
+      "path": "Example/Base.lproj",
+      "sha": "33de86599d1e61f3ee5fba93a8688430ea54b052",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Base.lproj?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/tree/master/Example/Base.lproj",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/33de86599d1e61f3ee5fba93a8688430ea54b052",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Base.lproj?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/trees/33de86599d1e61f3ee5fba93a8688430ea54b052",
+        "html": "https://github.com/yuzushioh/EthereumKit/tree/master/Example/Base.lproj"
+      }
+    },
+    {
+      "name": "LaunchScreen.storyboard",
+      "path": "Example/Base.lproj/LaunchScreen.storyboard",
+      "sha": "f83f6fd5810b9c852cf98563d82d5ed1e84ff893",
+      "size": 1681,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Base.lproj/LaunchScreen.storyboard?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Base.lproj/LaunchScreen.storyboard",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/f83f6fd5810b9c852cf98563d82d5ed1e84ff893",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Example/Base.lproj/LaunchScreen.storyboard",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Base.lproj/LaunchScreen.storyboard?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/f83f6fd5810b9c852cf98563d82d5ed1e84ff893",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Base.lproj/LaunchScreen.storyboard"
+      }
+    },
+    {
+      "name": "Main.storyboard",
+      "path": "Example/Base.lproj/Main.storyboard",
+      "sha": "03c13c2286150ad7416086bec99d2c46ccca6efc",
+      "size": 1620,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Base.lproj/Main.storyboard?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Base.lproj/Main.storyboard",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/03c13c2286150ad7416086bec99d2c46ccca6efc",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Example/Base.lproj/Main.storyboard",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Base.lproj/Main.storyboard?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/03c13c2286150ad7416086bec99d2c46ccca6efc",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Base.lproj/Main.storyboard"
+      }
+    },
+    {
+      "name": "Info.plist",
+      "path": "Example/Info.plist",
+      "sha": "89d7858b37e3d3b8600e9c7a0d9c7cfa9755ea5c",
+      "size": 1352,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Info.plist?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Info.plist",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/89d7858b37e3d3b8600e9c7a0d9c7cfa9755ea5c",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Example/Info.plist",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/Info.plist?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/89d7858b37e3d3b8600e9c7a0d9c7cfa9755ea5c",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/Info.plist"
+      }
+    },
+    {
+      "name": "ViewController.swift",
+      "path": "Example/ViewController.swift",
+      "sha": "680af88ec42626b1becf0becfb6e2d4add6d5b6c",
+      "size": 3537,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/ViewController.swift?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/ViewController.swift",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/680af88ec42626b1becf0becfb6e2d4add6d5b6c",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Example/ViewController.swift",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Example/ViewController.swift?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/680af88ec42626b1becf0becfb6e2d4add6d5b6c",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Example/ViewController.swift"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "Makefile",
+      "path": "Makefile",
+      "sha": "4ce37c503a56f1d91b783fb0ed8f46d86f56edae",
+      "size": 46,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Makefile?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/Makefile",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4ce37c503a56f1d91b783fb0ed8f46d86f56edae",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/Makefile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/Makefile?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/4ce37c503a56f1d91b783fb0ed8f46d86f56edae",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/Makefile"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "51406853f04c4665653f4ebd316332c84d24d12d",
+      "size": 2407,
+      "url": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/README.md?ref=master",
+      "html_url": "https://github.com/yuzushioh/EthereumKit/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/51406853f04c4665653f4ebd316332c84d24d12d",
+      "download_url": "https://raw.githubusercontent.com/yuzushioh/EthereumKit/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuzushioh/EthereumKit/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/yuzushioh/EthereumKit/git/blobs/51406853f04c4665653f4ebd316332c84d24d12d",
+        "html": "https://github.com/yuzushioh/EthereumKit/blob/master/README.md"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6754,
+    "user-images.githubusercontent.com": null,
+    "twitter.com": 9572
+  },
+  "collected_at": "2026-04-07T14:02:08.047108"
+}

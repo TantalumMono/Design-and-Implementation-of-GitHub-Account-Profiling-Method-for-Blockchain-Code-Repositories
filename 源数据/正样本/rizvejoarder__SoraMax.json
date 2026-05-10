@@ -1,0 +1,513 @@
+{
+  "repo_full_name": "rizvejoarder/SoraMax",
+  "repo_deleted": false,
+  "data_source": "github_api",
+  "collected_at": "2026-03-17T02:07:32.302796",
+  "repo_detail": {
+    "id": 1074660892,
+    "node_id": "R_kgDOQA4GHA",
+    "name": "SoraMax",
+    "full_name": "rizvejoarder/SoraMax",
+    "private": false,
+    "owner": {
+      "login": "rizvejoarder",
+      "id": 47194762,
+      "node_id": "MDQ6VXNlcjQ3MTk0NzYy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47194762?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rizvejoarder",
+      "html_url": "https://github.com/rizvejoarder",
+      "followers_url": "https://api.github.com/users/rizvejoarder/followers",
+      "following_url": "https://api.github.com/users/rizvejoarder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rizvejoarder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rizvejoarder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rizvejoarder/subscriptions",
+      "organizations_url": "https://api.github.com/users/rizvejoarder/orgs",
+      "repos_url": "https://api.github.com/users/rizvejoarder/repos",
+      "events_url": "https://api.github.com/users/rizvejoarder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rizvejoarder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/rizvejoarder/SoraMax",
+    "description": "`🎬 Ultimate Sora Prompt Generator - 50,000+ locations, 50,000+ fashion combinations, professional cinematography specs`    - ✅ Public (so anyone can access)    - ✅ Add a README file (we'll replace it)    - ✅ Add .gitignore → Choose \"Python\"    - ✅ Choose license → \"MIT License\"",
+    "fork": false,
+    "url": "https://api.github.com/repos/rizvejoarder/SoraMax",
+    "forks_url": "https://api.github.com/repos/rizvejoarder/SoraMax/forks",
+    "keys_url": "https://api.github.com/repos/rizvejoarder/SoraMax/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/rizvejoarder/SoraMax/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/rizvejoarder/SoraMax/teams",
+    "hooks_url": "https://api.github.com/repos/rizvejoarder/SoraMax/hooks",
+    "issue_events_url": "https://api.github.com/repos/rizvejoarder/SoraMax/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/rizvejoarder/SoraMax/events",
+    "assignees_url": "https://api.github.com/repos/rizvejoarder/SoraMax/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/rizvejoarder/SoraMax/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/rizvejoarder/SoraMax/tags",
+    "blobs_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/rizvejoarder/SoraMax/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/rizvejoarder/SoraMax/languages",
+    "stargazers_url": "https://api.github.com/repos/rizvejoarder/SoraMax/stargazers",
+    "contributors_url": "https://api.github.com/repos/rizvejoarder/SoraMax/contributors",
+    "subscribers_url": "https://api.github.com/repos/rizvejoarder/SoraMax/subscribers",
+    "subscription_url": "https://api.github.com/repos/rizvejoarder/SoraMax/subscription",
+    "commits_url": "https://api.github.com/repos/rizvejoarder/SoraMax/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/rizvejoarder/SoraMax/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/rizvejoarder/SoraMax/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/rizvejoarder/SoraMax/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/rizvejoarder/SoraMax/merges",
+    "archive_url": "https://api.github.com/repos/rizvejoarder/SoraMax/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/rizvejoarder/SoraMax/downloads",
+    "issues_url": "https://api.github.com/repos/rizvejoarder/SoraMax/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/rizvejoarder/SoraMax/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/rizvejoarder/SoraMax/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/rizvejoarder/SoraMax/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/rizvejoarder/SoraMax/labels{/name}",
+    "releases_url": "https://api.github.com/repos/rizvejoarder/SoraMax/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/rizvejoarder/SoraMax/deployments",
+    "created_at": "2025-10-12T08:20:35Z",
+    "updated_at": "2025-11-05T12:09:15Z",
+    "pushed_at": "2025-11-05T12:08:51Z",
+    "git_url": "git://github.com/rizvejoarder/SoraMax.git",
+    "ssh_url": "git@github.com:rizvejoarder/SoraMax.git",
+    "clone_url": "https://github.com/rizvejoarder/SoraMax.git",
+    "svn_url": "https://github.com/rizvejoarder/SoraMax",
+    "homepage": "",
+    "size": 200,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "prompt-generator",
+      "sora-ai",
+      "sora-prompts"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "rizvejoarder",
+    "id": 47194762,
+    "node_id": "MDQ6VXNlcjQ3MTk0NzYy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/47194762?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rizvejoarder",
+    "html_url": "https://github.com/rizvejoarder",
+    "followers_url": "https://api.github.com/users/rizvejoarder/followers",
+    "following_url": "https://api.github.com/users/rizvejoarder/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rizvejoarder/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rizvejoarder/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rizvejoarder/subscriptions",
+    "organizations_url": "https://api.github.com/users/rizvejoarder/orgs",
+    "repos_url": "https://api.github.com/users/rizvejoarder/repos",
+    "events_url": "https://api.github.com/users/rizvejoarder/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rizvejoarder/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": null,
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 3,
+    "public_gists": 0,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2019-01-30T21:20:05Z",
+    "updated_at": "2026-03-07T18:37:09Z"
+  },
+  "readme": "# 🎬 SoraMax - Ultimate Sora Prompt Generator\n\n<div align=\"center\">\n\n[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://python.org)\n[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)\n[![Version](https://img.shields.io/badge/Version-2.1.0-orange?style=for-the-badge)](https://github.com/rizvejoarder/soramax)\n[![Built by](https://img.shields.io/badge/Built%20by-Rizve%20Joarder-red?style=for-the-badge)](https://www.rizvejoarder.com)\n\n### 🚀 The most comprehensive Sora video prompt generator with **2.5+ BILLION** possible combinations!\n\n**Built with ❤️ by [Rizve Joarder](https://www.rizvejoarder.com)**\n\n*Free and open source for the community!*\n\n---\n\n</div>\n\n## 📸 Screenshot\n\n![SoraMax Interface](screenshots/soramax-interface.png)\n\n> *Beautiful, modern interface with professional-grade prompt generation*\n\n## 🚀 Features\n\n### 🎯 Massive Databases\n- **📍 50,000+ Unique Locations** - From luxury penthouses to mystical forests\n- **👗 50,000+ Fashion Combinations** - Every style, color, and accessory combination\n- **🎬 10,000+ Action Sequences** - Professional cinematography scenes\n- **🎥 20,000+ Camera Movements** - Every possible camera technique\n- **📷 200+ Camera Lenses** - Complete professional lens database\n- **💡 200+ Lighting Setups** - Comprehensive lighting options\n- **🎵 200+ Ambience Options** - Perfect sound environments\n- **💬 200+ Viral Quotes** - Engagement-optimized social media content\n- **🏷️ 200+ Hashtag Sets** - Trending hashtag combinations\n\n### ✨ Advanced Features\n- **🎯 Mathematical Uniqueness** - Zero repeats guaranteed until 2.5+ billion combinations exhausted\n- **🧹 Clean Text Output** - No character encoding issues, perfect CSV output\n- **🎬 Professional Quality** - Industry-standard cinematography specifications\n- **📱 Social Media Ready** - Viral quotes and hashtags included\n- **📊 Comprehensive Export** - Detailed CSV with all technical specifications\n- **🖥️ Modern UI/UX** - Beautiful, user-friendly interface\n- **⚡ Unlimited Generation** - Generate up to 1,000,000 prompts at once\n\n## 🎬 Perfect For\n\n- **Content Creators** - Generate unlimited unique video concepts\n- **Filmmakers** - Professional cinematography specifications\n- **AI Enthusiasts** - Maximum quality Sora AI prompts\n- **Social Media Managers** - Viral content with hashtags included\n- **Video Producers** - Complete technical breakdowns\n- **Creative Agencies** - Unlimited unique concepts for clients\n\n## 🚀 Quick Start\n\n### Prerequisites\n- Python 3.7 or higher\n- tkinter (usually included with Python)\n\n### Installation\n\n1. **Clone the repository:**\n```bash\ngit clone https://github.com/rizvejoarder/soramax.git\ncd soramax\n```\n\n2. **Install dependencies:**\n```bash\npip install -r requirements.txt\n```\n\n3. **Run SoraMax:**\n```bash\n# Original version\npython soramax.py\n\n# OR Modern UI version (Enhanced with beautiful design)\npython soramax_modern.py\n```\n\n### Alternative: Direct Download\n1. Download `soramax.py` or `soramax_modern.py` from the [releases page](https://github.com/rizvejoarder/soramax/releases)\n2. Run: `python soramax_modern.py` (recommended for better UI/UX)\n\n## 📖 How to Use\n\n### 1. Launch SoraMax\n```bash\npython soramax.py\n```\n\n### 2. Configure Settings\n- **Number of Prompts:** Set from 1 to 1,000,000\n- **Output Filename:** Choose your CSV export location\n- **Advanced Options:** \n  - ✅ Include viral quotes and hashtags\n  - ✅ Include comprehensive technical breakdown\n  - ✅ Professional cinematography mode\n  - ✅ Clean text output (recommended)\n\n### 3. Generate Prompts\n- Click **\"🚀 Generate SoraMax Prompts\"**\n- Watch the progress bar as massive databases are utilized\n- Preview samples in the live preview panel\n\n### 4. Export Results\n- Automatic CSV export with clean text encoding\n- Open in Excel, Google Sheets, or any spreadsheet app\n- Perfect for Sora AI video generation\n\n## 📊 Sample Output\n\n```csv\nID,Sora_Prompt,Location,Wardrobe,Social_Media\n1,\"20-second cinematic sequence in elegant luxury penthouse at sunrise with gentle rain: 6s slow rack focus from skyline to female influencer adjusting necklace; 5s medium shot movement capturing her essence; 5s detail enhancement with cinematic flair; 4s perfect pose for memorable conclusion; Camera: 85mm portrait lens, ultra-slow organic push-in using gimbal in ascending motion; Lighting: golden hour rim lighting; Ambience: ambient birdsong; Wardrobe: elegant silk slip dress with mini skirt and stiletto heels, statement necklace in black; Professional cinematography, maximum quality, tasteful styling, no nudity.\",\"elegant luxury penthouse at sunrise with gentle rain\",\"elegant silk slip dress with mini skirt and stiletto heels, statement necklace in black\",\"\"\"Elegance in motion. Which moment was your favorite?\"\" #MainCharacter #QuietLuxury #Aesthetic #Viral #Trending\"\n```\n\n## 🎯 Technical Specifications\n\n### Database Architecture\n- **Mathematical Distribution:** Prime number algorithms ensure zero repetitions\n- **Clean Text Processing:** Unicode normalization and ASCII-safe output\n- **Memory Efficient:** Smart database generation prevents memory overflow\n- **Scalable:** Can handle millions of unique combinations\n\n### Output Formats\n- **CSV Export:** UTF-8 with BOM encoding for universal compatibility\n- **Technical Breakdown:** Complete camera, lighting, and movement specifications\n- **Social Media Content:** Ready-to-use quotes and hashtags\n- **Professional Quality:** Industry-standard cinematography terminology\n\n## 🛠️ Development\n\n### Project Structure\n```\nsoramax/\n├── soramax.py              # Main application\n├── README.md               # This file\n├── LICENSE                 # MIT License\n├── requirements.txt        # Dependencies\n├── screenshots/            # Interface screenshots\n│   └── soramax-interface.png\n├── examples/               # Sample outputs\n│   └── sample_prompts.csv\n└── docs/                   # Documentation\n    ├── CONTRIBUTING.md\n    ├── CHANGELOG.md\n    └── API.md\n```\n\n### Contributing\nWe welcome contributions! See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.\n\n### Building from Source\n```bash\n# Clone repository\ngit clone https://github.com/rizvejoarder/soramax.git\ncd soramax\n\n# Install development dependencies\npip install -r requirements-dev.txt\n\n# Run tests\npython -m pytest tests/\n\n# Build standalone executable (optional)\npyinstaller --onefile --windowed soramax.py\n```\n\n## 📈 Performance\n\n- **Database Size:** 130,600+ unique elements\n- **Total Combinations:** 2.5+ billion possible prompts\n- **Generation Speed:** 1,000+ prompts per minute (varies by system)\n- **Memory Usage:** Optimized for systems with 4GB+ RAM\n- **File Size:** Clean CSV output, typically 1MB per 1,000 prompts\n\n## 🎬 Use Cases\n\n### Content Creators\n```python\n# Generate 1000 unique video concepts\n# Perfect for YouTube, TikTok, Instagram\n# Each prompt includes viral social media content\n```\n\n### Filmmakers\n```python\n# Professional cinematography specifications\n# Industry-standard camera movements and lighting\n# Technical breakdown for film production\n```\n\n### AI Enthusiasts\n```python\n# Optimized for Sora AI video generation\n# Maximum quality prompts for best results\n# Clean text output prevents AI errors\n```\n\n## 🔧 Troubleshooting\n\n### Common Issues\n\n**❓ Database loading takes long time**\n- This is normal for the first run as 50,000+ databases are built\n- Subsequent runs are faster due to optimizations\n\n**❓ Character encoding issues in CSV**\n- Enable \"Clean text output\" option (recommended)\n- Use UTF-8 compatible spreadsheet applications\n\n**❓ Memory issues with large generations**\n- Reduce prompt count for systems with limited RAM\n- Close other applications during generation\n\n**❓ Python/tkinter not found**\n```bash\n# Windows\npython -m pip install tk\n\n# Mac\nbrew install python-tk\n\n# Linux\nsudo apt-get install python3-tk\n```\n\n### Getting Help\n- 📧 Email: [Support](mailto:support@rizvejoarder.com)\n- 🐛 Issues: [GitHub Issues](https://github.com/rizvejoarder/soramax/issues)\n- 💬 Discussions: [GitHub Discussions](https://github.com/rizvejoarder/soramax/discussions)\n\n## 📄 License\n\nMIT License - see [LICENSE](LICENSE) file for details.\n\n## 🙏 Acknowledgments\n\n- **Inspiration:** The amazing Sora AI community\n- **UI Framework:** Python tkinter for cross-platform compatibility\n- **Community:** All contributors and users who make this project better\n\n## 🌟 Star History\n\n[![Star History Chart](https://api.star-history.com/svg?repos=rizvejoarder/soramax&type=Date)](https://star-history.com/#rizvejoarder/soramax&Date)\n\n## 📞 Connect with the Creator\n\nBuilt with ❤️ by **Rizve Joarder**\n\n- 🌐 Website: [rizvejoarder.com](https://www.rizvejoarder.com)\n- 💼 LinkedIn: [Rizve Joarder](https://linkedin.com/in/rizvejoarder)\n- 🐦 Twitter: [@rizvejoarder](https://twitter.com/rizvejoarder)\n- 📧 Email: [contact@rizvejoarder.com](mailto:contact@rizvejoarder.com)\n\n---\n\n**⭐ If SoraMax helps your creative projects, please star this repository! ⭐**\n\nMade with ❤️ for the creative community. Free forever, open source always.",
+  "readme_domains": {
+    "www.rizvejoarder.com": 5424,
+    "api.star-history.com": 1614,
+    "linkedin.com": 8535,
+    "star-history.com": 1614,
+    "twitter.com": 9551,
+    "github.com": 6733,
+    "img.shields.io": 4774,
+    "python.org": 11312
+  },
+  "tree_structure": [
+    {
+      "name": "CHANGELOG.md",
+      "path": "CHANGELOG.md",
+      "sha": "f2f7f03f4cfcd0188e2da8fe058a9ea9a1e0149f",
+      "size": 1028,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/CHANGELOG.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/CHANGELOG.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/f2f7f03f4cfcd0188e2da8fe058a9ea9a1e0149f",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/CHANGELOG.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/CHANGELOG.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/f2f7f03f4cfcd0188e2da8fe058a9ea9a1e0149f",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/CHANGELOG.md"
+      }
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "path": "CONTRIBUTING.md",
+      "sha": "0f35d5309a2e7f1a39e1909520e21bb4eba93c29",
+      "size": 5514,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/CONTRIBUTING.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/CONTRIBUTING.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/0f35d5309a2e7f1a39e1909520e21bb4eba93c29",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/CONTRIBUTING.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/CONTRIBUTING.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/0f35d5309a2e7f1a39e1909520e21bb4eba93c29",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/CONTRIBUTING.md"
+      }
+    },
+    {
+      "name": "GITHUB_INSTRUCTIONS.md",
+      "path": "GITHUB_INSTRUCTIONS.md",
+      "sha": "21a26515bc0c576a5bdcbc6a6968f31c5016133a",
+      "size": 11397,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/GITHUB_INSTRUCTIONS.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/GITHUB_INSTRUCTIONS.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/21a26515bc0c576a5bdcbc6a6968f31c5016133a",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/GITHUB_INSTRUCTIONS.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/GITHUB_INSTRUCTIONS.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/21a26515bc0c576a5bdcbc6a6968f31c5016133a",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/GITHUB_INSTRUCTIONS.md"
+      }
+    },
+    {
+      "name": "GIT_DEPLOYMENT.md",
+      "path": "GIT_DEPLOYMENT.md",
+      "sha": "0efcea4933da4c00c2916c21d3adc2e0c0c4e201",
+      "size": 8493,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/GIT_DEPLOYMENT.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/GIT_DEPLOYMENT.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/0efcea4933da4c00c2916c21d3adc2e0c0c4e201",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/GIT_DEPLOYMENT.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/GIT_DEPLOYMENT.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/0efcea4933da4c00c2916c21d3adc2e0c0c4e201",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/GIT_DEPLOYMENT.md"
+      }
+    },
+    {
+      "name": "IMPROVEMENTS_SUMMARY.md",
+      "path": "IMPROVEMENTS_SUMMARY.md",
+      "sha": "c5b0bdbd67be192d46c294b5e0661a722659ba33",
+      "size": 11482,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/IMPROVEMENTS_SUMMARY.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/IMPROVEMENTS_SUMMARY.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/c5b0bdbd67be192d46c294b5e0661a722659ba33",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/IMPROVEMENTS_SUMMARY.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/IMPROVEMENTS_SUMMARY.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/c5b0bdbd67be192d46c294b5e0661a722659ba33",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/IMPROVEMENTS_SUMMARY.md"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "855ef0f00615e1f418219779cee0a9e64184b4eb",
+      "size": 1069,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/855ef0f00615e1f418219779cee0a9e64184b4eb",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/855ef0f00615e1f418219779cee0a9e64184b4eb",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "8272d25478ef57ef31a0f68124e9317c321c2e90",
+      "size": 9280,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/README.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/8272d25478ef57ef31a0f68124e9317c321c2e90",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/8272d25478ef57ef31a0f68124e9317c321c2e90",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/README.md"
+      }
+    },
+    {
+      "name": "docs",
+      "path": "docs",
+      "sha": "6e8892b8f00b70ce9b5b0770c3fd2c752248b347",
+      "size": 0,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/tree/main/docs",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees/6e8892b8f00b70ce9b5b0770c3fd2c752248b347",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees/6e8892b8f00b70ce9b5b0770c3fd2c752248b347",
+        "html": "https://github.com/rizvejoarder/SoraMax/tree/main/docs"
+      }
+    },
+    {
+      "name": "INSTALLATION.md",
+      "path": "docs/INSTALLATION.md",
+      "sha": "0910b98faa18c949730be3567cefb844bcf9f93b",
+      "size": 2997,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs/INSTALLATION.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/docs/INSTALLATION.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/0910b98faa18c949730be3567cefb844bcf9f93b",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/docs/INSTALLATION.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs/INSTALLATION.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/0910b98faa18c949730be3567cefb844bcf9f93b",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/docs/INSTALLATION.md"
+      }
+    },
+    {
+      "name": "MODERN_UI_GUIDE.md",
+      "path": "docs/MODERN_UI_GUIDE.md",
+      "sha": "8dcc706ca79e8f1fc706faa23b86f5a63da07bb9",
+      "size": 10298,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs/MODERN_UI_GUIDE.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/docs/MODERN_UI_GUIDE.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/8dcc706ca79e8f1fc706faa23b86f5a63da07bb9",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/docs/MODERN_UI_GUIDE.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs/MODERN_UI_GUIDE.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/8dcc706ca79e8f1fc706faa23b86f5a63da07bb9",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/docs/MODERN_UI_GUIDE.md"
+      }
+    },
+    {
+      "name": "VISUAL_COMPARISON.md",
+      "path": "docs/VISUAL_COMPARISON.md",
+      "sha": "d001d145a9407a4893946652e57d87c062dbd75b",
+      "size": 14815,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs/VISUAL_COMPARISON.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/docs/VISUAL_COMPARISON.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/d001d145a9407a4893946652e57d87c062dbd75b",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/docs/VISUAL_COMPARISON.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/docs/VISUAL_COMPARISON.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/d001d145a9407a4893946652e57d87c062dbd75b",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/docs/VISUAL_COMPARISON.md"
+      }
+    },
+    {
+      "name": "examples",
+      "path": "examples",
+      "sha": "e0fdef128d99e77e648d5972f8c8a78094771b9f",
+      "size": 0,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/examples?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/tree/main/examples",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees/e0fdef128d99e77e648d5972f8c8a78094771b9f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/examples?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees/e0fdef128d99e77e648d5972f8c8a78094771b9f",
+        "html": "https://github.com/rizvejoarder/SoraMax/tree/main/examples"
+      }
+    },
+    {
+      "name": "sample_prompts.csv",
+      "path": "examples/sample_prompts.csv",
+      "sha": "3e220343d9b02278e3f0b17602afbeb3c308dd7e",
+      "size": 2665,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/examples/sample_prompts.csv?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/examples/sample_prompts.csv",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/3e220343d9b02278e3f0b17602afbeb3c308dd7e",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/examples/sample_prompts.csv",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/examples/sample_prompts.csv?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/3e220343d9b02278e3f0b17602afbeb3c308dd7e",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/examples/sample_prompts.csv"
+      }
+    },
+    {
+      "name": "gitignore",
+      "path": "gitignore",
+      "sha": "5ec293828bf0ae574fce45f95d01ef24c86425d6",
+      "size": 312,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/gitignore?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/gitignore",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/5ec293828bf0ae574fce45f95d01ef24c86425d6",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/gitignore?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/5ec293828bf0ae574fce45f95d01ef24c86425d6",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/gitignore"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "sha": "c750fcef9f95443b6a01a094f7cd10548bd451ed",
+      "size": 867,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/requirements.txt?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/requirements.txt",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/c750fcef9f95443b6a01a094f7cd10548bd451ed",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/requirements.txt?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/c750fcef9f95443b6a01a094f7cd10548bd451ed",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/requirements.txt"
+      }
+    },
+    {
+      "name": "screenshots",
+      "path": "screenshots",
+      "sha": "5a68359573757d5c002be4c60a079a44d8c4b4cc",
+      "size": 0,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/screenshots?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/tree/main/screenshots",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees/5a68359573757d5c002be4c60a079a44d8c4b4cc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/screenshots?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/trees/5a68359573757d5c002be4c60a079a44d8c4b4cc",
+        "html": "https://github.com/rizvejoarder/SoraMax/tree/main/screenshots"
+      }
+    },
+    {
+      "name": "screenshots_README.md",
+      "path": "screenshots/screenshots_README.md",
+      "sha": "e06fbae21abb8f94e3a4b56791632972ad5ef3a8",
+      "size": 4045,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/screenshots/screenshots_README.md?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/screenshots/screenshots_README.md",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/e06fbae21abb8f94e3a4b56791632972ad5ef3a8",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/screenshots/screenshots_README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/screenshots/screenshots_README.md?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/e06fbae21abb8f94e3a4b56791632972ad5ef3a8",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/screenshots/screenshots_README.md"
+      }
+    },
+    {
+      "name": "soramax-interface.png",
+      "path": "screenshots/soramax-interface.png",
+      "sha": "c3706c4c0784437f910d49e81d3eac42684c8e40",
+      "size": 64043,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/screenshots/soramax-interface.png?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/screenshots/soramax-interface.png",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/c3706c4c0784437f910d49e81d3eac42684c8e40",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/screenshots/soramax-interface.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/screenshots/soramax-interface.png?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/c3706c4c0784437f910d49e81d3eac42684c8e40",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/screenshots/soramax-interface.png"
+      }
+    },
+    {
+      "name": "script.py",
+      "path": "script.py",
+      "sha": "793c25fdfae0e4b4de19a9bda77c41db9058b568",
+      "size": 3889,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/script.py?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/script.py",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/793c25fdfae0e4b4de19a9bda77c41db9058b568",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/script.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/script.py?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/793c25fdfae0e4b4de19a9bda77c41db9058b568",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/script.py"
+      }
+    },
+    {
+      "name": "soramax.py",
+      "path": "soramax.py",
+      "sha": "972d593a868ec65629f56472e845bd7fcb556f84",
+      "size": 45292,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/soramax.py?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/soramax.py",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/972d593a868ec65629f56472e845bd7fcb556f84",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/soramax.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/soramax.py?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/972d593a868ec65629f56472e845bd7fcb556f84",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/soramax.py"
+      }
+    },
+    {
+      "name": "soramax_modern.py",
+      "path": "soramax_modern.py",
+      "sha": "642d8e5b6b943dae863451b4089a014e5c603902",
+      "size": 22715,
+      "url": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/soramax_modern.py?ref=main",
+      "html_url": "https://github.com/rizvejoarder/SoraMax/blob/main/soramax_modern.py",
+      "git_url": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/642d8e5b6b943dae863451b4089a014e5c603902",
+      "download_url": "https://raw.githubusercontent.com/rizvejoarder/SoraMax/main/soramax_modern.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/rizvejoarder/SoraMax/contents/soramax_modern.py?ref=main",
+        "git": "https://api.github.com/repos/rizvejoarder/SoraMax/git/blobs/642d8e5b6b943dae863451b4089a014e5c603902",
+        "html": "https://github.com/rizvejoarder/SoraMax/blob/main/soramax_modern.py"
+      }
+    }
+  ]
+}

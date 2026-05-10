@@ -1,0 +1,641 @@
+{
+  "repo_full_name": "YarovoyVladimir09/rust-solana-NftLoanPlatform",
+  "repo_detail": {
+    "id": 529846827,
+    "node_id": "R_kgDOH5TSKw",
+    "name": "rust-solana-NftLoanPlatform",
+    "full_name": "YarovoyVladimir09/rust-solana-NftLoanPlatform",
+    "private": false,
+    "owner": {
+      "login": "YarovoyVladimir09",
+      "id": 94742842,
+      "node_id": "U_kgDOBaWpOg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94742842?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YarovoyVladimir09",
+      "html_url": "https://github.com/YarovoyVladimir09",
+      "followers_url": "https://api.github.com/users/YarovoyVladimir09/followers",
+      "following_url": "https://api.github.com/users/YarovoyVladimir09/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YarovoyVladimir09/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YarovoyVladimir09/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YarovoyVladimir09/subscriptions",
+      "organizations_url": "https://api.github.com/users/YarovoyVladimir09/orgs",
+      "repos_url": "https://api.github.com/users/YarovoyVladimir09/repos",
+      "events_url": "https://api.github.com/users/YarovoyVladimir09/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YarovoyVladimir09/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform",
+    "description": "Blockchain tools for the implementation of the credit platform",
+    "fork": false,
+    "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform",
+    "forks_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/forks",
+    "keys_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/teams",
+    "hooks_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/hooks",
+    "issue_events_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/events",
+    "assignees_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/tags",
+    "blobs_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/languages",
+    "stargazers_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/stargazers",
+    "contributors_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contributors",
+    "subscribers_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/subscribers",
+    "subscription_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/subscription",
+    "commits_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/merges",
+    "archive_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/downloads",
+    "issues_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/labels{/name}",
+    "releases_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/deployments",
+    "created_at": "2022-08-28T11:49:59Z",
+    "updated_at": "2022-09-21T10:26:46Z",
+    "pushed_at": "2022-10-01T11:08:13Z",
+    "git_url": "git://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform.git",
+    "ssh_url": "git@github.com:YarovoyVladimir09/rust-solana-NftLoanPlatform.git",
+    "clone_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform.git",
+    "svn_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform",
+    "homepage": "",
+    "size": 269,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "rust",
+      "typescript"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "YarovoyVladimir09",
+    "id": 94742842,
+    "node_id": "U_kgDOBaWpOg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/94742842?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/YarovoyVladimir09",
+    "html_url": "https://github.com/YarovoyVladimir09",
+    "followers_url": "https://api.github.com/users/YarovoyVladimir09/followers",
+    "following_url": "https://api.github.com/users/YarovoyVladimir09/following{/other_user}",
+    "gists_url": "https://api.github.com/users/YarovoyVladimir09/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/YarovoyVladimir09/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/YarovoyVladimir09/subscriptions",
+    "organizations_url": "https://api.github.com/users/YarovoyVladimir09/orgs",
+    "repos_url": "https://api.github.com/users/YarovoyVladimir09/repos",
+    "events_url": "https://api.github.com/users/YarovoyVladimir09/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/YarovoyVladimir09/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yarovoy Vladimir",
+    "company": null,
+    "blog": "vova.yarovoy.97@google.com",
+    "location": "Saint-Petersburg",
+    "email": null,
+    "hireable": null,
+    "bio": "Hi! I'm Vladimir. С++ Developer",
+    "twitter_username": null,
+    "public_repos": 15,
+    "public_gists": 0,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2021-11-20T11:04:00Z",
+    "updated_at": "2025-11-03T13:59:39Z"
+  },
+  "readme": "# P2P_credit_platform (Solana)\nBlockchain tools for the implementation of P2P lending, where NFT acts as collateral, such functionality as:\n\n- NFT transfer\n- Transfer of SOL\n- Creating a Ledger account (debtor and creditor addresses, mint account address, timestamp, amount of money borrowed, Ledger account status)\n- Creating a structure for storing all transactions with debtors and creditors\n\nOffer Scheme\n\n![offerScheme](https://user-images.githubusercontent.com/94742842/187074451-772d0c13-1b46-4739-9fde-539279ef75af.jpg)\n\nDept Returning Scheme\n\n![deptReturn](https://user-images.githubusercontent.com/94742842/187074460-d97a9e74-3ef3-436d-8838-c56f68f67dda.jpg)\n\n- To implement it, you need to deploy the program from your wallet\n- Rust, TypeScript\n- Anchor, Solana\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "d243ecc136a0c507c4eaed923b9580bd05d6c9ae",
+      "size": 62,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/d243ecc136a0c507c4eaed923b9580bd05d6c9ae",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/d243ecc136a0c507c4eaed923b9580bd05d6c9ae",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": ".prettierignore",
+      "path": ".prettierignore",
+      "sha": "c1a0b75f09a356a6460f2de7fbfc0ee34fb9d330",
+      "size": 62,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/.prettierignore?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/.prettierignore",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/c1a0b75f09a356a6460f2de7fbfc0ee34fb9d330",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/.prettierignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/.prettierignore?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/c1a0b75f09a356a6460f2de7fbfc0ee34fb9d330",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/.prettierignore"
+      }
+    },
+    {
+      "name": "Anchor.toml",
+      "path": "Anchor.toml",
+      "sha": "41d48a8085a8e38730f88249d67ddcc99fda1615",
+      "size": 503,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/Anchor.toml?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/Anchor.toml",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/41d48a8085a8e38730f88249d67ddcc99fda1615",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/Anchor.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/Anchor.toml?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/41d48a8085a8e38730f88249d67ddcc99fda1615",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/Anchor.toml"
+      }
+    },
+    {
+      "name": "Cargo.lock",
+      "path": "Cargo.lock",
+      "sha": "7f84cfc8045b72337238be20ac22c0bd193d7220",
+      "size": 38496,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/Cargo.lock?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/Cargo.lock",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/7f84cfc8045b72337238be20ac22c0bd193d7220",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/Cargo.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/Cargo.lock?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/7f84cfc8045b72337238be20ac22c0bd193d7220",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/Cargo.lock"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "Cargo.toml",
+      "sha": "ef17a63c0a95e91e47d7b776b039eea39ce005a9",
+      "size": 200,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/Cargo.toml?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/Cargo.toml",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/ef17a63c0a95e91e47d7b776b039eea39ce005a9",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/Cargo.toml?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/ef17a63c0a95e91e47d7b776b039eea39ce005a9",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/Cargo.toml"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "21bee1664fbcbd5335b446bd2ec09584c4569cbf",
+      "size": 773,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/README.md?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/21bee1664fbcbd5335b446bd2ec09584c4569cbf",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/21bee1664fbcbd5335b446bd2ec09584c4569cbf",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/README.md"
+      }
+    },
+    {
+      "name": "migrations",
+      "path": "migrations",
+      "sha": "3d2ab3fadfdebf0cf060e98c0058af4531376e2a",
+      "size": 0,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/migrations?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/migrations",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/3d2ab3fadfdebf0cf060e98c0058af4531376e2a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/migrations?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/3d2ab3fadfdebf0cf060e98c0058af4531376e2a",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/migrations"
+      }
+    },
+    {
+      "name": "deploy.ts",
+      "path": "migrations/deploy.ts",
+      "sha": "5e3df0dc30c46df85d4c44df2bdaa13b5c13003b",
+      "size": 409,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/migrations/deploy.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/migrations/deploy.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/5e3df0dc30c46df85d4c44df2bdaa13b5c13003b",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/migrations/deploy.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/migrations/deploy.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/5e3df0dc30c46df85d4c44df2bdaa13b5c13003b",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/migrations/deploy.ts"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "a5328cc9dfec8b3679304b429f1b1a977316b088",
+      "size": 804670,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/package-lock.json?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/package-lock.json",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/a5328cc9dfec8b3679304b429f1b1a977316b088",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/package-lock.json?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/a5328cc9dfec8b3679304b429f1b1a977316b088",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "177e83a25e0cc6e87e70017a8f8b32e98d53d4d1",
+      "size": 548,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/package.json?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/177e83a25e0cc6e87e70017a8f8b32e98d53d4d1",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/177e83a25e0cc6e87e70017a8f8b32e98d53d4d1",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/package.json"
+      }
+    },
+    {
+      "name": "programs",
+      "path": "programs",
+      "sha": "9071172841210101280842a43dab8bd2bd15f33a",
+      "size": 0,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/programs",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/9071172841210101280842a43dab8bd2bd15f33a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/9071172841210101280842a43dab8bd2bd15f33a",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/programs"
+      }
+    },
+    {
+      "name": "P2P_credit_platform",
+      "path": "programs/P2P_credit_platform",
+      "sha": "c3299d2e23585b9addcac2a0fd504f64da30ef52",
+      "size": 0,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/programs/P2P_credit_platform",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/c3299d2e23585b9addcac2a0fd504f64da30ef52",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/c3299d2e23585b9addcac2a0fd504f64da30ef52",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/programs/P2P_credit_platform"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "programs/P2P_credit_platform/Cargo.toml",
+      "sha": "701dab03721551ca356e3ed91eca92cf1012f09c",
+      "size": 411,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/Cargo.toml?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/Cargo.toml",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/701dab03721551ca356e3ed91eca92cf1012f09c",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/Cargo.toml?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/701dab03721551ca356e3ed91eca92cf1012f09c",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/Cargo.toml"
+      }
+    },
+    {
+      "name": "Xargo.toml",
+      "path": "programs/P2P_credit_platform/Xargo.toml",
+      "sha": "475fb71ed15ac290627b732b78c87efc41c8026d",
+      "size": 62,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/Xargo.toml?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/Xargo.toml",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/475fb71ed15ac290627b732b78c87efc41c8026d",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/Xargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/Xargo.toml?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/475fb71ed15ac290627b732b78c87efc41c8026d",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/Xargo.toml"
+      }
+    },
+    {
+      "name": "src",
+      "path": "programs/P2P_credit_platform/src",
+      "sha": "143cda92bcaec73396e2f0ff933481aa4cd241ec",
+      "size": 0,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/programs/P2P_credit_platform/src",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/143cda92bcaec73396e2f0ff933481aa4cd241ec",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/143cda92bcaec73396e2f0ff933481aa4cd241ec",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/programs/P2P_credit_platform/src"
+      }
+    },
+    {
+      "name": "accounting_book.rs",
+      "path": "programs/P2P_credit_platform/src/accounting_book.rs",
+      "sha": "ebe1149c5b3156bd2730474a8095ffb6d40a7cdf",
+      "size": 2196,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/accounting_book.rs?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/accounting_book.rs",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/ebe1149c5b3156bd2730474a8095ffb6d40a7cdf",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/src/accounting_book.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/accounting_book.rs?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/ebe1149c5b3156bd2730474a8095ffb6d40a7cdf",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/accounting_book.rs"
+      }
+    },
+    {
+      "name": "lib.rs",
+      "path": "programs/P2P_credit_platform/src/lib.rs",
+      "sha": "0840b6c55bc1ac9adef61d6c201609c6b020820e",
+      "size": 1710,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/lib.rs?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/lib.rs",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/0840b6c55bc1ac9adef61d6c201609c6b020820e",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/src/lib.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/lib.rs?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/0840b6c55bc1ac9adef61d6c201609c6b020820e",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/lib.rs"
+      }
+    },
+    {
+      "name": "nft_transfer.rs",
+      "path": "programs/P2P_credit_platform/src/nft_transfer.rs",
+      "sha": "b4a2471218c54511391ee4d14ca422c40ddc1fac",
+      "size": 4111,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/nft_transfer.rs?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/nft_transfer.rs",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/b4a2471218c54511391ee4d14ca422c40ddc1fac",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/src/nft_transfer.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/nft_transfer.rs?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/b4a2471218c54511391ee4d14ca422c40ddc1fac",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/nft_transfer.rs"
+      }
+    },
+    {
+      "name": "offer.rs",
+      "path": "programs/P2P_credit_platform/src/offer.rs",
+      "sha": "bc1203fae92786903f390dac6b4f4adf9abd201a",
+      "size": 4074,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/offer.rs?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/offer.rs",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/bc1203fae92786903f390dac6b4f4adf9abd201a",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/src/offer.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/offer.rs?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/bc1203fae92786903f390dac6b4f4adf9abd201a",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/offer.rs"
+      }
+    },
+    {
+      "name": "sol_transfer.rs",
+      "path": "programs/P2P_credit_platform/src/sol_transfer.rs",
+      "sha": "3b46736f6d3d8527881859e7434f2a5182919f7c",
+      "size": 993,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/sol_transfer.rs?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/sol_transfer.rs",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/3b46736f6d3d8527881859e7434f2a5182919f7c",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/programs/P2P_credit_platform/src/sol_transfer.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/programs/P2P_credit_platform/src/sol_transfer.rs?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/3b46736f6d3d8527881859e7434f2a5182919f7c",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/programs/P2P_credit_platform/src/sol_transfer.rs"
+      }
+    },
+    {
+      "name": "tests",
+      "path": "tests",
+      "sha": "5d7d463a65be9fa3138b55895398435c43908b82",
+      "size": 0,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/tests",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/5d7d463a65be9fa3138b55895398435c43908b82",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/trees/5d7d463a65be9fa3138b55895398435c43908b82",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/tree/master/tests"
+      }
+    },
+    {
+      "name": "P2P_credit_platform.ts",
+      "path": "tests/P2P_credit_platform.ts",
+      "sha": "625f82de061a047a1c4dc9948c10d368adeb7392",
+      "size": 584,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/P2P_credit_platform.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/P2P_credit_platform.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/625f82de061a047a1c4dc9948c10d368adeb7392",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tests/P2P_credit_platform.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/P2P_credit_platform.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/625f82de061a047a1c4dc9948c10d368adeb7392",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/P2P_credit_platform.ts"
+      }
+    },
+    {
+      "name": "test-book.ts",
+      "path": "tests/test-book.ts",
+      "sha": "50fd068f340cc344506622f4e0beba9b879f4ea0",
+      "size": 3923,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-book.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-book.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/50fd068f340cc344506622f4e0beba9b879f4ea0",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tests/test-book.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-book.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/50fd068f340cc344506622f4e0beba9b879f4ea0",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-book.ts"
+      }
+    },
+    {
+      "name": "test-nft-transfer.ts",
+      "path": "tests/test-nft-transfer.ts",
+      "sha": "cf068e2372e5da249576e81dad0d1a19d0fbc83e",
+      "size": 2106,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-nft-transfer.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-nft-transfer.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/cf068e2372e5da249576e81dad0d1a19d0fbc83e",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tests/test-nft-transfer.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-nft-transfer.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/cf068e2372e5da249576e81dad0d1a19d0fbc83e",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-nft-transfer.ts"
+      }
+    },
+    {
+      "name": "test-offer-modify.ts",
+      "path": "tests/test-offer-modify.ts",
+      "sha": "962a632cd4419ae1750df4c72baec586b57c0778",
+      "size": 4581,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-offer-modify.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-offer-modify.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/962a632cd4419ae1750df4c72baec586b57c0778",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tests/test-offer-modify.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-offer-modify.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/962a632cd4419ae1750df4c72baec586b57c0778",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-offer-modify.ts"
+      }
+    },
+    {
+      "name": "test-sol-transfer.ts",
+      "path": "tests/test-sol-transfer.ts",
+      "sha": "535152a4460a945d1b5db4afbcec570223f645b0",
+      "size": 1067,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-sol-transfer.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-sol-transfer.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/535152a4460a945d1b5db4afbcec570223f645b0",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tests/test-sol-transfer.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/test-sol-transfer.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/535152a4460a945d1b5db4afbcec570223f645b0",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/test-sol-transfer.ts"
+      }
+    },
+    {
+      "name": "util.ts",
+      "path": "tests/util.ts",
+      "sha": "1336e6a7573171a1f9c38ab85ef56bd64adc6b44",
+      "size": 386,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/util.ts?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/util.ts",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/1336e6a7573171a1f9c38ab85ef56bd64adc6b44",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tests/util.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tests/util.ts?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/1336e6a7573171a1f9c38ab85ef56bd64adc6b44",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tests/util.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "cd5d2e3d062e650c9105379435e132bdad387919",
+      "size": 205,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tsconfig.json?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tsconfig.json",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/cd5d2e3d062e650c9105379435e132bdad387919",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/cd5d2e3d062e650c9105379435e132bdad387919",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/tsconfig.json"
+      }
+    },
+    {
+      "name": "yarn-error.log",
+      "path": "yarn-error.log",
+      "sha": "cb8c26281ca56b7d71060a0f0ba8b870b12ddde3",
+      "size": 54530,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/yarn-error.log?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/yarn-error.log",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/cb8c26281ca56b7d71060a0f0ba8b870b12ddde3",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/yarn-error.log",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/yarn-error.log?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/cb8c26281ca56b7d71060a0f0ba8b870b12ddde3",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/yarn-error.log"
+      }
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "sha": "ce3bb37248620a7114c7a1a8dce05eeeaa3b619e",
+      "size": 240502,
+      "url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/yarn.lock?ref=master",
+      "html_url": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/yarn.lock",
+      "git_url": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/ce3bb37248620a7114c7a1a8dce05eeeaa3b619e",
+      "download_url": "https://raw.githubusercontent.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/master/yarn.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/contents/yarn.lock?ref=master",
+        "git": "https://api.github.com/repos/YarovoyVladimir09/rust-solana-NftLoanPlatform/git/blobs/ce3bb37248620a7114c7a1a8dce05eeeaa3b619e",
+        "html": "https://github.com/YarovoyVladimir09/rust-solana-NftLoanPlatform/blob/master/yarn.lock"
+      }
+    }
+  ],
+  "external_domains": {
+    "user-images.githubusercontent.com": null
+  },
+  "collected_at": "2026-03-17T09:55:56.581858"
+}

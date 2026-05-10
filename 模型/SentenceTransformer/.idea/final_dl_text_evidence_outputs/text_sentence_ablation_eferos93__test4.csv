@@ -1,0 +1,21 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+README,testing add unit tests jest items routes happy path error cases frontend react 1.,0.9968041752990769,0.9965353354357465,0.0002688398633304834
+README,home assessment welcome candidate contains intentional issues mimic real world scenarios.,0.9968041752990769,0.9965986663726681,0.00020550892640880392
+README,task refactor optimize fix problems.,0.9968041752990769,0.9966997226057814,0.00010445269329550921
+README,refactor blocking src routes items.js uses fs.readfilesync replace non blocking async operations.,0.9968041752990769,0.9967596580595758,4.451723950116282e-05
+README,objectives backend node.js 1.,0.9968041752990769,0.9967688149464976,3.5360352579338894e-05
+README,react-window ui smooth.,0.9968041752990769,0.9968113582713045,-7.182972227570694e-06
+README,memory leak items.js leaks memory component unmounts fetch completes.,0.9968041752990769,0.9968754485000534,-7.127320097644052e-05
+README,performance api stats recalculates stats request.,0.9968041752990769,0.9968912147117517,-8.703941267473869e-05
+README,cache results watch file changes introduce smarter strategy.,0.9968041752990769,0.9969101816842103,-0.00010600638513336147
+README,2.,0.9968041752990769,0.9969505620902096,-0.00014638679113265773
+README,pagination search implement paginated list server search param contribute client server.,0.9968041752990769,0.996960702948498,-0.00015652764942108988
+README,3.,0.9968041752990769,0.9969815785094719,-0.0001774032103949441
+README,fix it.,0.9968041752990769,0.9969834878271198,-0.00017931252804281872
+README,4.,0.9968041752990769,0.9970299490077449,-0.00022577370866794233
+README,tests pass npm test frontend backend.,0.9968041752990769,0.9970483134372332,-0.00024413813815626906
+README,performance list grow large.,0.9968041752990769,0.9970669676811834,-0.00026279238210646927
+README,integrate virtualization e.g.,0.9968041752990769,0.9970723287365277,-0.000268153437450791
+README,expect idiomatic clean comments necessary.,0.9968041752990769,0.9970797633786265,-0.0002755880795495269
+README,ui ux polish feel free enhance styling accessibility add loading skeleton states.,0.9968041752990769,0.9971145733569582,-0.00031039805788124486
+README,brief solution.md describing approach trade offs quick start node version 18.xx bash nvm install 18 nvm use 18 terminal cd backend npm install npm start terminal cd frontend npm install npm start frontend proxies api requests,0.9968041752990769,0.9973733788057719,-0.0005692035066949819

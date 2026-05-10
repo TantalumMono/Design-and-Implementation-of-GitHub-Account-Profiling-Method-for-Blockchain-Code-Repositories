@@ -1,0 +1,38 @@
+{
+    "data_path": "family_prepared_v3/family_dataset_train_ready.csv",
+    "text_col": "text_for_tfidf_clean",
+    "best_objective_score": 1.02,
+    "best_threshold": 0.6877043247,
+    "val_ap": 1.0,
+    "val_roc_auc": 1.0,
+    "val_precision_at_threshold": 1.0,
+    "val_recall_at_threshold": 1.0,
+    "val_f1_at_threshold": 1.0,
+    "test_roc_auc": 1.0,
+    "test_pr_auc": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 0.95,
+    "test_f1": 0.9743589743589743,
+    "test_confusion_matrix": [
+        [
+            411,
+            0
+        ],
+        [
+            3,
+            57
+        ]
+    ],
+    "tfidf_max_features": 550,
+    "tfidf_min_df": 1,
+    "tfidf_ngram_range": [
+        1,
+        2
+    ],
+    "structured_feature_count": 159,
+    "tfidf_feature_count": 550,
+    "total_feature_count": 709,
+    "weight_real_positive": 5.334317001119037,
+    "weight_generated_positive": 0.5211739473769518,
+    "weight_negative": 1.9054514380117786
+}

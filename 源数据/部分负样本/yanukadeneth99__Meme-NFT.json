@@ -1,0 +1,1745 @@
+{
+  "repo_full_name": "yanukadeneth99/Meme-NFT",
+  "repo_detail": {
+    "id": 517787958,
+    "node_id": "R_kgDOHtzRNg",
+    "name": "Meme-NFT",
+    "full_name": "yanukadeneth99/Meme-NFT",
+    "private": false,
+    "owner": {
+      "login": "yanukadeneth99",
+      "id": 61384503,
+      "node_id": "MDQ6VXNlcjYxMzg0NTAz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61384503?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yanukadeneth99",
+      "html_url": "https://github.com/yanukadeneth99",
+      "followers_url": "https://api.github.com/users/yanukadeneth99/followers",
+      "following_url": "https://api.github.com/users/yanukadeneth99/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yanukadeneth99/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yanukadeneth99/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yanukadeneth99/subscriptions",
+      "organizations_url": "https://api.github.com/users/yanukadeneth99/orgs",
+      "repos_url": "https://api.github.com/users/yanukadeneth99/repos",
+      "events_url": "https://api.github.com/users/yanukadeneth99/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yanukadeneth99/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yanukadeneth99/Meme-NFT",
+    "description": "A Meme NFT Decentralised Application Project written using Azuki's ERC721A on the Rinkeby Chain.",
+    "fork": false,
+    "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT",
+    "forks_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/forks",
+    "keys_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/teams",
+    "hooks_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/hooks",
+    "issue_events_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/events",
+    "assignees_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/tags",
+    "blobs_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/languages",
+    "stargazers_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/stargazers",
+    "contributors_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contributors",
+    "subscribers_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/subscribers",
+    "subscription_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/subscription",
+    "commits_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/merges",
+    "archive_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/downloads",
+    "issues_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/deployments",
+    "created_at": "2022-07-25T19:03:49Z",
+    "updated_at": "2022-09-20T03:54:39Z",
+    "pushed_at": "2024-09-02T17:55:31Z",
+    "git_url": "git://github.com/yanukadeneth99/Meme-NFT.git",
+    "ssh_url": "git@github.com:yanukadeneth99/Meme-NFT.git",
+    "clone_url": "https://github.com/yanukadeneth99/Meme-NFT.git",
+    "svn_url": "https://github.com/yanukadeneth99/Meme-NFT",
+    "homepage": "https://meme-nft-pi.vercel.app",
+    "size": 35623,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "ethersj",
+      "hardhat",
+      "memes",
+      "nextjs",
+      "nft",
+      "solidity"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "yanukadeneth99",
+    "id": 61384503,
+    "node_id": "MDQ6VXNlcjYxMzg0NTAz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/61384503?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yanukadeneth99",
+    "html_url": "https://github.com/yanukadeneth99",
+    "followers_url": "https://api.github.com/users/yanukadeneth99/followers",
+    "following_url": "https://api.github.com/users/yanukadeneth99/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yanukadeneth99/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yanukadeneth99/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yanukadeneth99/subscriptions",
+    "organizations_url": "https://api.github.com/users/yanukadeneth99/orgs",
+    "repos_url": "https://api.github.com/users/yanukadeneth99/repos",
+    "events_url": "https://api.github.com/users/yanukadeneth99/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yanukadeneth99/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "YASHURA",
+    "company": "@SISTENA-DEV",
+    "blog": "https://yanukadeneth.com",
+    "location": "Sri Lanka",
+    "email": "yanuka@sistena.co.uk",
+    "hireable": true,
+    "bio": "Creative Technologist | Building for impact in a disconnected world ♥️",
+    "twitter_username": "yanukadeneth99",
+    "public_repos": 100,
+    "public_gists": 1,
+    "followers": 73,
+    "following": 77,
+    "created_at": "2020-02-23T15:13:55Z",
+    "updated_at": "2026-02-28T14:45:04Z"
+  },
+  "readme": "[![GitHub issues](https://img.shields.io/github/issues/yanukadeneth99/Meme-NFT)](https://github.com/yanukadeneth99/Meme-NFT/issues)\n[![GitHub license](https://img.shields.io/github/license/yanukadeneth99/Meme-NFT)](https://github.com/yanukadeneth99/Meme-NFT/blob/master/LICENSE)\n![Discord](https://img.shields.io/discord/847154458395541525)\n![GitHub forks](https://img.shields.io/github/forks/yanukadeneth99/Meme-NFT?style=social)\n--\n![Twitter Follow](https://img.shields.io/twitter/follow/yanukadeneth99?style=social)\n![GitHub followers](https://img.shields.io/github/followers/yanukadeneth99?style=social)\n--\n\n# Meme NFT DApp\n\nProject that contains some amazing Meme NFTs! Written using Azuki's ERC721A on the Rinkeby Chain\n\n## Website\n\n![PreSale_Website](https://i.imgur.com/eFrGnMm.png)\n\n## Open Sea\n\nLink : [https://testnets.opensea.io/collection/memes-nft-collection](https://testnets.opensea.io/collection/memes-nft-collection)\n\n![Open_Sea](https://i.imgur.com/z6l9zPQ.png)\n\n## Contract\n\nThe contract is deployed to the Rinkeby Testnet on address : [0x7A49bc7356E019e57199174c28e69bBB44a96E17](https://rinkeby.etherscan.io/address/0x7a49bc7356e019e57199174c28e69bbb44a96e17#code). The contract uses [Azuki's ERC721A](https://www.erc721a.org/) for better optimization and Gas fee reduction.\n\n![Deployed_Contract_Image](https://i.imgur.com/mU6N620.png)\n\n## Starter Project\n\nIf you like this template but would like to deploy your own projects following this, check out [@startertemp/nextjs-hardhat-ts at NPM](https://www.npmjs.com/package/@startertemp/nextjs-hardhat-ts)\n\nOr run the below command to get started :\n\n```\nnpx @startertemp/nextjs-hardhat-ts my-app\n```\n\n## Installation\n\nFollow the steps to install this on your PC\n\n1. Fork the Github project by clicking on the Fork button at the top of this README.md\n2. Clone the project onto your desktop\n3. Make sure you have pnpm installed, if not install it by running `npm i -g pnpm`\n4. For backend installations run `cd backend && pnpm install`\n5. For frontend installations run `cd frontend && pnpm install`\n6. Run the frontend by running `cd frontend && pnpm dev`\n\n## Technologies Used\n\nHardhat (Solidity), Next, React, Typescript\n\n## Contribution\n\nAny type of contributions are welcome following the MIT License!\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "9cfc2dec15bf4bc91d3a01891b50df58be0ae7a0",
+      "size": 3560,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/9cfc2dec15bf4bc91d3a01891b50df58be0ae7a0",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/9cfc2dec15bf4bc91d3a01891b50df58be0ae7a0",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": "CODE_OF_CONDUCT.md",
+      "path": "CODE_OF_CONDUCT.md",
+      "sha": "eedc888200ea3cb13a0a5106abd9ea634aadf7e7",
+      "size": 5219,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/CODE_OF_CONDUCT.md?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/CODE_OF_CONDUCT.md",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/eedc888200ea3cb13a0a5106abd9ea634aadf7e7",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/CODE_OF_CONDUCT.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/CODE_OF_CONDUCT.md?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/eedc888200ea3cb13a0a5106abd9ea634aadf7e7",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/CODE_OF_CONDUCT.md"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "e3147fc358a03ebbb7ff48ea481bf26c8fffdf83",
+      "size": 1070,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e3147fc358a03ebbb7ff48ea481bf26c8fffdf83",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e3147fc358a03ebbb7ff48ea481bf26c8fffdf83",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "ca9f147e67eb726579d90fa2345eea2238ea2dfb",
+      "size": 2275,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/README.md?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ca9f147e67eb726579d90fa2345eea2238ea2dfb",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ca9f147e67eb726579d90fa2345eea2238ea2dfb",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/README.md"
+      }
+    },
+    {
+      "name": "backend",
+      "path": "backend",
+      "sha": "ff95af3221f40dbc089078eece650451267ce1c0",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/ff95af3221f40dbc089078eece650451267ce1c0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/ff95af3221f40dbc089078eece650451267ce1c0",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "backend/.gitignore",
+      "sha": "71f6a160fcb1086611eac37fcb0fc44bc4b6a080",
+      "size": 100,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/.gitignore?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/.gitignore",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/71f6a160fcb1086611eac37fcb0fc44bc4b6a080",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/71f6a160fcb1086611eac37fcb0fc44bc4b6a080",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/.gitignore"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "backend/contracts",
+      "sha": "535a2a61a317d74185a5688ce86f6e380570fe0b",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/contracts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/535a2a61a317d74185a5688ce86f6e380570fe0b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/535a2a61a317d74185a5688ce86f6e380570fe0b",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/contracts"
+      }
+    },
+    {
+      "name": "IWhitelist.sol",
+      "path": "backend/contracts/IWhitelist.sol",
+      "sha": "e7f236397d5dc705308e47eaf5532e87f71d693e",
+      "size": 242,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts/IWhitelist.sol?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/contracts/IWhitelist.sol",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e7f236397d5dc705308e47eaf5532e87f71d693e",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/contracts/IWhitelist.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts/IWhitelist.sol?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e7f236397d5dc705308e47eaf5532e87f71d693e",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/contracts/IWhitelist.sol"
+      }
+    },
+    {
+      "name": "MemeNFT.sol",
+      "path": "backend/contracts/MemeNFT.sol",
+      "sha": "e4a3e1670c8bcb644cc3fd1a98a8d5f635e4d90a",
+      "size": 4942,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts/MemeNFT.sol?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/contracts/MemeNFT.sol",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e4a3e1670c8bcb644cc3fd1a98a8d5f635e4d90a",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/contracts/MemeNFT.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts/MemeNFT.sol?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e4a3e1670c8bcb644cc3fd1a98a8d5f635e4d90a",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/contracts/MemeNFT.sol"
+      }
+    },
+    {
+      "name": "Whitelist.sol",
+      "path": "backend/contracts/Whitelist.sol",
+      "sha": "a183ff42015eb5e44b2cbadd92200410af8f84a1",
+      "size": 2906,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts/Whitelist.sol?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/contracts/Whitelist.sol",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a183ff42015eb5e44b2cbadd92200410af8f84a1",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/contracts/Whitelist.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/contracts/Whitelist.sol?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a183ff42015eb5e44b2cbadd92200410af8f84a1",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/contracts/Whitelist.sol"
+      }
+    },
+    {
+      "name": "data",
+      "path": "backend/data",
+      "sha": "f4f2974d9497a929ee3272909292eecac10a5e65",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/data",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/f4f2974d9497a929ee3272909292eecac10a5e65",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/f4f2974d9497a929ee3272909292eecac10a5e65",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/data"
+      }
+    },
+    {
+      "name": "images",
+      "path": "backend/data/images",
+      "sha": "b49b4ae5a52bccb8d91979262bc7fbb28722a46b",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/data/images",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/b49b4ae5a52bccb8d91979262bc7fbb28722a46b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/b49b4ae5a52bccb8d91979262bc7fbb28722a46b",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/data/images"
+      }
+    },
+    {
+      "name": "1.png",
+      "path": "backend/data/images/1.png",
+      "sha": "a9dc988f27adfc0e794268bef9ab6a0eb42d84b8",
+      "size": 1225274,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/1.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/1.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a9dc988f27adfc0e794268bef9ab6a0eb42d84b8",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/1.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/1.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a9dc988f27adfc0e794268bef9ab6a0eb42d84b8",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/1.png"
+      }
+    },
+    {
+      "name": "10.png",
+      "path": "backend/data/images/10.png",
+      "sha": "86df30dd971d040655f9854d90ec9f2f046ab839",
+      "size": 1054634,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/10.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/10.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/86df30dd971d040655f9854d90ec9f2f046ab839",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/10.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/10.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/86df30dd971d040655f9854d90ec9f2f046ab839",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/10.png"
+      }
+    },
+    {
+      "name": "11.png",
+      "path": "backend/data/images/11.png",
+      "sha": "ca474873ae7c31c4649523db6a82e99aaa96b54f",
+      "size": 1260283,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/11.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/11.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ca474873ae7c31c4649523db6a82e99aaa96b54f",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/11.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/11.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ca474873ae7c31c4649523db6a82e99aaa96b54f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/11.png"
+      }
+    },
+    {
+      "name": "12.png",
+      "path": "backend/data/images/12.png",
+      "sha": "6aa23b7a10c60161e0ac5babcb759620c43a5b0c",
+      "size": 1037436,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/12.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/12.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/6aa23b7a10c60161e0ac5babcb759620c43a5b0c",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/12.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/12.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/6aa23b7a10c60161e0ac5babcb759620c43a5b0c",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/12.png"
+      }
+    },
+    {
+      "name": "13.png",
+      "path": "backend/data/images/13.png",
+      "sha": "72606dd180b0c37290418e29c8720ad0315ba1a5",
+      "size": 979791,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/13.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/13.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/72606dd180b0c37290418e29c8720ad0315ba1a5",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/13.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/13.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/72606dd180b0c37290418e29c8720ad0315ba1a5",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/13.png"
+      }
+    },
+    {
+      "name": "14.png",
+      "path": "backend/data/images/14.png",
+      "sha": "735891032d1120d5278881528eb685959d028ae1",
+      "size": 1454873,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/14.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/14.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/735891032d1120d5278881528eb685959d028ae1",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/14.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/14.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/735891032d1120d5278881528eb685959d028ae1",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/14.png"
+      }
+    },
+    {
+      "name": "15.png",
+      "path": "backend/data/images/15.png",
+      "sha": "70c887934d6d4312a0eaf3cdd933db606136adc6",
+      "size": 579482,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/15.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/15.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/70c887934d6d4312a0eaf3cdd933db606136adc6",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/15.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/15.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/70c887934d6d4312a0eaf3cdd933db606136adc6",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/15.png"
+      }
+    },
+    {
+      "name": "16.png",
+      "path": "backend/data/images/16.png",
+      "sha": "c26d44b9a91543798377c6c9c048d33dd8e2c968",
+      "size": 996221,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/16.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/16.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/c26d44b9a91543798377c6c9c048d33dd8e2c968",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/16.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/16.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/c26d44b9a91543798377c6c9c048d33dd8e2c968",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/16.png"
+      }
+    },
+    {
+      "name": "17.png",
+      "path": "backend/data/images/17.png",
+      "sha": "2e1964a33525b4f8300f8328c7a0171d1ba085ef",
+      "size": 924714,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/17.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/17.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/2e1964a33525b4f8300f8328c7a0171d1ba085ef",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/17.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/17.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/2e1964a33525b4f8300f8328c7a0171d1ba085ef",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/17.png"
+      }
+    },
+    {
+      "name": "18.png",
+      "path": "backend/data/images/18.png",
+      "sha": "f7f90a0b1d1363a7020d0f51ddb700613ef49507",
+      "size": 936975,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/18.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/18.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/f7f90a0b1d1363a7020d0f51ddb700613ef49507",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/18.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/18.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/f7f90a0b1d1363a7020d0f51ddb700613ef49507",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/18.png"
+      }
+    },
+    {
+      "name": "19.png",
+      "path": "backend/data/images/19.png",
+      "sha": "764a699108275b917c058d519254fabdc7e9c6a1",
+      "size": 1151896,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/19.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/19.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/764a699108275b917c058d519254fabdc7e9c6a1",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/19.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/19.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/764a699108275b917c058d519254fabdc7e9c6a1",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/19.png"
+      }
+    },
+    {
+      "name": "2.png",
+      "path": "backend/data/images/2.png",
+      "sha": "b3069c0b01255b434e250c10ef51f7cd54211b4f",
+      "size": 1317305,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/2.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/2.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/b3069c0b01255b434e250c10ef51f7cd54211b4f",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/2.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/2.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/b3069c0b01255b434e250c10ef51f7cd54211b4f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/2.png"
+      }
+    },
+    {
+      "name": "20.png",
+      "path": "backend/data/images/20.png",
+      "sha": "5755d2b30d93e3225a5374ad881e7a813ac66f38",
+      "size": 1189362,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/20.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/20.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/5755d2b30d93e3225a5374ad881e7a813ac66f38",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/20.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/20.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/5755d2b30d93e3225a5374ad881e7a813ac66f38",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/20.png"
+      }
+    },
+    {
+      "name": "3.png",
+      "path": "backend/data/images/3.png",
+      "sha": "337c19a0c8ebfc92e1c8a55ba2d5e5e4e2681e95",
+      "size": 1076579,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/3.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/3.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/337c19a0c8ebfc92e1c8a55ba2d5e5e4e2681e95",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/3.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/3.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/337c19a0c8ebfc92e1c8a55ba2d5e5e4e2681e95",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/3.png"
+      }
+    },
+    {
+      "name": "4.png",
+      "path": "backend/data/images/4.png",
+      "sha": "ec63a7c6780e643d46a13434bddca143563743ec",
+      "size": 1313095,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/4.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/4.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ec63a7c6780e643d46a13434bddca143563743ec",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/4.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/4.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ec63a7c6780e643d46a13434bddca143563743ec",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/4.png"
+      }
+    },
+    {
+      "name": "5.png",
+      "path": "backend/data/images/5.png",
+      "sha": "01cdcd2953825f4759e99e9a2e6bdd05b387d27c",
+      "size": 662997,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/5.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/5.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/01cdcd2953825f4759e99e9a2e6bdd05b387d27c",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/5.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/5.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/01cdcd2953825f4759e99e9a2e6bdd05b387d27c",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/5.png"
+      }
+    },
+    {
+      "name": "6.png",
+      "path": "backend/data/images/6.png",
+      "sha": "63c5361a5256e4161b14c6c45176a816610160b0",
+      "size": 983100,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/6.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/6.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/63c5361a5256e4161b14c6c45176a816610160b0",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/6.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/6.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/63c5361a5256e4161b14c6c45176a816610160b0",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/6.png"
+      }
+    },
+    {
+      "name": "7.png",
+      "path": "backend/data/images/7.png",
+      "sha": "1f5b5b1c871538adf48257acb5b0c610d6062660",
+      "size": 1703166,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/7.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/7.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/1f5b5b1c871538adf48257acb5b0c610d6062660",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/7.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/7.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/1f5b5b1c871538adf48257acb5b0c610d6062660",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/7.png"
+      }
+    },
+    {
+      "name": "8.png",
+      "path": "backend/data/images/8.png",
+      "sha": "cf9b4c80980aaae9cfd829594abad1e3acd76df0",
+      "size": 768864,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/8.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/8.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/cf9b4c80980aaae9cfd829594abad1e3acd76df0",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/8.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/8.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/cf9b4c80980aaae9cfd829594abad1e3acd76df0",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/8.png"
+      }
+    },
+    {
+      "name": "9.png",
+      "path": "backend/data/images/9.png",
+      "sha": "e076e5095f235fbbeb552722dc3ed93db1820e18",
+      "size": 268456,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/9.png?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/9.png",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e076e5095f235fbbeb552722dc3ed93db1820e18",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/images/9.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/images/9.png?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e076e5095f235fbbeb552722dc3ed93db1820e18",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/images/9.png"
+      }
+    },
+    {
+      "name": "meta",
+      "path": "backend/data/meta",
+      "sha": "ec391a3857fd0a6cea4d340758a2ed54e99593fc",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/data/meta",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/ec391a3857fd0a6cea4d340758a2ed54e99593fc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/ec391a3857fd0a6cea4d340758a2ed54e99593fc",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/data/meta"
+      }
+    },
+    {
+      "name": "1.json",
+      "path": "backend/data/meta/1.json",
+      "sha": "ca1acad97bd68aa7969b774c1109768ba1e90835",
+      "size": 729,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/1.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/1.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ca1acad97bd68aa7969b774c1109768ba1e90835",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/1.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/1.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ca1acad97bd68aa7969b774c1109768ba1e90835",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/1.json"
+      }
+    },
+    {
+      "name": "10.json",
+      "path": "backend/data/meta/10.json",
+      "sha": "d73fe8333c93dabe37697920a549c36d9a4518a2",
+      "size": 728,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/10.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/10.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d73fe8333c93dabe37697920a549c36d9a4518a2",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/10.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/10.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d73fe8333c93dabe37697920a549c36d9a4518a2",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/10.json"
+      }
+    },
+    {
+      "name": "11.json",
+      "path": "backend/data/meta/11.json",
+      "sha": "1f29a11bfdcc1b29bdc4e5e50f6c1a74d1addfeb",
+      "size": 717,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/11.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/11.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/1f29a11bfdcc1b29bdc4e5e50f6c1a74d1addfeb",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/11.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/11.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/1f29a11bfdcc1b29bdc4e5e50f6c1a74d1addfeb",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/11.json"
+      }
+    },
+    {
+      "name": "12.json",
+      "path": "backend/data/meta/12.json",
+      "sha": "e07bbe573d9da19115eebdb34a84092f240ff8a7",
+      "size": 730,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/12.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/12.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e07bbe573d9da19115eebdb34a84092f240ff8a7",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/12.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/12.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e07bbe573d9da19115eebdb34a84092f240ff8a7",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/12.json"
+      }
+    },
+    {
+      "name": "13.json",
+      "path": "backend/data/meta/13.json",
+      "sha": "6343d11c3c3149a414eea906c61b2f395c492fdd",
+      "size": 723,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/13.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/13.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/6343d11c3c3149a414eea906c61b2f395c492fdd",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/13.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/13.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/6343d11c3c3149a414eea906c61b2f395c492fdd",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/13.json"
+      }
+    },
+    {
+      "name": "14.json",
+      "path": "backend/data/meta/14.json",
+      "sha": "1badfdc498ffbb3731c50a230ddaf6e9b098cfa9",
+      "size": 728,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/14.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/14.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/1badfdc498ffbb3731c50a230ddaf6e9b098cfa9",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/14.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/14.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/1badfdc498ffbb3731c50a230ddaf6e9b098cfa9",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/14.json"
+      }
+    },
+    {
+      "name": "15.json",
+      "path": "backend/data/meta/15.json",
+      "sha": "5b4ee93dd5b2a5bdc63d91087923f7d0e954edbe",
+      "size": 724,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/15.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/15.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/5b4ee93dd5b2a5bdc63d91087923f7d0e954edbe",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/15.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/15.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/5b4ee93dd5b2a5bdc63d91087923f7d0e954edbe",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/15.json"
+      }
+    },
+    {
+      "name": "16.json",
+      "path": "backend/data/meta/16.json",
+      "sha": "6107d2de2154879b232f73c22c017f2ed53eddd6",
+      "size": 742,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/16.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/16.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/6107d2de2154879b232f73c22c017f2ed53eddd6",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/16.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/16.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/6107d2de2154879b232f73c22c017f2ed53eddd6",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/16.json"
+      }
+    },
+    {
+      "name": "17.json",
+      "path": "backend/data/meta/17.json",
+      "sha": "151d911aedd81252e2622d61596dc5085744e015",
+      "size": 759,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/17.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/17.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/151d911aedd81252e2622d61596dc5085744e015",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/17.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/17.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/151d911aedd81252e2622d61596dc5085744e015",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/17.json"
+      }
+    },
+    {
+      "name": "18.json",
+      "path": "backend/data/meta/18.json",
+      "sha": "d067dd12fa2f8ad6e8e767904ea551311de20364",
+      "size": 725,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/18.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/18.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d067dd12fa2f8ad6e8e767904ea551311de20364",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/18.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/18.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d067dd12fa2f8ad6e8e767904ea551311de20364",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/18.json"
+      }
+    },
+    {
+      "name": "19.json",
+      "path": "backend/data/meta/19.json",
+      "sha": "757e1e95a4e8f21d059c30672dfadf3525e4a448",
+      "size": 744,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/19.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/19.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/757e1e95a4e8f21d059c30672dfadf3525e4a448",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/19.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/19.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/757e1e95a4e8f21d059c30672dfadf3525e4a448",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/19.json"
+      }
+    },
+    {
+      "name": "2.json",
+      "path": "backend/data/meta/2.json",
+      "sha": "8d17d13e0506fe100612dbbf0cbaf58ade13f062",
+      "size": 740,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/2.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/2.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/8d17d13e0506fe100612dbbf0cbaf58ade13f062",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/2.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/2.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/8d17d13e0506fe100612dbbf0cbaf58ade13f062",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/2.json"
+      }
+    },
+    {
+      "name": "20.json",
+      "path": "backend/data/meta/20.json",
+      "sha": "d1ec75f703080d6597e4a09ff05e738fb4704ff4",
+      "size": 719,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/20.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/20.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d1ec75f703080d6597e4a09ff05e738fb4704ff4",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/20.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/20.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d1ec75f703080d6597e4a09ff05e738fb4704ff4",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/20.json"
+      }
+    },
+    {
+      "name": "3.json",
+      "path": "backend/data/meta/3.json",
+      "sha": "534df6e01092c5a44126cc8b08a6e3d09a806fd3",
+      "size": 718,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/3.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/3.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/534df6e01092c5a44126cc8b08a6e3d09a806fd3",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/3.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/3.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/534df6e01092c5a44126cc8b08a6e3d09a806fd3",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/3.json"
+      }
+    },
+    {
+      "name": "4.json",
+      "path": "backend/data/meta/4.json",
+      "sha": "8ad25ecf22ecfaf0dacf11e957d1cde3e1fde619",
+      "size": 731,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/4.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/4.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/8ad25ecf22ecfaf0dacf11e957d1cde3e1fde619",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/4.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/4.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/8ad25ecf22ecfaf0dacf11e957d1cde3e1fde619",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/4.json"
+      }
+    },
+    {
+      "name": "5.json",
+      "path": "backend/data/meta/5.json",
+      "sha": "88790922efe87f6bdc29302a06872745e0734504",
+      "size": 714,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/5.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/5.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/88790922efe87f6bdc29302a06872745e0734504",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/5.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/5.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/88790922efe87f6bdc29302a06872745e0734504",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/5.json"
+      }
+    },
+    {
+      "name": "6.json",
+      "path": "backend/data/meta/6.json",
+      "sha": "102f59ebf01d22b2bc127e6bcbfe11ac38b0ac10",
+      "size": 721,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/6.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/6.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/102f59ebf01d22b2bc127e6bcbfe11ac38b0ac10",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/6.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/6.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/102f59ebf01d22b2bc127e6bcbfe11ac38b0ac10",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/6.json"
+      }
+    },
+    {
+      "name": "7.json",
+      "path": "backend/data/meta/7.json",
+      "sha": "d8af00edf38e28ae42c42138fdb0761ec0b5233c",
+      "size": 741,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/7.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/7.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d8af00edf38e28ae42c42138fdb0761ec0b5233c",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/7.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/7.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d8af00edf38e28ae42c42138fdb0761ec0b5233c",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/7.json"
+      }
+    },
+    {
+      "name": "8.json",
+      "path": "backend/data/meta/8.json",
+      "sha": "ebc9f41241d3055c83dfd28fb1c1a73f5f5467d2",
+      "size": 722,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/8.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/8.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ebc9f41241d3055c83dfd28fb1c1a73f5f5467d2",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/8.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/8.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/ebc9f41241d3055c83dfd28fb1c1a73f5f5467d2",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/8.json"
+      }
+    },
+    {
+      "name": "9.json",
+      "path": "backend/data/meta/9.json",
+      "sha": "47459dfc3266e0889955d1abc0e682c1becf69bb",
+      "size": 719,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/9.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/9.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/47459dfc3266e0889955d1abc0e682c1becf69bb",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/data/meta/9.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/data/meta/9.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/47459dfc3266e0889955d1abc0e682c1becf69bb",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/data/meta/9.json"
+      }
+    },
+    {
+      "name": "hardhat.config.ts",
+      "path": "backend/hardhat.config.ts",
+      "sha": "891dc941f8b28cfe10b90b45acb97d997575db81",
+      "size": 585,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/hardhat.config.ts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/hardhat.config.ts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/891dc941f8b28cfe10b90b45acb97d997575db81",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/hardhat.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/hardhat.config.ts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/891dc941f8b28cfe10b90b45acb97d997575db81",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/hardhat.config.ts"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "backend/package.json",
+      "sha": "a089510d48714a4402bf03a3db12f2b2283f510d",
+      "size": 999,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/package.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/package.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a089510d48714a4402bf03a3db12f2b2283f510d",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/package.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a089510d48714a4402bf03a3db12f2b2283f510d",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/package.json"
+      }
+    },
+    {
+      "name": "pnpm-lock.yaml",
+      "path": "backend/pnpm-lock.yaml",
+      "sha": "4bbbec9e5eaf44949817eddd44a741ef62db16f2",
+      "size": 325707,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/pnpm-lock.yaml?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/pnpm-lock.yaml",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/4bbbec9e5eaf44949817eddd44a741ef62db16f2",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/pnpm-lock.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/pnpm-lock.yaml?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/4bbbec9e5eaf44949817eddd44a741ef62db16f2",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/pnpm-lock.yaml"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "backend/scripts",
+      "sha": "91200c50f9b0ec933d31bbf181353dd1e389ff42",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/scripts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/scripts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/91200c50f9b0ec933d31bbf181353dd1e389ff42",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/scripts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/91200c50f9b0ec933d31bbf181353dd1e389ff42",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/scripts"
+      }
+    },
+    {
+      "name": "deploy.ts",
+      "path": "backend/scripts/deploy.ts",
+      "sha": "98e55cc1e9a40ac58b95da73db530fe3e38c905f",
+      "size": 937,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/scripts/deploy.ts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/scripts/deploy.ts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/98e55cc1e9a40ac58b95da73db530fe3e38c905f",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/scripts/deploy.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/scripts/deploy.ts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/98e55cc1e9a40ac58b95da73db530fe3e38c905f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/scripts/deploy.ts"
+      }
+    },
+    {
+      "name": "test",
+      "path": "backend/test",
+      "sha": "f32cc1f7d28d36c4360221d300c16b3499955da5",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/test?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/test",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/f32cc1f7d28d36c4360221d300c16b3499955da5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/test?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/f32cc1f7d28d36c4360221d300c16b3499955da5",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/backend/test"
+      }
+    },
+    {
+      "name": "MemeNFT.ts",
+      "path": "backend/test/MemeNFT.ts",
+      "sha": "a33d901cc215e8298106dd6fe95222af24fb4b24",
+      "size": 5201,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/test/MemeNFT.ts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/test/MemeNFT.ts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a33d901cc215e8298106dd6fe95222af24fb4b24",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/test/MemeNFT.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/test/MemeNFT.ts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/a33d901cc215e8298106dd6fe95222af24fb4b24",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/test/MemeNFT.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "backend/tsconfig.json",
+      "sha": "e5f1a64007abf2053a685b9f31c6cdda7f48b28b",
+      "size": 201,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/tsconfig.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e5f1a64007abf2053a685b9f31c6cdda7f48b28b",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/backend/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/backend/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e5f1a64007abf2053a685b9f31c6cdda7f48b28b",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/backend/tsconfig.json"
+      }
+    },
+    {
+      "name": "frontend",
+      "path": "frontend",
+      "sha": "fbd3c7057a61fbb6ed8592bcd1841d8f9a106ffd",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/fbd3c7057a61fbb6ed8592bcd1841d8f9a106ffd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/fbd3c7057a61fbb6ed8592bcd1841d8f9a106ffd",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend"
+      }
+    },
+    {
+      "name": ".eslintrc.json",
+      "path": "frontend/.eslintrc.json",
+      "sha": "303271105f2a81194687259506c6896de8d80fc4",
+      "size": 294,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/.eslintrc.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/.eslintrc.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/303271105f2a81194687259506c6896de8d80fc4",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/.eslintrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/.eslintrc.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/303271105f2a81194687259506c6896de8d80fc4",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/.eslintrc.json"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "frontend/.gitignore",
+      "sha": "737d87210923e7a1f602803b30ebd91a0a8a3b54",
+      "size": 371,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/.gitignore?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/.gitignore",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/737d87210923e7a1f602803b30ebd91a0a8a3b54",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/737d87210923e7a1f602803b30ebd91a0a8a3b54",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/.gitignore"
+      }
+    },
+    {
+      "name": ".prettierrc.json",
+      "path": "frontend/.prettierrc.json",
+      "sha": "2f6cd2470b43ffdb081699d9666fb54d79fd9a23",
+      "size": 106,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/.prettierrc.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/.prettierrc.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/2f6cd2470b43ffdb081699d9666fb54d79fd9a23",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/.prettierrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/.prettierrc.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/2f6cd2470b43ffdb081699d9666fb54d79fd9a23",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/.prettierrc.json"
+      }
+    },
+    {
+      "name": "__tests__",
+      "path": "frontend/__tests__",
+      "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/__tests__?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/__tests__",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/__tests__?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/__tests__"
+      }
+    },
+    {
+      "name": ".gitkeep",
+      "path": "frontend/__tests__/.gitkeep",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/__tests__/.gitkeep?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/__tests__/.gitkeep",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/__tests__/.gitkeep",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/__tests__/.gitkeep?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/__tests__/.gitkeep"
+      }
+    },
+    {
+      "name": "components",
+      "path": "frontend/components",
+      "sha": "7264f7d7766e223eaab03920e0e850f0512e1306",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/components",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/7264f7d7766e223eaab03920e0e850f0512e1306",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/7264f7d7766e223eaab03920e0e850f0512e1306",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/components"
+      }
+    },
+    {
+      "name": "Header.tsx",
+      "path": "frontend/components/Header.tsx",
+      "sha": "7d73c16a6ecd89f1b2ec8743b27f3c78decf2008",
+      "size": 1104,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Header.tsx?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Header.tsx",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/7d73c16a6ecd89f1b2ec8743b27f3c78decf2008",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/components/Header.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Header.tsx?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/7d73c16a6ecd89f1b2ec8743b27f3c78decf2008",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Header.tsx"
+      }
+    },
+    {
+      "name": "Header",
+      "path": "frontend/components/Header",
+      "sha": "d88c3a7f0de7becede54e10a4597f43882bc23de",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Header?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/components/Header",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d88c3a7f0de7becede54e10a4597f43882bc23de",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Header?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d88c3a7f0de7becede54e10a4597f43882bc23de",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/components/Header"
+      }
+    },
+    {
+      "name": "_ThemeSelector.tsx",
+      "path": "frontend/components/Header/_ThemeSelector.tsx",
+      "sha": "66599d60c84ec79c0aa60b4ca05258e9c2856afd",
+      "size": 3143,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Header/_ThemeSelector.tsx?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Header/_ThemeSelector.tsx",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/66599d60c84ec79c0aa60b4ca05258e9c2856afd",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/components/Header/_ThemeSelector.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Header/_ThemeSelector.tsx?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/66599d60c84ec79c0aa60b4ca05258e9c2856afd",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Header/_ThemeSelector.tsx"
+      }
+    },
+    {
+      "name": "Hero.tsx",
+      "path": "frontend/components/Hero.tsx",
+      "sha": "43e020ccc81eea6b5e4f2c4528c3346a7b1ec5aa",
+      "size": 4678,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Hero.tsx?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Hero.tsx",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/43e020ccc81eea6b5e4f2c4528c3346a7b1ec5aa",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/components/Hero.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Hero.tsx?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/43e020ccc81eea6b5e4f2c4528c3346a7b1ec5aa",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Hero.tsx"
+      }
+    },
+    {
+      "name": "Hero",
+      "path": "frontend/components/Hero",
+      "sha": "70db8c0844f2042a2ac9b48be2b35539eea3c18f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Hero?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/components/Hero",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/70db8c0844f2042a2ac9b48be2b35539eea3c18f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Hero?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/70db8c0844f2042a2ac9b48be2b35539eea3c18f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/components/Hero"
+      }
+    },
+    {
+      "name": "_NFTView.tsx",
+      "path": "frontend/components/Hero/_NFTView.tsx",
+      "sha": "47207c16a598c0e850b5aa8ee267faa2f97c3d04",
+      "size": 591,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Hero/_NFTView.tsx?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Hero/_NFTView.tsx",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/47207c16a598c0e850b5aa8ee267faa2f97c3d04",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/components/Hero/_NFTView.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/components/Hero/_NFTView.tsx?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/47207c16a598c0e850b5aa8ee267faa2f97c3d04",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/components/Hero/_NFTView.tsx"
+      }
+    },
+    {
+      "name": "constants",
+      "path": "frontend/constants",
+      "sha": "01168bcb14e1cff478d235bbe0ec8bca01f0262f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/constants?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/constants",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/01168bcb14e1cff478d235bbe0ec8bca01f0262f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/constants?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/01168bcb14e1cff478d235bbe0ec8bca01f0262f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/constants"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "frontend/constants/index.ts",
+      "sha": "4ee6814e1f7cb2f8204db3e994b002a66b5d1a28",
+      "size": 14206,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/constants/index.ts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/constants/index.ts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/4ee6814e1f7cb2f8204db3e994b002a66b5d1a28",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/constants/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/constants/index.ts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/4ee6814e1f7cb2f8204db3e994b002a66b5d1a28",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/constants/index.ts"
+      }
+    },
+    {
+      "name": "functions",
+      "path": "frontend/functions",
+      "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/functions?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/functions",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/functions?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/functions"
+      }
+    },
+    {
+      "name": ".gitkeep",
+      "path": "frontend/functions/.gitkeep",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/functions/.gitkeep?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/functions/.gitkeep",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/functions/.gitkeep",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/functions/.gitkeep?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/functions/.gitkeep"
+      }
+    },
+    {
+      "name": "interfaces",
+      "path": "frontend/interfaces",
+      "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/interfaces?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/interfaces",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/interfaces?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/interfaces"
+      }
+    },
+    {
+      "name": ".gitkeep",
+      "path": "frontend/interfaces/.gitkeep",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/interfaces/.gitkeep?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/interfaces/.gitkeep",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/interfaces/.gitkeep",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/interfaces/.gitkeep?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/interfaces/.gitkeep"
+      }
+    },
+    {
+      "name": "jest.config.js",
+      "path": "frontend/jest.config.js",
+      "sha": "d21ce30d5ca775e49f0bfb90c80df3f6cc8c9393",
+      "size": 769,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/jest.config.js?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/jest.config.js",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d21ce30d5ca775e49f0bfb90c80df3f6cc8c9393",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/jest.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/jest.config.js?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/d21ce30d5ca775e49f0bfb90c80df3f6cc8c9393",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/jest.config.js"
+      }
+    },
+    {
+      "name": "next-env.d.ts",
+      "path": "frontend/next-env.d.ts",
+      "sha": "4f11a03dc6cc37f2b5105c08f2e7b24c603ab2f4",
+      "size": 201,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/next-env.d.ts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/next-env.d.ts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/4f11a03dc6cc37f2b5105c08f2e7b24c603ab2f4",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/next-env.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/next-env.d.ts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/4f11a03dc6cc37f2b5105c08f2e7b24c603ab2f4",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/next-env.d.ts"
+      }
+    },
+    {
+      "name": "next.config.js",
+      "path": "frontend/next.config.js",
+      "sha": "282ec361d6c5447a95b3dadb47f7970a0e0b10bb",
+      "size": 197,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/next.config.js?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/next.config.js",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/282ec361d6c5447a95b3dadb47f7970a0e0b10bb",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/next.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/next.config.js?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/282ec361d6c5447a95b3dadb47f7970a0e0b10bb",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/next.config.js"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "frontend/package.json",
+      "sha": "c91a61db24c45c08cd2f426f7aad84ce8b0bca31",
+      "size": 1613,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/package.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/package.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/c91a61db24c45c08cd2f426f7aad84ce8b0bca31",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/package.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/c91a61db24c45c08cd2f426f7aad84ce8b0bca31",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/package.json"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "frontend/pages",
+      "sha": "e1c25f492f025e6e65fd602a674ec4cd32c089fe",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/pages",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/e1c25f492f025e6e65fd602a674ec4cd32c089fe",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/e1c25f492f025e6e65fd602a674ec4cd32c089fe",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/pages"
+      }
+    },
+    {
+      "name": "_app.tsx",
+      "path": "frontend/pages/_app.tsx",
+      "sha": "17a77da3435445c4a09cd98b2115347352e46700",
+      "size": 402,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/_app.tsx?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pages/_app.tsx",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/17a77da3435445c4a09cd98b2115347352e46700",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/pages/_app.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/_app.tsx?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/17a77da3435445c4a09cd98b2115347352e46700",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pages/_app.tsx"
+      }
+    },
+    {
+      "name": "api",
+      "path": "frontend/pages/api",
+      "sha": "8f7ef26779ec7091ee05c1e2cc0f3bb0bb419ada",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/api?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/pages/api",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/8f7ef26779ec7091ee05c1e2cc0f3bb0bb419ada",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/api?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/8f7ef26779ec7091ee05c1e2cc0f3bb0bb419ada",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/pages/api"
+      }
+    },
+    {
+      "name": "hello.ts",
+      "path": "frontend/pages/api/hello.ts",
+      "sha": "f8bcc7e5caed177cb9ecfa7c02bc9a854b8ad1ff",
+      "size": 307,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/api/hello.ts?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pages/api/hello.ts",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/f8bcc7e5caed177cb9ecfa7c02bc9a854b8ad1ff",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/pages/api/hello.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/api/hello.ts?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/f8bcc7e5caed177cb9ecfa7c02bc9a854b8ad1ff",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pages/api/hello.ts"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "frontend/pages/index.tsx",
+      "sha": "8d1526c250be9ab84cb6492b07a27e11cc10ca7f",
+      "size": 8091,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/index.tsx?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pages/index.tsx",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/8d1526c250be9ab84cb6492b07a27e11cc10ca7f",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/pages/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pages/index.tsx?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/8d1526c250be9ab84cb6492b07a27e11cc10ca7f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pages/index.tsx"
+      }
+    },
+    {
+      "name": "pnpm-lock.yaml",
+      "path": "frontend/pnpm-lock.yaml",
+      "sha": "213944ca485b6792c3384fb31ed0ca40d14ce8f5",
+      "size": 196815,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pnpm-lock.yaml?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pnpm-lock.yaml",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/213944ca485b6792c3384fb31ed0ca40d14ce8f5",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/pnpm-lock.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/pnpm-lock.yaml?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/213944ca485b6792c3384fb31ed0ca40d14ce8f5",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/pnpm-lock.yaml"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "frontend/postcss.config.js",
+      "sha": "33ad091d26d8a9dc95ebdf616e217d985ec215b8",
+      "size": 82,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/postcss.config.js?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/postcss.config.js",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/33ad091d26d8a9dc95ebdf616e217d985ec215b8",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/postcss.config.js?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/33ad091d26d8a9dc95ebdf616e217d985ec215b8",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/postcss.config.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "frontend/public",
+      "sha": "a6b8af1aaebc89b55e04be16195f4e8b89b44602",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/public?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/public",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/a6b8af1aaebc89b55e04be16195f4e8b89b44602",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/public?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/a6b8af1aaebc89b55e04be16195f4e8b89b44602",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/public"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "frontend/public/favicon.ico",
+      "sha": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "size": 25931,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/public/favicon.ico?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/public/favicon.ico?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/public/favicon.ico"
+      }
+    },
+    {
+      "name": "vercel.svg",
+      "path": "frontend/public/vercel.svg",
+      "sha": "fbf0e25a651c28931b2fe8afa2947e124eebc74f",
+      "size": 1101,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/public/vercel.svg?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/public/vercel.svg",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/fbf0e25a651c28931b2fe8afa2947e124eebc74f",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/public/vercel.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/public/vercel.svg?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/fbf0e25a651c28931b2fe8afa2947e124eebc74f",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/public/vercel.svg"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "frontend/styles",
+      "sha": "872e68ba495f341ab5343612d574a385b17c5907",
+      "size": 0,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/styles?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/styles",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/872e68ba495f341ab5343612d574a385b17c5907",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/styles?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/trees/872e68ba495f341ab5343612d574a385b17c5907",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/tree/master/frontend/styles"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "frontend/styles/globals.css",
+      "sha": "b5c61c956711f981a41e95f7fcf0038436cfbb22",
+      "size": 59,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/styles/globals.css?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/styles/globals.css",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/b5c61c956711f981a41e95f7fcf0038436cfbb22",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/styles/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/styles/globals.css?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/b5c61c956711f981a41e95f7fcf0038436cfbb22",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/styles/globals.css"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "frontend/tailwind.config.js",
+      "sha": "c54ea7f0d979466ddb394284a20db08d26c66266",
+      "size": 744,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/tailwind.config.js?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/c54ea7f0d979466ddb394284a20db08d26c66266",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/tailwind.config.js?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/c54ea7f0d979466ddb394284a20db08d26c66266",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/tailwind.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "frontend/tsconfig.json",
+      "sha": "99710e857874ff87b2964b877a1bf2602268201c",
+      "size": 509,
+      "url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/tsconfig.json?ref=master",
+      "html_url": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/99710e857874ff87b2964b877a1bf2602268201c",
+      "download_url": "https://raw.githubusercontent.com/yanukadeneth99/Meme-NFT/master/frontend/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/contents/frontend/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/yanukadeneth99/Meme-NFT/git/blobs/99710e857874ff87b2964b877a1bf2602268201c",
+        "html": "https://github.com/yanukadeneth99/Meme-NFT/blob/master/frontend/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "rinkeby.etherscan.io": 3870,
+    "github.com": 6734,
+    "i.imgur.com": 6276,
+    "img.shields.io": 4775,
+    "www.npmjs.com": 5842,
+    "www.erc721a.org": 1521,
+    "testnets.opensea.io": 3002
+  },
+  "collected_at": "2026-03-18T10:48:28.615976"
+}

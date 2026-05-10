@@ -1,0 +1,1936 @@
+{
+  "repo_full_name": "knightsdex/knightsbridge-dex",
+  "repo_deleted": false,
+  "data_source": "github_api",
+  "collected_at": "2026-03-15T04:15:00.358963",
+  "repo_detail": {
+    "id": 1087884088,
+    "node_id": "R_kgDOQNfLOA",
+    "name": "knightsbridge-dex",
+    "full_name": "knightsdex/knightsbridge-dex",
+    "private": false,
+    "owner": {
+      "login": "knightsdex",
+      "id": 231490048,
+      "node_id": "U_kgDODcxCAA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231490048?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/knightsdex",
+      "html_url": "https://github.com/knightsdex",
+      "followers_url": "https://api.github.com/users/knightsdex/followers",
+      "following_url": "https://api.github.com/users/knightsdex/following{/other_user}",
+      "gists_url": "https://api.github.com/users/knightsdex/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/knightsdex/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/knightsdex/subscriptions",
+      "organizations_url": "https://api.github.com/users/knightsdex/orgs",
+      "repos_url": "https://api.github.com/users/knightsdex/repos",
+      "events_url": "https://api.github.com/users/knightsdex/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/knightsdex/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/knightsdex/knightsbridge-dex",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex",
+    "forks_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/forks",
+    "keys_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/teams",
+    "hooks_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/hooks",
+    "issue_events_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/events",
+    "assignees_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/tags",
+    "blobs_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/languages",
+    "stargazers_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/stargazers",
+    "contributors_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contributors",
+    "subscribers_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/subscribers",
+    "subscription_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/subscription",
+    "commits_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/merges",
+    "archive_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/downloads",
+    "issues_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/labels{/name}",
+    "releases_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/deployments",
+    "created_at": "2025-11-01T20:56:56Z",
+    "updated_at": "2025-11-10T15:11:19Z",
+    "pushed_at": "2025-11-10T15:10:22Z",
+    "git_url": "git://github.com/knightsdex/knightsbridge-dex.git",
+    "ssh_url": "git@github.com:knightsdex/knightsbridge-dex.git",
+    "clone_url": "https://github.com/knightsdex/knightsbridge-dex.git",
+    "svn_url": "https://github.com/knightsdex/knightsbridge-dex",
+    "homepage": null,
+    "size": 425,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "knightsdex",
+    "id": 231490048,
+    "node_id": "U_kgDODcxCAA",
+    "avatar_url": "https://avatars.githubusercontent.com/u/231490048?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/knightsdex",
+    "html_url": "https://github.com/knightsdex",
+    "followers_url": "https://api.github.com/users/knightsdex/followers",
+    "following_url": "https://api.github.com/users/knightsdex/following{/other_user}",
+    "gists_url": "https://api.github.com/users/knightsdex/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/knightsdex/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/knightsdex/subscriptions",
+    "organizations_url": "https://api.github.com/users/knightsdex/orgs",
+    "repos_url": "https://api.github.com/users/knightsdex/repos",
+    "events_url": "https://api.github.com/users/knightsdex/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/knightsdex/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Knights DEX",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 80,
+    "public_gists": 0,
+    "followers": 1,
+    "following": 0,
+    "created_at": "2025-09-10T13:11:23Z",
+    "updated_at": "2026-03-13T09:44:55Z"
+  },
+  "readme": "# Welcome to Knightsbridge Dex platform\n\n## Project info\n\n**URL**: https://knightsbridge-dex.vercel.app/\n\n## How can I edit this code?\n\n**Use your preferred IDE**\n\n\n\n# Step 1: Navigate to the project directory.\ncd knightsbridge-dex-ui\n\n# Step 2: Install the necessary dependencies.\nnpm i\n\n# Step 3: Start the development server with auto-reloading and an instant preview.\nnpm run dev\n```\n\n**Edit a file directly in GitHub**\n\n- Navigate to the desired file(s).\n- Click the \"Edit\" button (pencil icon) at the top right of the file view.\n- Make your changes and commit the changes.\n\n**Use GitHub Codespaces**\n\n- Navigate to the main page of your repository.\n- Click on the \"Code\" button (green button) near the top right.\n- Select the \"Codespaces\" tab.\n- Click on \"New codespace\" to launch a new Codespace environment.\n- Edit files directly within the Codespace and commit and push your changes once you're done.\n\n## What technologies are used for this project?\n\nThis project is built with:\n\n- Vite\n- TypeScript\n- React\n- shadcn-ui\n- Tailwind CSS\n",
+  "readme_domains": {
+    "knightsbridge-dex.vercel.app": 0
+  },
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "0097d20f3014affe2e441998c59fcf4a1dfdd823",
+      "size": 205,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/0097d20f3014affe2e441998c59fcf4a1dfdd823",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/0097d20f3014affe2e441998c59fcf4a1dfdd823",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "321c66afa58db59fde60508336e01080fcded148",
+      "size": 1044,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/README.md?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/321c66afa58db59fde60508336e01080fcded148",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/321c66afa58db59fde60508336e01080fcded148",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/README.md"
+      }
+    },
+    {
+      "name": "components.json",
+      "path": "components.json",
+      "sha": "f29e3f1610677762f3d97aaefc9ce40a9d410948",
+      "size": 413,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/components.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/components.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f29e3f1610677762f3d97aaefc9ce40a9d410948",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/components.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/components.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f29e3f1610677762f3d97aaefc9ce40a9d410948",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/components.json"
+      }
+    },
+    {
+      "name": "eslint.config.js",
+      "path": "eslint.config.js",
+      "sha": "e67846f70fbbe40407fc84875913595ab31c4a47",
+      "size": 789,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/eslint.config.js?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/eslint.config.js",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e67846f70fbbe40407fc84875913595ab31c4a47",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/eslint.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/eslint.config.js?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e67846f70fbbe40407fc84875913595ab31c4a47",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/eslint.config.js"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "index.html",
+      "sha": "c16e1d8e7378c82b7019065f22a4bf3bc64c7c93",
+      "size": 720,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/index.html?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/index.html",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c16e1d8e7378c82b7019065f22a4bf3bc64c7c93",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/index.html?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c16e1d8e7378c82b7019065f22a4bf3bc64c7c93",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/index.html"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "94963ee18d9b50620ff65b6f30fa856ceb35a2e6",
+      "size": 601148,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/94963ee18d9b50620ff65b6f30fa856ceb35a2e6",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/94963ee18d9b50620ff65b6f30fa856ceb35a2e6",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "ebc210f9ab3cb60bd5ddef2238c925e04d1f59a1",
+      "size": 2782,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/package.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ebc210f9ab3cb60bd5ddef2238c925e04d1f59a1",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ebc210f9ab3cb60bd5ddef2238c925e04d1f59a1",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "postcss.config.js",
+      "sha": "2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+      "size": 80,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/postcss.config.js?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/postcss.config.js",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/postcss.config.js?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/postcss.config.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "71f11b7211a51c9c0ef947b2caae31eed55f7356",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/public",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/71f11b7211a51c9c0ef947b2caae31eed55f7356",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/71f11b7211a51c9c0ef947b2caae31eed55f7356",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/public"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "public/favicon.ico",
+      "sha": "e3f8c64398a29b8ab4187261ed9125f6d2265a89",
+      "size": 1350,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public/favicon.ico?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/public/favicon.ico",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e3f8c64398a29b8ab4187261ed9125f6d2265a89",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/public/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e3f8c64398a29b8ab4187261ed9125f6d2265a89",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/public/favicon.ico"
+      }
+    },
+    {
+      "name": "placeholder.svg",
+      "path": "public/placeholder.svg",
+      "sha": "e763910b27fdd9ac872f56baede51bc839402347",
+      "size": 3253,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public/placeholder.svg?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/public/placeholder.svg",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e763910b27fdd9ac872f56baede51bc839402347",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/public/placeholder.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public/placeholder.svg?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e763910b27fdd9ac872f56baede51bc839402347",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/public/placeholder.svg"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "public/robots.txt",
+      "sha": "6018e701fc7dd0317cda9eceea390524322e8a05",
+      "size": 160,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public/robots.txt?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/public/robots.txt",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6018e701fc7dd0317cda9eceea390524322e8a05",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/public/robots.txt?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6018e701fc7dd0317cda9eceea390524322e8a05",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/public/robots.txt"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "5632280a15c7c0796aa36d3881c836c853110637",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/5632280a15c7c0796aa36d3881c836c853110637",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/5632280a15c7c0796aa36d3881c836c853110637",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/App.css",
+      "sha": "b9d355df2a5956b526c004531b7b0ffe412461e0",
+      "size": 606,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/App.css?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/App.css",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/b9d355df2a5956b526c004531b7b0ffe412461e0",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/b9d355df2a5956b526c004531b7b0ffe412461e0",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/App.css"
+      }
+    },
+    {
+      "name": "App.tsx",
+      "path": "src/App.tsx",
+      "sha": "62ec6ea105f06ee9d126757e182df35216a78f3d",
+      "size": 2700,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/App.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/App.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/62ec6ea105f06ee9d126757e182df35216a78f3d",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/App.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/App.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/62ec6ea105f06ee9d126757e182df35216a78f3d",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/App.tsx"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "src/assets",
+      "sha": "9e2672e8885bd59dcecd643f849bdfcd50a5ea60",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/assets",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/9e2672e8885bd59dcecd643f849bdfcd50a5ea60",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/9e2672e8885bd59dcecd643f849bdfcd50a5ea60",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/assets"
+      }
+    },
+    {
+      "name": "img",
+      "path": "src/assets/img",
+      "sha": "59fcf9591db252bc691dc7964a4c2692c3120087",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets/img?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/assets/img",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/59fcf9591db252bc691dc7964a4c2692c3120087",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets/img?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/59fcf9591db252bc691dc7964a4c2692c3120087",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/assets/img"
+      }
+    },
+    {
+      "name": "logo_b.png",
+      "path": "src/assets/img/logo_b.png",
+      "sha": "e3f8c64398a29b8ab4187261ed9125f6d2265a89",
+      "size": 1350,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets/img/logo_b.png?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/assets/img/logo_b.png",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e3f8c64398a29b8ab4187261ed9125f6d2265a89",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/assets/img/logo_b.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets/img/logo_b.png?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e3f8c64398a29b8ab4187261ed9125f6d2265a89",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/assets/img/logo_b.png"
+      }
+    },
+    {
+      "name": "logo_w.png",
+      "path": "src/assets/img/logo_w.png",
+      "sha": "1c25c7bec253ae31fe4ff80e3548cf415c30cd3b",
+      "size": 2076,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets/img/logo_w.png?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/assets/img/logo_w.png",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1c25c7bec253ae31fe4ff80e3548cf415c30cd3b",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/assets/img/logo_w.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/assets/img/logo_w.png?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1c25c7bec253ae31fe4ff80e3548cf415c30cd3b",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/assets/img/logo_w.png"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/components",
+      "sha": "efd2241847a48d1e0f1ac5db7ae5ce3af1df6271",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/components",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/efd2241847a48d1e0f1ac5db7ae5ce3af1df6271",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/efd2241847a48d1e0f1ac5db7ae5ce3af1df6271",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/components"
+      }
+    },
+    {
+      "name": "AddLiquidityModal.tsx",
+      "path": "src/components/AddLiquidityModal.tsx",
+      "sha": "83b0ef830d6fe62ebab810b178b2d3853d328942",
+      "size": 4465,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/AddLiquidityModal.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/AddLiquidityModal.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/83b0ef830d6fe62ebab810b178b2d3853d328942",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/AddLiquidityModal.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/AddLiquidityModal.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/83b0ef830d6fe62ebab810b178b2d3853d328942",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/AddLiquidityModal.tsx"
+      }
+    },
+    {
+      "name": "CommunitySection.tsx",
+      "path": "src/components/CommunitySection.tsx",
+      "sha": "6df2d86563ce6d1515838d0221b0d6a9cb483fa8",
+      "size": 3283,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/CommunitySection.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/CommunitySection.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6df2d86563ce6d1515838d0221b0d6a9cb483fa8",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/CommunitySection.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/CommunitySection.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6df2d86563ce6d1515838d0221b0d6a9cb483fa8",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/CommunitySection.tsx"
+      }
+    },
+    {
+      "name": "FarmCard.tsx",
+      "path": "src/components/FarmCard.tsx",
+      "sha": "65193ae74d4cdf7aa4919f02556ad247ebc75359",
+      "size": 3707,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/FarmCard.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/FarmCard.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/65193ae74d4cdf7aa4919f02556ad247ebc75359",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/FarmCard.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/FarmCard.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/65193ae74d4cdf7aa4919f02556ad247ebc75359",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/FarmCard.tsx"
+      }
+    },
+    {
+      "name": "FeaturesSection.tsx",
+      "path": "src/components/FeaturesSection.tsx",
+      "sha": "2f127bf8c4050ccb358433d8c142f6cae8fd7253",
+      "size": 3498,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/FeaturesSection.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/FeaturesSection.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2f127bf8c4050ccb358433d8c142f6cae8fd7253",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/FeaturesSection.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/FeaturesSection.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2f127bf8c4050ccb358433d8c142f6cae8fd7253",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/FeaturesSection.tsx"
+      }
+    },
+    {
+      "name": "Footer.tsx",
+      "path": "src/components/Footer.tsx",
+      "sha": "aa5daf2af19b8381fca611c3c66fe88f71d1abb8",
+      "size": 4622,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/Footer.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/Footer.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/aa5daf2af19b8381fca611c3c66fe88f71d1abb8",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/Footer.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/Footer.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/aa5daf2af19b8381fca611c3c66fe88f71d1abb8",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/Footer.tsx"
+      }
+    },
+    {
+      "name": "Header.tsx",
+      "path": "src/components/Header.tsx",
+      "sha": "8b5ee1c2acc7174cd80cda9b402893bf67b27318",
+      "size": 6731,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/Header.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/Header.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/8b5ee1c2acc7174cd80cda9b402893bf67b27318",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/Header.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/Header.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/8b5ee1c2acc7174cd80cda9b402893bf67b27318",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/Header.tsx"
+      }
+    },
+    {
+      "name": "HeroSection.tsx",
+      "path": "src/components/HeroSection.tsx",
+      "sha": "2de2265c30606ea2d856c2650c3ff7ebb5cf545e",
+      "size": 2723,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/HeroSection.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/HeroSection.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2de2265c30606ea2d856c2650c3ff7ebb5cf545e",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/HeroSection.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/HeroSection.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2de2265c30606ea2d856c2650c3ff7ebb5cf545e",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/HeroSection.tsx"
+      }
+    },
+    {
+      "name": "NewsSection.tsx",
+      "path": "src/components/NewsSection.tsx",
+      "sha": "813dc73e3aed6046cfb7d74ed5f8efd8ef044ed9",
+      "size": 3265,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/NewsSection.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/NewsSection.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/813dc73e3aed6046cfb7d74ed5f8efd8ef044ed9",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/NewsSection.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/NewsSection.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/813dc73e3aed6046cfb7d74ed5f8efd8ef044ed9",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/NewsSection.tsx"
+      }
+    },
+    {
+      "name": "PoolCard.tsx",
+      "path": "src/components/PoolCard.tsx",
+      "sha": "3cc9a29a97bb69e77cf521133c7bceb0a08da685",
+      "size": 3450,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/PoolCard.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/PoolCard.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3cc9a29a97bb69e77cf521133c7bceb0a08da685",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/PoolCard.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/PoolCard.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3cc9a29a97bb69e77cf521133c7bceb0a08da685",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/PoolCard.tsx"
+      }
+    },
+    {
+      "name": "StatsCard.tsx",
+      "path": "src/components/StatsCard.tsx",
+      "sha": "837730ce6927643a29b24b5cc97e446750118144",
+      "size": 1663,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/StatsCard.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/StatsCard.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/837730ce6927643a29b24b5cc97e446750118144",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/StatsCard.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/StatsCard.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/837730ce6927643a29b24b5cc97e446750118144",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/StatsCard.tsx"
+      }
+    },
+    {
+      "name": "StatsSection.tsx",
+      "path": "src/components/StatsSection.tsx",
+      "sha": "d0527b069d4db684ff65c4c54aa97c2b128c00d5",
+      "size": 2205,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/StatsSection.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/StatsSection.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/d0527b069d4db684ff65c4c54aa97c2b128c00d5",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/StatsSection.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/StatsSection.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/d0527b069d4db684ff65c4c54aa97c2b128c00d5",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/StatsSection.tsx"
+      }
+    },
+    {
+      "name": "SwapInterface.tsx",
+      "path": "src/components/SwapInterface.tsx",
+      "sha": "1e9aee1104fa90ec8a36b65f471de7b6138d15e1",
+      "size": 5513,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/SwapInterface.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/SwapInterface.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1e9aee1104fa90ec8a36b65f471de7b6138d15e1",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/SwapInterface.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/SwapInterface.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1e9aee1104fa90ec8a36b65f471de7b6138d15e1",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/SwapInterface.tsx"
+      }
+    },
+    {
+      "name": "ThemeProvider.tsx",
+      "path": "src/components/ThemeProvider.tsx",
+      "sha": "ee5f2dbfbcb922943816a3ae0a7817276837a528",
+      "size": 1577,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ThemeProvider.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ThemeProvider.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ee5f2dbfbcb922943816a3ae0a7817276837a528",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ThemeProvider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ThemeProvider.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ee5f2dbfbcb922943816a3ae0a7817276837a528",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ThemeProvider.tsx"
+      }
+    },
+    {
+      "name": "ThemeToggle.tsx",
+      "path": "src/components/ThemeToggle.tsx",
+      "sha": "88c1d601488ee9c5b08b3ffde87769e43ab185be",
+      "size": 682,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ThemeToggle.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ThemeToggle.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/88c1d601488ee9c5b08b3ffde87769e43ab185be",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ThemeToggle.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ThemeToggle.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/88c1d601488ee9c5b08b3ffde87769e43ab185be",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ThemeToggle.tsx"
+      }
+    },
+    {
+      "name": "ui",
+      "path": "src/components/ui",
+      "sha": "7407828a2b640a64071a8608b82e6df7bc682f3f",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/components/ui",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/7407828a2b640a64071a8608b82e6df7bc682f3f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/7407828a2b640a64071a8608b82e6df7bc682f3f",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/components/ui"
+      }
+    },
+    {
+      "name": "accordion.tsx",
+      "path": "src/components/ui/accordion.tsx",
+      "sha": "e6a723d06574ee5cec8b00759b98f3fbe1ac7cc9",
+      "size": 1977,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/accordion.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/accordion.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e6a723d06574ee5cec8b00759b98f3fbe1ac7cc9",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/accordion.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/accordion.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e6a723d06574ee5cec8b00759b98f3fbe1ac7cc9",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/accordion.tsx"
+      }
+    },
+    {
+      "name": "alert-dialog.tsx",
+      "path": "src/components/ui/alert-dialog.tsx",
+      "sha": "8722561cf6bda62d62f9a0c67730aefda971873a",
+      "size": 4420,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/alert-dialog.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/alert-dialog.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/8722561cf6bda62d62f9a0c67730aefda971873a",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/alert-dialog.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/alert-dialog.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/8722561cf6bda62d62f9a0c67730aefda971873a",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/alert-dialog.tsx"
+      }
+    },
+    {
+      "name": "alert.tsx",
+      "path": "src/components/ui/alert.tsx",
+      "sha": "41fa7e0561a3fdb5f986c1213a35e563de740e96",
+      "size": 1584,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/alert.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/alert.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/41fa7e0561a3fdb5f986c1213a35e563de740e96",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/alert.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/alert.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/41fa7e0561a3fdb5f986c1213a35e563de740e96",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/alert.tsx"
+      }
+    },
+    {
+      "name": "aspect-ratio.tsx",
+      "path": "src/components/ui/aspect-ratio.tsx",
+      "sha": "c4abbf37f217c715a0eaade7f45ac78600df419f",
+      "size": 140,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/aspect-ratio.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/aspect-ratio.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c4abbf37f217c715a0eaade7f45ac78600df419f",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/aspect-ratio.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/aspect-ratio.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c4abbf37f217c715a0eaade7f45ac78600df419f",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/aspect-ratio.tsx"
+      }
+    },
+    {
+      "name": "avatar.tsx",
+      "path": "src/components/ui/avatar.tsx",
+      "sha": "991f56ecb117e96284bf0f6cad3b14ea2fdf5264",
+      "size": 1405,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/avatar.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/avatar.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/991f56ecb117e96284bf0f6cad3b14ea2fdf5264",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/avatar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/avatar.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/991f56ecb117e96284bf0f6cad3b14ea2fdf5264",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/avatar.tsx"
+      }
+    },
+    {
+      "name": "badge.tsx",
+      "path": "src/components/ui/badge.tsx",
+      "sha": "f000e3ef5176395b067dfc3f3e1256a80c450015",
+      "size": 1128,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/badge.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/badge.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f000e3ef5176395b067dfc3f3e1256a80c450015",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/badge.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/badge.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f000e3ef5176395b067dfc3f3e1256a80c450015",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/badge.tsx"
+      }
+    },
+    {
+      "name": "breadcrumb.tsx",
+      "path": "src/components/ui/breadcrumb.tsx",
+      "sha": "71a5c325cdce2e6898d11cfeb4f2fdd458e3e2da",
+      "size": 2701,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/breadcrumb.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/breadcrumb.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/71a5c325cdce2e6898d11cfeb4f2fdd458e3e2da",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/breadcrumb.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/breadcrumb.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/71a5c325cdce2e6898d11cfeb4f2fdd458e3e2da",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/breadcrumb.tsx"
+      }
+    },
+    {
+      "name": "button.tsx",
+      "path": "src/components/ui/button.tsx",
+      "sha": "36496a28727a3643b4212a14225d4f6cbd50bda5",
+      "size": 1901,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/button.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/button.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/36496a28727a3643b4212a14225d4f6cbd50bda5",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/button.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/button.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/36496a28727a3643b4212a14225d4f6cbd50bda5",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/button.tsx"
+      }
+    },
+    {
+      "name": "calendar.tsx",
+      "path": "src/components/ui/calendar.tsx",
+      "sha": "3160ad0f396d96ec2f499e3e76aae44656f58497",
+      "size": 2620,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/calendar.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/calendar.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3160ad0f396d96ec2f499e3e76aae44656f58497",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/calendar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/calendar.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3160ad0f396d96ec2f499e3e76aae44656f58497",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/calendar.tsx"
+      }
+    },
+    {
+      "name": "card.tsx",
+      "path": "src/components/ui/card.tsx",
+      "sha": "afa13ecfa3bd0f4a553a510b856c5800382e139b",
+      "size": 1877,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/card.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/card.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/afa13ecfa3bd0f4a553a510b856c5800382e139b",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/card.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/card.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/afa13ecfa3bd0f4a553a510b856c5800382e139b",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/card.tsx"
+      }
+    },
+    {
+      "name": "carousel.tsx",
+      "path": "src/components/ui/carousel.tsx",
+      "sha": "9c2b9bf3705d8421bef00704c0c52e83d371ca11",
+      "size": 6210,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/carousel.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/carousel.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/9c2b9bf3705d8421bef00704c0c52e83d371ca11",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/carousel.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/carousel.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/9c2b9bf3705d8421bef00704c0c52e83d371ca11",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/carousel.tsx"
+      }
+    },
+    {
+      "name": "chart.tsx",
+      "path": "src/components/ui/chart.tsx",
+      "sha": "a21d77ee708c3d861fb246ecab7f6dc36e0e605b",
+      "size": 10466,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/chart.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/chart.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a21d77ee708c3d861fb246ecab7f6dc36e0e605b",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/chart.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/chart.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a21d77ee708c3d861fb246ecab7f6dc36e0e605b",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/chart.tsx"
+      }
+    },
+    {
+      "name": "checkbox.tsx",
+      "path": "src/components/ui/checkbox.tsx",
+      "sha": "ddbdd01d8d1491ab772790db8d40c5ac0a2630f3",
+      "size": 1056,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/checkbox.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/checkbox.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ddbdd01d8d1491ab772790db8d40c5ac0a2630f3",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/checkbox.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/checkbox.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ddbdd01d8d1491ab772790db8d40c5ac0a2630f3",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/checkbox.tsx"
+      }
+    },
+    {
+      "name": "collapsible.tsx",
+      "path": "src/components/ui/collapsible.tsx",
+      "sha": "a23e7a281287e18b1c332498491b6bcc8d8e2b70",
+      "size": 315,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/collapsible.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/collapsible.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a23e7a281287e18b1c332498491b6bcc8d8e2b70",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/collapsible.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/collapsible.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a23e7a281287e18b1c332498491b6bcc8d8e2b70",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/collapsible.tsx"
+      }
+    },
+    {
+      "name": "command.tsx",
+      "path": "src/components/ui/command.tsx",
+      "sha": "56a0979c02183994b324f8039cf710cdf786bcb7",
+      "size": 4879,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/command.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/command.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/56a0979c02183994b324f8039cf710cdf786bcb7",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/command.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/command.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/56a0979c02183994b324f8039cf710cdf786bcb7",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/command.tsx"
+      }
+    },
+    {
+      "name": "context-menu.tsx",
+      "path": "src/components/ui/context-menu.tsx",
+      "sha": "3e5299917fb55decf8ba88f03c964d984c43cb18",
+      "size": 7246,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/context-menu.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/context-menu.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3e5299917fb55decf8ba88f03c964d984c43cb18",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/context-menu.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/context-menu.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3e5299917fb55decf8ba88f03c964d984c43cb18",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/context-menu.tsx"
+      }
+    },
+    {
+      "name": "dialog.tsx",
+      "path": "src/components/ui/dialog.tsx",
+      "sha": "c23630eb841533af4030574e54106f0fdf0fc677",
+      "size": 3835,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/dialog.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/dialog.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c23630eb841533af4030574e54106f0fdf0fc677",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/dialog.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/dialog.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c23630eb841533af4030574e54106f0fdf0fc677",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/dialog.tsx"
+      }
+    },
+    {
+      "name": "drawer.tsx",
+      "path": "src/components/ui/drawer.tsx",
+      "sha": "c17b0ccaa95dccfb96c75618e078efd263e54fd0",
+      "size": 3007,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/drawer.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/drawer.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c17b0ccaa95dccfb96c75618e078efd263e54fd0",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/drawer.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/drawer.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/c17b0ccaa95dccfb96c75618e078efd263e54fd0",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/drawer.tsx"
+      }
+    },
+    {
+      "name": "dropdown-menu.tsx",
+      "path": "src/components/ui/dropdown-menu.tsx",
+      "sha": "769ff7aa709f0d7a1afe2a87d180447fc26749e4",
+      "size": 7295,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/dropdown-menu.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/dropdown-menu.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/769ff7aa709f0d7a1afe2a87d180447fc26749e4",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/dropdown-menu.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/dropdown-menu.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/769ff7aa709f0d7a1afe2a87d180447fc26749e4",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/dropdown-menu.tsx"
+      }
+    },
+    {
+      "name": "form.tsx",
+      "path": "src/components/ui/form.tsx",
+      "sha": "4603f8b3d5eee5fe162bb69a02ce8546d4358cc3",
+      "size": 4085,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/form.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/form.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/4603f8b3d5eee5fe162bb69a02ce8546d4358cc3",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/form.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/form.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/4603f8b3d5eee5fe162bb69a02ce8546d4358cc3",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/form.tsx"
+      }
+    },
+    {
+      "name": "hover-card.tsx",
+      "path": "src/components/ui/hover-card.tsx",
+      "sha": "863ff0148f0bb239b93c44a93baf14073cd3ae23",
+      "size": 1184,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/hover-card.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/hover-card.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/863ff0148f0bb239b93c44a93baf14073cd3ae23",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/hover-card.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/hover-card.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/863ff0148f0bb239b93c44a93baf14073cd3ae23",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/hover-card.tsx"
+      }
+    },
+    {
+      "name": "input-otp.tsx",
+      "path": "src/components/ui/input-otp.tsx",
+      "sha": "ebf5c281ee7fbbf86462b33b7b9955d884d57580",
+      "size": 2154,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/input-otp.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/input-otp.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ebf5c281ee7fbbf86462b33b7b9955d884d57580",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/input-otp.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/input-otp.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ebf5c281ee7fbbf86462b33b7b9955d884d57580",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/input-otp.tsx"
+      }
+    },
+    {
+      "name": "input.tsx",
+      "path": "src/components/ui/input.tsx",
+      "sha": "329bf058cfe18a08314230c0853d70c8885c899c",
+      "size": 687,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/input.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/input.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/329bf058cfe18a08314230c0853d70c8885c899c",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/input.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/input.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/329bf058cfe18a08314230c0853d70c8885c899c",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/input.tsx"
+      }
+    },
+    {
+      "name": "label.tsx",
+      "path": "src/components/ui/label.tsx",
+      "sha": "683faa793819982d64e21cb2939666fd6d4a7b13",
+      "size": 710,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/label.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/label.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/683faa793819982d64e21cb2939666fd6d4a7b13",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/label.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/label.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/683faa793819982d64e21cb2939666fd6d4a7b13",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/label.tsx"
+      }
+    },
+    {
+      "name": "menubar.tsx",
+      "path": "src/components/ui/menubar.tsx",
+      "sha": "d11c2993f279769a0df4ba4313e1f0c7c7c7cd28",
+      "size": 7974,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/menubar.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/menubar.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/d11c2993f279769a0df4ba4313e1f0c7c7c7cd28",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/menubar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/menubar.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/d11c2993f279769a0df4ba4313e1f0c7c7c7cd28",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/menubar.tsx"
+      }
+    },
+    {
+      "name": "navigation-menu.tsx",
+      "path": "src/components/ui/navigation-menu.tsx",
+      "sha": "1419f56695be517ec78fe8ad26a6f7da3a7d53b2",
+      "size": 5046,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/navigation-menu.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/navigation-menu.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1419f56695be517ec78fe8ad26a6f7da3a7d53b2",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/navigation-menu.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/navigation-menu.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1419f56695be517ec78fe8ad26a6f7da3a7d53b2",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/navigation-menu.tsx"
+      }
+    },
+    {
+      "name": "pagination.tsx",
+      "path": "src/components/ui/pagination.tsx",
+      "sha": "ea40d196dc72673f36c4084bf56457385edc855e",
+      "size": 2751,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/pagination.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/pagination.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ea40d196dc72673f36c4084bf56457385edc855e",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/pagination.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/pagination.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ea40d196dc72673f36c4084bf56457385edc855e",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/pagination.tsx"
+      }
+    },
+    {
+      "name": "popover.tsx",
+      "path": "src/components/ui/popover.tsx",
+      "sha": "bbba7e0ebf26c29526552f2dc4e8e3ecea3d641a",
+      "size": 1230,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/popover.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/popover.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/bbba7e0ebf26c29526552f2dc4e8e3ecea3d641a",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/popover.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/popover.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/bbba7e0ebf26c29526552f2dc4e8e3ecea3d641a",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/popover.tsx"
+      }
+    },
+    {
+      "name": "progress.tsx",
+      "path": "src/components/ui/progress.tsx",
+      "sha": "105fb650055b71797510142dfa041b5d80808041",
+      "size": 777,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/progress.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/progress.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/105fb650055b71797510142dfa041b5d80808041",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/progress.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/progress.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/105fb650055b71797510142dfa041b5d80808041",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/progress.tsx"
+      }
+    },
+    {
+      "name": "radio-group.tsx",
+      "path": "src/components/ui/radio-group.tsx",
+      "sha": "43b43b48b84d3045a442409006d5cb8c5f35adfd",
+      "size": 1467,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/radio-group.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/radio-group.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/43b43b48b84d3045a442409006d5cb8c5f35adfd",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/radio-group.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/radio-group.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/43b43b48b84d3045a442409006d5cb8c5f35adfd",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/radio-group.tsx"
+      }
+    },
+    {
+      "name": "resizable.tsx",
+      "path": "src/components/ui/resizable.tsx",
+      "sha": "cd3cb0ec783fcd72906f275a372d50259d5853b8",
+      "size": 1709,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/resizable.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/resizable.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/cd3cb0ec783fcd72906f275a372d50259d5853b8",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/resizable.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/resizable.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/cd3cb0ec783fcd72906f275a372d50259d5853b8",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/resizable.tsx"
+      }
+    },
+    {
+      "name": "scroll-area.tsx",
+      "path": "src/components/ui/scroll-area.tsx",
+      "sha": "cf253cf17056ce04827219643e484ea99c77cf6b",
+      "size": 1642,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/scroll-area.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/scroll-area.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/cf253cf17056ce04827219643e484ea99c77cf6b",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/scroll-area.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/scroll-area.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/cf253cf17056ce04827219643e484ea99c77cf6b",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/scroll-area.tsx"
+      }
+    },
+    {
+      "name": "select.tsx",
+      "path": "src/components/ui/select.tsx",
+      "sha": "fe56d4d3ad53f9c3ec9434f2d39feb7571a3b52f",
+      "size": 5615,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/select.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/select.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/fe56d4d3ad53f9c3ec9434f2d39feb7571a3b52f",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/select.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/select.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/fe56d4d3ad53f9c3ec9434f2d39feb7571a3b52f",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/select.tsx"
+      }
+    },
+    {
+      "name": "separator.tsx",
+      "path": "src/components/ui/separator.tsx",
+      "sha": "6d7f12265ba0338704f013930ce4d52c56527dd1",
+      "size": 756,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/separator.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/separator.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6d7f12265ba0338704f013930ce4d52c56527dd1",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/separator.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/separator.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6d7f12265ba0338704f013930ce4d52c56527dd1",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/separator.tsx"
+      }
+    },
+    {
+      "name": "sheet.tsx",
+      "path": "src/components/ui/sheet.tsx",
+      "sha": "7b1dbe4c4515258f91cad0234c685771859e962a",
+      "size": 4250,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/sheet.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/sheet.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/7b1dbe4c4515258f91cad0234c685771859e962a",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/sheet.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/sheet.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/7b1dbe4c4515258f91cad0234c685771859e962a",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/sheet.tsx"
+      }
+    },
+    {
+      "name": "sidebar.tsx",
+      "path": "src/components/ui/sidebar.tsx",
+      "sha": "1a566bf5537500fec3e02f3e6249e51d0ec23cea",
+      "size": 23367,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/sidebar.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/sidebar.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1a566bf5537500fec3e02f3e6249e51d0ec23cea",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/sidebar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/sidebar.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/1a566bf5537500fec3e02f3e6249e51d0ec23cea",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/sidebar.tsx"
+      }
+    },
+    {
+      "name": "skeleton.tsx",
+      "path": "src/components/ui/skeleton.tsx",
+      "sha": "01b8b6d4f716ff7c26065bc9e46aebd932729fc1",
+      "size": 261,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/skeleton.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/skeleton.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/01b8b6d4f716ff7c26065bc9e46aebd932729fc1",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/skeleton.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/skeleton.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/01b8b6d4f716ff7c26065bc9e46aebd932729fc1",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/skeleton.tsx"
+      }
+    },
+    {
+      "name": "slider.tsx",
+      "path": "src/components/ui/slider.tsx",
+      "sha": "e161daec03130190dcfb597c8632f9df4ba407f5",
+      "size": 1077,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/slider.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/slider.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e161daec03130190dcfb597c8632f9df4ba407f5",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/slider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/slider.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e161daec03130190dcfb597c8632f9df4ba407f5",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/slider.tsx"
+      }
+    },
+    {
+      "name": "sonner.tsx",
+      "path": "src/components/ui/sonner.tsx",
+      "sha": "35418149c0656c2257baf517e85496ef759677f5",
+      "size": 894,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/sonner.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/sonner.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/35418149c0656c2257baf517e85496ef759677f5",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/sonner.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/sonner.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/35418149c0656c2257baf517e85496ef759677f5",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/sonner.tsx"
+      }
+    },
+    {
+      "name": "switch.tsx",
+      "path": "src/components/ui/switch.tsx",
+      "sha": "aa58baa29c676db7b14a37436a9662107b0111ec",
+      "size": 1139,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/switch.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/switch.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/aa58baa29c676db7b14a37436a9662107b0111ec",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/switch.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/switch.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/aa58baa29c676db7b14a37436a9662107b0111ec",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/switch.tsx"
+      }
+    },
+    {
+      "name": "table.tsx",
+      "path": "src/components/ui/table.tsx",
+      "sha": "7f3502f8b2820be1d6f0aa4c1ffaa351799c1ed3",
+      "size": 2765,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/table.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/table.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/7f3502f8b2820be1d6f0aa4c1ffaa351799c1ed3",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/table.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/table.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/7f3502f8b2820be1d6f0aa4c1ffaa351799c1ed3",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/table.tsx"
+      }
+    },
+    {
+      "name": "tabs.tsx",
+      "path": "src/components/ui/tabs.tsx",
+      "sha": "f57fffdb5a07cd21b12f8c014513475a6980a469",
+      "size": 1883,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/tabs.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/tabs.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f57fffdb5a07cd21b12f8c014513475a6980a469",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/tabs.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/tabs.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f57fffdb5a07cd21b12f8c014513475a6980a469",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/tabs.tsx"
+      }
+    },
+    {
+      "name": "textarea.tsx",
+      "path": "src/components/ui/textarea.tsx",
+      "sha": "88b8ad7835f69fc4453fe690c8f0a18f2e9ef1ba",
+      "size": 668,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/textarea.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/textarea.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/88b8ad7835f69fc4453fe690c8f0a18f2e9ef1ba",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/textarea.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/textarea.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/88b8ad7835f69fc4453fe690c8f0a18f2e9ef1ba",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/textarea.tsx"
+      }
+    },
+    {
+      "name": "toast.tsx",
+      "path": "src/components/ui/toast.tsx",
+      "sha": "a822477534192c4df5073e4015f7461e739d3344",
+      "size": 4845,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toast.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toast.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a822477534192c4df5073e4015f7461e739d3344",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/toast.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toast.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a822477534192c4df5073e4015f7461e739d3344",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toast.tsx"
+      }
+    },
+    {
+      "name": "toaster.tsx",
+      "path": "src/components/ui/toaster.tsx",
+      "sha": "6c67edff67a48c6ac1c46f25a6d468dd461e66cb",
+      "size": 772,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toaster.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toaster.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6c67edff67a48c6ac1c46f25a6d468dd461e66cb",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/toaster.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toaster.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6c67edff67a48c6ac1c46f25a6d468dd461e66cb",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toaster.tsx"
+      }
+    },
+    {
+      "name": "toggle-group.tsx",
+      "path": "src/components/ui/toggle-group.tsx",
+      "sha": "afe5da62559ca05a0eb5c9415a1e20bd47b37af9",
+      "size": 1739,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toggle-group.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toggle-group.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/afe5da62559ca05a0eb5c9415a1e20bd47b37af9",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/toggle-group.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toggle-group.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/afe5da62559ca05a0eb5c9415a1e20bd47b37af9",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toggle-group.tsx"
+      }
+    },
+    {
+      "name": "toggle.tsx",
+      "path": "src/components/ui/toggle.tsx",
+      "sha": "9ecac28ee639d98fbc161a904b5bca0e022e28d6",
+      "size": 1435,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toggle.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toggle.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/9ecac28ee639d98fbc161a904b5bca0e022e28d6",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/toggle.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/toggle.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/9ecac28ee639d98fbc161a904b5bca0e022e28d6",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/toggle.tsx"
+      }
+    },
+    {
+      "name": "tooltip.tsx",
+      "path": "src/components/ui/tooltip.tsx",
+      "sha": "e121f0aea0b32952ae54d7db8965a2c15168b13e",
+      "size": 1145,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/tooltip.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/tooltip.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e121f0aea0b32952ae54d7db8965a2c15168b13e",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/tooltip.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/tooltip.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e121f0aea0b32952ae54d7db8965a2c15168b13e",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/tooltip.tsx"
+      }
+    },
+    {
+      "name": "use-toast.ts",
+      "path": "src/components/ui/use-toast.ts",
+      "sha": "b0aef21be259883fe159d3176ab46c6841c28a07",
+      "size": 82,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/use-toast.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/use-toast.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/b0aef21be259883fe159d3176ab46c6841c28a07",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/components/ui/use-toast.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/components/ui/use-toast.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/b0aef21be259883fe159d3176ab46c6841c28a07",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/components/ui/use-toast.ts"
+      }
+    },
+    {
+      "name": "hooks",
+      "path": "src/hooks",
+      "sha": "68e9d41c43aae32ee5314e0006e01345589570f4",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/hooks?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/hooks",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/68e9d41c43aae32ee5314e0006e01345589570f4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/hooks?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/68e9d41c43aae32ee5314e0006e01345589570f4",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/hooks"
+      }
+    },
+    {
+      "name": "use-mobile.tsx",
+      "path": "src/hooks/use-mobile.tsx",
+      "sha": "2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+      "size": 565,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/hooks/use-mobile.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/hooks/use-mobile.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/hooks/use-mobile.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/hooks/use-mobile.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/hooks/use-mobile.tsx"
+      }
+    },
+    {
+      "name": "use-toast.ts",
+      "path": "src/hooks/use-toast.ts",
+      "sha": "2c14125ac48b874740770da80d9e424daf1db58b",
+      "size": 3895,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/hooks/use-toast.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/hooks/use-toast.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2c14125ac48b874740770da80d9e424daf1db58b",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/hooks/use-toast.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/hooks/use-toast.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2c14125ac48b874740770da80d9e424daf1db58b",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/hooks/use-toast.ts"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "src/index.css",
+      "sha": "e19d65caa00882f71d339a66c106ec85a6cfbb28",
+      "size": 3626,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/index.css?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/index.css",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e19d65caa00882f71d339a66c106ec85a6cfbb28",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/index.css?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/e19d65caa00882f71d339a66c106ec85a6cfbb28",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/index.css"
+      }
+    },
+    {
+      "name": "lib",
+      "path": "src/lib",
+      "sha": "dd89dcb79c2ec48eb7f1e6b5fcedcd47897b9f6d",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/lib?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/lib",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/dd89dcb79c2ec48eb7f1e6b5fcedcd47897b9f6d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/lib?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/dd89dcb79c2ec48eb7f1e6b5fcedcd47897b9f6d",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/lib"
+      }
+    },
+    {
+      "name": "utils.ts",
+      "path": "src/lib/utils.ts",
+      "sha": "001095fc720aede9815bda9819e74d92e64b82ee",
+      "size": 177,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/lib/utils.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/lib/utils.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/001095fc720aede9815bda9819e74d92e64b82ee",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/lib/utils.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/lib/utils.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/001095fc720aede9815bda9819e74d92e64b82ee",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/lib/utils.ts"
+      }
+    },
+    {
+      "name": "wagmi.ts",
+      "path": "src/lib/wagmi.ts",
+      "sha": "ca399c92939f2292f594f20e4c929bcf9c064def",
+      "size": 421,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/lib/wagmi.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/lib/wagmi.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ca399c92939f2292f594f20e4c929bcf9c064def",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/lib/wagmi.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/lib/wagmi.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/ca399c92939f2292f594f20e4c929bcf9c064def",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/lib/wagmi.ts"
+      }
+    },
+    {
+      "name": "main.tsx",
+      "path": "src/main.tsx",
+      "sha": "719464e3da4bc77d3adebed4b6c12d3327f5b89f",
+      "size": 158,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/main.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/main.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/719464e3da4bc77d3adebed4b6c12d3327f5b89f",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/main.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/main.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/719464e3da4bc77d3adebed4b6c12d3327f5b89f",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/main.tsx"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "src/pages",
+      "sha": "f42fd18ffa55fae1bd50cae2f06fd38a63fee349",
+      "size": 0,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/pages",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/f42fd18ffa55fae1bd50cae2f06fd38a63fee349",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/trees/f42fd18ffa55fae1bd50cae2f06fd38a63fee349",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/tree/main/src/pages"
+      }
+    },
+    {
+      "name": "Bridge.tsx",
+      "path": "src/pages/Bridge.tsx",
+      "sha": "a0839b1498cd2699ba2e36ec831eabda017e63ba",
+      "size": 7331,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Bridge.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Bridge.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a0839b1498cd2699ba2e36ec831eabda017e63ba",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Bridge.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Bridge.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/a0839b1498cd2699ba2e36ec831eabda017e63ba",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Bridge.tsx"
+      }
+    },
+    {
+      "name": "BuyCrypto.tsx",
+      "path": "src/pages/BuyCrypto.tsx",
+      "sha": "5ecabac8a734dba6330f12d9918d1bb521c021bb",
+      "size": 6035,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/BuyCrypto.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/BuyCrypto.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/5ecabac8a734dba6330f12d9918d1bb521c021bb",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/BuyCrypto.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/BuyCrypto.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/5ecabac8a734dba6330f12d9918d1bb521c021bb",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/BuyCrypto.tsx"
+      }
+    },
+    {
+      "name": "Charts.tsx",
+      "path": "src/pages/Charts.tsx",
+      "sha": "87c046fa772df73680367b62644c7b23bd5356b6",
+      "size": 17417,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Charts.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Charts.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/87c046fa772df73680367b62644c7b23bd5356b6",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Charts.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Charts.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/87c046fa772df73680367b62644c7b23bd5356b6",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Charts.tsx"
+      }
+    },
+    {
+      "name": "Farms.tsx",
+      "path": "src/pages/Farms.tsx",
+      "sha": "6e2e04ea5f01c2a16a48738babf969240e657716",
+      "size": 6534,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Farms.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Farms.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6e2e04ea5f01c2a16a48738babf969240e657716",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Farms.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Farms.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6e2e04ea5f01c2a16a48738babf969240e657716",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Farms.tsx"
+      }
+    },
+    {
+      "name": "ICO.tsx",
+      "path": "src/pages/ICO.tsx",
+      "sha": "2121e1f3d436a6a6797329df9d8dec1bc84ebfd5",
+      "size": 10688,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/ICO.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/ICO.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2121e1f3d436a6a6797329df9d8dec1bc84ebfd5",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/ICO.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/ICO.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/2121e1f3d436a6a6797329df9d8dec1bc84ebfd5",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/ICO.tsx"
+      }
+    },
+    {
+      "name": "Index.tsx",
+      "path": "src/pages/Index.tsx",
+      "sha": "11c33f96c4370b65746e6b3bc007ec5ebf7014a8",
+      "size": 644,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Index.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Index.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/11c33f96c4370b65746e6b3bc007ec5ebf7014a8",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Index.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/11c33f96c4370b65746e6b3bc007ec5ebf7014a8",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Index.tsx"
+      }
+    },
+    {
+      "name": "Liquidity.tsx",
+      "path": "src/pages/Liquidity.tsx",
+      "sha": "0ae7f11c33bf44c9151caa8cdb71666e9cd3f3b3",
+      "size": 6630,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Liquidity.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Liquidity.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/0ae7f11c33bf44c9151caa8cdb71666e9cd3f3b3",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Liquidity.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Liquidity.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/0ae7f11c33bf44c9151caa8cdb71666e9cd3f3b3",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Liquidity.tsx"
+      }
+    },
+    {
+      "name": "NotFound.tsx",
+      "path": "src/pages/NotFound.tsx",
+      "sha": "cda36dad66f37ea2f094f433985694a220a70d63",
+      "size": 739,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/NotFound.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/NotFound.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/cda36dad66f37ea2f094f433985694a220a70d63",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/NotFound.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/NotFound.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/cda36dad66f37ea2f094f433985694a220a70d63",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/NotFound.tsx"
+      }
+    },
+    {
+      "name": "Pools.tsx",
+      "path": "src/pages/Pools.tsx",
+      "sha": "f470d9fafeb9ebf9a281f8b6e00e60e80a4a5110",
+      "size": 7617,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Pools.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Pools.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f470d9fafeb9ebf9a281f8b6e00e60e80a4a5110",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Pools.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Pools.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/f470d9fafeb9ebf9a281f8b6e00e60e80a4a5110",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Pools.tsx"
+      }
+    },
+    {
+      "name": "Staking.tsx",
+      "path": "src/pages/Staking.tsx",
+      "sha": "03e82e77ab1b47b413a9ffeafe9cbe424502ada4",
+      "size": 9202,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Staking.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Staking.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/03e82e77ab1b47b413a9ffeafe9cbe424502ada4",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Staking.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Staking.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/03e82e77ab1b47b413a9ffeafe9cbe424502ada4",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Staking.tsx"
+      }
+    },
+    {
+      "name": "Trade.tsx",
+      "path": "src/pages/Trade.tsx",
+      "sha": "60318aeedbddab673cca6a8212ab5007de575356",
+      "size": 5208,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Trade.tsx?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Trade.tsx",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/60318aeedbddab673cca6a8212ab5007de575356",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/pages/Trade.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/pages/Trade.tsx?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/60318aeedbddab673cca6a8212ab5007de575356",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/pages/Trade.tsx"
+      }
+    },
+    {
+      "name": "vite-env.d.ts",
+      "path": "src/vite-env.d.ts",
+      "sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size": 38,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/vite-env.d.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/vite-env.d.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/src/vite-env.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/src/vite-env.d.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/src/vite-env.d.ts"
+      }
+    },
+    {
+      "name": "tailwind.config.ts",
+      "path": "tailwind.config.ts",
+      "sha": "6f2509404bba2810b19cf161d43cc59fb8f143ed",
+      "size": 1923,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tailwind.config.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tailwind.config.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6f2509404bba2810b19cf161d43cc59fb8f143ed",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/tailwind.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tailwind.config.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/6f2509404bba2810b19cf161d43cc59fb8f143ed",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tailwind.config.ts"
+      }
+    },
+    {
+      "name": "tsconfig.app.json",
+      "path": "tsconfig.app.json",
+      "sha": "0b0e43e6bc8079ff97d899dddb025d5b09f20ee2",
+      "size": 652,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tsconfig.app.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tsconfig.app.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/0b0e43e6bc8079ff97d899dddb025d5b09f20ee2",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/tsconfig.app.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tsconfig.app.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/0b0e43e6bc8079ff97d899dddb025d5b09f20ee2",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tsconfig.app.json"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "129b1a30fdbe84d753a2526f13a20e0857f420ba",
+      "size": 381,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/129b1a30fdbe84d753a2526f13a20e0857f420ba",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/129b1a30fdbe84d753a2526f13a20e0857f420ba",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "tsconfig.node.json",
+      "path": "tsconfig.node.json",
+      "sha": "3133162c20350e1741b94b8d2ff77b811bec8363",
+      "size": 481,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tsconfig.node.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tsconfig.node.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3133162c20350e1741b94b8d2ff77b811bec8363",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/tsconfig.node.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/tsconfig.node.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/3133162c20350e1741b94b8d2ff77b811bec8363",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/tsconfig.node.json"
+      }
+    },
+    {
+      "name": "vercel.json",
+      "path": "vercel.json",
+      "sha": "30e5a87b11b2cfa1cd4ed1b97ccb969d5e6e6a8c",
+      "size": 65,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/vercel.json?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/vercel.json",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/30e5a87b11b2cfa1cd4ed1b97ccb969d5e6e6a8c",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/vercel.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/vercel.json?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/30e5a87b11b2cfa1cd4ed1b97ccb969d5e6e6a8c",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/vercel.json"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "vite.config.ts",
+      "sha": "25c5589eb018f93b59ab282662f2f787330af483",
+      "size": 471,
+      "url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/vite.config.ts?ref=main",
+      "html_url": "https://github.com/knightsdex/knightsbridge-dex/blob/main/vite.config.ts",
+      "git_url": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/25c5589eb018f93b59ab282662f2f787330af483",
+      "download_url": "https://raw.githubusercontent.com/knightsdex/knightsbridge-dex/main/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/knightsdex/knightsbridge-dex/contents/vite.config.ts?ref=main",
+        "git": "https://api.github.com/repos/knightsdex/knightsbridge-dex/git/blobs/25c5589eb018f93b59ab282662f2f787330af483",
+        "html": "https://github.com/knightsdex/knightsbridge-dex/blob/main/vite.config.ts"
+      }
+    }
+  ]
+}

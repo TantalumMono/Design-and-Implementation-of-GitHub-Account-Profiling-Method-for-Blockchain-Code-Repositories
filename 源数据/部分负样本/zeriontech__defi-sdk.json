@@ -1,0 +1,2193 @@
+{
+  "repo_full_name": "zeriontech/defi-sdk",
+  "repo_detail": {
+    "id": 229208072,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMjkyMDgwNzI=",
+    "name": "defi-sdk",
+    "full_name": "zeriontech/defi-sdk",
+    "private": false,
+    "owner": {
+      "login": "zeriontech",
+      "id": 18306895,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzA2ODk1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18306895?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zeriontech",
+      "html_url": "https://github.com/zeriontech",
+      "followers_url": "https://api.github.com/users/zeriontech/followers",
+      "following_url": "https://api.github.com/users/zeriontech/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zeriontech/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zeriontech/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zeriontech/subscriptions",
+      "organizations_url": "https://api.github.com/users/zeriontech/orgs",
+      "repos_url": "https://api.github.com/users/zeriontech/repos",
+      "events_url": "https://api.github.com/users/zeriontech/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zeriontech/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zeriontech/defi-sdk",
+    "description": "DeFi SDK Makes Money Lego Work",
+    "fork": false,
+    "url": "https://api.github.com/repos/zeriontech/defi-sdk",
+    "forks_url": "https://api.github.com/repos/zeriontech/defi-sdk/forks",
+    "keys_url": "https://api.github.com/repos/zeriontech/defi-sdk/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zeriontech/defi-sdk/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zeriontech/defi-sdk/teams",
+    "hooks_url": "https://api.github.com/repos/zeriontech/defi-sdk/hooks",
+    "issue_events_url": "https://api.github.com/repos/zeriontech/defi-sdk/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zeriontech/defi-sdk/events",
+    "assignees_url": "https://api.github.com/repos/zeriontech/defi-sdk/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zeriontech/defi-sdk/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zeriontech/defi-sdk/tags",
+    "blobs_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zeriontech/defi-sdk/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zeriontech/defi-sdk/languages",
+    "stargazers_url": "https://api.github.com/repos/zeriontech/defi-sdk/stargazers",
+    "contributors_url": "https://api.github.com/repos/zeriontech/defi-sdk/contributors",
+    "subscribers_url": "https://api.github.com/repos/zeriontech/defi-sdk/subscribers",
+    "subscription_url": "https://api.github.com/repos/zeriontech/defi-sdk/subscription",
+    "commits_url": "https://api.github.com/repos/zeriontech/defi-sdk/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zeriontech/defi-sdk/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zeriontech/defi-sdk/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zeriontech/defi-sdk/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zeriontech/defi-sdk/merges",
+    "archive_url": "https://api.github.com/repos/zeriontech/defi-sdk/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zeriontech/defi-sdk/downloads",
+    "issues_url": "https://api.github.com/repos/zeriontech/defi-sdk/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zeriontech/defi-sdk/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zeriontech/defi-sdk/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zeriontech/defi-sdk/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zeriontech/defi-sdk/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zeriontech/defi-sdk/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zeriontech/defi-sdk/deployments",
+    "created_at": "2019-12-20T06:55:26Z",
+    "updated_at": "2026-01-31T09:52:42Z",
+    "pushed_at": "2025-11-24T17:37:49Z",
+    "git_url": "git://github.com/zeriontech/defi-sdk.git",
+    "ssh_url": "git@github.com:zeriontech/defi-sdk.git",
+    "clone_url": "https://github.com/zeriontech/defi-sdk.git",
+    "svn_url": "https://github.com/zeriontech/defi-sdk",
+    "homepage": "https://docs.zerion.io/defi-sdk/",
+    "size": 11347,
+    "stargazers_count": 833,
+    "watchers_count": 833,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 267,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 51,
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+      "0x",
+      "aave-protocol",
+      "balancer",
+      "compound",
+      "ctokens",
+      "curve",
+      "dai",
+      "defi",
+      "defi-protocols",
+      "defi-sdk",
+      "ethereum",
+      "maker",
+      "solidity",
+      "truffle",
+      "uniswap"
+    ],
+    "visibility": "public",
+    "forks": 267,
+    "open_issues": 51,
+    "watchers": 833,
+    "default_branch": "router",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "zeriontech",
+      "id": 18306895,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzA2ODk1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18306895?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zeriontech",
+      "html_url": "https://github.com/zeriontech",
+      "followers_url": "https://api.github.com/users/zeriontech/followers",
+      "following_url": "https://api.github.com/users/zeriontech/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zeriontech/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zeriontech/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zeriontech/subscriptions",
+      "organizations_url": "https://api.github.com/users/zeriontech/orgs",
+      "repos_url": "https://api.github.com/users/zeriontech/repos",
+      "events_url": "https://api.github.com/users/zeriontech/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zeriontech/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 267,
+    "subscribers_count": 43
+  },
+  "user_detail": {
+    "login": "zeriontech",
+    "id": 18306895,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzA2ODk1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/18306895?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zeriontech",
+    "html_url": "https://github.com/zeriontech",
+    "followers_url": "https://api.github.com/users/zeriontech/followers",
+    "following_url": "https://api.github.com/users/zeriontech/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zeriontech/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zeriontech/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zeriontech/subscriptions",
+    "organizations_url": "https://api.github.com/users/zeriontech/orgs",
+    "repos_url": "https://api.github.com/users/zeriontech/repos",
+    "events_url": "https://api.github.com/users/zeriontech/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zeriontech/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Zerion",
+    "company": null,
+    "blog": "https://zerion.io",
+    "location": "San Francisco ",
+    "email": "inbox@zerion.io",
+    "hireable": null,
+    "bio": "Your crypto wallet for everything onchain.",
+    "twitter_username": "zerion",
+    "public_repos": 51,
+    "public_gists": 0,
+    "followers": 215,
+    "following": 0,
+    "created_at": "2016-04-06T11:49:05Z",
+    "updated_at": "2026-02-03T13:16:13Z"
+  },
+  "readme": "![](https://i.ibb.co/7QCQKPD/MEDIUM-FINAL.png)\n[![Build status](https://github.com/zeriontech/defi-sdk/workflows/build/badge.svg)](https://github.com/zeriontech/defi-sdk/actions?query=workflow:build)\n[![Test status](https://github.com/zeriontech/defi-sdk/workflows/test/badge.svg)](https://github.com/zeriontech/defi-sdk/actions?query=workflow:test)\n[![Coverage status](https://github.com/zeriontech/defi-sdk/workflows/coverage/badge.svg)](https://github.com/zeriontech/defi-sdk/actions?query=workflow:coverage)\n[![Lint status](https://github.com/zeriontech/defi-sdk/workflows/lint/badge.svg)](https://github.com/zeriontech/defi-sdk/actions?query=workflow:lint)\n[![License](https://badgen.net/github/license/zeriontech/defi-sdk)](https://www.gnu.org/licenses/lgpl-3.0.en.html)\n[![Discord](https://badgen.net/badge/zerion/Zerion?icon=discord&label=discord)](https://zerion.io/discord)\n[![Twitter Follow](https://img.shields.io/twitter/follow/zerion?style=social)](https://x.com/intent/follow?screen_name=zerion)\n\n**DeFi SDK** is an open-source system of smart contracts that allows you to execute trades with ERC20 tokens and track balances on different protocols.\n\nIf you have any questions about DeFi SDK, feel free to reach out to us on our [Discord server](https://zerion.io/discord).\n\n![](https://i.ibb.co/RC54SjL/defisdk.png)\n\n## Features\n\n**💸Trade any ERC20 tokens on L2 chains using single Router contract**\n> See [How to swap ERC20 tokens using DeFi SDK Router](docs/router.md)\n\n**💥Query user assets and debt deposited in DeFi protocols like *Maker, Aave, dYdX*, etc.**\n> How much debt does `0xdead..beef` have on Compound?\n\n**📊Get the underlying components of complex derivative ERC20 tokens**\n> How much `cUSDC` vs `ETH` does `ETHMACOAPY` have?\n\n**✨Interact with multiple DeFi protocols in a unified way**\n> See [How to interact with DeFi SDK contracts](docs/interacting.md)\n\n## Trading Features\n\n* Trade any ERC20 token\n* Two types of amounts: absolute (usual amount) and relative (percentage of balance)\n* Three types of `permit()` functions for approving tokens in the same transaction (EIP2612, DAI-like, Yearn-like)\n* Two types of swaps: with fixed input amount or fixed output amount\n* Two types of fees:\n  * **protocol fee** managed by the **Router** contract owner with possibility of one-time discounts requiring signature of an address with the special role\n  * **marketplace fee** managed by the transaction creator\n* Relayed transactions requiring just an EIP712 signature of the user\n\n## How to Add Your Adapter\n\n> Read-only and interactive adapters are maintained in [`master`](https://github.com/zeriontech/defi-sdk/tree/master) and [`interactive-updates`](https://github.com/zeriontech/defi-sdk/tree/interactive-updates) branches of **defi-sdk** repo respectively.\n\nThe full instructions on how to add a custom adapters may be found in our [docs](docs/creating-your-adapters/index.md).\n\nIf you have questions and/or want to add your adapter to Zerion reach out to us on our [Discord server](https://zerion.io/discord).\n\n## Addresses\n\nAll the deployed contracts' addresses are available [here](docs/addresses.md).\n\n## Security Vulnerabilities 🛡\n\nIf you discover a security vulnerability within DeFi SDK, please send us an e-mail at inbox@zerion.io.\nAll security vulnerabilities will be promptly addressed.\n\nThe project uses [Slither](https://github.com/crytic/slither) for security analysis.\nIt should be previously installed (e.g. via [pip](https://pypi.org/project/pip/)).\n\nRun `npm run slither` to run security checks.\n\n## Dev Notes\n\nWe use [Hardhat](https://github.com/NomicFoundation/hardhat), which runs tests extremely fast!\n\nAlso, we use [Truffle Dashboard](https://trufflesuite.com/docs/truffle/getting-started/using-the-truffle-dashboard/) for secure deployment.\n\n### Installation\n\nRun `npm install` to install all the dependencies.\n\n### Deployment\n\nRun `npm run truffle-dashboard` to start the Truffle Dashboard.\n\nRun `npm run deploy:router:truffle-dashboard` to deploy the **Router** contract.\nSign deployment transaction in your browser at `http://localhost:24012/`.\n\nFill in address of newly deployed contract to `scripts/deployment.js`.\n\nThe same instruction applies to the **SimpleCaller** contract with `deploy:sc:truffle-dashboard` command.\n\nAfter filling in fee beneficiary for the chosen network in `scripts/deployment.js`, `initialize:router:truffle-dashboard` command may be run.\n\nRun `npm run verify` to verify contract on any block explorer.\nThe respective `<BLOCK_EXPLORER>_API_KEY` filled in `.env` file is required for this step.\nSee the `hardhat.config.ts` file for the details (`etherscan` field of `config` variable uses these API keys).\n\n### Testing & Coverage\n\nThe **Router** contract and its dependencies is fully covered with tests.\n\nRun `npm run test` and `npm run coverage` to run tests or coverage respectively.\n`REPORT_GAS` filled in `.env` file enables/disables gas reports during tests.\n\n### Linting\n\nRun `npm run lint` for both JS and Solidity linters.\n\nRun `npm run lint:eslint` and `npm run lint:solhint` to run linter for JS and Solidity separately.\n\n### Serve docs\n\n`npm run docs:serve`\n\n## License\n\nAll smart contracts are released under GNU LGPLv3 license.\n",
+  "tree_structure": [
+    {
+      "name": ".babelrc",
+      "path": ".babelrc",
+      "sha": "1320b9a3272a5a4a9adc81859d52c68660d1b50d",
+      "size": 39,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.babelrc?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.babelrc",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/1320b9a3272a5a4a9adc81859d52c68660d1b50d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.babelrc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.babelrc?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/1320b9a3272a5a4a9adc81859d52c68660d1b50d",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.babelrc"
+      }
+    },
+    {
+      "name": ".env.sample",
+      "path": ".env.sample",
+      "sha": "2184ba61e5172fee28a52f79037868000ef803a9",
+      "size": 108,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.env.sample?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.env.sample",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2184ba61e5172fee28a52f79037868000ef803a9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.env.sample",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.env.sample?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2184ba61e5172fee28a52f79037868000ef803a9",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.env.sample"
+      }
+    },
+    {
+      "name": ".gitattributes",
+      "path": ".gitattributes",
+      "sha": "52031de51c4ca324ffd010344868a723a6c36b8d",
+      "size": 33,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.gitattributes?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.gitattributes",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/52031de51c4ca324ffd010344868a723a6c36b8d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.gitattributes",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.gitattributes?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/52031de51c4ca324ffd010344868a723a6c36b8d",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.gitattributes"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "a3f45953038f571ed63271e63db5841fe5c3c386",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/.github",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/a3f45953038f571ed63271e63db5841fe5c3c386",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/a3f45953038f571ed63271e63db5841fe5c3c386",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/.github"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "c4b930019e0eed7fd642ffba06b2ba44c98bed17",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/.github/workflows",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/c4b930019e0eed7fd642ffba06b2ba44c98bed17",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/c4b930019e0eed7fd642ffba06b2ba44c98bed17",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/.github/workflows"
+      }
+    },
+    {
+      "name": "build.yml",
+      "path": ".github/workflows/build.yml",
+      "sha": "ac1fd9de04ecf442252717032e004d1eb00cbf58",
+      "size": 637,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/build.yml?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/build.yml",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/ac1fd9de04ecf442252717032e004d1eb00cbf58",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.github/workflows/build.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/build.yml?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/ac1fd9de04ecf442252717032e004d1eb00cbf58",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/build.yml"
+      }
+    },
+    {
+      "name": "coverage.yml",
+      "path": ".github/workflows/coverage.yml",
+      "sha": "7795bfdba8af2e09ea1958b9c2b47be0d79554e9",
+      "size": 603,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/coverage.yml?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/coverage.yml",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7795bfdba8af2e09ea1958b9c2b47be0d79554e9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.github/workflows/coverage.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/coverage.yml?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7795bfdba8af2e09ea1958b9c2b47be0d79554e9",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/coverage.yml"
+      }
+    },
+    {
+      "name": "deploy.yml",
+      "path": ".github/workflows/deploy.yml",
+      "sha": "4254f03c83d113b45f79fa9dd86b0d5caab53d27",
+      "size": 2834,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/deploy.yml?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/deploy.yml",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4254f03c83d113b45f79fa9dd86b0d5caab53d27",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.github/workflows/deploy.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/deploy.yml?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4254f03c83d113b45f79fa9dd86b0d5caab53d27",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/deploy.yml"
+      }
+    },
+    {
+      "name": "lint.yml",
+      "path": ".github/workflows/lint.yml",
+      "sha": "2286533ca4db9f4228c6fa50b28e35e0d41c9af7",
+      "size": 528,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/lint.yml?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/lint.yml",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2286533ca4db9f4228c6fa50b28e35e0d41c9af7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.github/workflows/lint.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/lint.yml?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2286533ca4db9f4228c6fa50b28e35e0d41c9af7",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/lint.yml"
+      }
+    },
+    {
+      "name": "test.yml",
+      "path": ".github/workflows/test.yml",
+      "sha": "c1080fbc6ffdf463d7d2b4cc60c9b0e7d20551ff",
+      "size": 438,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/test.yml?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/test.yml",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/c1080fbc6ffdf463d7d2b4cc60c9b0e7d20551ff",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.github/workflows/test.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.github/workflows/test.yml?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/c1080fbc6ffdf463d7d2b4cc60c9b0e7d20551ff",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.github/workflows/test.yml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "3d56e6eb429c2af99426f22852c2bf92b88bded6",
+      "size": 133,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.gitignore?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.gitignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3d56e6eb429c2af99426f22852c2bf92b88bded6",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.gitignore?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3d56e6eb429c2af99426f22852c2bf92b88bded6",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.gitignore"
+      }
+    },
+    {
+      "name": ".husky",
+      "path": ".husky",
+      "sha": "21af0d65cb0d8982fbb0f6a005e58ee105876a51",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.husky?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/.husky",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/21af0d65cb0d8982fbb0f6a005e58ee105876a51",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.husky?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/21af0d65cb0d8982fbb0f6a005e58ee105876a51",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/.husky"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".husky/.gitignore",
+      "sha": "31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+      "size": 2,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.husky/.gitignore?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.husky/.gitignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.husky/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.husky/.gitignore?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.husky/.gitignore"
+      }
+    },
+    {
+      "name": "pre-commit",
+      "path": ".husky/pre-commit",
+      "sha": "64e09aba8ea2e014e2ff3d57b936ea8538282abc",
+      "size": 62,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.husky/pre-commit?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.husky/pre-commit",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/64e09aba8ea2e014e2ff3d57b936ea8538282abc",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.husky/pre-commit",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.husky/pre-commit?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/64e09aba8ea2e014e2ff3d57b936ea8538282abc",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.husky/pre-commit"
+      }
+    },
+    {
+      "name": ".prettierignore",
+      "path": ".prettierignore",
+      "sha": "7b78c844699cfa0c6fc188b190a27d87d89f3870",
+      "size": 38,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.prettierignore?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.prettierignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7b78c844699cfa0c6fc188b190a27d87d89f3870",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.prettierignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.prettierignore?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7b78c844699cfa0c6fc188b190a27d87d89f3870",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.prettierignore"
+      }
+    },
+    {
+      "name": ".prettierrc.json",
+      "path": ".prettierrc.json",
+      "sha": "8f504e1092a43e33c3ad8718947c18e71c1e33cb",
+      "size": 565,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.prettierrc.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.prettierrc.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/8f504e1092a43e33c3ad8718947c18e71c1e33cb",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.prettierrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.prettierrc.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/8f504e1092a43e33c3ad8718947c18e71c1e33cb",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.prettierrc.json"
+      }
+    },
+    {
+      "name": ".solcover.js",
+      "path": ".solcover.js",
+      "sha": "2f7aafd536aaebd12d350c825907d89d00440770",
+      "size": 531,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.solcover.js?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.solcover.js",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2f7aafd536aaebd12d350c825907d89d00440770",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.solcover.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.solcover.js?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2f7aafd536aaebd12d350c825907d89d00440770",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.solcover.js"
+      }
+    },
+    {
+      "name": ".solhint.json",
+      "path": ".solhint.json",
+      "sha": "ae424c3bc9227bba4cb9f9de6c4106323faf1522",
+      "size": 763,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.solhint.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.solhint.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/ae424c3bc9227bba4cb9f9de6c4106323faf1522",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.solhint.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.solhint.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/ae424c3bc9227bba4cb9f9de6c4106323faf1522",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.solhint.json"
+      }
+    },
+    {
+      "name": ".solhintignore",
+      "path": ".solhintignore",
+      "sha": "15c47afcc24e9148ffcf7b82384f733e43d608a0",
+      "size": 38,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.solhintignore?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/.solhintignore",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/15c47afcc24e9148ffcf7b82384f733e43d608a0",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/.solhintignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/.solhintignore?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/15c47afcc24e9148ffcf7b82384f733e43d608a0",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/.solhintignore"
+      }
+    },
+    {
+      "name": "COPYING",
+      "path": "COPYING",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/COPYING?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/COPYING",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/COPYING",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/COPYING?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/COPYING"
+      }
+    },
+    {
+      "name": "COPYING.LESSER",
+      "path": "COPYING.LESSER",
+      "sha": "0a041280bd00a9d068f503b8ee7ce35214bd24a1",
+      "size": 7652,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/COPYING.LESSER?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/COPYING.LESSER",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/0a041280bd00a9d068f503b8ee7ce35214bd24a1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/COPYING.LESSER",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/COPYING.LESSER?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/0a041280bd00a9d068f503b8ee7ce35214bd24a1",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/COPYING.LESSER"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "a5233c880e53f941f2080ea47a97eebe726d120f",
+      "size": 5243,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/README.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/README.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a5233c880e53f941f2080ea47a97eebe726d120f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/README.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a5233c880e53f941f2080ea47a97eebe726d120f",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/README.md"
+      }
+    },
+    {
+      "name": "Router.json",
+      "path": "Router.json",
+      "sha": "95f705301f6fb3ebf7524833b9738c561eb5887c",
+      "size": 111394,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/Router.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/Router.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/95f705301f6fb3ebf7524833b9738c561eb5887c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/Router.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/Router.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/95f705301f6fb3ebf7524833b9738c561eb5887c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/Router.json"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "39370bb883952eeb0bda8e8660a8727499f0959d",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/contracts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/39370bb883952eeb0bda8e8660a8727499f0959d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/39370bb883952eeb0bda8e8660a8727499f0959d",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/contracts"
+      }
+    },
+    {
+      "name": "callers",
+      "path": "contracts/callers",
+      "sha": "98b8d3c4f10d93e5b7827117e24b8366cda315e9",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/callers",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/98b8d3c4f10d93e5b7827117e24b8366cda315e9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/98b8d3c4f10d93e5b7827117e24b8366cda315e9",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/callers"
+      }
+    },
+    {
+      "name": "SimpleCaller.sol",
+      "path": "contracts/callers/SimpleCaller.sol",
+      "sha": "b9a5362ff405cb1d59e87880eaec6c1769322e6e",
+      "size": 4074,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/SimpleCaller.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/SimpleCaller.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b9a5362ff405cb1d59e87880eaec6c1769322e6e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/callers/SimpleCaller.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/SimpleCaller.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b9a5362ff405cb1d59e87880eaec6c1769322e6e",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/SimpleCaller.sol"
+      }
+    },
+    {
+      "name": "SimpleCallerWithPermit2.sol",
+      "path": "contracts/callers/SimpleCallerWithPermit2.sol",
+      "sha": "3afd37a556101d3383614a5b56f556beaffe2b39",
+      "size": 4991,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/SimpleCallerWithPermit2.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/SimpleCallerWithPermit2.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3afd37a556101d3383614a5b56f556beaffe2b39",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/callers/SimpleCallerWithPermit2.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/SimpleCallerWithPermit2.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3afd37a556101d3383614a5b56f556beaffe2b39",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/SimpleCallerWithPermit2.sol"
+      }
+    },
+    {
+      "name": "UniswapV2Caller.sol",
+      "path": "contracts/callers/UniswapV2Caller.sol",
+      "sha": "bb60de2c257a4986412167c59f3ea22308b766e5",
+      "size": 10090,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/UniswapV2Caller.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/UniswapV2Caller.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bb60de2c257a4986412167c59f3ea22308b766e5",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/callers/UniswapV2Caller.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/UniswapV2Caller.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bb60de2c257a4986412167c59f3ea22308b766e5",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/UniswapV2Caller.sol"
+      }
+    },
+    {
+      "name": "UniswapV3Caller.sol",
+      "path": "contracts/callers/UniswapV3Caller.sol",
+      "sha": "28afc90f2e3909b16bdba6fd8044cf9313a7d91d",
+      "size": 3818,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/UniswapV3Caller.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/UniswapV3Caller.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/28afc90f2e3909b16bdba6fd8044cf9313a7d91d",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/callers/UniswapV3Caller.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/callers/UniswapV3Caller.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/28afc90f2e3909b16bdba6fd8044cf9313a7d91d",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/callers/UniswapV3Caller.sol"
+      }
+    },
+    {
+      "name": "interfaces",
+      "path": "contracts/interfaces",
+      "sha": "3111700ab3c576c8f757b443930ffa793c922054",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/interfaces",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/3111700ab3c576c8f757b443930ffa793c922054",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/3111700ab3c576c8f757b443930ffa793c922054",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/interfaces"
+      }
+    },
+    {
+      "name": "ICaller.sol",
+      "path": "contracts/interfaces/ICaller.sol",
+      "sha": "414e3e28faa3056131a8a24e9b6bfddb7930357f",
+      "size": 1111,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/ICaller.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/ICaller.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/414e3e28faa3056131a8a24e9b6bfddb7930357f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/ICaller.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/ICaller.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/414e3e28faa3056131a8a24e9b6bfddb7930357f",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/ICaller.sol"
+      }
+    },
+    {
+      "name": "IDAIPermit.sol",
+      "path": "contracts/interfaces/IDAIPermit.sol",
+      "sha": "2ab20a8ccf2bad2116f73753ea173296a14912ca",
+      "size": 1167,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IDAIPermit.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IDAIPermit.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2ab20a8ccf2bad2116f73753ea173296a14912ca",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IDAIPermit.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IDAIPermit.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2ab20a8ccf2bad2116f73753ea173296a14912ca",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IDAIPermit.sol"
+      }
+    },
+    {
+      "name": "IEIP2612.sol",
+      "path": "contracts/interfaces/IEIP2612.sol",
+      "sha": "35b0729d33fbe35713f48f38f607f08545ff5b87",
+      "size": 1144,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IEIP2612.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IEIP2612.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/35b0729d33fbe35713f48f38f607f08545ff5b87",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IEIP2612.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IEIP2612.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/35b0729d33fbe35713f48f38f607f08545ff5b87",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IEIP2612.sol"
+      }
+    },
+    {
+      "name": "IPermit2.sol",
+      "path": "contracts/interfaces/IPermit2.sol",
+      "sha": "a6975f08d08f88e4bed704bc7f67f2706770ee6e",
+      "size": 1397,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IPermit2.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IPermit2.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a6975f08d08f88e4bed704bc7f67f2706770ee6e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IPermit2.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IPermit2.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a6975f08d08f88e4bed704bc7f67f2706770ee6e",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IPermit2.sol"
+      }
+    },
+    {
+      "name": "IProtocolFee.sol",
+      "path": "contracts/interfaces/IProtocolFee.sol",
+      "sha": "4aa9e2e368273e0ee685b0a3a06dc100f7a896f5",
+      "size": 1746,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IProtocolFee.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IProtocolFee.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4aa9e2e368273e0ee685b0a3a06dc100f7a896f5",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IProtocolFee.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IProtocolFee.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4aa9e2e368273e0ee685b0a3a06dc100f7a896f5",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IProtocolFee.sol"
+      }
+    },
+    {
+      "name": "IRouter.sol",
+      "path": "contracts/interfaces/IRouter.sol",
+      "sha": "d9d33a5784180c722a357d93a3476e396fe38538",
+      "size": 5878,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IRouter.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IRouter.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d9d33a5784180c722a357d93a3476e396fe38538",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IRouter.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IRouter.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d9d33a5784180c722a357d93a3476e396fe38538",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IRouter.sol"
+      }
+    },
+    {
+      "name": "ISignatureVerifier.sol",
+      "path": "contracts/interfaces/ISignatureVerifier.sol",
+      "sha": "a379bb5433130d0c0fc6a847c289cb166d690573",
+      "size": 2285,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/ISignatureVerifier.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/ISignatureVerifier.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a379bb5433130d0c0fc6a847c289cb166d690573",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/ISignatureVerifier.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/ISignatureVerifier.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a379bb5433130d0c0fc6a847c289cb166d690573",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/ISignatureVerifier.sol"
+      }
+    },
+    {
+      "name": "ITokensHandler.sol",
+      "path": "contracts/interfaces/ITokensHandler.sol",
+      "sha": "7c32c389c34af4944b36a23775222c155471bd70",
+      "size": 1105,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/ITokensHandler.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/ITokensHandler.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7c32c389c34af4944b36a23775222c155471bd70",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/ITokensHandler.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/ITokensHandler.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7c32c389c34af4944b36a23775222c155471bd70",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/ITokensHandler.sol"
+      }
+    },
+    {
+      "name": "IUniswapV2Pair.sol",
+      "path": "contracts/interfaces/IUniswapV2Pair.sol",
+      "sha": "3b8fb277659a0dba2143eb6a83ac494853316eaa",
+      "size": 1536,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IUniswapV2Pair.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IUniswapV2Pair.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3b8fb277659a0dba2143eb6a83ac494853316eaa",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IUniswapV2Pair.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IUniswapV2Pair.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3b8fb277659a0dba2143eb6a83ac494853316eaa",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IUniswapV2Pair.sol"
+      }
+    },
+    {
+      "name": "IUniswapV2Router02.sol",
+      "path": "contracts/interfaces/IUniswapV2Router02.sol",
+      "sha": "1b18cf0747c8de489822ffe4b90029816cd942f3",
+      "size": 1168,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IUniswapV2Router02.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IUniswapV2Router02.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/1b18cf0747c8de489822ffe4b90029816cd942f3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IUniswapV2Router02.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IUniswapV2Router02.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/1b18cf0747c8de489822ffe4b90029816cd942f3",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IUniswapV2Router02.sol"
+      }
+    },
+    {
+      "name": "IWETH9.sol",
+      "path": "contracts/interfaces/IWETH9.sol",
+      "sha": "75eb5a388231bfad5e3c232c3bab5cb9e9a8fde3",
+      "size": 1220,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IWETH9.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IWETH9.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/75eb5a388231bfad5e3c232c3bab5cb9e9a8fde3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IWETH9.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IWETH9.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/75eb5a388231bfad5e3c232c3bab5cb9e9a8fde3",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IWETH9.sol"
+      }
+    },
+    {
+      "name": "IYearnPermit.sol",
+      "path": "contracts/interfaces/IYearnPermit.sol",
+      "sha": "3afc6c31e6f2ca9e33504183f8c149b4914777a3",
+      "size": 966,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IYearnPermit.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IYearnPermit.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3afc6c31e6f2ca9e33504183f8c149b4914777a3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/interfaces/IYearnPermit.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/interfaces/IYearnPermit.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3afc6c31e6f2ca9e33504183f8c149b4914777a3",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/interfaces/IYearnPermit.sol"
+      }
+    },
+    {
+      "name": "router",
+      "path": "contracts/router",
+      "sha": "747ae3a4ed1f7796903c061b07e6a369b8723eb5",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/router",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/747ae3a4ed1f7796903c061b07e6a369b8723eb5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/747ae3a4ed1f7796903c061b07e6a369b8723eb5",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/router"
+      }
+    },
+    {
+      "name": "ProtocolFee.sol",
+      "path": "contracts/router/ProtocolFee.sol",
+      "sha": "7878adab389fb860def43c3300f7f3acb357cc01",
+      "size": 3276,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router/ProtocolFee.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/router/ProtocolFee.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7878adab389fb860def43c3300f7f3acb357cc01",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/router/ProtocolFee.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router/ProtocolFee.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7878adab389fb860def43c3300f7f3acb357cc01",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/router/ProtocolFee.sol"
+      }
+    },
+    {
+      "name": "Router.sol",
+      "path": "contracts/router/Router.sol",
+      "sha": "71afed55ccab0b1f784389b37706b222bfc17c7a",
+      "size": 21268,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router/Router.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/router/Router.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/71afed55ccab0b1f784389b37706b222bfc17c7a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/router/Router.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router/Router.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/71afed55ccab0b1f784389b37706b222bfc17c7a",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/router/Router.sol"
+      }
+    },
+    {
+      "name": "SignatureVerifier.sol",
+      "path": "contracts/router/SignatureVerifier.sol",
+      "sha": "d2a20e51c640b42bf81ec9f94ead2f52d8c54a10",
+      "size": 9998,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router/SignatureVerifier.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/router/SignatureVerifier.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d2a20e51c640b42bf81ec9f94ead2f52d8c54a10",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/router/SignatureVerifier.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/router/SignatureVerifier.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d2a20e51c640b42bf81ec9f94ead2f52d8c54a10",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/router/SignatureVerifier.sol"
+      }
+    },
+    {
+      "name": "shared",
+      "path": "contracts/shared",
+      "sha": "71acdf0c3af71fd6c7ea60f4fa03c1852598746b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/shared",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/71acdf0c3af71fd6c7ea60f4fa03c1852598746b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/71acdf0c3af71fd6c7ea60f4fa03c1852598746b",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/shared"
+      }
+    },
+    {
+      "name": "Base.sol",
+      "path": "contracts/shared/Base.sol",
+      "sha": "306e0aa97e4d3b2004f95099ea404133ebc3fda1",
+      "size": 3629,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Base.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Base.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/306e0aa97e4d3b2004f95099ea404133ebc3fda1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Base.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Base.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/306e0aa97e4d3b2004f95099ea404133ebc3fda1",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Base.sol"
+      }
+    },
+    {
+      "name": "Enums.sol",
+      "path": "contracts/shared/Enums.sol",
+      "sha": "cbb3deb006b2ee187cca605c4f929dfd0199351a",
+      "size": 1013,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Enums.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Enums.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/cbb3deb006b2ee187cca605c4f929dfd0199351a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Enums.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Enums.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/cbb3deb006b2ee187cca605c4f929dfd0199351a",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Enums.sol"
+      }
+    },
+    {
+      "name": "Errors.sol",
+      "path": "contracts/shared/Errors.sol",
+      "sha": "b9731b00bf5b9bcf291beeafcdcbd7f93849804c",
+      "size": 2779,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Errors.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Errors.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b9731b00bf5b9bcf291beeafcdcbd7f93849804c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Errors.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Errors.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b9731b00bf5b9bcf291beeafcdcbd7f93849804c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Errors.sol"
+      }
+    },
+    {
+      "name": "Ownable.sol",
+      "path": "contracts/shared/Ownable.sol",
+      "sha": "3a7f84a9d27c2f4f47332b7a7abb5aab02643fa5",
+      "size": 2861,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Ownable.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Ownable.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3a7f84a9d27c2f4f47332b7a7abb5aab02643fa5",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Ownable.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Ownable.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3a7f84a9d27c2f4f47332b7a7abb5aab02643fa5",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Ownable.sol"
+      }
+    },
+    {
+      "name": "Permit2.sol",
+      "path": "contracts/shared/Permit2.sol",
+      "sha": "bb12d08fc9a96733a2fce1be90c23291f529e5a1",
+      "size": 1798,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Permit2.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Permit2.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bb12d08fc9a96733a2fce1be90c23291f529e5a1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Permit2.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Permit2.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bb12d08fc9a96733a2fce1be90c23291f529e5a1",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Permit2.sol"
+      }
+    },
+    {
+      "name": "Structs.sol",
+      "path": "contracts/shared/Structs.sol",
+      "sha": "24d635e2b6e3b469676fb0b56474715b951015db",
+      "size": 4228,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Structs.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Structs.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/24d635e2b6e3b469676fb0b56474715b951015db",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Structs.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Structs.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/24d635e2b6e3b469676fb0b56474715b951015db",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Structs.sol"
+      }
+    },
+    {
+      "name": "TokensHandler.sol",
+      "path": "contracts/shared/TokensHandler.sol",
+      "sha": "2248ecdf28766ffe157607eeda5f1a082a43d788",
+      "size": 1370,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/TokensHandler.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/TokensHandler.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2248ecdf28766ffe157607eeda5f1a082a43d788",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/TokensHandler.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/TokensHandler.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2248ecdf28766ffe157607eeda5f1a082a43d788",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/TokensHandler.sol"
+      }
+    },
+    {
+      "name": "Weth.sol",
+      "path": "contracts/shared/Weth.sol",
+      "sha": "dc1707153a44e41f5f0ac505765cb6ce91de1a88",
+      "size": 1318,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Weth.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Weth.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/dc1707153a44e41f5f0ac505765cb6ce91de1a88",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/shared/Weth.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/shared/Weth.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/dc1707153a44e41f5f0ac505765cb6ce91de1a88",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/shared/Weth.sol"
+      }
+    },
+    {
+      "name": "test",
+      "path": "contracts/test",
+      "sha": "96c64b040cb7376deb8251a30db1ae47a0382704",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/test?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/test",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/96c64b040cb7376deb8251a30db1ae47a0382704",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/test?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/96c64b040cb7376deb8251a30db1ae47a0382704",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/contracts/test"
+      }
+    },
+    {
+      "name": "MockCaller.sol",
+      "path": "contracts/test/MockCaller.sol",
+      "sha": "7c1ca5f3c8e4bbdc2d263b52aecad75707de6cb8",
+      "size": 1024,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/test/MockCaller.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/test/MockCaller.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7c1ca5f3c8e4bbdc2d263b52aecad75707de6cb8",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/test/MockCaller.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/test/MockCaller.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7c1ca5f3c8e4bbdc2d263b52aecad75707de6cb8",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/test/MockCaller.sol"
+      }
+    },
+    {
+      "name": "MockERC20.sol",
+      "path": "contracts/test/MockERC20.sol",
+      "sha": "f28571a918ba754d348e5b8917a0a252cb25ebba",
+      "size": 334,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/test/MockERC20.sol?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/test/MockERC20.sol",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/f28571a918ba754d348e5b8917a0a252cb25ebba",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/contracts/test/MockERC20.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/contracts/test/MockERC20.sol?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/f28571a918ba754d348e5b8917a0a252cb25ebba",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/contracts/test/MockERC20.sol"
+      }
+    },
+    {
+      "name": "deploy",
+      "path": "deploy",
+      "sha": "e2c359a4dce837e4e7f93b5436298b8eea239993",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/deploy",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/e2c359a4dce837e4e7f93b5436298b8eea239993",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/e2c359a4dce837e4e7f93b5436298b8eea239993",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/deploy"
+      }
+    },
+    {
+      "name": "1_deploy_router_zksync_era.ts",
+      "path": "deploy/1_deploy_router_zksync_era.ts",
+      "sha": "909883d63573a3fee0d37321055a74370d296988",
+      "size": 379,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/1_deploy_router_zksync_era.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/1_deploy_router_zksync_era.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/909883d63573a3fee0d37321055a74370d296988",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/deploy/1_deploy_router_zksync_era.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/1_deploy_router_zksync_era.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/909883d63573a3fee0d37321055a74370d296988",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/1_deploy_router_zksync_era.ts"
+      }
+    },
+    {
+      "name": "2_deploy_simple_caller_with_permit2_zksync_era.ts",
+      "path": "deploy/2_deploy_simple_caller_with_permit2_zksync_era.ts",
+      "sha": "f8b81ad6e1ae79f56d1c1b705dee59ae6c225b42",
+      "size": 737,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/2_deploy_simple_caller_with_permit2_zksync_era.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/2_deploy_simple_caller_with_permit2_zksync_era.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/f8b81ad6e1ae79f56d1c1b705dee59ae6c225b42",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/deploy/2_deploy_simple_caller_with_permit2_zksync_era.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/2_deploy_simple_caller_with_permit2_zksync_era.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/f8b81ad6e1ae79f56d1c1b705dee59ae6c225b42",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/2_deploy_simple_caller_with_permit2_zksync_era.ts"
+      }
+    },
+    {
+      "name": "2_deploy_simple_caller_zksync_era.ts",
+      "path": "deploy/2_deploy_simple_caller_zksync_era.ts",
+      "sha": "b65880b7c9c49cb4b880cbd2d4ea48ef18b6bb55",
+      "size": 388,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/2_deploy_simple_caller_zksync_era.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/2_deploy_simple_caller_zksync_era.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b65880b7c9c49cb4b880cbd2d4ea48ef18b6bb55",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/deploy/2_deploy_simple_caller_zksync_era.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/2_deploy_simple_caller_zksync_era.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b65880b7c9c49cb4b880cbd2d4ea48ef18b6bb55",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/2_deploy_simple_caller_zksync_era.ts"
+      }
+    },
+    {
+      "name": "3_setup_router_fee_zksync_era.ts",
+      "path": "deploy/3_setup_router_fee_zksync_era.ts",
+      "sha": "87de561ec5ea8caac37ee1c005aeb5f266631fb9",
+      "size": 1614,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/3_setup_router_fee_zksync_era.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/3_setup_router_fee_zksync_era.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/87de561ec5ea8caac37ee1c005aeb5f266631fb9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/deploy/3_setup_router_fee_zksync_era.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/3_setup_router_fee_zksync_era.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/87de561ec5ea8caac37ee1c005aeb5f266631fb9",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/3_setup_router_fee_zksync_era.ts"
+      }
+    },
+    {
+      "name": "4_deploy_univ2_caller_zksync_era.ts",
+      "path": "deploy/4_deploy_univ2_caller_zksync_era.ts",
+      "sha": "544a6dabd6496d43b23dcd2dd1a1e57b5c41b54e",
+      "size": 681,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/4_deploy_univ2_caller_zksync_era.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/4_deploy_univ2_caller_zksync_era.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/544a6dabd6496d43b23dcd2dd1a1e57b5c41b54e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/deploy/4_deploy_univ2_caller_zksync_era.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/4_deploy_univ2_caller_zksync_era.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/544a6dabd6496d43b23dcd2dd1a1e57b5c41b54e",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/4_deploy_univ2_caller_zksync_era.ts"
+      }
+    },
+    {
+      "name": "deployContractZkSyncEra.ts",
+      "path": "deploy/deployContractZkSyncEra.ts",
+      "sha": "95a9f1dd710a0db4cfa0731de9e6351bba435e70",
+      "size": 1275,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/deployContractZkSyncEra.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/deployContractZkSyncEra.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/95a9f1dd710a0db4cfa0731de9e6351bba435e70",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/deploy/deployContractZkSyncEra.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/deploy/deployContractZkSyncEra.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/95a9f1dd710a0db4cfa0731de9e6351bba435e70",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/deploy/deployContractZkSyncEra.ts"
+      }
+    },
+    {
+      "name": "docs",
+      "path": "docs",
+      "sha": "154ea9dc2b8ab892369deb4dd0c0e70690182be4",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/docs",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/154ea9dc2b8ab892369deb4dd0c0e70690182be4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/154ea9dc2b8ab892369deb4dd0c0e70690182be4",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/docs"
+      }
+    },
+    {
+      "name": "addresses.md",
+      "path": "docs/addresses.md",
+      "sha": "d3af8817af603bce5b9d432bb5428c494e986065",
+      "size": 11807,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/addresses.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/addresses.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d3af8817af603bce5b9d432bb5428c494e986065",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/addresses.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/addresses.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d3af8817af603bce5b9d432bb5428c494e986065",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/addresses.md"
+      }
+    },
+    {
+      "name": "architecture.md",
+      "path": "docs/architecture.md",
+      "sha": "21d92abcb4ddbd44986c73902b754d54be7e66ab",
+      "size": 1872,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/architecture.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/architecture.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/21d92abcb4ddbd44986c73902b754d54be7e66ab",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/architecture.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/architecture.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/21d92abcb4ddbd44986c73902b754d54be7e66ab",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/architecture.md"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "docs/assets",
+      "sha": "451f16a0a44144fd7aa4f9440316b7568ab0c5a4",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/assets?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/docs/assets",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/451f16a0a44144fd7aa4f9440316b7568ab0c5a4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/assets?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/451f16a0a44144fd7aa4f9440316b7568ab0c5a4",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/docs/assets"
+      }
+    },
+    {
+      "name": "images",
+      "path": "docs/assets/images",
+      "sha": "35df822154b918b8324e750cc55c0b3295f50f0b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/assets/images?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/docs/assets/images",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/35df822154b918b8324e750cc55c0b3295f50f0b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/assets/images?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/35df822154b918b8324e750cc55c0b3295f50f0b",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/docs/assets/images"
+      }
+    },
+    {
+      "name": "defi-sdk-cover.png",
+      "path": "docs/assets/images/defi-sdk-cover.png",
+      "sha": "9930c10fb6d34e7ff6b3f275660dcb5366c3b07a",
+      "size": 543265,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/assets/images/defi-sdk-cover.png?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/assets/images/defi-sdk-cover.png",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9930c10fb6d34e7ff6b3f275660dcb5366c3b07a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/assets/images/defi-sdk-cover.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/assets/images/defi-sdk-cover.png?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9930c10fb6d34e7ff6b3f275660dcb5366c3b07a",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/assets/images/defi-sdk-cover.png"
+      }
+    },
+    {
+      "name": "creating-your-adapters",
+      "path": "docs/creating-your-adapters",
+      "sha": "5d65c1aa0b5fec5b1b4f7473296ed04976f051fa",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/docs/creating-your-adapters",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/5d65c1aa0b5fec5b1b4f7473296ed04976f051fa",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/5d65c1aa0b5fec5b1b4f7473296ed04976f051fa",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/docs/creating-your-adapters"
+      }
+    },
+    {
+      "name": "index.md",
+      "path": "docs/creating-your-adapters/index.md",
+      "sha": "8d9ee3723b206157fcfe16ec18cafdcf63cfd000",
+      "size": 1053,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters/index.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/creating-your-adapters/index.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/8d9ee3723b206157fcfe16ec18cafdcf63cfd000",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/creating-your-adapters/index.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters/index.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/8d9ee3723b206157fcfe16ec18cafdcf63cfd000",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/creating-your-adapters/index.md"
+      }
+    },
+    {
+      "name": "interactive-adapters.md",
+      "path": "docs/creating-your-adapters/interactive-adapters.md",
+      "sha": "2f258ae1715d9ff398a4e0f970f4bea00f4fad30",
+      "size": 2796,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters/interactive-adapters.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/creating-your-adapters/interactive-adapters.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2f258ae1715d9ff398a4e0f970f4bea00f4fad30",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/creating-your-adapters/interactive-adapters.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters/interactive-adapters.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2f258ae1715d9ff398a4e0f970f4bea00f4fad30",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/creating-your-adapters/interactive-adapters.md"
+      }
+    },
+    {
+      "name": "read-only-adapters.md",
+      "path": "docs/creating-your-adapters/read-only-adapters.md",
+      "sha": "e66db5bd8a62c530e3b587ae6d6b9ea829787399",
+      "size": 3163,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters/read-only-adapters.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/creating-your-adapters/read-only-adapters.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/e66db5bd8a62c530e3b587ae6d6b9ea829787399",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/creating-your-adapters/read-only-adapters.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/creating-your-adapters/read-only-adapters.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/e66db5bd8a62c530e3b587ae6d6b9ea829787399",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/creating-your-adapters/read-only-adapters.md"
+      }
+    },
+    {
+      "name": "examples.md",
+      "path": "docs/examples.md",
+      "sha": "326d37762036797f6815289ee8c4e84356c8d9e3",
+      "size": 3099,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/examples.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/examples.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/326d37762036797f6815289ee8c4e84356c8d9e3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/examples.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/examples.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/326d37762036797f6815289ee8c4e84356c8d9e3",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/examples.md"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "docs/index.html",
+      "sha": "63bd89365546ea79b84741fd41df5a12d70bf43b",
+      "size": 265,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/index.html?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/index.html",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/63bd89365546ea79b84741fd41df5a12d70bf43b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/index.html?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/63bd89365546ea79b84741fd41df5a12d70bf43b",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/index.html"
+      }
+    },
+    {
+      "name": "index.md",
+      "path": "docs/index.md",
+      "sha": "9c46ca23db808e53a5dfaef9e693b0d42c0c2cbf",
+      "size": 911,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/index.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/index.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9c46ca23db808e53a5dfaef9e693b0d42c0c2cbf",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/index.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/index.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9c46ca23db808e53a5dfaef9e693b0d42c0c2cbf",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/index.md"
+      }
+    },
+    {
+      "name": "interacting.md",
+      "path": "docs/interacting.md",
+      "sha": "02d37c9c3aa8c954052479fb15d807701dd39c5e",
+      "size": 2729,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/interacting.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/interacting.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/02d37c9c3aa8c954052479fb15d807701dd39c5e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/interacting.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/interacting.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/02d37c9c3aa8c954052479fb15d807701dd39c5e",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/interacting.md"
+      }
+    },
+    {
+      "name": "main.js",
+      "path": "docs/main.js",
+      "sha": "626aea3362f64c36fabdaf36b13fa23486fec24c",
+      "size": 202680,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/main.js?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/main.js",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/626aea3362f64c36fabdaf36b13fa23486fec24c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/main.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/main.js?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/626aea3362f64c36fabdaf36b13fa23486fec24c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/main.js"
+      }
+    },
+    {
+      "name": "main.js.LICENSE.txt",
+      "path": "docs/main.js.LICENSE.txt",
+      "sha": "39b67f3ddfb680aa67227ee420b4f9206729548b",
+      "size": 87,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/main.js.LICENSE.txt?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/main.js.LICENSE.txt",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/39b67f3ddfb680aa67227ee420b4f9206729548b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/main.js.LICENSE.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/main.js.LICENSE.txt?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/39b67f3ddfb680aa67227ee420b4f9206729548b",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/main.js.LICENSE.txt"
+      }
+    },
+    {
+      "name": "reading.md",
+      "path": "docs/reading.md",
+      "sha": "9a6c7fcf9ff5708888d99f1ecdc1671710907750",
+      "size": 6181,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/reading.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/reading.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9a6c7fcf9ff5708888d99f1ecdc1671710907750",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/reading.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/reading.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9a6c7fcf9ff5708888d99f1ecdc1671710907750",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/reading.md"
+      }
+    },
+    {
+      "name": "router.md",
+      "path": "docs/router.md",
+      "sha": "30b21421f5ad39d1c7ac6eb98f748eb0fb07c806",
+      "size": 1052,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/router.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/router.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/30b21421f5ad39d1c7ac6eb98f748eb0fb07c806",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/router.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/router.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/30b21421f5ad39d1c7ac6eb98f748eb0fb07c806",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/router.md"
+      }
+    },
+    {
+      "name": "supported-protocols",
+      "path": "docs/supported-protocols",
+      "sha": "994b1fdeac0dd54d28e477dad57b9b155917c915",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/supported-protocols?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/docs/supported-protocols",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/994b1fdeac0dd54d28e477dad57b9b155917c915",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/supported-protocols?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/994b1fdeac0dd54d28e477dad57b9b155917c915",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/docs/supported-protocols"
+      }
+    },
+    {
+      "name": "interactive-adapters.md",
+      "path": "docs/supported-protocols/interactive-adapters.md",
+      "sha": "2ec4692339810a916e3bf230f273d3008a8a9b82",
+      "size": 951,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/supported-protocols/interactive-adapters.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/supported-protocols/interactive-adapters.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2ec4692339810a916e3bf230f273d3008a8a9b82",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/supported-protocols/interactive-adapters.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/supported-protocols/interactive-adapters.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2ec4692339810a916e3bf230f273d3008a8a9b82",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/supported-protocols/interactive-adapters.md"
+      }
+    },
+    {
+      "name": "read-only-adapters.md",
+      "path": "docs/supported-protocols/read-only-adapters.md",
+      "sha": "13e37766ea44f88e8d6d4fbdbfbb46e41ab90c26",
+      "size": 21019,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/supported-protocols/read-only-adapters.md?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/docs/supported-protocols/read-only-adapters.md",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/13e37766ea44f88e8d6d4fbdbfbb46e41ab90c26",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/docs/supported-protocols/read-only-adapters.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/docs/supported-protocols/read-only-adapters.md?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/13e37766ea44f88e8d6d4fbdbfbb46e41ab90c26",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/docs/supported-protocols/read-only-adapters.md"
+      }
+    },
+    {
+      "name": "eslint.config.js",
+      "path": "eslint.config.js",
+      "sha": "c588091a543d75e3c881564d1e7bd03d311ab8a7",
+      "size": 1155,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/eslint.config.js?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/eslint.config.js",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/c588091a543d75e3c881564d1e7bd03d311ab8a7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/eslint.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/eslint.config.js?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/c588091a543d75e3c881564d1e7bd03d311ab8a7",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/eslint.config.js"
+      }
+    },
+    {
+      "name": "funding.json",
+      "path": "funding.json",
+      "sha": "9abf93bc9b52d5ad1b2f6c465397f8ab1e2a4bd2",
+      "size": 109,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/funding.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/funding.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9abf93bc9b52d5ad1b2f6c465397f8ab1e2a4bd2",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/funding.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/funding.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/9abf93bc9b52d5ad1b2f6c465397f8ab1e2a4bd2",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/funding.json"
+      }
+    },
+    {
+      "name": "hardhat.config.ts",
+      "path": "hardhat.config.ts",
+      "sha": "71ce6b9af43f83e9db241f5d36ef8a0077bba980",
+      "size": 10107,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/hardhat.config.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/hardhat.config.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/71ce6b9af43f83e9db241f5d36ef8a0077bba980",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/hardhat.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/hardhat.config.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/71ce6b9af43f83e9db241f5d36ef8a0077bba980",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/hardhat.config.ts"
+      }
+    },
+    {
+      "name": "mkdocs.yaml",
+      "path": "mkdocs.yaml",
+      "sha": "bcb84113bcde25005510f39b4a9e5495a7079bdc",
+      "size": 677,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/mkdocs.yaml?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/mkdocs.yaml",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bcb84113bcde25005510f39b4a9e5495a7079bdc",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/mkdocs.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/mkdocs.yaml?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bcb84113bcde25005510f39b4a9e5495a7079bdc",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/mkdocs.yaml"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "7a78001dda800407b36e4df38601a4941798c3e9",
+      "size": 1142064,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/package-lock.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/package-lock.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7a78001dda800407b36e4df38601a4941798c3e9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/package-lock.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7a78001dda800407b36e4df38601a4941798c3e9",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "4248c6ceaf45c0af202e60c19df220a0cf920bf7",
+      "size": 2876,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/package.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/package.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4248c6ceaf45c0af202e60c19df220a0cf920bf7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/package.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4248c6ceaf45c0af202e60c19df220a0cf920bf7",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/package.json"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "376ec65846b3ce374c0c8f139198b64440343643",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/scripts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/376ec65846b3ce374c0c8f139198b64440343643",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/376ec65846b3ce374c0c8f139198b64440343643",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/scripts"
+      }
+    },
+    {
+      "name": "deployContract.ts",
+      "path": "scripts/deployContract.ts",
+      "sha": "7fb3b2f82dd86274437118d62e66d13d9118acab",
+      "size": 399,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deployContract.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deployContract.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7fb3b2f82dd86274437118d62e66d13d9118acab",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deployContract.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deployContract.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7fb3b2f82dd86274437118d62e66d13d9118acab",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deployContract.ts"
+      }
+    },
+    {
+      "name": "deploy_router.ts",
+      "path": "scripts/deploy_router.ts",
+      "sha": "a392d44480761dd8baf4c8bd977e89f8aea60425",
+      "size": 983,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_router.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_router.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a392d44480761dd8baf4c8bd977e89f8aea60425",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deploy_router.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_router.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a392d44480761dd8baf4c8bd977e89f8aea60425",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_router.ts"
+      }
+    },
+    {
+      "name": "deploy_safe_proxy.ts",
+      "path": "scripts/deploy_safe_proxy.ts",
+      "sha": "0017471665d8bdbd9c27e85696fb3724b658be8a",
+      "size": 4010,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_safe_proxy.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_safe_proxy.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/0017471665d8bdbd9c27e85696fb3724b658be8a",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deploy_safe_proxy.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_safe_proxy.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/0017471665d8bdbd9c27e85696fb3724b658be8a",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_safe_proxy.ts"
+      }
+    },
+    {
+      "name": "deploy_simple_caller.ts",
+      "path": "scripts/deploy_simple_caller.ts",
+      "sha": "989364ef11905371e7793668816a3a1366dcff7e",
+      "size": 1012,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_simple_caller.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_simple_caller.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/989364ef11905371e7793668816a3a1366dcff7e",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deploy_simple_caller.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_simple_caller.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/989364ef11905371e7793668816a3a1366dcff7e",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_simple_caller.ts"
+      }
+    },
+    {
+      "name": "deploy_simple_caller_with_permit2.ts",
+      "path": "scripts/deploy_simple_caller_with_permit2.ts",
+      "sha": "5424a6757a3d49565b397765d193dbd1a6dca70c",
+      "size": 1431,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_simple_caller_with_permit2.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_simple_caller_with_permit2.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/5424a6757a3d49565b397765d193dbd1a6dca70c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deploy_simple_caller_with_permit2.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_simple_caller_with_permit2.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/5424a6757a3d49565b397765d193dbd1a6dca70c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_simple_caller_with_permit2.ts"
+      }
+    },
+    {
+      "name": "deploy_uniswap_v2_caller.ts",
+      "path": "scripts/deploy_uniswap_v2_caller.ts",
+      "sha": "3770f2663f60915c86a2ca422068f1ea4d2d840f",
+      "size": 1230,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_uniswap_v2_caller.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_uniswap_v2_caller.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3770f2663f60915c86a2ca422068f1ea4d2d840f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deploy_uniswap_v2_caller.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_uniswap_v2_caller.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3770f2663f60915c86a2ca422068f1ea4d2d840f",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_uniswap_v2_caller.ts"
+      }
+    },
+    {
+      "name": "deploy_uniswap_v3_caller.ts",
+      "path": "scripts/deploy_uniswap_v3_caller.ts",
+      "sha": "66fe127c5a1819890c86c6170c22b8621dda0456",
+      "size": 1294,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_uniswap_v3_caller.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_uniswap_v3_caller.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/66fe127c5a1819890c86c6170c22b8621dda0456",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deploy_uniswap_v3_caller.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deploy_uniswap_v3_caller.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/66fe127c5a1819890c86c6170c22b8621dda0456",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deploy_uniswap_v3_caller.ts"
+      }
+    },
+    {
+      "name": "deployment.json",
+      "path": "scripts/deployment.json",
+      "sha": "cbbf42821de7e8b1e70d67267fd7aaf3f5d97858",
+      "size": 12003,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deployment.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deployment.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/cbbf42821de7e8b1e70d67267fd7aaf3f5d97858",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/deployment.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/deployment.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/cbbf42821de7e8b1e70d67267fd7aaf3f5d97858",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/deployment.json"
+      }
+    },
+    {
+      "name": "safe_proxy_factory_config.json",
+      "path": "scripts/safe_proxy_factory_config.json",
+      "sha": "d720e24c106eae35b66f3ec18c26dc2ffced58b9",
+      "size": 5372,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/safe_proxy_factory_config.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/safe_proxy_factory_config.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d720e24c106eae35b66f3ec18c26dc2ffced58b9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/safe_proxy_factory_config.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/safe_proxy_factory_config.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d720e24c106eae35b66f3ec18c26dc2ffced58b9",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/safe_proxy_factory_config.json"
+      }
+    },
+    {
+      "name": "setup_router_fee.ts",
+      "path": "scripts/setup_router_fee.ts",
+      "sha": "357bc8efd48d6ecdb1edff5dd71044689cef912c",
+      "size": 1511,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/setup_router_fee.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/setup_router_fee.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/357bc8efd48d6ecdb1edff5dd71044689cef912c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/setup_router_fee.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/setup_router_fee.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/357bc8efd48d6ecdb1edff5dd71044689cef912c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/setup_router_fee.ts"
+      }
+    },
+    {
+      "name": "update_deployment.ts",
+      "path": "scripts/update_deployment.ts",
+      "sha": "cb56bf7cf672dec4f60675e38d5ca814e6b5c9e6",
+      "size": 975,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/update_deployment.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/update_deployment.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/cb56bf7cf672dec4f60675e38d5ca814e6b5c9e6",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/update_deployment.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/update_deployment.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/cb56bf7cf672dec4f60675e38d5ca814e6b5c9e6",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/update_deployment.ts"
+      }
+    },
+    {
+      "name": "verify.ts",
+      "path": "scripts/verify.ts",
+      "sha": "e65e971b0959f3b631d4dce5214aced48a18ffbf",
+      "size": 2574,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/verify.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/verify.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/e65e971b0959f3b631d4dce5214aced48a18ffbf",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/scripts/verify.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/scripts/verify.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/e65e971b0959f3b631d4dce5214aced48a18ffbf",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/scripts/verify.ts"
+      }
+    },
+    {
+      "name": "slither.db.json",
+      "path": "slither.db.json",
+      "sha": "4e13bc21b419b262f0985acd1e1725e89ab2f6df",
+      "size": 131907,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/slither.db.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/slither.db.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4e13bc21b419b262f0985acd1e1725e89ab2f6df",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/slither.db.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/slither.db.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4e13bc21b419b262f0985acd1e1725e89ab2f6df",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/slither.db.json"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "9b5f84fae0e4bf603135d9617c496f38785af58d",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/test",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/9b5f84fae0e4bf603135d9617c496f38785af58d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/9b5f84fae0e4bf603135d9617c496f38785af58d",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/test"
+      }
+    },
+    {
+      "name": "callers",
+      "path": "test/callers",
+      "sha": "b4a30a1fcbcc8bb6363ce7a4f1423729c41be579",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/test/callers",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/b4a30a1fcbcc8bb6363ce7a4f1423729c41be579",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/b4a30a1fcbcc8bb6363ce7a4f1423729c41be579",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/test/callers"
+      }
+    },
+    {
+      "name": "SimpleCaller.ts",
+      "path": "test/callers/SimpleCaller.ts",
+      "sha": "51be02d0d5fcaa4dd82ed12cfd26c590e3e7603b",
+      "size": 13050,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers/SimpleCaller.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/callers/SimpleCaller.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/51be02d0d5fcaa4dd82ed12cfd26c590e3e7603b",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/callers/SimpleCaller.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers/SimpleCaller.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/51be02d0d5fcaa4dd82ed12cfd26c590e3e7603b",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/callers/SimpleCaller.ts"
+      }
+    },
+    {
+      "name": "UniswapV2Caller.ts",
+      "path": "test/callers/UniswapV2Caller.ts",
+      "sha": "69cb2fdbbcb54a184f04eb0725129bdfee75b662",
+      "size": 17184,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers/UniswapV2Caller.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/callers/UniswapV2Caller.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/69cb2fdbbcb54a184f04eb0725129bdfee75b662",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/callers/UniswapV2Caller.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers/UniswapV2Caller.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/69cb2fdbbcb54a184f04eb0725129bdfee75b662",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/callers/UniswapV2Caller.ts"
+      }
+    },
+    {
+      "name": "UniswapV3Caller.ts",
+      "path": "test/callers/UniswapV3Caller.ts",
+      "sha": "d7c8983ee267278fde2aab019f33d176cfc6848c",
+      "size": 8182,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers/UniswapV3Caller.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/callers/UniswapV3Caller.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d7c8983ee267278fde2aab019f33d176cfc6848c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/callers/UniswapV3Caller.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/callers/UniswapV3Caller.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d7c8983ee267278fde2aab019f33d176cfc6848c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/callers/UniswapV3Caller.ts"
+      }
+    },
+    {
+      "name": "helpers",
+      "path": "test/helpers",
+      "sha": "fce121d80921cb97aa65ba310c52fe75ff393159",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/test/helpers",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/fce121d80921cb97aa65ba310c52fe75ff393159",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/fce121d80921cb97aa65ba310c52fe75ff393159",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/test/helpers"
+      }
+    },
+    {
+      "name": "buyTokenOnUniswap.ts",
+      "path": "test/helpers/buyTokenOnUniswap.ts",
+      "sha": "30bdde23f5fb30ccedcf7c445607f2c51972c9e0",
+      "size": 675,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/buyTokenOnUniswap.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/buyTokenOnUniswap.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/30bdde23f5fb30ccedcf7c445607f2c51972c9e0",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/buyTokenOnUniswap.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/buyTokenOnUniswap.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/30bdde23f5fb30ccedcf7c445607f2c51972c9e0",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/buyTokenOnUniswap.ts"
+      }
+    },
+    {
+      "name": "hashTypedData.ts",
+      "path": "test/helpers/hashTypedData.ts",
+      "sha": "7b84244df4cee340aa59eb7575b90e1d15356715",
+      "size": 306,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/hashTypedData.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/hashTypedData.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7b84244df4cee340aa59eb7575b90e1d15356715",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/hashTypedData.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/hashTypedData.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7b84244df4cee340aa59eb7575b90e1d15356715",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/hashTypedData.ts"
+      }
+    },
+    {
+      "name": "increaseTime.ts",
+      "path": "test/helpers/increaseTime.ts",
+      "sha": "a07814db38009f48d6c115d20e37b44813301bd4",
+      "size": 1782,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/increaseTime.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/increaseTime.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a07814db38009f48d6c115d20e37b44813301bd4",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/increaseTime.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/increaseTime.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/a07814db38009f48d6c115d20e37b44813301bd4",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/increaseTime.ts"
+      }
+    },
+    {
+      "name": "latestTime.ts",
+      "path": "test/helpers/latestTime.ts",
+      "sha": "d73fac27c69d0ddc67ccb1521cc13a0927e8dac9",
+      "size": 262,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/latestTime.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/latestTime.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d73fac27c69d0ddc67ccb1521cc13a0927e8dac9",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/latestTime.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/latestTime.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/d73fac27c69d0ddc67ccb1521cc13a0927e8dac9",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/latestTime.ts"
+      }
+    },
+    {
+      "name": "logger.ts",
+      "path": "test/helpers/logger.ts",
+      "sha": "2de677be36b904a9465dd19df5bfc39b5027ca6c",
+      "size": 627,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/logger.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/logger.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2de677be36b904a9465dd19df5bfc39b5027ca6c",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/logger.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/logger.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/2de677be36b904a9465dd19df5bfc39b5027ca6c",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/logger.ts"
+      }
+    },
+    {
+      "name": "signTypedData.ts",
+      "path": "test/helpers/signTypedData.ts",
+      "sha": "b2c8510078ee45353128c39557f7681c650cff16",
+      "size": 412,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/signTypedData.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/signTypedData.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b2c8510078ee45353128c39557f7681c650cff16",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/signTypedData.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/signTypedData.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/b2c8510078ee45353128c39557f7681c650cff16",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/signTypedData.ts"
+      }
+    },
+    {
+      "name": "tokens.ts",
+      "path": "test/helpers/tokens.ts",
+      "sha": "bad598958ea2ff3da344eea01eff00bf979df5e1",
+      "size": 449,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/tokens.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/tokens.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bad598958ea2ff3da344eea01eff00bf979df5e1",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/helpers/tokens.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/helpers/tokens.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/bad598958ea2ff3da344eea01eff00bf979df5e1",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/helpers/tokens.ts"
+      }
+    },
+    {
+      "name": "router",
+      "path": "test/router",
+      "sha": "38f17c46d429a57b4d1106bbadc9afe51e1b8bb0",
+      "size": 0,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/tree/router/test/router",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/38f17c46d429a57b4d1106bbadc9afe51e1b8bb0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/trees/38f17c46d429a57b4d1106bbadc9afe51e1b8bb0",
+        "html": "https://github.com/zeriontech/defi-sdk/tree/router/test/router"
+      }
+    },
+    {
+      "name": "Ownable.ts",
+      "path": "test/router/Ownable.ts",
+      "sha": "4aa84b5973381c5f6d2ba6a9434dff88dbd456d3",
+      "size": 1455,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router/Ownable.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/router/Ownable.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4aa84b5973381c5f6d2ba6a9434dff88dbd456d3",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/router/Ownable.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router/Ownable.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/4aa84b5973381c5f6d2ba6a9434dff88dbd456d3",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/router/Ownable.ts"
+      }
+    },
+    {
+      "name": "Router.ts",
+      "path": "test/router/Router.ts",
+      "sha": "7ceb18b0090f9806caf4f2408f17f96558c55ce7",
+      "size": 17187,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router/Router.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/router/Router.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7ceb18b0090f9806caf4f2408f17f96558c55ce7",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/router/Router.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router/Router.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/7ceb18b0090f9806caf4f2408f17f96558c55ce7",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/router/Router.ts"
+      }
+    },
+    {
+      "name": "SignatureVerifier.ts",
+      "path": "test/router/SignatureVerifier.ts",
+      "sha": "c9ff84a1df70c54689e1688d4c31b004bb26373f",
+      "size": 15631,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router/SignatureVerifier.ts?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/test/router/SignatureVerifier.ts",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/c9ff84a1df70c54689e1688d4c31b004bb26373f",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/test/router/SignatureVerifier.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/test/router/SignatureVerifier.ts?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/c9ff84a1df70c54689e1688d4c31b004bb26373f",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/test/router/SignatureVerifier.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "3466896556693ca3fec2b316cf390850dfe72fb0",
+      "size": 12288,
+      "url": "https://api.github.com/repos/zeriontech/defi-sdk/contents/tsconfig.json?ref=router",
+      "html_url": "https://github.com/zeriontech/defi-sdk/blob/router/tsconfig.json",
+      "git_url": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3466896556693ca3fec2b316cf390850dfe72fb0",
+      "download_url": "https://raw.githubusercontent.com/zeriontech/defi-sdk/router/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zeriontech/defi-sdk/contents/tsconfig.json?ref=router",
+        "git": "https://api.github.com/repos/zeriontech/defi-sdk/git/blobs/3466896556693ca3fec2b316cf390850dfe72fb0",
+        "html": "https://github.com/zeriontech/defi-sdk/blob/router/tsconfig.json"
+      }
+    }
+  ],
+  "external_domains": {
+    "i.ibb.co": 5677,
+    "zerion.io": 3185,
+    "x.com": 11996,
+    "www.gnu.org": null,
+    "img.shields.io": 4734,
+    "github.com": 6692,
+    "badgen.net": 2780,
+    "pypi.org": 3847,
+    "localhost:24012": null,
+    "trufflesuite.com": 3359
+  },
+  "collected_at": "2026-02-04T17:12:25.429559"
+}

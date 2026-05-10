@@ -1,0 +1,620 @@
+{
+  "repo_full_name": "shivas1432/sora2-watermark-remover",
+  "repo_deleted": false,
+  "data_source": "github_api",
+  "collected_at": "2026-03-17T02:11:56.947255",
+  "repo_detail": {
+    "id": 1087678465,
+    "node_id": "R_kgDOQNSoAQ",
+    "name": "sora2-watermark-remover",
+    "full_name": "shivas1432/sora2-watermark-remover",
+    "private": false,
+    "owner": {
+      "login": "shivas1432",
+      "id": 145932982,
+      "node_id": "U_kgDOCLLCtg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145932982?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shivas1432",
+      "html_url": "https://github.com/shivas1432",
+      "followers_url": "https://api.github.com/users/shivas1432/followers",
+      "following_url": "https://api.github.com/users/shivas1432/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shivas1432/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shivas1432/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shivas1432/subscriptions",
+      "organizations_url": "https://api.github.com/users/shivas1432/orgs",
+      "repos_url": "https://api.github.com/users/shivas1432/repos",
+      "events_url": "https://api.github.com/users/shivas1432/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shivas1432/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/shivas1432/sora2-watermark-remover",
+    "description": "This project uses AI to remove watermarks from Sora 2 generated videos. When a user uploads a video, the system analyzes each frame to detect the watermark and removes it using inpainting. The processed video is then rendered and returned to the user.",
+    "fork": false,
+    "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover",
+    "forks_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/forks",
+    "keys_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/teams",
+    "hooks_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/hooks",
+    "issue_events_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/events",
+    "assignees_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/tags",
+    "blobs_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/languages",
+    "stargazers_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/stargazers",
+    "contributors_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contributors",
+    "subscribers_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/subscribers",
+    "subscription_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/subscription",
+    "commits_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/merges",
+    "archive_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/downloads",
+    "issues_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/labels{/name}",
+    "releases_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/deployments",
+    "created_at": "2025-11-01T12:18:14Z",
+    "updated_at": "2026-03-15T14:00:03Z",
+    "pushed_at": "2025-11-01T12:25:54Z",
+    "git_url": "git://github.com/shivas1432/sora2-watermark-remover.git",
+    "ssh_url": "git@github.com:shivas1432/sora2-watermark-remover.git",
+    "clone_url": "https://github.com/shivas1432/sora2-watermark-remover.git",
+    "svn_url": "https://github.com/shivas1432/sora2-watermark-remover",
+    "homepage": null,
+    "size": 40,
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 1,
+    "open_issues": 1,
+    "watchers": 2,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 1,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "shivas1432",
+    "id": 145932982,
+    "node_id": "U_kgDOCLLCtg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/145932982?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/shivas1432",
+    "html_url": "https://github.com/shivas1432",
+    "followers_url": "https://api.github.com/users/shivas1432/followers",
+    "following_url": "https://api.github.com/users/shivas1432/following{/other_user}",
+    "gists_url": "https://api.github.com/users/shivas1432/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/shivas1432/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/shivas1432/subscriptions",
+    "organizations_url": "https://api.github.com/users/shivas1432/orgs",
+    "repos_url": "https://api.github.com/users/shivas1432/repos",
+    "events_url": "https://api.github.com/users/shivas1432/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/shivas1432/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Kanugula Shivashanker",
+    "company": null,
+    "blog": "www.linkedin.com/in/shivashanker-kanugula-51a512252",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "Full-Stack Developer | React, Node.js, Express, MySQL | Passionate about building dynamic web apps | Continuous learner | Open to collaboration.",
+    "twitter_username": null,
+    "public_repos": 77,
+    "public_gists": 0,
+    "followers": 57,
+    "following": 8,
+    "created_at": "2023-09-24T19:18:53Z",
+    "updated_at": "2026-03-02T22:24:28Z"
+  },
+  "readme": "# Sora 2 AI Watermark Remover\n![License](https://img.shields.io/badge/license-GPLv3-green.svg?style=flat)\n![Author](https://img.shields.io/badge/author-Kanugula%20Shivashanker-blue.svg?style=flat)\n\n## Description\nThis project is designed to precisely remove watermarks from Sora 2 generated videos using AI. It provides an intelligent solution for detecting and removing watermarks frame by frame using advanced inpainting techniques.\n\n## How it Works\nThis project uses AI to remove watermarks from Sora 2 generated videos. When a user uploads a video, the system analyzes each frame to detect the watermark and removes it using inpainting. The processed video is then rendered and returned to the user.\n\n## Requirements 🛠\n- Python 3.10+\n- Windows/MacOS/Linux\n- At least 4GB of RAM\n- [ffmpeg](https://ffmpeg.org/download.html)\n\n## Installation\nBefore using the watermark remover, you need to set it up on your machine. Clone the repository using Git:\n\n```bash\ngit clone https://github.com/shivas1432/sora2-watermark-remover.git\ncd sora2-watermark-remover\n```\n\nThen install the required dependencies:\n\n```bash\npip install -r requirements.txt\n```\n\n## Usage\n\n### Desktop Version\nTo start using the program, launch the main.py file:\n\n```bash\npython main.py\n```\n\nThis will open a web page in your browser where you can upload your videos. The processed results will be saved in the output folder.\n\n### Web Server Version\nYou can also use the web server version for your projects. Run **server.py:**\n\n```bash\npython server.py\n```\n\nThe web server will start on port 8000.\n\n## About the Developer\n\n**Kanugula Shivashanker**\n- GitHub: [@shivas1432](https://github.com/shivas1432)\n- LinkedIn: [shivashanker-kanugula](https://www.linkedin.com/in/shivashanker-kanugula-51a512252)\n- Website: [shivashanker.com](https://www.shivashanker.com)\n- Instagram: [@ss_web_innovations](https://instagram.com/ss_web_innovations)\n- Telegram: [@helpme_coder](https://t.me/helpme_coder)\n\n**Skills:** Full-Stack Developer | React | Node.js | Express | MySQL | Passionate about building dynamic web applications\n\n## License\nThis project is licensed under the GNU General Public License v3 - see the [LICENSE](LICENSE) file for details.\n\n## Contributing\nContributions are welcome! Feel free to fork this repository and submit pull requests for any improvements.\n\n## Support\nIf you find this project useful, please consider giving it a star ⭐ and sharing it with others!\n\n---\n\nMade with ❤️ by [Kanugula Shivashanker](https://github.com/shivas1432)",
+  "readme_domains": {
+    "t.me": 5779,
+    "instagram.com": 7955,
+    "www.shivashanker.com": 302,
+    "github.com": 6733,
+    "img.shields.io": 4774,
+    "www.linkedin.com": 8535,
+    "ffmpeg.org": 8725
+  },
+  "tree_structure": [
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "4c470ee85bf23be6c2d46f2ab6ed268379a9238d",
+      "size": 35824,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/4c470ee85bf23be6c2d46f2ab6ed268379a9238d",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/4c470ee85bf23be6c2d46f2ab6ed268379a9238d",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "MANIFEST.in",
+      "path": "MANIFEST.in",
+      "sha": "c427b8ef17171d2bb18f73aa587a52f3e6202a09",
+      "size": 69,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/MANIFEST.in?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/MANIFEST.in",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/c427b8ef17171d2bb18f73aa587a52f3e6202a09",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/MANIFEST.in",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/MANIFEST.in?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/c427b8ef17171d2bb18f73aa587a52f3e6202a09",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/MANIFEST.in"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "e56866c503b0896de2a6931a8a66299afa8176fd",
+      "size": 2525,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/README.md?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/e56866c503b0896de2a6931a8a66299afa8176fd",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/e56866c503b0896de2a6931a8a66299afa8176fd",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/README.md"
+      }
+    },
+    {
+      "name": "main.py",
+      "path": "main.py",
+      "sha": "6fcba488ca4384595f6f86b98a0bc7dc068de1aa",
+      "size": 1077,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/main.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/main.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/6fcba488ca4384595f6f86b98a0bc7dc068de1aa",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/main.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/main.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/6fcba488ca4384595f6f86b98a0bc7dc068de1aa",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/main.py"
+      }
+    },
+    {
+      "name": "pyproject.toml",
+      "path": "pyproject.toml",
+      "sha": "d8dcb1854c465f87b473f3c76e7d679991160a4e",
+      "size": 371,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/pyproject.toml?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/pyproject.toml",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/d8dcb1854c465f87b473f3c76e7d679991160a4e",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/pyproject.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/pyproject.toml?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/d8dcb1854c465f87b473f3c76e7d679991160a4e",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/pyproject.toml"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "sha": "5e48507efb52641c86f4ee73e946910f8a40d280",
+      "size": 56,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/requirements.txt?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/requirements.txt",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/5e48507efb52641c86f4ee73e946910f8a40d280",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/requirements.txt?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/5e48507efb52641c86f4ee73e946910f8a40d280",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/requirements.txt"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "1fb818db584680c3fce54f25fcbf53ddc5e9557e",
+      "size": 0,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/1fb818db584680c3fce54f25fcbf53ddc5e9557e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/1fb818db584680c3fce54f25fcbf53ddc5e9557e",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "scripts/__init__.py",
+      "sha": "8fc44ecc6b85ec081ee367280362630517856a6d",
+      "size": 806,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/__init__.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/__init__.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/8fc44ecc6b85ec081ee367280362630517856a6d",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/8fc44ecc6b85ec081ee367280362630517856a6d",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/__init__.py"
+      }
+    },
+    {
+      "name": "config.py",
+      "path": "scripts/config.py",
+      "sha": "c966750ac00a07c7ecc59f28bad2b8076d1aa326",
+      "size": 208,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/config.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/config.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/c966750ac00a07c7ecc59f28bad2b8076d1aa326",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/config.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/config.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/c966750ac00a07c7ecc59f28bad2b8076d1aa326",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/config.py"
+      }
+    },
+    {
+      "name": "core.py",
+      "path": "scripts/core.py",
+      "sha": "00798a862eba94e31cb0d96eaca71427720bf116",
+      "size": 63377,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/core.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/core.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/00798a862eba94e31cb0d96eaca71427720bf116",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/core.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/core.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/00798a862eba94e31cb0d96eaca71427720bf116",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/core.py"
+      }
+    },
+    {
+      "name": "optimization.py",
+      "path": "scripts/optimization.py",
+      "sha": "ad85fe9834a7307717abfda7761f72db44b57b62",
+      "size": 1876,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/optimization.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/optimization.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/ad85fe9834a7307717abfda7761f72db44b57b62",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/optimization.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/optimization.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/ad85fe9834a7307717abfda7761f72db44b57b62",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/optimization.py"
+      }
+    },
+    {
+      "name": "remover.py",
+      "path": "scripts/remover.py",
+      "sha": "ceb13c3ffa45e10b82ec380195aceddc3eb743eb",
+      "size": 9307,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/remover.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/remover.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/ceb13c3ffa45e10b82ec380195aceddc3eb743eb",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/remover.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/remover.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/ceb13c3ffa45e10b82ec380195aceddc3eb743eb",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/remover.py"
+      }
+    },
+    {
+      "name": "sora_api.py",
+      "path": "scripts/sora_api.py",
+      "sha": "d15942f6c5fe61f2d9c051a3251e43722090a89b",
+      "size": 735,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/sora_api.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/sora_api.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/d15942f6c5fe61f2d9c051a3251e43722090a89b",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/sora_api.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/sora_api.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/d15942f6c5fe61f2d9c051a3251e43722090a89b",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/sora_api.py"
+      }
+    },
+    {
+      "name": "utils.py",
+      "path": "scripts/utils.py",
+      "sha": "c8df62e1b3b7d215912e4151a5e3eec30eab7a9e",
+      "size": 732,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/c8df62e1b3b7d215912e4151a5e3eec30eab7a9e",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/c8df62e1b3b7d215912e4151a5e3eec30eab7a9e",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils.py"
+      }
+    },
+    {
+      "name": "utils",
+      "path": "scripts/utils",
+      "sha": "4b32817ebe41d5d1e2999be3bb2d4e42649e89e8",
+      "size": 0,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/4b32817ebe41d5d1e2999be3bb2d4e42649e89e8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/4b32817ebe41d5d1e2999be3bb2d4e42649e89e8",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "scripts/utils/__init__.py",
+      "sha": "b55d33900ed0f50dfbb9dbaaf74e0abff829e5d6",
+      "size": 133,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/__init__.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/__init__.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/b55d33900ed0f50dfbb9dbaaf74e0abff829e5d6",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/b55d33900ed0f50dfbb9dbaaf74e0abff829e5d6",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/__init__.py"
+      }
+    },
+    {
+      "name": "_pycache_",
+      "path": "scripts/utils/_pycache_",
+      "sha": "621f25ee2c6d1e56af102bf1f0697d53fe334d3d",
+      "size": 0,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/_pycache_?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils/_pycache_",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/621f25ee2c6d1e56af102bf1f0697d53fe334d3d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/_pycache_?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/621f25ee2c6d1e56af102bf1f0697d53fe334d3d",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils/_pycache_"
+      }
+    },
+    {
+      "name": "__init__.cpython-310.pyc",
+      "path": "scripts/utils/_pycache_/__init__.cpython-310.pyc",
+      "sha": "fde27a07407d99fb5fe50d104cb83540739bddbe",
+      "size": 305,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/_pycache_/__init__.cpython-310.pyc?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/_pycache_/__init__.cpython-310.pyc",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/fde27a07407d99fb5fe50d104cb83540739bddbe",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/_pycache_/__init__.cpython-310.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/_pycache_/__init__.cpython-310.pyc?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/fde27a07407d99fb5fe50d104cb83540739bddbe",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/_pycache_/__init__.cpython-310.pyc"
+      }
+    },
+    {
+      "name": "launcher.cpython-310.pyc",
+      "path": "scripts/utils/_pycache_/launcher.cpython-310.pyc",
+      "sha": "29e836bc194b50b3110a934995c93422a69e3d83",
+      "size": 4288,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/_pycache_/launcher.cpython-310.pyc?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/_pycache_/launcher.cpython-310.pyc",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/29e836bc194b50b3110a934995c93422a69e3d83",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/_pycache_/launcher.cpython-310.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/_pycache_/launcher.cpython-310.pyc?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/29e836bc194b50b3110a934995c93422a69e3d83",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/_pycache_/launcher.cpython-310.pyc"
+      }
+    },
+    {
+      "name": "config",
+      "path": "scripts/utils/config",
+      "sha": "b3acf0da36e3f8a728964cf160fa9947e5e076c7",
+      "size": 0,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils/config",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/b3acf0da36e3f8a728964cf160fa9947e5e076c7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/b3acf0da36e3f8a728964cf160fa9947e5e076c7",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils/config"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "scripts/utils/config/__init__.py",
+      "sha": "0f2514010caac6ad298fc97bc1b98c2b3d9bf8d7",
+      "size": 29,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/__init__.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/__init__.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/0f2514010caac6ad298fc97bc1b98c2b3d9bf8d7",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/config/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/__init__.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/0f2514010caac6ad298fc97bc1b98c2b3d9bf8d7",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/__init__.py"
+      }
+    },
+    {
+      "name": "_pycache_",
+      "path": "scripts/utils/config/_pycache_",
+      "sha": "64099e28d5be327656af9dd04dfe06c3992cb4c6",
+      "size": 0,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/_pycache_?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils/config/_pycache_",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/64099e28d5be327656af9dd04dfe06c3992cb4c6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/_pycache_?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/trees/64099e28d5be327656af9dd04dfe06c3992cb4c6",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/tree/main/scripts/utils/config/_pycache_"
+      }
+    },
+    {
+      "name": "__init__.cpython-310.pyc",
+      "path": "scripts/utils/config/_pycache_/__init__.cpython-310.pyc",
+      "sha": "f0dbbf561e80f41341465a64742228f0b259ba08",
+      "size": 190,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/_pycache_/__init__.cpython-310.pyc?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/_pycache_/__init__.cpython-310.pyc",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/f0dbbf561e80f41341465a64742228f0b259ba08",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/config/_pycache_/__init__.cpython-310.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/_pycache_/__init__.cpython-310.pyc?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/f0dbbf561e80f41341465a64742228f0b259ba08",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/_pycache_/__init__.cpython-310.pyc"
+      }
+    },
+    {
+      "name": "config.cpython-310.pyc",
+      "path": "scripts/utils/config/_pycache_/config.cpython-310.pyc",
+      "sha": "3c57894af7b7040fb7529e993bc7320a1ad19b98",
+      "size": 1199,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/_pycache_/config.cpython-310.pyc?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/_pycache_/config.cpython-310.pyc",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/3c57894af7b7040fb7529e993bc7320a1ad19b98",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/config/_pycache_/config.cpython-310.pyc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/_pycache_/config.cpython-310.pyc?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/3c57894af7b7040fb7529e993bc7320a1ad19b98",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/_pycache_/config.cpython-310.pyc"
+      }
+    },
+    {
+      "name": "config.py",
+      "path": "scripts/utils/config/config.py",
+      "sha": "6a6b1165d27dae14de4a0ce9a6822e17b68a4867",
+      "size": 446,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/config.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/config.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/6a6b1165d27dae14de4a0ce9a6822e17b68a4867",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/config/config.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/config/config.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/6a6b1165d27dae14de4a0ce9a6822e17b68a4867",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/config/config.py"
+      }
+    },
+    {
+      "name": "session.py",
+      "path": "scripts/utils/session.py",
+      "sha": "fca3e0246d9333b63bc0f7e7c4e0b1936107d338",
+      "size": 956,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/session.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/session.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/fca3e0246d9333b63bc0f7e7c4e0b1936107d338",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/session.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/session.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/fca3e0246d9333b63bc0f7e7c4e0b1936107d338",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/session.py"
+      }
+    },
+    {
+      "name": "web.py",
+      "path": "scripts/utils/web.py",
+      "sha": "509bceba3fdfcfcb074a4f01debb8d2239f0d429",
+      "size": 4900,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/web.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/web.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/509bceba3fdfcfcb074a4f01debb8d2239f0d429",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/scripts/utils/web.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/scripts/utils/web.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/509bceba3fdfcfcb074a4f01debb8d2239f0d429",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/scripts/utils/web.py"
+      }
+    },
+    {
+      "name": "server.py",
+      "path": "server.py",
+      "sha": "b1a176facde2eebc7c219f0ceac46d15ff1c4e70",
+      "size": 1133,
+      "url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/server.py?ref=main",
+      "html_url": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/server.py",
+      "git_url": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/b1a176facde2eebc7c219f0ceac46d15ff1c4e70",
+      "download_url": "https://raw.githubusercontent.com/shivas1432/sora2-watermark-remover/main/server.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/contents/server.py?ref=main",
+        "git": "https://api.github.com/repos/shivas1432/sora2-watermark-remover/git/blobs/b1a176facde2eebc7c219f0ceac46d15ff1c4e70",
+        "html": "https://github.com/shivas1432/sora2-watermark-remover/blob/main/server.py"
+      }
+    }
+  ]
+}

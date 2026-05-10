@@ -1,0 +1,604 @@
+{
+  "repo_full_name": "zakcroft/shared-wallet-blockchain-solidity",
+  "repo_detail": {
+    "id": 384481813,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzODQ0ODE4MTM=",
+    "name": "shared-wallet-blockchain-solidity",
+    "full_name": "zakcroft/shared-wallet-blockchain-solidity",
+    "private": false,
+    "owner": {
+      "login": "zakcroft",
+      "id": 1917622,
+      "node_id": "MDQ6VXNlcjE5MTc2MjI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1917622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/zakcroft",
+      "html_url": "https://github.com/zakcroft",
+      "followers_url": "https://api.github.com/users/zakcroft/followers",
+      "following_url": "https://api.github.com/users/zakcroft/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zakcroft/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zakcroft/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zakcroft/subscriptions",
+      "organizations_url": "https://api.github.com/users/zakcroft/orgs",
+      "repos_url": "https://api.github.com/users/zakcroft/repos",
+      "events_url": "https://api.github.com/users/zakcroft/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zakcroft/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity",
+    "forks_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/forks",
+    "keys_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/teams",
+    "hooks_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/hooks",
+    "issue_events_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/events",
+    "assignees_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/tags",
+    "blobs_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/languages",
+    "stargazers_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/stargazers",
+    "contributors_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contributors",
+    "subscribers_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/subscribers",
+    "subscription_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/subscription",
+    "commits_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/merges",
+    "archive_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/downloads",
+    "issues_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/labels{/name}",
+    "releases_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/deployments",
+    "created_at": "2021-07-09T15:40:24Z",
+    "updated_at": "2021-07-09T15:40:27Z",
+    "pushed_at": "2021-07-09T15:46:33Z",
+    "git_url": "git://github.com/zakcroft/shared-wallet-blockchain-solidity.git",
+    "ssh_url": "git@github.com:zakcroft/shared-wallet-blockchain-solidity.git",
+    "clone_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity.git",
+    "svn_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity",
+    "homepage": null,
+    "size": 83,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "zakcroft",
+    "id": 1917622,
+    "node_id": "MDQ6VXNlcjE5MTc2MjI=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1917622?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zakcroft",
+    "html_url": "https://github.com/zakcroft",
+    "followers_url": "https://api.github.com/users/zakcroft/followers",
+    "following_url": "https://api.github.com/users/zakcroft/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zakcroft/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zakcroft/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zakcroft/subscriptions",
+    "organizations_url": "https://api.github.com/users/zakcroft/orgs",
+    "repos_url": "https://api.github.com/users/zakcroft/repos",
+    "events_url": "https://api.github.com/users/zakcroft/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zakcroft/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Zak Croft",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "React, JS, Typescript, Gen AI , Python, Fullstack. ",
+    "twitter_username": null,
+    "public_repos": 50,
+    "public_gists": 1,
+    "followers": 4,
+    "following": 5,
+    "created_at": "2012-07-03T10:01:09Z",
+    "updated_at": "2026-02-16T13:05:21Z"
+  },
+  "readme": "",
+  "tree_structure": [
+    {
+      "name": ".deps",
+      "path": ".deps",
+      "sha": "035543e761dd6172c2d0aa42e15434704b095b49",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/035543e761dd6172c2d0aa42e15434704b095b49",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/035543e761dd6172c2d0aa42e15434704b095b49",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps"
+      }
+    },
+    {
+      "name": "npm",
+      "path": ".deps/npm",
+      "sha": "c03775513a2d0db20f0752c60d2ac567394e699c",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/c03775513a2d0db20f0752c60d2ac567394e699c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/c03775513a2d0db20f0752c60d2ac567394e699c",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm"
+      }
+    },
+    {
+      "name": "@openzeppelin",
+      "path": ".deps/npm/@openzeppelin",
+      "sha": "6e1106a6bd8199da4d3a060a750c1da134851d58",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/6e1106a6bd8199da4d3a060a750c1da134851d58",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/6e1106a6bd8199da4d3a060a750c1da134851d58",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": ".deps/npm/@openzeppelin/contracts",
+      "sha": "288731d6fc8dd32924c4891169fd63a1139ac0d5",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/288731d6fc8dd32924c4891169fd63a1139ac0d5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/288731d6fc8dd32924c4891169fd63a1139ac0d5",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts"
+      }
+    },
+    {
+      "name": "access",
+      "path": ".deps/npm/@openzeppelin/contracts/access",
+      "sha": "2b8fd903df0ee300be74bf773cf71f7624662b5e",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts/access",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/2b8fd903df0ee300be74bf773cf71f7624662b5e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/2b8fd903df0ee300be74bf773cf71f7624662b5e",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts/access"
+      }
+    },
+    {
+      "name": "Ownable.sol",
+      "path": ".deps/npm/@openzeppelin/contracts/access/Ownable.sol",
+      "sha": "16469d5a6bb014838a44c039a5f613fc8b7ff986",
+      "size": 2213,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/Ownable.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/access/Ownable.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/16469d5a6bb014838a44c039a5f613fc8b7ff986",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/.deps/npm/%40openzeppelin/contracts/access/Ownable.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/Ownable.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/16469d5a6bb014838a44c039a5f613fc8b7ff986",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/access/Ownable.sol"
+      }
+    },
+    {
+      "name": "artifacts",
+      "path": ".deps/npm/@openzeppelin/contracts/access/artifacts",
+      "sha": "df2a4c39adb3134610836151aacaee156e702b23",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/artifacts?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts/access/artifacts",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/df2a4c39adb3134610836151aacaee156e702b23",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/artifacts?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/df2a4c39adb3134610836151aacaee156e702b23",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts/access/artifacts"
+      }
+    },
+    {
+      "name": "Ownable.json",
+      "path": ".deps/npm/@openzeppelin/contracts/access/artifacts/Ownable.json",
+      "sha": "994d9e93d149e5c70237b03171b3f44775514a24",
+      "size": 1955,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable.json?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable.json",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/994d9e93d149e5c70237b03171b3f44775514a24",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/.deps/npm/%40openzeppelin/contracts/access/artifacts/Ownable.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable.json?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/994d9e93d149e5c70237b03171b3f44775514a24",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable.json"
+      }
+    },
+    {
+      "name": "Ownable_metadata.json",
+      "path": ".deps/npm/@openzeppelin/contracts/access/artifacts/Ownable_metadata.json",
+      "sha": "2b264986435b69ccd9bd8b1a3af39cc0229da24d",
+      "size": 3382,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable_metadata.json?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable_metadata.json",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/2b264986435b69ccd9bd8b1a3af39cc0229da24d",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/.deps/npm/%40openzeppelin/contracts/access/artifacts/Ownable_metadata.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable_metadata.json?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/2b264986435b69ccd9bd8b1a3af39cc0229da24d",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/access/artifacts/Ownable_metadata.json"
+      }
+    },
+    {
+      "name": "utils",
+      "path": ".deps/npm/@openzeppelin/contracts/utils",
+      "sha": "91ef7d02facfb88f358fe8f09b6bb7ffc513439b",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/utils?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts/utils",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/91ef7d02facfb88f358fe8f09b6bb7ffc513439b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/utils?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/91ef7d02facfb88f358fe8f09b6bb7ffc513439b",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/.deps/npm/@openzeppelin/contracts/utils"
+      }
+    },
+    {
+      "name": "Context.sol",
+      "path": ".deps/npm/@openzeppelin/contracts/utils/Context.sol",
+      "sha": "eb48cb193ae40d69cc9027d8587007dbe493fd40",
+      "size": 790,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/utils/Context.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/utils/Context.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/eb48cb193ae40d69cc9027d8587007dbe493fd40",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/.deps/npm/%40openzeppelin/contracts/utils/Context.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.deps/npm/@openzeppelin/contracts/utils/Context.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/eb48cb193ae40d69cc9027d8587007dbe493fd40",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.deps/npm/@openzeppelin/contracts/utils/Context.sol"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "77830f516e1a85e58b171058fb736375143d4b9d",
+      "size": 215,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/77830f516e1a85e58b171058fb736375143d4b9d",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/77830f516e1a85e58b171058fb736375143d4b9d",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "73725fcebc3d84572d5cb23c3ff32e011f340105",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/contracts",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/73725fcebc3d84572d5cb23c3ff32e011f340105",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/73725fcebc3d84572d5cb23c3ff32e011f340105",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/contracts"
+      }
+    },
+    {
+      "name": "Allowances.sol",
+      "path": "contracts/Allowances.sol",
+      "sha": "d9508428c6ee77bee8aa5ba4dea0b3af7c66974c",
+      "size": 1121,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/Allowances.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/Allowances.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/d9508428c6ee77bee8aa5ba4dea0b3af7c66974c",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/contracts/Allowances.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/Allowances.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/d9508428c6ee77bee8aa5ba4dea0b3af7c66974c",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/Allowances.sol"
+      }
+    },
+    {
+      "name": "Events.sol",
+      "path": "contracts/Events.sol",
+      "sha": "8a0eac6f07e49516974cfa839a7a29b802eb0a80",
+      "size": 371,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/Events.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/Events.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/8a0eac6f07e49516974cfa839a7a29b802eb0a80",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/contracts/Events.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/Events.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/8a0eac6f07e49516974cfa839a7a29b802eb0a80",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/Events.sol"
+      }
+    },
+    {
+      "name": "Migrations.sol",
+      "path": "contracts/Migrations.sol",
+      "sha": "9aac9750f3b268f834a849ace9a94b293d8d4142",
+      "size": 419,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/Migrations.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/Migrations.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/9aac9750f3b268f834a849ace9a94b293d8d4142",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/contracts/Migrations.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/Migrations.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/9aac9750f3b268f834a849ace9a94b293d8d4142",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/Migrations.sol"
+      }
+    },
+    {
+      "name": "SharedWallet.sol",
+      "path": "contracts/SharedWallet.sol",
+      "sha": "afa4ddec446a63e82470ea936a4d312552cf635a",
+      "size": 1063,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/SharedWallet.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/SharedWallet.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/afa4ddec446a63e82470ea936a4d312552cf635a",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/contracts/SharedWallet.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/SharedWallet.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/afa4ddec446a63e82470ea936a4d312552cf635a",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/SharedWallet.sol"
+      }
+    },
+    {
+      "name": "SomeContract.sol",
+      "path": "contracts/SomeContract.sol",
+      "sha": "0a5dad60438d48626611b91085595e87233b72d0",
+      "size": 155,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/SomeContract.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/SomeContract.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/0a5dad60438d48626611b91085595e87233b72d0",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/contracts/SomeContract.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/contracts/SomeContract.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/0a5dad60438d48626611b91085595e87233b72d0",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/contracts/SomeContract.sol"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "index.html",
+      "sha": "ee09ee07090a59b74e3d99877a1920719a622738",
+      "size": 201,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/index.html?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/index.html",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/ee09ee07090a59b74e3d99877a1920719a622738",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/index.html?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/ee09ee07090a59b74e3d99877a1920719a622738",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/index.html"
+      }
+    },
+    {
+      "name": "migrations",
+      "path": "migrations",
+      "sha": "23480fee42ade1b79f00c45676920c6a174a95bf",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/migrations?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/migrations",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/23480fee42ade1b79f00c45676920c6a174a95bf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/migrations?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/23480fee42ade1b79f00c45676920c6a174a95bf",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/migrations"
+      }
+    },
+    {
+      "name": "1_initial_migration.js",
+      "path": "migrations/1_initial_migration.js",
+      "sha": "16a7ba52f41282358c18dd6cb6f197ffa55018d5",
+      "size": 126,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/migrations/1_initial_migration.js?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/migrations/1_initial_migration.js",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/16a7ba52f41282358c18dd6cb6f197ffa55018d5",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/migrations/1_initial_migration.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/migrations/1_initial_migration.js?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/16a7ba52f41282358c18dd6cb6f197ffa55018d5",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/migrations/1_initial_migration.js"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "b2ec187780d668318d48d892d08da2c41a5a5452",
+      "size": 294088,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/package-lock.json?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/package-lock.json",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/b2ec187780d668318d48d892d08da2c41a5a5452",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/package-lock.json?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/b2ec187780d668318d48d892d08da2c41a5a5452",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "ed50d35f6a3c0b14c1fa9baf289b8c2b0b9080db",
+      "size": 426,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/package.json?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/ed50d35f6a3c0b14c1fa9baf289b8c2b0b9080db",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/ed50d35f6a3c0b14c1fa9baf289b8c2b0b9080db",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/package.json"
+      }
+    },
+    {
+      "name": "tests",
+      "path": "tests",
+      "sha": "353ee9b26c26ccec4d7d62c44ba87f1842d6ce6a",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/tests",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/353ee9b26c26ccec4d7d62c44ba87f1842d6ce6a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/trees/353ee9b26c26ccec4d7d62c44ba87f1842d6ce6a",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/tree/master/tests"
+      }
+    },
+    {
+      "name": ".gitkeep",
+      "path": "tests/.gitkeep",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests/.gitkeep?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/tests/.gitkeep",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/tests/.gitkeep",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests/.gitkeep?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/tests/.gitkeep"
+      }
+    },
+    {
+      "name": "SharedWallet.sol",
+      "path": "tests/SharedWallet.sol",
+      "sha": "88ab66755a528d8c3060b02ee4f0ecaff89bc9c9",
+      "size": 1038,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests/SharedWallet.sol?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/tests/SharedWallet.sol",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/88ab66755a528d8c3060b02ee4f0ecaff89bc9c9",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/tests/SharedWallet.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests/SharedWallet.sol?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/88ab66755a528d8c3060b02ee4f0ecaff89bc9c9",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/tests/SharedWallet.sol"
+      }
+    },
+    {
+      "name": "SharedWallet.test.js",
+      "path": "tests/SharedWallet.test.js",
+      "sha": "abf4b2797389ccd4bbb879b908d3942c1d3f174a",
+      "size": 1287,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests/SharedWallet.test.js?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/tests/SharedWallet.test.js",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/abf4b2797389ccd4bbb879b908d3942c1d3f174a",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/tests/SharedWallet.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/tests/SharedWallet.test.js?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/abf4b2797389ccd4bbb879b908d3942c1d3f174a",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/tests/SharedWallet.test.js"
+      }
+    },
+    {
+      "name": "truffle-config.js",
+      "path": "truffle-config.js",
+      "sha": "a707377280e9566b67e76898a00e75be7d3bd91f",
+      "size": 4598,
+      "url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/truffle-config.js?ref=master",
+      "html_url": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/truffle-config.js",
+      "git_url": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/a707377280e9566b67e76898a00e75be7d3bd91f",
+      "download_url": "https://raw.githubusercontent.com/zakcroft/shared-wallet-blockchain-solidity/master/truffle-config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/contents/truffle-config.js?ref=master",
+        "git": "https://api.github.com/repos/zakcroft/shared-wallet-blockchain-solidity/git/blobs/a707377280e9566b67e76898a00e75be7d3bd91f",
+        "html": "https://github.com/zakcroft/shared-wallet-blockchain-solidity/blob/master/truffle-config.js"
+      }
+    }
+  ],
+  "external_domains": {},
+  "collected_at": "2026-03-23T14:06:39.941222"
+}

@@ -1,0 +1,12 @@
+{
+  "threshold": 0.005434935446828604,
+  "precision_train": 0.9966777408637874,
+  "recall_train": 1.0,
+  "f1_train": 0.9983361064891847,
+  "pr_auc_train": 1.0,
+  "roc_auc_train": 1.0,
+  "tn": 2053,
+  "fp": 1,
+  "fn": 0,
+  "tp": 300
+}

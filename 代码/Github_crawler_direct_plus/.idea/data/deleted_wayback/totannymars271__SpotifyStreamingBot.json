@@ -1,0 +1,18 @@
+{
+  "repo_full_name": "totannymars271/SpotifyStreamingBot",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-03-17T02:43:17.240925",
+  "repo_detail": {
+    "repo_full_name": "totannymars271/SpotifyStreamingBot",
+    "snapshot_url": "http://web.archive.org/web/20250502154226/https://github.com/totannymars271/SpotifyStreamingBot",
+    "snapshot_time": "20250502154226",
+    "stars": 111,
+    "forks": 65000,
+    "watches": 2,
+    "readme": "SpotifyStreamingBot\n\n\nSimple tool which plays spotify songs between the given amount of time with multiple accounts.\n\n\nInstallation\n\n\npip3 install -r requirements.txt\n\n\n\nTool\n\n\n\n\nExample\n\n\n\n\nProof\n\n\n\n\nLegal\n\n\nThis was merely a speedrun to demonstrate how streaming bots work.\n\nThis is illegal if you use this without the consent of the owners (in this case, the Spotify team).\n\nThe software designed to perform website security testing.\n\nThe author is not responsible for any illegal use of these programs.\n\nI am not accountable for anything you get into.\n\nI am not accountable for any of your actions.\n\nThis is 100% educational, please do not misuse this tool.\n\n\nxdlvwgfbc\n\n",
+    "readme_domains": {}
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

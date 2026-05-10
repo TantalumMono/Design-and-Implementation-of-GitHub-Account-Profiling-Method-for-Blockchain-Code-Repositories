@@ -1,0 +1,55 @@
+{
+  "config": {
+    "best_params_json": "./train_tfidf_bayes_f1_weighted_outputs/best_params.json",
+    "data_path": "family_prepared_v3/family_dataset_train_ready.csv",
+    "text_col": "text_for_tfidf_clean",
+    "outer_n_splits": 5,
+    "tfidf_max_features": 550,
+    "tfidf_min_df": 1,
+    "tfidf_ngram_range": [
+      1,
+      2
+    ],
+    "threshold_strategy": "fixed_from_json",
+    "fixed_threshold": 0.6877043247,
+    "actual_w_real_pos": 5.334317001119037,
+    "actual_w_generated_pos": 0.5211739473769518,
+    "actual_w_neg": 1.9054514380117786,
+    "structured_feature_count": 159
+  },
+  "xgb_fixed_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "aucpr",
+    "tree_method": "hist",
+    "random_state": 42,
+    "n_jobs": -1,
+    "importance_type": "gain",
+    "n_estimators": 1100,
+    "learning_rate": 0.018891200276189388,
+    "max_depth": 3,
+    "min_child_weight": 3,
+    "subsample": 0.7216968971838151,
+    "colsample_bytree": 0.762378215816119,
+    "reg_alpha": 7.71800699380605e-05,
+    "reg_lambda": 0.017888967192999938,
+    "gamma": 3.0592644736118975,
+    "max_delta_step": 0.6974693032602092
+  },
+  "pooled_oof": {
+    "pr_auc": 0.8210836356897673,
+    "roc_auc": 0.9797576544411988,
+    "precision": 1.0,
+    "recall": 0.5555555555555556,
+    "f1": 0.7142857142857143,
+    "confusion_matrix": [
+      [
+        2054,
+        0
+      ],
+      [
+        20,
+        25
+      ]
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+﻿label,y_logit,y_proba,y_pred,repo_full_name,family_id,is_real_positive,is_generated_positive,case_type
+1,13.85669,0.99999905,1,bog-us/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,13.85164,0.99999905,1,wj6942/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,13.7588625,0.9999989,1,ii4272/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,5.0575194,0.99367887,1,dev-protocol/polymarket-copytrading-bot-sport,F2_crypto_trading_bot,1,0,hard_real_positive
+1,5.2138844,0.994589,1,knightsdex/knightsbridge-dex,F3_web3_platform_app,1,0,hard_real_positive
+1,5.742709,0.99680424,1,eferos93/test4,F5_ai_media_demo,1,0,hard_real_positive
+0,-1.0564995,0.257979,1,mrfomoweb3/nft-wallet-tracker,NEG_01244,0,0,hard_negative
+0,-5.693288,0.0033571909,0,chmajidnaeem/blockchain-bitcoin,NEG_00398,0,0,hard_negative
+0,-6.016366,0.0024325834,0,mrkkyatilla/omus-wallet,NEG_01246,0,0,hard_negative

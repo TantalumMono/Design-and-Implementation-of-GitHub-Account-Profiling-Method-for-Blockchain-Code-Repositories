@@ -1,0 +1,1158 @@
+{
+  "repo_full_name": "WizardOfAus/WizardsEthereumWorkshop",
+  "repo_detail": {
+    "id": 125732630,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxMjU3MzI2MzA=",
+    "name": "WizardsEthereumWorkshop",
+    "full_name": "WizardOfAus/WizardsEthereumWorkshop",
+    "private": false,
+    "owner": {
+      "login": "WizardOfAus",
+      "id": 9751831,
+      "node_id": "MDQ6VXNlcjk3NTE4MzE=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9751831?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/WizardOfAus",
+      "html_url": "https://github.com/WizardOfAus",
+      "followers_url": "https://api.github.com/users/WizardOfAus/followers",
+      "following_url": "https://api.github.com/users/WizardOfAus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/WizardOfAus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/WizardOfAus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/WizardOfAus/subscriptions",
+      "organizations_url": "https://api.github.com/users/WizardOfAus/orgs",
+      "repos_url": "https://api.github.com/users/WizardOfAus/repos",
+      "events_url": "https://api.github.com/users/WizardOfAus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/WizardOfAus/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop",
+    "description": "WizardOfAus' Ethereum Workshop Workspace https://www.meetup.com/bitfwd-London-Wizards-Blockchain-Workshops/",
+    "fork": false,
+    "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop",
+    "forks_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/forks",
+    "keys_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/teams",
+    "hooks_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/hooks",
+    "issue_events_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/events",
+    "assignees_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/tags",
+    "blobs_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/languages",
+    "stargazers_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/stargazers",
+    "contributors_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contributors",
+    "subscribers_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/subscribers",
+    "subscription_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/subscription",
+    "commits_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/merges",
+    "archive_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/downloads",
+    "issues_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/labels{/name}",
+    "releases_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/deployments",
+    "created_at": "2018-03-18T14:21:50Z",
+    "updated_at": "2025-07-29T17:27:47Z",
+    "pushed_at": "2018-10-02T00:40:31Z",
+    "git_url": "git://github.com/WizardOfAus/WizardsEthereumWorkshop.git",
+    "ssh_url": "git@github.com:WizardOfAus/WizardsEthereumWorkshop.git",
+    "clone_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop.git",
+    "svn_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop",
+    "homepage": null,
+    "size": 11557,
+    "stargazers_count": 9,
+    "watchers_count": 9,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 6,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [],
+    "visibility": "public",
+    "forks": 6,
+    "open_issues": 0,
+    "watchers": 9,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 6,
+    "subscribers_count": 8
+  },
+  "user_detail": {
+    "login": "WizardOfAus",
+    "id": 9751831,
+    "node_id": "MDQ6VXNlcjk3NTE4MzE=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/9751831?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WizardOfAus",
+    "html_url": "https://github.com/WizardOfAus",
+    "followers_url": "https://api.github.com/users/WizardOfAus/followers",
+    "following_url": "https://api.github.com/users/WizardOfAus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WizardOfAus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WizardOfAus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WizardOfAus/subscriptions",
+    "organizations_url": "https://api.github.com/users/WizardOfAus/orgs",
+    "repos_url": "https://api.github.com/users/WizardOfAus/repos",
+    "events_url": "https://api.github.com/users/WizardOfAus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WizardOfAus/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": null,
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 114,
+    "public_gists": 3,
+    "followers": 30,
+    "following": 4,
+    "created_at": "2014-11-14T19:35:08Z",
+    "updated_at": "2026-03-11T11:37:49Z"
+  },
+  "readme": "[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/EthereumWizards/Lobby)\n\nSee the [wiki](https://github.com/WizardOfAus/WizardsEthereumWorkshop/wiki) for further details.\n\nCollaborators:\n\n* [bitfwd](https://github.com/bitfwdcommunity)\n* [WizardOfAus](https://github.com/WizardOfAus)\n",
+  "tree_structure": [
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "6ebb8fdf8bc33fe9e0bf6a1d6a775498e94dde41",
+      "size": 1068,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/6ebb8fdf8bc33fe9e0bf6a1d6a775498e94dde41",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/6ebb8fdf8bc33fe9e0bf6a1d6a775498e94dde41",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "c02dcb03f414f95110b36d8e180c5e31b76e140f",
+      "size": 314,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/README.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/c02dcb03f414f95110b36d8e180c5e31b76e140f",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/c02dcb03f414f95110b36d8e180c5e31b76e140f",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/README.md"
+      }
+    },
+    {
+      "name": "Workshop",
+      "path": "Workshop",
+      "sha": "b36c81d4350aec91b1e07d6ed588e94bcc000c72",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/b36c81d4350aec91b1e07d6ed588e94bcc000c72",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/b36c81d4350aec91b1e07d6ed588e94bcc000c72",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop"
+      }
+    },
+    {
+      "name": "1 Bitcoin- An Experiment In Programmable Money",
+      "path": "Workshop/1 Bitcoin- An Experiment In Programmable Money",
+      "sha": "17fdc44601ad3a176f043910c52f293db9808c9c",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/17fdc44601ad3a176f043910c52f293db9808c9c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/17fdc44601ad3a176f043910c52f293db9808c9c",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money"
+      }
+    },
+    {
+      "name": "Class notes.md",
+      "path": "Workshop/1 Bitcoin- An Experiment In Programmable Money/Class notes.md",
+      "sha": "8094f7f06fc7ef378af7f9d8ef7ad0a6fe6bef4d",
+      "size": 348,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/Class%20notes.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/Class%20notes.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/8094f7f06fc7ef378af7f9d8ef7ad0a6fe6bef4d",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/Class%20notes.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/Class%20notes.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/8094f7f06fc7ef378af7f9d8ef7ad0a6fe6bef4d",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/Class%20notes.md"
+      }
+    },
+    {
+      "name": "blockchain101bitcoin.pptx (1).pdf",
+      "path": "Workshop/1 Bitcoin- An Experiment In Programmable Money/blockchain101bitcoin.pptx (1).pdf",
+      "sha": "e1bf52ff5e3c6da57e56b206573d78d68681d225",
+      "size": 2374807,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/blockchain101bitcoin.pptx%20(1).pdf?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/blockchain101bitcoin.pptx%20(1).pdf",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/e1bf52ff5e3c6da57e56b206573d78d68681d225",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/blockchain101bitcoin.pptx%20(1).pdf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/blockchain101bitcoin.pptx%20(1).pdf?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/e1bf52ff5e3c6da57e56b206573d78d68681d225",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/1%20Bitcoin-%20An%20Experiment%20In%20Programmable%20Money/blockchain101bitcoin.pptx%20(1).pdf"
+      }
+    },
+    {
+      "name": "Cryptonomics",
+      "path": "Workshop/Cryptonomics",
+      "sha": "fa561f60a472317a3bed51fc766ad7e4ac5178fc",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Cryptonomics",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/fa561f60a472317a3bed51fc766ad7e4ac5178fc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/fa561f60a472317a3bed51fc766ad7e4ac5178fc",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Cryptonomics"
+      }
+    },
+    {
+      "name": "Hurwicz L., Reiter S. Designing Economic Mechanisms.pdf",
+      "path": "Workshop/Cryptonomics/Hurwicz L., Reiter S. Designing Economic Mechanisms.pdf",
+      "sha": "e7532752cd3d9eeece3fb034b34b0297da3bd3ff",
+      "size": 2694950,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/Hurwicz%20L.,%20Reiter%20S.%20Designing%20Economic%20Mechanisms.pdf?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/Hurwicz%20L.,%20Reiter%20S.%20Designing%20Economic%20Mechanisms.pdf",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/e7532752cd3d9eeece3fb034b34b0297da3bd3ff",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Cryptonomics/Hurwicz%20L.%2C%20Reiter%20S.%20Designing%20Economic%20Mechanisms.pdf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/Hurwicz%20L.,%20Reiter%20S.%20Designing%20Economic%20Mechanisms.pdf?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/e7532752cd3d9eeece3fb034b34b0297da3bd3ff",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/Hurwicz%20L.,%20Reiter%20S.%20Designing%20Economic%20Mechanisms.pdf"
+      }
+    },
+    {
+      "name": "Incentives in teams.pdf",
+      "path": "Workshop/Cryptonomics/Incentives in teams.pdf",
+      "sha": "56873f536e231405439c12909ff28c9dcf2a7b6d",
+      "size": 1450229,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/Incentives%20in%20teams.pdf?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/Incentives%20in%20teams.pdf",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/56873f536e231405439c12909ff28c9dcf2a7b6d",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Cryptonomics/Incentives%20in%20teams.pdf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/Incentives%20in%20teams.pdf?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/56873f536e231405439c12909ff28c9dcf2a7b6d",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/Incentives%20in%20teams.pdf"
+      }
+    },
+    {
+      "name": "Notes.md",
+      "path": "Workshop/Cryptonomics/Notes.md",
+      "sha": "15dfae0c7b6dbb561bf1483bd9b99937f2a86d2f",
+      "size": 2511,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/Notes.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/Notes.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/15dfae0c7b6dbb561bf1483bd9b99937f2a86d2f",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Cryptonomics/Notes.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/Notes.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/15dfae0c7b6dbb561bf1483bd9b99937f2a86d2f",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/Notes.md"
+      }
+    },
+    {
+      "name": "What is cryptoeconomics_.pdf",
+      "path": "Workshop/Cryptonomics/What is cryptoeconomics_.pdf",
+      "sha": "29f36f23960afe6a9a7583220f3196f40102aa72",
+      "size": 76133,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/What%20is%20cryptoeconomics_.pdf?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/What%20is%20cryptoeconomics_.pdf",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/29f36f23960afe6a9a7583220f3196f40102aa72",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Cryptonomics/What%20is%20cryptoeconomics_.pdf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Cryptonomics/What%20is%20cryptoeconomics_.pdf?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/29f36f23960afe6a9a7583220f3196f40102aa72",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Cryptonomics/What%20is%20cryptoeconomics_.pdf"
+      }
+    },
+    {
+      "name": "Developer Tools.md",
+      "path": "Workshop/Developer Tools.md",
+      "sha": "d39a7fd19fa1c6495accd486a90cb5208696fd83",
+      "size": 550,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Developer%20Tools.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Developer%20Tools.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/d39a7fd19fa1c6495accd486a90cb5208696fd83",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Developer%20Tools.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Developer%20Tools.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/d39a7fd19fa1c6495accd486a90cb5208696fd83",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Developer%20Tools.md"
+      }
+    },
+    {
+      "name": "Ethereum",
+      "path": "Workshop/Ethereum",
+      "sha": "1b256855d68e244adcd4f0d8e9089054e3b7fb0b",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/1b256855d68e244adcd4f0d8e9089054e3b7fb0b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/1b256855d68e244adcd4f0d8e9089054e3b7fb0b",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum"
+      }
+    },
+    {
+      "name": "Cryptography Security",
+      "path": "Workshop/Ethereum/Cryptography Security",
+      "sha": "fa3a95096508e8aada02889c1115dc69abdbfefd",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Cryptography%20Security?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Cryptography%20Security",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/fa3a95096508e8aada02889c1115dc69abdbfefd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Cryptography%20Security?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/fa3a95096508e8aada02889c1115dc69abdbfefd",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Cryptography%20Security"
+      }
+    },
+    {
+      "name": "A survey of attacks on Ethereum smart contracts.pdf",
+      "path": "Workshop/Ethereum/Cryptography Security/A survey of attacks on Ethereum smart contracts.pdf",
+      "sha": "52fb8508fd41cb1c983bece6b686db0e7c0368b7",
+      "size": 320496,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Cryptography%20Security/A%20survey%20of%20attacks%20on%20Ethereum%20smart%20contracts.pdf?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Cryptography%20Security/A%20survey%20of%20attacks%20on%20Ethereum%20smart%20contracts.pdf",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/52fb8508fd41cb1c983bece6b686db0e7c0368b7",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Cryptography%20Security/A%20survey%20of%20attacks%20on%20Ethereum%20smart%20contracts.pdf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Cryptography%20Security/A%20survey%20of%20attacks%20on%20Ethereum%20smart%20contracts.pdf?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/52fb8508fd41cb1c983bece6b686db0e7c0368b7",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Cryptography%20Security/A%20survey%20of%20attacks%20on%20Ethereum%20smart%20contracts.pdf"
+      }
+    },
+    {
+      "name": "Papers.md",
+      "path": "Workshop/Ethereum/Cryptography Security/Papers.md",
+      "sha": "b53af41ed51465c039f6c748728c76623c256f03",
+      "size": 88,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Cryptography%20Security/Papers.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Cryptography%20Security/Papers.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b53af41ed51465c039f6c748728c76623c256f03",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Cryptography%20Security/Papers.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Cryptography%20Security/Papers.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b53af41ed51465c039f6c748728c76623c256f03",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Cryptography%20Security/Papers.md"
+      }
+    },
+    {
+      "name": "Exercises",
+      "path": "Workshop/Ethereum/Exercises",
+      "sha": "9ff8aa7562d27c8dbb196d46349038f615c32244",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/9ff8aa7562d27c8dbb196d46349038f615c32244",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/9ff8aa7562d27c8dbb196d46349038f615c32244",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises"
+      }
+    },
+    {
+      "name": "Intro to Solidity",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity",
+      "sha": "b5ee9d9dbd679856a7a9392ebda2c038e3346410",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/b5ee9d9dbd679856a7a9392ebda2c038e3346410",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/b5ee9d9dbd679856a7a9392ebda2c038e3346410",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/README.md",
+      "sha": "9aaf5ec8fdc3b85a7e523e35699abcc2ef55ae98",
+      "size": 514,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/README.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/README.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/9aaf5ec8fdc3b85a7e523e35699abcc2ef55ae98",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/README.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/9aaf5ec8fdc3b85a7e523e35699abcc2ef55ae98",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/README.md"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts",
+      "sha": "83e8912975288c43bc9954bae5c69e9ecdd517f1",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/83e8912975288c43bc9954bae5c69e9ecdd517f1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/83e8912975288c43bc9954bae5c69e9ecdd517f1",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts"
+      }
+    },
+    {
+      "name": "Faucet.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/Faucet.sol",
+      "sha": "354bd568addd2e8db4ba31455b866deb1cbfc77c",
+      "size": 488,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Faucet.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Faucet.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/354bd568addd2e8db4ba31455b866deb1cbfc77c",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Faucet.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Faucet.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/354bd568addd2e8db4ba31455b866deb1cbfc77c",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Faucet.sol"
+      }
+    },
+    {
+      "name": "Migrations.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/Migrations.sol",
+      "sha": "f170cb4fa76cb55074ed0196f61086af9275cb0d",
+      "size": 515,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Migrations.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Migrations.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/f170cb4fa76cb55074ed0196f61086af9275cb0d",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Migrations.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Migrations.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/f170cb4fa76cb55074ed0196f61086af9275cb0d",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/Migrations.sol"
+      }
+    },
+    {
+      "name": "concatenate.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/concatenate.sol",
+      "sha": "41729123266c581d8fbe40c8935c286630ed7b24",
+      "size": 237,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/concatenate.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/concatenate.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/41729123266c581d8fbe40c8935c286630ed7b24",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/concatenate.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/concatenate.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/41729123266c581d8fbe40c8935c286630ed7b24",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/concatenate.sol"
+      }
+    },
+    {
+      "name": "fibonacci.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/fibonacci.sol",
+      "sha": "b8ea5fc0a8a45d4f2d30403637f0e668fb2215ff",
+      "size": 306,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/fibonacci.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/fibonacci.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b8ea5fc0a8a45d4f2d30403637f0e668fb2215ff",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/fibonacci.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/fibonacci.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b8ea5fc0a8a45d4f2d30403637f0e668fb2215ff",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/fibonacci.sol"
+      }
+    },
+    {
+      "name": "greeter.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/greeter.sol",
+      "sha": "730011e8c4867d0b4270602e9208191c248f520f",
+      "size": 189,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/greeter.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/greeter.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/730011e8c4867d0b4270602e9208191c248f520f",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/greeter.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/greeter.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/730011e8c4867d0b4270602e9208191c248f520f",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/greeter.sol"
+      }
+    },
+    {
+      "name": "luckynumber.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/luckynumber.sol",
+      "sha": "cc613c92d8d269dd7df4fb1248c78724a91c46b5",
+      "size": 457,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/luckynumber.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/luckynumber.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/cc613c92d8d269dd7df4fb1248c78724a91c46b5",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/luckynumber.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/luckynumber.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/cc613c92d8d269dd7df4fb1248c78724a91c46b5",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/luckynumber.sol"
+      }
+    },
+    {
+      "name": "xor.sol",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/contracts/xor.sol",
+      "sha": "70af908136203b5bc22d03431453136a3698bbfa",
+      "size": 111,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/xor.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/xor.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/70af908136203b5bc22d03431453136a3698bbfa",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/xor.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/xor.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/70af908136203b5bc22d03431453136a3698bbfa",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/contracts/xor.sol"
+      }
+    },
+    {
+      "name": "migrations",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/migrations",
+      "sha": "e21fbe9d392ea36a7743afcd05d47bb2224b072a",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/e21fbe9d392ea36a7743afcd05d47bb2224b072a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/e21fbe9d392ea36a7743afcd05d47bb2224b072a",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations"
+      }
+    },
+    {
+      "name": "1_initial_migration.js",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/migrations/1_initial_migration.js",
+      "sha": "4d5f3f9b02eb38313683d980c6b8a759f2b55d45",
+      "size": 129,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/1_initial_migration.js?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/1_initial_migration.js",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/4d5f3f9b02eb38313683d980c6b8a759f2b55d45",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/1_initial_migration.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/1_initial_migration.js?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/4d5f3f9b02eb38313683d980c6b8a759f2b55d45",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/1_initial_migration.js"
+      }
+    },
+    {
+      "name": "2_deploy_contracts.js",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/migrations/2_deploy_contracts.js",
+      "sha": "1431ead28ea44c290dbc168047aff24c815c2753",
+      "size": 369,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/2_deploy_contracts.js?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/2_deploy_contracts.js",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/1431ead28ea44c290dbc168047aff24c815c2753",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/2_deploy_contracts.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/2_deploy_contracts.js?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/1431ead28ea44c290dbc168047aff24c815c2753",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/migrations/2_deploy_contracts.js"
+      }
+    },
+    {
+      "name": "truffle-config.js",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/truffle-config.js",
+      "sha": "b4c661b185202475e2585d8f33f189ed3b509def",
+      "size": 154,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle-config.js?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle-config.js",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b4c661b185202475e2585d8f33f189ed3b509def",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle-config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle-config.js?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b4c661b185202475e2585d8f33f189ed3b509def",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle-config.js"
+      }
+    },
+    {
+      "name": "truffle.js",
+      "path": "Workshop/Ethereum/Exercises/Intro to Solidity/truffle.js",
+      "sha": "b4c661b185202475e2585d8f33f189ed3b509def",
+      "size": 154,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle.js?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle.js",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b4c661b185202475e2585d8f33f189ed3b509def",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle.js?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/b4c661b185202475e2585d8f33f189ed3b509def",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Exercises/Intro%20to%20Solidity/truffle.js"
+      }
+    },
+    {
+      "name": "Images",
+      "path": "Workshop/Ethereum/Images",
+      "sha": "676bd6b86c7421de7b59be1442a641cc38cd684f",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Images",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/676bd6b86c7421de7b59be1442a641cc38cd684f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/676bd6b86c7421de7b59be1442a641cc38cd684f",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Images"
+      }
+    },
+    {
+      "name": "Assymetric Cryptography.png",
+      "path": "Workshop/Ethereum/Images/Assymetric Cryptography.png",
+      "sha": "4c6cd4e8fdad41ee1cfccd479acdd45ee064ef01",
+      "size": 70326,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Assymetric%20Cryptography.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Assymetric%20Cryptography.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/4c6cd4e8fdad41ee1cfccd479acdd45ee064ef01",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/Assymetric%20Cryptography.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Assymetric%20Cryptography.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/4c6cd4e8fdad41ee1cfccd479acdd45ee064ef01",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Assymetric%20Cryptography.png"
+      }
+    },
+    {
+      "name": "EtherScan-ContractCode-20180207-101149.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png",
+      "sha": "7046a2ca5b09cdd0189621f23e6bce5f4307d84b",
+      "size": 654998,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/7046a2ca5b09cdd0189621f23e6bce5f4307d84b",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/7046a2ca5b09cdd0189621f23e6bce5f4307d84b",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png"
+      }
+    },
+    {
+      "name": "EtherScan-CreateContractTx-20180207-101042.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png",
+      "sha": "eee791034e45b5e74b300cab047cd7d34e09fd73",
+      "size": 524944,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/eee791034e45b5e74b300cab047cd7d34e09fd73",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/eee791034e45b5e74b300cab047cd7d34e09fd73",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png"
+      }
+    },
+    {
+      "name": "EtherScan-CreatedContract-20180207-101119.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png",
+      "sha": "711e341194e25228c16690a191650ea485d29a82",
+      "size": 370756,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/711e341194e25228c16690a191650ea485d29a82",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/711e341194e25228c16690a191650ea485d29a82",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png"
+      }
+    },
+    {
+      "name": "EtherScan-ReadSmartContract-20180207-110759.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png",
+      "sha": "5c4f1928c4a52d840f699a91438370c63a77dcb2",
+      "size": 457472,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/5c4f1928c4a52d840f699a91438370c63a77dcb2",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/5c4f1928c4a52d840f699a91438370c63a77dcb2",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png"
+      }
+    },
+    {
+      "name": "EtherScan-UnderflowTx-20180207-110737.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png",
+      "sha": "fd89653e6d468f5edd7e83ae153587f4737e6f87",
+      "size": 471895,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/fd89653e6d468f5edd7e83ae153587f4737e6f87",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/fd89653e6d468f5edd7e83ae153587f4737e6f87",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png"
+      }
+    },
+    {
+      "name": "EtherScan-VerifiedContract-20180207-101731.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png",
+      "sha": "f36d260de4708c4b06601d47b238fed10459de28",
+      "size": 537626,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/f36d260de4708c4b06601d47b238fed10459de28",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/f36d260de4708c4b06601d47b238fed10459de28",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png"
+      }
+    },
+    {
+      "name": "EtherScan-VerifyAndPublish-20180207-101632 (1).png",
+      "path": "Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632 (1).png",
+      "sha": "1edf1f641dfed657a5dd270fa1ef223376c801e4",
+      "size": 554493,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632%20(1).png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632%20(1).png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/1edf1f641dfed657a5dd270fa1ef223376c801e4",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632%20(1).png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632%20(1).png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/1edf1f641dfed657a5dd270fa1ef223376c801e4",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632%20(1).png"
+      }
+    },
+    {
+      "name": "EtherScan-VerifyAndPublish-20180207-101632.png",
+      "path": "Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png",
+      "sha": "1edf1f641dfed657a5dd270fa1ef223376c801e4",
+      "size": 554493,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/1edf1f641dfed657a5dd270fa1ef223376c801e4",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/1edf1f641dfed657a5dd270fa1ef223376c801e4",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png"
+      }
+    },
+    {
+      "name": "MEW-Access-20180207-110437.png",
+      "path": "Workshop/Ethereum/Images/MEW-Access-20180207-110437.png",
+      "sha": "ed1d386d125a11ee9179379b772b2cbe2d3eeb34",
+      "size": 443368,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-Access-20180207-110437.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-Access-20180207-110437.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/ed1d386d125a11ee9179379b772b2cbe2d3eeb34",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/MEW-Access-20180207-110437.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-Access-20180207-110437.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/ed1d386d125a11ee9179379b772b2cbe2d3eeb34",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-Access-20180207-110437.png"
+      }
+    },
+    {
+      "name": "MEW-GenerateTransaction-20180207-110559.png",
+      "path": "Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png",
+      "sha": "66092e5ee5c15c08df7e9494980492b8c9ca67fe",
+      "size": 122682,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/66092e5ee5c15c08df7e9494980492b8c9ca67fe",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/66092e5ee5c15c08df7e9494980492b8c9ca67fe",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png"
+      }
+    },
+    {
+      "name": "MEW-InteractWithContract-20180207-110338.png",
+      "path": "Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png",
+      "sha": "10daf31b4af0cf7a0ebfcb444d4f9a6c6c344dc1",
+      "size": 491925,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/10daf31b4af0cf7a0ebfcb444d4f9a6c6c344dc1",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/10daf31b4af0cf7a0ebfcb444d4f9a6c6c344dc1",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png"
+      }
+    },
+    {
+      "name": "MEW-MakeTransaction-20180207-110610.png",
+      "path": "Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png",
+      "sha": "da600cb37e67d649cd21c2e79ea299ce638a8574",
+      "size": 243883,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/da600cb37e67d649cd21c2e79ea299ce638a8574",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/da600cb37e67d649cd21c2e79ea299ce638a8574",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png"
+      }
+    },
+    {
+      "name": "MEW-SelectFunction-20180207-110545.png",
+      "path": "Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png",
+      "sha": "7b9a69014ad02efd07a11731f9ba2a2f3966a559",
+      "size": 254422,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/7b9a69014ad02efd07a11731f9ba2a2f3966a559",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/7b9a69014ad02efd07a11731f9ba2a2f3966a559",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png"
+      }
+    },
+    {
+      "name": "Remix-BasicVariables-20180207-105150.png",
+      "path": "Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png",
+      "sha": "5c8dd50733b0c3831f71996a03ae5a443d027246",
+      "size": 572739,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/5c8dd50733b0c3831f71996a03ae5a443d027246",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/5c8dd50733b0c3831f71996a03ae5a443d027246",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png"
+      }
+    },
+    {
+      "name": "Remix-NewStringValue-20180207-105304.png",
+      "path": "Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png",
+      "sha": "3ed1b99c2c700e111c3813916ac86ddb7160fc64",
+      "size": 111787,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/3ed1b99c2c700e111c3813916ac86ddb7160fc64",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/3ed1b99c2c700e111c3813916ac86ddb7160fc64",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png"
+      }
+    },
+    {
+      "name": "Remix-Overflow-20180207-105506.png",
+      "path": "Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png",
+      "sha": "687284c120f5f23a65ed19702e286c8ba192c04c",
+      "size": 120496,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/687284c120f5f23a65ed19702e286c8ba192c04c",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/687284c120f5f23a65ed19702e286c8ba192c04c",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png"
+      }
+    },
+    {
+      "name": "Remix-Underflow-20180207-105404.png",
+      "path": "Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png",
+      "sha": "fd3f201a3cb559a83ea8ea68ad8d8214de25b4b1",
+      "size": 146299,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/fd3f201a3cb559a83ea8ea68ad8d8214de25b4b1",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/fd3f201a3cb559a83ea8ea68ad8d8214de25b4b1",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png"
+      }
+    },
+    {
+      "name": "Interesting Links To Read",
+      "path": "Workshop/Ethereum/Interesting Links To Read",
+      "sha": "3067a3120eccd6ddc93ab96ad8bdf7b9d2fc88ec",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Interesting%20Links%20To%20Read?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Interesting%20Links%20To%20Read",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/3067a3120eccd6ddc93ab96ad8bdf7b9d2fc88ec",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Interesting%20Links%20To%20Read?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/3067a3120eccd6ddc93ab96ad8bdf7b9d2fc88ec",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Interesting%20Links%20To%20Read"
+      }
+    },
+    {
+      "name": "Get cozy.md",
+      "path": "Workshop/Ethereum/Interesting Links To Read/Get cozy.md",
+      "sha": "2a0c0d7c97fda50693a5036ca4e025bd567fd7f1",
+      "size": 234,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Interesting%20Links%20To%20Read/Get%20cozy.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Interesting%20Links%20To%20Read/Get%20cozy.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/2a0c0d7c97fda50693a5036ca4e025bd567fd7f1",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Interesting%20Links%20To%20Read/Get%20cozy.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Interesting%20Links%20To%20Read/Get%20cozy.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/2a0c0d7c97fda50693a5036ca4e025bd567fd7f1",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Interesting%20Links%20To%20Read/Get%20cozy.md"
+      }
+    },
+    {
+      "name": "Learning Links.md",
+      "path": "Workshop/Ethereum/Learning Links.md",
+      "sha": "c004ca6d11d15ce41a61375a1945930ff080ae7c",
+      "size": 3048,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Learning%20Links.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Learning%20Links.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/c004ca6d11d15ce41a61375a1945930ff080ae7c",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Learning%20Links.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Learning%20Links.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/c004ca6d11d15ce41a61375a1945930ff080ae7c",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Learning%20Links.md"
+      }
+    },
+    {
+      "name": "Slides",
+      "path": "Workshop/Ethereum/Slides",
+      "sha": "ab8371d26eac470f5d6d3b531782c4d2f471c0fb",
+      "size": 0,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Slides?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Slides",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/ab8371d26eac470f5d6d3b531782c4d2f471c0fb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Slides?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/trees/ab8371d26eac470f5d6d3b531782c4d2f471c0fb",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/tree/master/Workshop/Ethereum/Slides"
+      }
+    },
+    {
+      "name": "Reference.md",
+      "path": "Workshop/Ethereum/Slides/Reference.md",
+      "sha": "600bc4582fa6e2aa4c37fe5191a528d90804db0a",
+      "size": 45,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Slides/Reference.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Slides/Reference.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/600bc4582fa6e2aa4c37fe5191a528d90804db0a",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/Slides/Reference.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/Slides/Reference.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/600bc4582fa6e2aa4c37fe5191a528d90804db0a",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Slides/Reference.md"
+      }
+    },
+    {
+      "name": "basictoken.sol",
+      "path": "Workshop/Ethereum/basictoken.sol",
+      "sha": "9cb327592294609e67d6a09d474c4459047dbf12",
+      "size": 656,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/basictoken.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/basictoken.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/9cb327592294609e67d6a09d474c4459047dbf12",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/basictoken.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/basictoken.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/9cb327592294609e67d6a09d474c4459047dbf12",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/basictoken.sol"
+      }
+    },
+    {
+      "name": "crowdfunding.sol",
+      "path": "Workshop/Ethereum/crowdfunding.sol",
+      "sha": "dd8b5b25e3ca106d057bba74d5267130fd25cd6b",
+      "size": 1492,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/crowdfunding.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/crowdfunding.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/dd8b5b25e3ca106d057bba74d5267130fd25cd6b",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/crowdfunding.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/crowdfunding.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/dd8b5b25e3ca106d057bba74d5267130fd25cd6b",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/crowdfunding.sol"
+      }
+    },
+    {
+      "name": "notes#1.md",
+      "path": "Workshop/Ethereum/notes#1.md",
+      "sha": "385ac9c0de7c32bda517a4a3b7ff23611754eb34",
+      "size": 132,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/notes%231.md?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/notes%231.md",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/385ac9c0de7c32bda517a4a3b7ff23611754eb34",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/notes%231.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/notes%231.md?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/385ac9c0de7c32bda517a4a3b7ff23611754eb34",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/notes%231.md"
+      }
+    },
+    {
+      "name": "testcoin.sol",
+      "path": "Workshop/Ethereum/testcoin.sol",
+      "sha": "8a14cb7b66c6adbe9426b4885db3b38647bf78f2",
+      "size": 9235,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/testcoin.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/testcoin.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/8a14cb7b66c6adbe9426b4885db3b38647bf78f2",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/testcoin.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/testcoin.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/8a14cb7b66c6adbe9426b4885db3b38647bf78f2",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/testcoin.sol"
+      }
+    },
+    {
+      "name": "token_walkthrough.sol",
+      "path": "Workshop/Ethereum/token_walkthrough.sol",
+      "sha": "49ec4742908b2c7a6ed8605282d65f9af1b6c409",
+      "size": 2511,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/token_walkthrough.sol?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/token_walkthrough.sol",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/49ec4742908b2c7a6ed8605282d65f9af1b6c409",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/token_walkthrough.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/token_walkthrough.sol?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/49ec4742908b2c7a6ed8605282d65f9af1b6c409",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/token_walkthrough.sol"
+      }
+    },
+    {
+      "name": "web3 stack.png",
+      "path": "Workshop/Ethereum/web3 stack.png",
+      "sha": "510a0b430ea4712cf322f7282029d7589bb4a600",
+      "size": 112071,
+      "url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/web3%20stack.png?ref=master",
+      "html_url": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/web3%20stack.png",
+      "git_url": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/510a0b430ea4712cf322f7282029d7589bb4a600",
+      "download_url": "https://raw.githubusercontent.com/WizardOfAus/WizardsEthereumWorkshop/master/Workshop/Ethereum/web3%20stack.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/contents/Workshop/Ethereum/web3%20stack.png?ref=master",
+        "git": "https://api.github.com/repos/WizardOfAus/WizardsEthereumWorkshop/git/blobs/510a0b430ea4712cf322f7282029d7589bb4a600",
+        "html": "https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/web3%20stack.png"
+      }
+    }
+  ],
+  "external_domains": {
+    "badges.gitter.im": null,
+    "github.com": 6734,
+    "gitter.im": null
+  },
+  "collected_at": "2026-03-18T17:18:15.039766"
+}

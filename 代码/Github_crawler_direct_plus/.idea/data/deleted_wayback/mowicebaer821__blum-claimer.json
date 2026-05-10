@@ -1,0 +1,18 @@
+{
+  "repo_full_name": "mowicebaer821/blum-claimer",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-03-17T02:41:49.586513",
+  "repo_detail": {
+    "repo_full_name": "mowicebaer821/blum-claimer",
+    "snapshot_url": "http://web.archive.org/web/20250423073901/https://github.com/mowicebaer821/blum-claimer",
+    "snapshot_time": "20250423073901",
+    "stars": 75,
+    "forks": 73000,
+    "watches": 1,
+    "readme": "Blum - Auto Claim Bot\n\n\n🔗 \nReferral Link\n: \nBlum\n\n\n📢 Telegram Group\n\n\nJoin our Telegram group to stay updated and get instructions on how to use this tool:\n\n\n\n\nSmart Airdrop\n\n\nSmart Airdrop - Channel\n\n\n\n\n🌟 Features\n\n\n\n\n\n\n\n\nFeature\n\n\nStatus\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nAuto Check-in\n\n\nOn/Off\n\n\nDaily login to get points and game tickets\n\n\n\n\n\n\nAuto Do Task\n\n\nOn/Off\n\n\nComplete tasks\n\n\n\n\n\n\nAuto Claim Ref\n\n\nOn/Off\n\n\nClaim point from ref\n\n\n\n\n\n\nAuto Farm\n\n\nOn/Off\n\n\nClaim and Start farming points\n\n\n\n\n\n\nAuto Play Game\n\n\nOn/Off\n\n\nPlay drop game to get more points\n\n\n\n\n\n\n\n\n🚀 Run File\n\n\n\n\n\n\n\n\nRun with Proxy\n\n\nRun without Proxy\n\n\n\n\n\n\n\n\n\n\nbot-proxy.py\n \ndata-proxy.json\n\n\nbot.py\n \ndata.txt\n\n\n\n\n\n\n\n\n⚠�?\n Note\n\n\n\n\nGet auth data (\nquery_id=... /user=...\n) in the \nApplication\n tab in DevTools.\n\n\nAuto features: Change \nfalse\n to \ntrue\n in the \nconfig.json\n file.\n\n\nSupported commands: \n/run_bot\n \n/query_id\n \n/proxy\n \n/proxy_web\n (Join group to use these commands).\n\n\n\n\nesqcnwfz\n\n",
+    "readme_domains": {}
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

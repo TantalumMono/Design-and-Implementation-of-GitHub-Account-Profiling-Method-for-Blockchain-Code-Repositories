@@ -1,0 +1,544 @@
+{
+  "repo_full_name": "Xalt8/Vyper",
+  "repo_detail": {
+    "id": 358861637,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzNTg4NjE2Mzc=",
+    "name": "Vyper",
+    "full_name": "Xalt8/Vyper",
+    "private": false,
+    "owner": {
+      "login": "Xalt8",
+      "id": 46689864,
+      "node_id": "MDQ6VXNlcjQ2Njg5ODY0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46689864?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Xalt8",
+      "html_url": "https://github.com/Xalt8",
+      "followers_url": "https://api.github.com/users/Xalt8/followers",
+      "following_url": "https://api.github.com/users/Xalt8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Xalt8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Xalt8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Xalt8/subscriptions",
+      "organizations_url": "https://api.github.com/users/Xalt8/orgs",
+      "repos_url": "https://api.github.com/users/Xalt8/repos",
+      "events_url": "https://api.github.com/users/Xalt8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Xalt8/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/Xalt8/Vyper",
+    "description": "Smart contract in Vyper",
+    "fork": false,
+    "url": "https://api.github.com/repos/Xalt8/Vyper",
+    "forks_url": "https://api.github.com/repos/Xalt8/Vyper/forks",
+    "keys_url": "https://api.github.com/repos/Xalt8/Vyper/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/Xalt8/Vyper/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/Xalt8/Vyper/teams",
+    "hooks_url": "https://api.github.com/repos/Xalt8/Vyper/hooks",
+    "issue_events_url": "https://api.github.com/repos/Xalt8/Vyper/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/Xalt8/Vyper/events",
+    "assignees_url": "https://api.github.com/repos/Xalt8/Vyper/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/Xalt8/Vyper/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/Xalt8/Vyper/tags",
+    "blobs_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/Xalt8/Vyper/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/Xalt8/Vyper/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/Xalt8/Vyper/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/Xalt8/Vyper/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/Xalt8/Vyper/languages",
+    "stargazers_url": "https://api.github.com/repos/Xalt8/Vyper/stargazers",
+    "contributors_url": "https://api.github.com/repos/Xalt8/Vyper/contributors",
+    "subscribers_url": "https://api.github.com/repos/Xalt8/Vyper/subscribers",
+    "subscription_url": "https://api.github.com/repos/Xalt8/Vyper/subscription",
+    "commits_url": "https://api.github.com/repos/Xalt8/Vyper/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/Xalt8/Vyper/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/Xalt8/Vyper/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/Xalt8/Vyper/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/Xalt8/Vyper/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/Xalt8/Vyper/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/Xalt8/Vyper/merges",
+    "archive_url": "https://api.github.com/repos/Xalt8/Vyper/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/Xalt8/Vyper/downloads",
+    "issues_url": "https://api.github.com/repos/Xalt8/Vyper/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/Xalt8/Vyper/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/Xalt8/Vyper/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/Xalt8/Vyper/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/Xalt8/Vyper/labels{/name}",
+    "releases_url": "https://api.github.com/repos/Xalt8/Vyper/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/Xalt8/Vyper/deployments",
+    "created_at": "2021-04-17T11:32:14Z",
+    "updated_at": "2022-02-05T09:44:57Z",
+    "pushed_at": "2021-05-23T11:54:12Z",
+    "git_url": "git://github.com/Xalt8/Vyper.git",
+    "ssh_url": "git@github.com:Xalt8/Vyper.git",
+    "clone_url": "https://github.com/Xalt8/Vyper.git",
+    "svn_url": "https://github.com/Xalt8/Vyper",
+    "homepage": "",
+    "size": 32,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "smart-contracts",
+      "vyper"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "Xalt8",
+    "id": 46689864,
+    "node_id": "MDQ6VXNlcjQ2Njg5ODY0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/46689864?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Xalt8",
+    "html_url": "https://github.com/Xalt8",
+    "followers_url": "https://api.github.com/users/Xalt8/followers",
+    "following_url": "https://api.github.com/users/Xalt8/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xalt8/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Xalt8/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xalt8/subscriptions",
+    "organizations_url": "https://api.github.com/users/Xalt8/orgs",
+    "repos_url": "https://api.github.com/users/Xalt8/repos",
+    "events_url": "https://api.github.com/users/Xalt8/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Xalt8/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Karan Singh",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "Karan Singh",
+    "twitter_username": null,
+    "public_repos": 32,
+    "public_gists": 0,
+    "followers": 9,
+    "following": 0,
+    "created_at": "2019-01-14T19:48:55Z",
+    "updated_at": "2026-03-04T05:58:23Z"
+  },
+  "readme": "",
+  "tree_structure": [
+    {
+      "name": ".gitattributes",
+      "path": ".gitattributes",
+      "sha": "3e3844c7d831bfe76733ebc0b6dbcf1aa1eb599f",
+      "size": 32,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/.gitattributes?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/.gitattributes",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/3e3844c7d831bfe76733ebc0b6dbcf1aa1eb599f",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/.gitattributes",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/.gitattributes?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/3e3844c7d831bfe76733ebc0b6dbcf1aa1eb599f",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/.gitattributes"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "af627552b1d37d2e72986c15b10f85f153771388",
+      "size": 5,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/af627552b1d37d2e72986c15b10f85f153771388",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/af627552b1d37d2e72986c15b10f85f153771388",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "ControlFlow.vy",
+      "path": "ControlFlow.vy",
+      "sha": "254ec910c2b046636b690783d16718031c645f0d",
+      "size": 1118,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/ControlFlow.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/ControlFlow.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/254ec910c2b046636b690783d16718031c645f0d",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/ControlFlow.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/ControlFlow.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/254ec910c2b046636b690783d16718031c645f0d",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/ControlFlow.vy"
+      }
+    },
+    {
+      "name": "CreateForwarder.vy",
+      "path": "CreateForwarder.vy",
+      "sha": "a95d78226c195952607b6b4b4d72327f5525aadf",
+      "size": 411,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/CreateForwarder.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/CreateForwarder.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/a95d78226c195952607b6b4b4d72327f5525aadf",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/CreateForwarder.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/CreateForwarder.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/a95d78226c195952607b6b4b4d72327f5525aadf",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/CreateForwarder.vy"
+      }
+    },
+    {
+      "name": "DeployMe.vy",
+      "path": "DeployMe.vy",
+      "sha": "28d0f18ac361040ca0aad35e880166fdfaf3cd87",
+      "size": 505,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/DeployMe.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/DeployMe.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/28d0f18ac361040ca0aad35e880166fdfaf3cd87",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/DeployMe.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/DeployMe.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/28d0f18ac361040ca0aad35e880166fdfaf3cd87",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/DeployMe.vy"
+      }
+    },
+    {
+      "name": "Error.vy",
+      "path": "Error.vy",
+      "sha": "5986716fcd7efc2cf6e809d4ffcab2848e63954c",
+      "size": 625,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/Error.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/Error.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/5986716fcd7efc2cf6e809d4ffcab2848e63954c",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/Error.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/Error.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/5986716fcd7efc2cf6e809d4ffcab2848e63954c",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/Error.vy"
+      }
+    },
+    {
+      "name": "Events.vy",
+      "path": "Events.vy",
+      "sha": "43aecdbf753df00b82b264bdb1f5c37a89fddac5",
+      "size": 894,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/Events.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/Events.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/43aecdbf753df00b82b264bdb1f5c37a89fddac5",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/Events.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/Events.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/43aecdbf753df00b82b264bdb1f5c37a89fddac5",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/Events.vy"
+      }
+    },
+    {
+      "name": "Func.vy",
+      "path": "Func.vy",
+      "sha": "9632d6086e02f5f447bf18084f522bae6b74deb5",
+      "size": 1560,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/Func.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/Func.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/9632d6086e02f5f447bf18084f522bae6b74deb5",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/Func.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/Func.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/9632d6086e02f5f447bf18084f522bae6b74deb5",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/Func.vy"
+      }
+    },
+    {
+      "name": "HelloWorld.vy",
+      "path": "HelloWorld.vy",
+      "sha": "a0776176f96f70847cb957181285ae5fcca21c00",
+      "size": 108,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/HelloWorld.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/HelloWorld.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/a0776176f96f70847cb957181285ae5fcca21c00",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/HelloWorld.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/HelloWorld.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/a0776176f96f70847cb957181285ae5fcca21c00",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/HelloWorld.vy"
+      }
+    },
+    {
+      "name": "InterfaceCaller.vy",
+      "path": "InterfaceCaller.vy",
+      "sha": "4cf17ad4e1aec0ff7e6cb40010f8c8dc551e1e50",
+      "size": 712,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/InterfaceCaller.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/InterfaceCaller.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/4cf17ad4e1aec0ff7e6cb40010f8c8dc551e1e50",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/InterfaceCaller.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/InterfaceCaller.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/4cf17ad4e1aec0ff7e6cb40010f8c8dc551e1e50",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/InterfaceCaller.vy"
+      }
+    },
+    {
+      "name": "InterfaceReceiver.vy",
+      "path": "InterfaceReceiver.vy",
+      "sha": "9697e9a3582d20d9339619f9ac7b85b689cf0e80",
+      "size": 623,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/InterfaceReceiver.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/InterfaceReceiver.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/9697e9a3582d20d9339619f9ac7b85b689cf0e80",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/InterfaceReceiver.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/InterfaceReceiver.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/9697e9a3582d20d9339619f9ac7b85b689cf0e80",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/InterfaceReceiver.vy"
+      }
+    },
+    {
+      "name": "PaymentChannel.vy",
+      "path": "PaymentChannel.vy",
+      "sha": "dab498620f8dd9cdc8eac34ac86de8bf8c9e341f",
+      "size": 2370,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/PaymentChannel.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/PaymentChannel.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/dab498620f8dd9cdc8eac34ac86de8bf8c9e341f",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/PaymentChannel.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/PaymentChannel.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/dab498620f8dd9cdc8eac34ac86de8bf8c9e341f",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/PaymentChannel.vy"
+      }
+    },
+    {
+      "name": "RawCall.vy",
+      "path": "RawCall.vy",
+      "sha": "178b8ba369edea3213fe595281cf8fcadcb45f79",
+      "size": 1153,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/RawCall.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/RawCall.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/178b8ba369edea3213fe595281cf8fcadcb45f79",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/RawCall.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/RawCall.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/178b8ba369edea3213fe595281cf8fcadcb45f79",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/RawCall.vy"
+      }
+    },
+    {
+      "name": "RawCallReceiver.sol",
+      "path": "RawCallReceiver.sol",
+      "sha": "d0f517ec757fd2ada893788b8517d09c497e076c",
+      "size": 394,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/RawCallReceiver.sol?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/RawCallReceiver.sol",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/d0f517ec757fd2ada893788b8517d09c497e076c",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/RawCallReceiver.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/RawCallReceiver.sol?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/d0f517ec757fd2ada893788b8517d09c497e076c",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/RawCallReceiver.sol"
+      }
+    },
+    {
+      "name": "ReEntrancyLock.vy",
+      "path": "ReEntrancyLock.vy",
+      "sha": "2a594363dee8261102d2752258b93e294de87e80",
+      "size": 705,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/ReEntrancyLock.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/ReEntrancyLock.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/2a594363dee8261102d2752258b93e294de87e80",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/ReEntrancyLock.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/ReEntrancyLock.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/2a594363dee8261102d2752258b93e294de87e80",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/ReEntrancyLock.vy"
+      }
+    },
+    {
+      "name": "ReceiveEther.vy",
+      "path": "ReceiveEther.vy",
+      "sha": "18f8cddebb5893bf60f07fa417b9ca439e434db9",
+      "size": 560,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/ReceiveEther.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/ReceiveEther.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/18f8cddebb5893bf60f07fa417b9ca439e434db9",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/ReceiveEther.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/ReceiveEther.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/18f8cddebb5893bf60f07fa417b9ca439e434db9",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/ReceiveEther.vy"
+      }
+    },
+    {
+      "name": "RefTypes.vy",
+      "path": "RefTypes.vy",
+      "sha": "fd4c726feab516e79b01dae6a2d1bbb3d600eab5",
+      "size": 513,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/RefTypes.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/RefTypes.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/fd4c726feab516e79b01dae6a2d1bbb3d600eab5",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/RefTypes.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/RefTypes.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/fd4c726feab516e79b01dae6a2d1bbb3d600eab5",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/RefTypes.vy"
+      }
+    },
+    {
+      "name": "SendEther.vy",
+      "path": "SendEther.vy",
+      "sha": "dc52801348090e029ea36980277afa79af1cd5f7",
+      "size": 289,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/SendEther.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/SendEther.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/dc52801348090e029ea36980277afa79af1cd5f7",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/SendEther.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/SendEther.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/dc52801348090e029ea36980277afa79af1cd5f7",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/SendEther.vy"
+      }
+    },
+    {
+      "name": "TestReentrancy.vy",
+      "path": "TestReentrancy.vy",
+      "sha": "05f357b885a10233df1161c42d05274f09f3adf8",
+      "size": 395,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/TestReentrancy.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/TestReentrancy.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/05f357b885a10233df1161c42d05274f09f3adf8",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/TestReentrancy.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/TestReentrancy.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/05f357b885a10233df1161c42d05274f09f3adf8",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/TestReentrancy.vy"
+      }
+    },
+    {
+      "name": "ValueTypes.vy",
+      "path": "ValueTypes.vy",
+      "sha": "7601b76cf1222a7c856db6c856fdcf31fc7546af",
+      "size": 911,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/ValueTypes.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/ValueTypes.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/7601b76cf1222a7c856db6c856fdcf31fc7546af",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/ValueTypes.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/ValueTypes.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/7601b76cf1222a7c856db6c856fdcf31fc7546af",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/ValueTypes.vy"
+      }
+    },
+    {
+      "name": "Variables.vy",
+      "path": "Variables.vy",
+      "sha": "fb64f72f431d4cea28cfca70adfab7964832a609",
+      "size": 1515,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/Variables.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/Variables.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/fb64f72f431d4cea28cfca70adfab7964832a609",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/Variables.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/Variables.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/fb64f72f431d4cea28cfca70adfab7964832a609",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/Variables.vy"
+      }
+    },
+    {
+      "name": "VerifySig.vy",
+      "path": "VerifySig.vy",
+      "sha": "225269708e36c984accc3b3f3ce135c478cf3398",
+      "size": 775,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/VerifySig.vy?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/VerifySig.vy",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/225269708e36c984accc3b3f3ce135c478cf3398",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/VerifySig.vy",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/VerifySig.vy?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/225269708e36c984accc3b3f3ce135c478cf3398",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/VerifySig.vy"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "sha": "35f528b5e70739e89a9db4c3e8cbc98d42fd4303",
+      "size": 88,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/requirements.txt?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/requirements.txt",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/35f528b5e70739e89a9db4c3e8cbc98d42fd4303",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/requirements.txt?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/35f528b5e70739e89a9db4c3e8cbc98d42fd4303",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/requirements.txt"
+      }
+    },
+    {
+      "name": "web3_test.py",
+      "path": "web3_test.py",
+      "sha": "fb050bfb6bf2708a1d5d00a3a8cb62af6e2c3baa",
+      "size": 1415,
+      "url": "https://api.github.com/repos/Xalt8/Vyper/contents/web3_test.py?ref=main",
+      "html_url": "https://github.com/Xalt8/Vyper/blob/main/web3_test.py",
+      "git_url": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/fb050bfb6bf2708a1d5d00a3a8cb62af6e2c3baa",
+      "download_url": "https://raw.githubusercontent.com/Xalt8/Vyper/main/web3_test.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Xalt8/Vyper/contents/web3_test.py?ref=main",
+        "git": "https://api.github.com/repos/Xalt8/Vyper/git/blobs/fb050bfb6bf2708a1d5d00a3a8cb62af6e2c3baa",
+        "html": "https://github.com/Xalt8/Vyper/blob/main/web3_test.py"
+      }
+    }
+  ],
+  "external_domains": {},
+  "collected_at": "2026-03-07T10:50:25.153392"
+}

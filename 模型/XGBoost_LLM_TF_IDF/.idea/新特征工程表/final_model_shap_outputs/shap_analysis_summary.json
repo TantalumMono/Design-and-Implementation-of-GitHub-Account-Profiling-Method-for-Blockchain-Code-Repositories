@@ -1,0 +1,50 @@
+{
+  "model_bundle_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\XGBoost_LLM_TF_IDF\\.idea\\新特征工程表\\final_model_artifacts\\final_repo_binary_classifier_bundle.joblib",
+  "threshold": 0.039498057,
+  "global_top10_features": [
+    {
+      "feature": "repo_age_days",
+      "importance": 1.130244493484497
+    },
+    {
+      "feature": "description_has_blockchain_keyword",
+      "importance": 0.8182953000068665
+    },
+    {
+      "feature": "tfidf_readme::launch",
+      "importance": 0.6406147480010986
+    },
+    {
+      "feature": "tfidf_readme::install",
+      "importance": 0.6025911569595337
+    },
+    {
+      "feature": "topic_has_blockchain_keyword",
+      "importance": 0.4664391279220581
+    },
+    {
+      "feature": "repo_is_fork",
+      "importance": 0.40762093663215637
+    },
+    {
+      "feature": "has_env_file",
+      "importance": 0.33255136013031006
+    },
+    {
+      "feature": "blockchain_keyword_count",
+      "importance": 0.2878451347351074
+    },
+    {
+      "feature": "time_to_last_push_days",
+      "importance": 0.22490431368350983
+    },
+    {
+      "feature": "tfidf_readme::dex",
+      "importance": 0.22178879380226135
+    }
+  ],
+  "n_total": 2354,
+  "n_positive": 300,
+  "n_negative": 2054,
+  "predicted_positive_rate": 0.13721325403568393
+}

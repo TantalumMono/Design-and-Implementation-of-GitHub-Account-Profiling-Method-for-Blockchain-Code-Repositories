@@ -1,0 +1,994 @@
+{
+  "repo_full_name": "yannvr/lendx",
+  "repo_detail": {
+    "id": 939064557,
+    "node_id": "R_kgDON_j87Q",
+    "name": "lendx",
+    "full_name": "yannvr/lendx",
+    "private": false,
+    "owner": {
+      "login": "yannvr",
+      "id": 1302983,
+      "node_id": "MDQ6VXNlcjEzMDI5ODM=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302983?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yannvr",
+      "html_url": "https://github.com/yannvr",
+      "followers_url": "https://api.github.com/users/yannvr/followers",
+      "following_url": "https://api.github.com/users/yannvr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yannvr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yannvr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yannvr/subscriptions",
+      "organizations_url": "https://api.github.com/users/yannvr/orgs",
+      "repos_url": "https://api.github.com/users/yannvr/repos",
+      "events_url": "https://api.github.com/users/yannvr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yannvr/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yannvr/lendx",
+    "description": "A modern TypeScript-based lending and finance management platform",
+    "fork": false,
+    "url": "https://api.github.com/repos/yannvr/lendx",
+    "forks_url": "https://api.github.com/repos/yannvr/lendx/forks",
+    "keys_url": "https://api.github.com/repos/yannvr/lendx/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yannvr/lendx/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yannvr/lendx/teams",
+    "hooks_url": "https://api.github.com/repos/yannvr/lendx/hooks",
+    "issue_events_url": "https://api.github.com/repos/yannvr/lendx/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yannvr/lendx/events",
+    "assignees_url": "https://api.github.com/repos/yannvr/lendx/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yannvr/lendx/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yannvr/lendx/tags",
+    "blobs_url": "https://api.github.com/repos/yannvr/lendx/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yannvr/lendx/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yannvr/lendx/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yannvr/lendx/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yannvr/lendx/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yannvr/lendx/languages",
+    "stargazers_url": "https://api.github.com/repos/yannvr/lendx/stargazers",
+    "contributors_url": "https://api.github.com/repos/yannvr/lendx/contributors",
+    "subscribers_url": "https://api.github.com/repos/yannvr/lendx/subscribers",
+    "subscription_url": "https://api.github.com/repos/yannvr/lendx/subscription",
+    "commits_url": "https://api.github.com/repos/yannvr/lendx/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yannvr/lendx/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yannvr/lendx/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yannvr/lendx/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yannvr/lendx/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yannvr/lendx/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yannvr/lendx/merges",
+    "archive_url": "https://api.github.com/repos/yannvr/lendx/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yannvr/lendx/downloads",
+    "issues_url": "https://api.github.com/repos/yannvr/lendx/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yannvr/lendx/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yannvr/lendx/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yannvr/lendx/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yannvr/lendx/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yannvr/lendx/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yannvr/lendx/deployments",
+    "created_at": "2025-02-25T23:49:55Z",
+    "updated_at": "2025-03-17T22:43:45Z",
+    "pushed_at": "2026-01-30T21:51:07Z",
+    "git_url": "git://github.com/yannvr/lendx.git",
+    "ssh_url": "git@github.com:yannvr/lendx.git",
+    "clone_url": "https://github.com/yannvr/lendx.git",
+    "svn_url": "https://github.com/yannvr/lendx",
+    "homepage": "",
+    "size": 133,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "defi",
+      "ethereum",
+      "lending",
+      "noir-js",
+      "zkproof"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "yannvr",
+    "id": 1302983,
+    "node_id": "MDQ6VXNlcjEzMDI5ODM=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1302983?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yannvr",
+    "html_url": "https://github.com/yannvr",
+    "followers_url": "https://api.github.com/users/yannvr/followers",
+    "following_url": "https://api.github.com/users/yannvr/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yannvr/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yannvr/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yannvr/subscriptions",
+    "organizations_url": "https://api.github.com/users/yannvr/orgs",
+    "repos_url": "https://api.github.com/users/yannvr/repos",
+    "events_url": "https://api.github.com/users/yannvr/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yannvr/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yann VR",
+    "company": "HyperDrift",
+    "blog": "https://hyperdrift.io",
+    "location": "London",
+    "email": null,
+    "hireable": null,
+    "bio": "Controlled drift @hyperdrift-io ",
+    "twitter_username": null,
+    "public_repos": 29,
+    "public_gists": 9,
+    "followers": 17,
+    "following": 50,
+    "created_at": "2012-01-04T04:41:37Z",
+    "updated_at": "2026-02-18T22:20:35Z"
+  },
+  "readme": "# LendX - Decentralized Lending with Zero-Knowledge Privacy\n\n## Project Overview\nThe project aims to combine the benefits of decentralized finance (DeFi) with enhanced privacy features using zk-proofs.\n\n- Decentralized Lending Protocol: Secure and efficient on-chain lending with smart contracts.\n- Zero-Knowledge Proof Integration: Using Noir Zero-Knowledge (ZK) proofs to enhance privacy by proving collateral validity without revealing the actual amounts during the verification process. This ensures that sensitive financial information, such as the user's collateral amount, remains confidential during the proof generation and verification stages, reducing the risk of targeted attacks and maintaining the confidentiality of their financial positions.\n- Ethereum-First Approach: Initially supports ETH collateral with plans to expand to additional assets.\n- Future Enhancements: Plans to support multi-asset collateral, enhance zk-proof workflows, and integrate with additional DeFi protocols.\n\n## What LendX Offers\n\n- **Decentralized Lending Protocols:**  \n  Secure and efficient on-chain lending with a smart contract that handles deposits, borrowing, and repayments.\n\n- **Zero-Knowledge Proof Integration:**  \n  Leverage zk-proofs to maintain privacy by proving collateral validity without revealing the actual amounts during the verification process. While the actual values are stored on-chain, the use of Noir ZK proofs ensures that sensitive calculations are performed privately, enhancing security and reducing on-chain computation costs.\n\n- **User-Friendly Front-End:**  \n  A streamlined interface that guides users through collateral deposit, zk-proof generation, and transaction signing. The use of Noir on the frontend ensures that the proof generation process is seamless and user-friendly, providing a smooth experience for users interacting with the DeFi protocol.\n\n- **Ethereum-First Approach:**  \n  Initially supports ETH collateral, with plans to expand to additional assets in the future.\n\n# Conclusion\nUsing zk-proofs in LendX adds significant value by enhancing privacy and security, which are critical aspects of any financial application. While the user can see their own collateral details, zk-proofs ensure that this information is not exposed to others during the verification process, thereby protecting user privacy and preventing potential misuse of collateral information.\n\n## Future Enhancements\n\n- **Multi-Asset Support:** Expand collateral options beyond ETH.\n- **Enhanced zk-Proof Workflows:** Further refine proof generation and verification.\n- **Broader DeFi Integrations:** Connect with additional protocols and liquidity solutions.\n\nDiscover the future of decentralized lending with LendX—where security, privacy, and innovation come together!",
+  "tree_structure": [
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "cf5935c8c9ec7c2c9033879f0ddf6b05383a708e",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/.github?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/.github",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/cf5935c8c9ec7c2c9033879f0ddf6b05383a708e",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/cf5935c8c9ec7c2c9033879f0ddf6b05383a708e",
+        "html": "https://github.com/yannvr/lendx/tree/main/.github"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "cf2744e737634af2146f039cfa9ba3bac2c0215c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/.github/workflows?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/.github/workflows",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/cf2744e737634af2146f039cfa9ba3bac2c0215c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/.github/workflows?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/cf2744e737634af2146f039cfa9ba3bac2c0215c",
+        "html": "https://github.com/yannvr/lendx/tree/main/.github/workflows"
+      }
+    },
+    {
+      "name": "deploy.yml",
+      "path": ".github/workflows/deploy.yml",
+      "sha": "9f3e40ed29852e4a3f3eda1183279fea5d109641",
+      "size": 666,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/.github/workflows/deploy.yml?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/.github/workflows/deploy.yml",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/9f3e40ed29852e4a3f3eda1183279fea5d109641",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/.github/workflows/deploy.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/.github/workflows/deploy.yml?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/9f3e40ed29852e4a3f3eda1183279fea5d109641",
+        "html": "https://github.com/yannvr/lendx/blob/main/.github/workflows/deploy.yml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "9b1ee42e8482ee945f6adc02615ef33db69a0c2f",
+      "size": 2233,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/9b1ee42e8482ee945f6adc02615ef33db69a0c2f",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/9b1ee42e8482ee945f6adc02615ef33db69a0c2f",
+        "html": "https://github.com/yannvr/lendx/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "41ef437114d6ef4db513435bc69e17a16bf3f37f",
+      "size": 2789,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/README.md?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/41ef437114d6ef4db513435bc69e17a16bf3f37f",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/41ef437114d6ef4db513435bc69e17a16bf3f37f",
+        "html": "https://github.com/yannvr/lendx/blob/main/README.md"
+      }
+    },
+    {
+      "name": "_client",
+      "path": "_client",
+      "sha": "04d2f34366e4dd0f5ff494a8c5c94c676de0d0be",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/_client?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/_client",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/04d2f34366e4dd0f5ff494a8c5c94c676de0d0be",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/_client?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/04d2f34366e4dd0f5ff494a8c5c94c676de0d0be",
+        "html": "https://github.com/yannvr/lendx/tree/main/_client"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "_client/index.html",
+      "sha": "dc80a95fb17548d01f19ac5c3d6e4fbb3c6cd2e0",
+      "size": 213,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/_client/index.html?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/_client/index.html",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/dc80a95fb17548d01f19ac5c3d6e4fbb3c6cd2e0",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/_client/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/_client/index.html?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/dc80a95fb17548d01f19ac5c3d6e4fbb3c6cd2e0",
+        "html": "https://github.com/yannvr/lendx/blob/main/_client/index.html"
+      }
+    },
+    {
+      "name": "client",
+      "path": "client",
+      "sha": "c95fb3d3ae2de026e4b6d3ff3f8847c7e1093922",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/client",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/c95fb3d3ae2de026e4b6d3ff3f8847c7e1093922",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/c95fb3d3ae2de026e4b6d3ff3f8847c7e1093922",
+        "html": "https://github.com/yannvr/lendx/tree/main/client"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "client/.gitignore",
+      "sha": "9b1ee42e8482ee945f6adc02615ef33db69a0c2f",
+      "size": 2233,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/.gitignore?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/.gitignore",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/9b1ee42e8482ee945f6adc02615ef33db69a0c2f",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/9b1ee42e8482ee945f6adc02615ef33db69a0c2f",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "client/README.md",
+      "sha": "ceda526c5950210339bf1fdfccb64c456228cf36",
+      "size": 221,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/README.md?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/README.md",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/ceda526c5950210339bf1fdfccb64c456228cf36",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/README.md?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/ceda526c5950210339bf1fdfccb64c456228cf36",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/README.md"
+      }
+    },
+    {
+      "name": "bun.lockb",
+      "path": "client/bun.lockb",
+      "sha": "f792d93198735cea2edac79cac8699cfbbe7e1a2",
+      "size": 18892,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/bun.lockb?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/bun.lockb",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/f792d93198735cea2edac79cac8699cfbbe7e1a2",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/bun.lockb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/bun.lockb?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/f792d93198735cea2edac79cac8699cfbbe7e1a2",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/bun.lockb"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "client/index.html",
+      "sha": "92984c9b9e026fc349ad489389703753a4d3025b",
+      "size": 711,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/index.html?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/index.html",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/92984c9b9e026fc349ad489389703753a4d3025b",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/index.html?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/92984c9b9e026fc349ad489389703753a4d3025b",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/index.html"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "client/index.ts",
+      "sha": "69b673341351eca18dca6d532639e01108a24685",
+      "size": 3072,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/index.ts?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/index.ts",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/69b673341351eca18dca6d532639e01108a24685",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/index.ts?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/69b673341351eca18dca6d532639e01108a24685",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/index.ts"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "client/package.json",
+      "sha": "9ab911ecc65143b54e36f93034bb77475df1f541",
+      "size": 434,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/package.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/package.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/9ab911ecc65143b54e36f93034bb77475df1f541",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/package.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/9ab911ecc65143b54e36f93034bb77475df1f541",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/package.json"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "client/tsconfig.json",
+      "sha": "238655f2ce24cd6f677057d7eaa8822e75aeb6b8",
+      "size": 635,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/tsconfig.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/238655f2ce24cd6f677057d7eaa8822e75aeb6b8",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/238655f2ce24cd6f677057d7eaa8822e75aeb6b8",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/tsconfig.json"
+      }
+    },
+    {
+      "name": "vite.config.js",
+      "path": "client/vite.config.js",
+      "sha": "38002e3e8fd09f89ef3db1a30e27feb6153febc6",
+      "size": 75,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/client/vite.config.js?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/client/vite.config.js",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/38002e3e8fd09f89ef3db1a30e27feb6153febc6",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/client/vite.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/client/vite.config.js?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/38002e3e8fd09f89ef3db1a30e27feb6153febc6",
+        "html": "https://github.com/yannvr/lendx/blob/main/client/vite.config.js"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "b73bb8e23dacc4a01e50c9112f3a574ad0c9a9b6",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/b73bb8e23dacc4a01e50c9112f3a574ad0c9a9b6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/b73bb8e23dacc4a01e50c9112f3a574ad0c9a9b6",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts"
+      }
+    },
+    {
+      "name": "ethereum",
+      "path": "contracts/ethereum",
+      "sha": "9e779cb946454daaf52ac6ecc92b7559b8d8f732",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/9e779cb946454daaf52ac6ecc92b7559b8d8f732",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/9e779cb946454daaf52ac6ecc92b7559b8d8f732",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "contracts/ethereum/.gitignore",
+      "sha": "db3bb966d524ecc90d5d66501698e73b801b2a72",
+      "size": 636,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/.gitignore?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/.gitignore",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/db3bb966d524ecc90d5d66501698e73b801b2a72",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/db3bb966d524ecc90d5d66501698e73b801b2a72",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "contracts/ethereum/README.md",
+      "sha": "cc79ec1593311e629d7b4056b8d68310bb168fc4",
+      "size": 2477,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/README.md?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/README.md",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/cc79ec1593311e629d7b4056b8d68310bb168fc4",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/README.md?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/cc79ec1593311e629d7b4056b8d68310bb168fc4",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/README.md"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts/ethereum/contracts",
+      "sha": "bfa6ba03a6d6b1344aeda7f7d188af0321f4dd77",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/contracts",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/bfa6ba03a6d6b1344aeda7f7d188af0321f4dd77",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/bfa6ba03a6d6b1344aeda7f7d188af0321f4dd77",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/contracts"
+      }
+    },
+    {
+      "name": "ERC20Mock.sol",
+      "path": "contracts/ethereum/contracts/ERC20Mock.sol",
+      "sha": "8bdae5bbbaa645c0f516e24a3b5b2296af30b367",
+      "size": 298,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts/ERC20Mock.sol?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/contracts/ERC20Mock.sol",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/8bdae5bbbaa645c0f516e24a3b5b2296af30b367",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/contracts/ERC20Mock.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts/ERC20Mock.sol?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/8bdae5bbbaa645c0f516e24a3b5b2296af30b367",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/contracts/ERC20Mock.sol"
+      }
+    },
+    {
+      "name": "LendX.sol",
+      "path": "contracts/ethereum/contracts/LendX.sol",
+      "sha": "55adcbf019886940f0645aa6a115f930366f315a",
+      "size": 6649,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts/LendX.sol?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/contracts/LendX.sol",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/55adcbf019886940f0645aa6a115f930366f315a",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/contracts/LendX.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts/LendX.sol?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/55adcbf019886940f0645aa6a115f930366f315a",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/contracts/LendX.sol"
+      }
+    },
+    {
+      "name": "MockPriceOracle.sol",
+      "path": "contracts/ethereum/contracts/MockPriceOracle.sol",
+      "sha": "c9601c1e0ed9604949836e7f425e110747e666fd",
+      "size": 281,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts/MockPriceOracle.sol?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/contracts/MockPriceOracle.sol",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/c9601c1e0ed9604949836e7f425e110747e666fd",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/contracts/MockPriceOracle.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/contracts/MockPriceOracle.sol?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/c9601c1e0ed9604949836e7f425e110747e666fd",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/contracts/MockPriceOracle.sol"
+      }
+    },
+    {
+      "name": "hardhat.config.ts",
+      "path": "contracts/ethereum/hardhat.config.ts",
+      "sha": "f6b35da1adc5887cc0a6425bff512d491247a919",
+      "size": 442,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/hardhat.config.ts?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/hardhat.config.ts",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/f6b35da1adc5887cc0a6425bff512d491247a919",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/hardhat.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/hardhat.config.ts?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/f6b35da1adc5887cc0a6425bff512d491247a919",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/hardhat.config.ts"
+      }
+    },
+    {
+      "name": "ignition",
+      "path": "contracts/ethereum/ignition",
+      "sha": "05128bb95ff181116f60afc96619ebccfbab1627",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/ignition?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/ignition",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/05128bb95ff181116f60afc96619ebccfbab1627",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/ignition?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/05128bb95ff181116f60afc96619ebccfbab1627",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/ignition"
+      }
+    },
+    {
+      "name": "modules",
+      "path": "contracts/ethereum/ignition/modules",
+      "sha": "6cec8edc142d61aeeb0866689a9d1a79346338fc",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/ignition/modules?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/ignition/modules",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/6cec8edc142d61aeeb0866689a9d1a79346338fc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/ignition/modules?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/6cec8edc142d61aeeb0866689a9d1a79346338fc",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/ignition/modules"
+      }
+    },
+    {
+      "name": "Lock.ts",
+      "path": "contracts/ethereum/ignition/modules/Lock.ts",
+      "sha": "f9daba36bcdd03a0a9ae5fa479caac67fa520797",
+      "size": 637,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/ignition/modules/Lock.ts?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/ignition/modules/Lock.ts",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/f9daba36bcdd03a0a9ae5fa479caac67fa520797",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/ignition/modules/Lock.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/ignition/modules/Lock.ts?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/f9daba36bcdd03a0a9ae5fa479caac67fa520797",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/ignition/modules/Lock.ts"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "contracts/ethereum/package.json",
+      "sha": "03c3a69224026d4a32a34c786cd40b5f6cfefaef",
+      "size": 952,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/package.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/package.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/03c3a69224026d4a32a34c786cd40b5f6cfefaef",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/package.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/03c3a69224026d4a32a34c786cd40b5f6cfefaef",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/package.json"
+      }
+    },
+    {
+      "name": "test",
+      "path": "contracts/ethereum/test",
+      "sha": "408a6085666e5313b1a0019f0f4c069172f2f7c4",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/test?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/test",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/408a6085666e5313b1a0019f0f4c069172f2f7c4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/test?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/408a6085666e5313b1a0019f0f4c069172f2f7c4",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/ethereum/test"
+      }
+    },
+    {
+      "name": "LendX.ts",
+      "path": "contracts/ethereum/test/LendX.ts",
+      "sha": "7d1e2850c6246d5985cbc72a5699a53e898e9a81",
+      "size": 4528,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/test/LendX.ts?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/test/LendX.ts",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/7d1e2850c6246d5985cbc72a5699a53e898e9a81",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/test/LendX.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/test/LendX.ts?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/7d1e2850c6246d5985cbc72a5699a53e898e9a81",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/test/LendX.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "contracts/ethereum/tsconfig.json",
+      "sha": "574e785c71ecaf90d5411194abbc6a03447f190c",
+      "size": 232,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/tsconfig.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/574e785c71ecaf90d5411194abbc6a03447f190c",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/ethereum/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/ethereum/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/574e785c71ecaf90d5411194abbc6a03447f190c",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/ethereum/tsconfig.json"
+      }
+    },
+    {
+      "name": "injective",
+      "path": "contracts/injective",
+      "sha": "b2452dcc75b4d29ee93493548152e30122999f34",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/injective",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/b2452dcc75b4d29ee93493548152e30122999f34",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/b2452dcc75b4d29ee93493548152e30122999f34",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/injective"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "contracts/injective/.gitignore",
+      "sha": "ea8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba",
+      "size": 8,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/.gitignore?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/injective/.gitignore",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/ea8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/injective/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/ea8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/injective/.gitignore"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "contracts/injective/Cargo.toml",
+      "sha": "7f716f6f6f3c951fd4b9733607d200b0bab7970e",
+      "size": 80,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/Cargo.toml?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/injective/Cargo.toml",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/7f716f6f6f3c951fd4b9733607d200b0bab7970e",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/injective/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/Cargo.toml?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/7f716f6f6f3c951fd4b9733607d200b0bab7970e",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/injective/Cargo.toml"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "contracts/injective/package.json",
+      "sha": "b2f38d2578560050def466e21ed14e98d835c1fa",
+      "size": 223,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/package.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/injective/package.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/b2f38d2578560050def466e21ed14e98d835c1fa",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/injective/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/package.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/b2f38d2578560050def466e21ed14e98d835c1fa",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/injective/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "contracts/injective/src",
+      "sha": "b59d5a49e8ead93e908fbbe7ef0202643aff7182",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/src?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/injective/src",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/b59d5a49e8ead93e908fbbe7ef0202643aff7182",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/src?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/b59d5a49e8ead93e908fbbe7ef0202643aff7182",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/injective/src"
+      }
+    },
+    {
+      "name": "lib.rs",
+      "path": "contracts/injective/src/lib.rs",
+      "sha": "b93cf3ffd9cc9c59f584a92d7bd1459d5521ef4e",
+      "size": 210,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/src/lib.rs?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/injective/src/lib.rs",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/b93cf3ffd9cc9c59f584a92d7bd1459d5521ef4e",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/injective/src/lib.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/injective/src/lib.rs?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/b93cf3ffd9cc9c59f584a92d7bd1459d5521ef4e",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/injective/src/lib.rs"
+      }
+    },
+    {
+      "name": "solana",
+      "path": "contracts/solana",
+      "sha": "ad5edf7147bf8c472dacc921f48b902db5439b76",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/solana?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/contracts/solana",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/ad5edf7147bf8c472dacc921f48b902db5439b76",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/solana?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/ad5edf7147bf8c472dacc921f48b902db5439b76",
+        "html": "https://github.com/yannvr/lendx/tree/main/contracts/solana"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "contracts/solana/package.json",
+      "sha": "d299667e2a13b998ef4a2a16623cf95318d21725",
+      "size": 272,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/contracts/solana/package.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/contracts/solana/package.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/d299667e2a13b998ef4a2a16623cf95318d21725",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/contracts/solana/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/contracts/solana/package.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/d299667e2a13b998ef4a2a16623cf95318d21725",
+        "html": "https://github.com/yannvr/lendx/blob/main/contracts/solana/package.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "92e7112abf228e54815bf858dd3d27a0a53bdee7",
+      "size": 592,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/package.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/92e7112abf228e54815bf858dd3d27a0a53bdee7",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/92e7112abf228e54815bf858dd3d27a0a53bdee7",
+        "html": "https://github.com/yannvr/lendx/blob/main/package.json"
+      }
+    },
+    {
+      "name": "pnpm-lock.yaml",
+      "path": "pnpm-lock.yaml",
+      "sha": "c9faecc8deb4e4e70815820d8ddd047efe8f0013",
+      "size": 286939,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/pnpm-lock.yaml?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/pnpm-lock.yaml",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/c9faecc8deb4e4e70815820d8ddd047efe8f0013",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/pnpm-lock.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/pnpm-lock.yaml?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/c9faecc8deb4e4e70815820d8ddd047efe8f0013",
+        "html": "https://github.com/yannvr/lendx/blob/main/pnpm-lock.yaml"
+      }
+    },
+    {
+      "name": "pnpm-workspace.yaml",
+      "path": "pnpm-workspace.yaml",
+      "sha": "b6656f2c2176b31988c4d254a6777e8a181a3ac9",
+      "size": 126,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/pnpm-workspace.yaml?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/pnpm-workspace.yaml",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/b6656f2c2176b31988c4d254a6777e8a181a3ac9",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/pnpm-workspace.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/pnpm-workspace.yaml?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/b6656f2c2176b31988c4d254a6777e8a181a3ac9",
+        "html": "https://github.com/yannvr/lendx/blob/main/pnpm-workspace.yaml"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "238655f2ce24cd6f677057d7eaa8822e75aeb6b8",
+      "size": 635,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/238655f2ce24cd6f677057d7eaa8822e75aeb6b8",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/238655f2ce24cd6f677057d7eaa8822e75aeb6b8",
+        "html": "https://github.com/yannvr/lendx/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "zk-proofs",
+      "path": "zk-proofs",
+      "sha": "deda79f8ccedaaffb0a7acbac45a795bb3ac3f4c",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/zk-proofs",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/deda79f8ccedaaffb0a7acbac45a795bb3ac3f4c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/deda79f8ccedaaffb0a7acbac45a795bb3ac3f4c",
+        "html": "https://github.com/yannvr/lendx/tree/main/zk-proofs"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": "zk-proofs/.gitignore",
+      "sha": "26b6cb6303d96c80888cb59b2cdae54b70e1abce",
+      "size": 166,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/.gitignore?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/zk-proofs/.gitignore",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/26b6cb6303d96c80888cb59b2cdae54b70e1abce",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/zk-proofs/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/26b6cb6303d96c80888cb59b2cdae54b70e1abce",
+        "html": "https://github.com/yannvr/lendx/blob/main/zk-proofs/.gitignore"
+      }
+    },
+    {
+      "name": "bun.lockb",
+      "path": "zk-proofs/bun.lockb",
+      "sha": "3aa379cd36c4216519f386d803593a9a59abbdbc",
+      "size": 5626,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/bun.lockb?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/zk-proofs/bun.lockb",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/3aa379cd36c4216519f386d803593a9a59abbdbc",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/zk-proofs/bun.lockb",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/bun.lockb?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/3aa379cd36c4216519f386d803593a9a59abbdbc",
+        "html": "https://github.com/yannvr/lendx/blob/main/zk-proofs/bun.lockb"
+      }
+    },
+    {
+      "name": "circuit",
+      "path": "zk-proofs/circuit",
+      "sha": "37c3e8f86d13961726b1befef4361f1456ad03c2",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/zk-proofs/circuit",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/37c3e8f86d13961726b1befef4361f1456ad03c2",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/37c3e8f86d13961726b1befef4361f1456ad03c2",
+        "html": "https://github.com/yannvr/lendx/tree/main/zk-proofs/circuit"
+      }
+    },
+    {
+      "name": "Nargo.toml",
+      "path": "zk-proofs/circuit/Nargo.toml",
+      "sha": "03616e6b535af2056338891ae933cda44e3ee215",
+      "size": 71,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit/Nargo.toml?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/zk-proofs/circuit/Nargo.toml",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/03616e6b535af2056338891ae933cda44e3ee215",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/zk-proofs/circuit/Nargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit/Nargo.toml?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/03616e6b535af2056338891ae933cda44e3ee215",
+        "html": "https://github.com/yannvr/lendx/blob/main/zk-proofs/circuit/Nargo.toml"
+      }
+    },
+    {
+      "name": "src",
+      "path": "zk-proofs/circuit/src",
+      "sha": "f929b2a127cbb67ec9484e890c4b1187eebe6380",
+      "size": 0,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit/src?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/tree/main/zk-proofs/circuit/src",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/trees/f929b2a127cbb67ec9484e890c4b1187eebe6380",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit/src?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/trees/f929b2a127cbb67ec9484e890c4b1187eebe6380",
+        "html": "https://github.com/yannvr/lendx/tree/main/zk-proofs/circuit/src"
+      }
+    },
+    {
+      "name": "main.nr",
+      "path": "zk-proofs/circuit/src/main.nr",
+      "sha": "a474437f7fbb81991b9775d6f82aa4eef0c6b9fa",
+      "size": 248,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit/src/main.nr?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/zk-proofs/circuit/src/main.nr",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/a474437f7fbb81991b9775d6f82aa4eef0c6b9fa",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/zk-proofs/circuit/src/main.nr",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/circuit/src/main.nr?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/a474437f7fbb81991b9775d6f82aa4eef0c6b9fa",
+        "html": "https://github.com/yannvr/lendx/blob/main/zk-proofs/circuit/src/main.nr"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "zk-proofs/package.json",
+      "sha": "8bffd55353646da2d0d1d5347a666f9d5981bcdc",
+      "size": 362,
+      "url": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/package.json?ref=main",
+      "html_url": "https://github.com/yannvr/lendx/blob/main/zk-proofs/package.json",
+      "git_url": "https://api.github.com/repos/yannvr/lendx/git/blobs/8bffd55353646da2d0d1d5347a666f9d5981bcdc",
+      "download_url": "https://raw.githubusercontent.com/yannvr/lendx/main/zk-proofs/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yannvr/lendx/contents/zk-proofs/package.json?ref=main",
+        "git": "https://api.github.com/repos/yannvr/lendx/git/blobs/8bffd55353646da2d0d1d5347a666f9d5981bcdc",
+        "html": "https://github.com/yannvr/lendx/blob/main/zk-proofs/package.json"
+      }
+    }
+  ],
+  "external_domains": {},
+  "collected_at": "2026-03-17T10:52:33.068327"
+}

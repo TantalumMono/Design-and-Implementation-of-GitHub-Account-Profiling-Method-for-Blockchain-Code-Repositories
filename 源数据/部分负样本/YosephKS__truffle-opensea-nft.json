@@ -1,0 +1,834 @@
+{
+  "repo_full_name": "YosephKS/truffle-opensea-nft",
+  "repo_detail": {
+    "id": 420386027,
+    "node_id": "R_kgDOGQ6U6w",
+    "name": "truffle-opensea-nft",
+    "full_name": "YosephKS/truffle-opensea-nft",
+    "private": false,
+    "owner": {
+      "login": "YosephKS",
+      "id": 48710170,
+      "node_id": "MDQ6VXNlcjQ4NzEwMTcw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48710170?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YosephKS",
+      "html_url": "https://github.com/YosephKS",
+      "followers_url": "https://api.github.com/users/YosephKS/followers",
+      "following_url": "https://api.github.com/users/YosephKS/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YosephKS/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YosephKS/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YosephKS/subscriptions",
+      "organizations_url": "https://api.github.com/users/YosephKS/orgs",
+      "repos_url": "https://api.github.com/users/YosephKS/repos",
+      "events_url": "https://api.github.com/users/YosephKS/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YosephKS/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/YosephKS/truffle-opensea-nft",
+    "description": "Building NFTs (ERC721 & ERC1155) for OpenSea using Truffle, Moralis, and Openzeppelin",
+    "fork": false,
+    "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft",
+    "forks_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/forks",
+    "keys_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/teams",
+    "hooks_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/hooks",
+    "issue_events_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/events",
+    "assignees_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/tags",
+    "blobs_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/languages",
+    "stargazers_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/stargazers",
+    "contributors_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contributors",
+    "subscribers_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/subscribers",
+    "subscription_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/subscription",
+    "commits_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/merges",
+    "archive_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/downloads",
+    "issues_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/labels{/name}",
+    "releases_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/deployments",
+    "created_at": "2021-10-23T10:52:27Z",
+    "updated_at": "2025-12-09T13:48:34Z",
+    "pushed_at": "2021-12-18T14:58:04Z",
+    "git_url": "git://github.com/YosephKS/truffle-opensea-nft.git",
+    "ssh_url": "git@github.com:YosephKS/truffle-opensea-nft.git",
+    "clone_url": "https://github.com/YosephKS/truffle-opensea-nft.git",
+    "svn_url": "https://github.com/YosephKS/truffle-opensea-nft",
+    "homepage": "",
+    "size": 337,
+    "stargazers_count": 19,
+    "watchers_count": 19,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 6,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": true,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "erc1155",
+      "erc721",
+      "ipfs",
+      "moralis",
+      "nft",
+      "nfts",
+      "openzeppelin",
+      "openzeppelin-solidity",
+      "solidity",
+      "upgradable-smart-contracts",
+      "upgradable-solidity"
+    ],
+    "visibility": "public",
+    "forks": 6,
+    "open_issues": 0,
+    "watchers": 19,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 6,
+    "subscribers_count": 2
+  },
+  "user_detail": {
+    "login": "YosephKS",
+    "id": 48710170,
+    "node_id": "MDQ6VXNlcjQ4NzEwMTcw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/48710170?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/YosephKS",
+    "html_url": "https://github.com/YosephKS",
+    "followers_url": "https://api.github.com/users/YosephKS/followers",
+    "following_url": "https://api.github.com/users/YosephKS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/YosephKS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/YosephKS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/YosephKS/subscriptions",
+    "organizations_url": "https://api.github.com/users/YosephKS/orgs",
+    "repos_url": "https://api.github.com/users/YosephKS/repos",
+    "events_url": "https://api.github.com/users/YosephKS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/YosephKS/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yoseph Kurnia S.",
+    "company": "@senpi-ai",
+    "blog": "https://linktr.ee/yosephks",
+    "location": "Dubai, United Arab Emirates",
+    "email": null,
+    "hireable": true,
+    "bio": null,
+    "twitter_username": "YSoenggoro",
+    "public_repos": 89,
+    "public_gists": 0,
+    "followers": 121,
+    "following": 47,
+    "created_at": "2019-03-19T07:28:27Z",
+    "updated_at": "2026-02-21T08:22:15Z"
+  },
+  "readme": "# Truffle OpenSea NFT\n\nGenerate NFTs with Truffle, Moralis, and Openzeppelin to be listed in OpenSea\n\n---\n\n## Pre-requisites\n\n### 1. Truffle\n\n```bash\n# Using NPM\nnpm i -g truffle@latest\n\n# Using Yarn\nyarn global add truffle@latest\n```\n\n### 2. NPM or Yarn\n\nGo to [Node.js](https://nodejs.org/) website and download Node onto your system. If you would like to use **NPM** as your package manager, no more steps are required. If you would like to use Yarn, run the following command.\n\n```\nnpm i -g yarn@latest\n```\n\n### 3. Moralis Free Account\n\nGo to [Moralis Admin](https://admin.moralis.io/register) to sign up for its free account and get your REST API Key.\n\n---\n\n## Installation\n\n### 1. Clone the Project\n\n```bash\ngit clone https://github.com/YosephKS/truffle-nft-chainlink.git\n```\n\n### 2. Install dependencies\n\n```bash\n# Using NPM\nnpm i\n\n# Using Yarn\nyarn\n```\n\n---\n\n## Getting Started\n\n### 1. Add your wallet mnemonic\n\nCreate a `.secret` file and copy your mnemonic into the file.\n\n### 2. Fill in environment variables\n\nCopy `.env.example` and rename it to `.env` and fill in all the environment variables.\n\n```\nINFURA_API_KEY=xxx\nMORALIS_API_KEY=xxx\nETHERSCAN_API_KEY=xxx\nNODE_PROVIDER=xxx\nMORALIS_REST_API_KEY=xxx\n```\n\n### 3. Run IPFS scripts\n\nTruffle can't import `dotenv` into external scripts at the moment, so the environment variables have to be injected directly.\n\n```bash\n# Using NPM\nMORALIS_REST_API_KEY=xxx npm run ipfs\n\n# Using Yarn\nMORALIS_REST_API_KEY=xxx yarn ipfs\n```\n\n### 4. Compile the project\n\n```bash\n# Using NPM\nnpm run compile\n\n#Using Yarn\nyarn compile\n```\n\n### 5. Migrate the project to your preferred network\n\n```bash\nyarn migrate --network rinkeby\n```\n\n---\n\n## License\n\n[MIT](https://github.com/YosephKS/truffle-opensea-nft/blob/master/LICENSE)\n",
+  "tree_structure": [
+    {
+      "name": ".env.example",
+      "path": ".env.example",
+      "sha": "5049ec96a2724a5d516cb295a97c2530f75a4ff1",
+      "size": 88,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.env.example?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.env.example",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5049ec96a2724a5d516cb295a97c2530f75a4ff1",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.env.example",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.env.example?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5049ec96a2724a5d516cb295a97c2530f75a4ff1",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.env.example"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "7f3eadb40062b88ba70bba550b8ec85cee8c1ad7",
+      "size": 73,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/7f3eadb40062b88ba70bba550b8ec85cee8c1ad7",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/7f3eadb40062b88ba70bba550b8ec85cee8c1ad7",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": ".openzeppelin",
+      "path": ".openzeppelin",
+      "sha": "d191e2f33ca772607705b3c6e2d6b78615f7a518",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/.openzeppelin",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/d191e2f33ca772607705b3c6e2d6b78615f7a518",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/d191e2f33ca772607705b3c6e2d6b78615f7a518",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/.openzeppelin"
+      }
+    },
+    {
+      "name": "kovan.json",
+      "path": ".openzeppelin/kovan.json",
+      "sha": "493ddbb478d115efc0363927071e0358a9f5ede0",
+      "size": 12622,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/kovan.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/kovan.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/493ddbb478d115efc0363927071e0358a9f5ede0",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.openzeppelin/kovan.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/kovan.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/493ddbb478d115efc0363927071e0358a9f5ede0",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/kovan.json"
+      }
+    },
+    {
+      "name": "rinkeby.json",
+      "path": ".openzeppelin/rinkeby.json",
+      "sha": "fea1cdb50332f3394ed694dd6d13c0f4147ccbbe",
+      "size": 7241,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/rinkeby.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/rinkeby.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/fea1cdb50332f3394ed694dd6d13c0f4147ccbbe",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.openzeppelin/rinkeby.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/rinkeby.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/fea1cdb50332f3394ed694dd6d13c0f4147ccbbe",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/rinkeby.json"
+      }
+    },
+    {
+      "name": "unknown-1337.json",
+      "path": ".openzeppelin/unknown-1337.json",
+      "sha": "63ded67df89b26a61a0cbe31407f0f5724c77b64",
+      "size": 27754,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/unknown-1337.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/unknown-1337.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/63ded67df89b26a61a0cbe31407f0f5724c77b64",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.openzeppelin/unknown-1337.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/unknown-1337.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/63ded67df89b26a61a0cbe31407f0f5724c77b64",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/unknown-1337.json"
+      }
+    },
+    {
+      "name": "unknown-80001.json",
+      "path": ".openzeppelin/unknown-80001.json",
+      "sha": "101589dabaf7e69d899620ced4e7e0af657fff47",
+      "size": 7424,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/unknown-80001.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/unknown-80001.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/101589dabaf7e69d899620ced4e7e0af657fff47",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.openzeppelin/unknown-80001.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.openzeppelin/unknown-80001.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/101589dabaf7e69d899620ced4e7e0af657fff47",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.openzeppelin/unknown-80001.json"
+      }
+    },
+    {
+      "name": ".vscode",
+      "path": ".vscode",
+      "sha": "3256f5fda57d8959f281f72d8c723976bedc05a9",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.vscode?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/.vscode",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/3256f5fda57d8959f281f72d8c723976bedc05a9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.vscode?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/3256f5fda57d8959f281f72d8c723976bedc05a9",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/.vscode"
+      }
+    },
+    {
+      "name": "settings.json",
+      "path": ".vscode/settings.json",
+      "sha": "e437a78381faa7f04dc43f498628864739d0ef75",
+      "size": 219,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.vscode/settings.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.vscode/settings.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/e437a78381faa7f04dc43f498628864739d0ef75",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/.vscode/settings.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/.vscode/settings.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/e437a78381faa7f04dc43f498628864739d0ef75",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/.vscode/settings.json"
+      }
+    },
+    {
+      "name": "IPFS",
+      "path": "IPFS",
+      "sha": "b0b097d249d10f6b9dfbf8a5ee39023851e90006",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/IPFS",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/b0b097d249d10f6b9dfbf8a5ee39023851e90006",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/b0b097d249d10f6b9dfbf8a5ee39023851e90006",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/IPFS"
+      }
+    },
+    {
+      "name": "imageUpload.js",
+      "path": "IPFS/imageUpload.js",
+      "sha": "5815e595c3cae8da593fd9fad3ab76c4c6a2bb8c",
+      "size": 1396,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/imageUpload.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/imageUpload.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5815e595c3cae8da593fd9fad3ab76c4c6a2bb8c",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/IPFS/imageUpload.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/imageUpload.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5815e595c3cae8da593fd9fad3ab76c4c6a2bb8c",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/imageUpload.js"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "IPFS/index.js",
+      "sha": "49cdc1d436f73f34d5d81b8f87d571ea4f70d9b6",
+      "size": 476,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/index.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/index.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/49cdc1d436f73f34d5d81b8f87d571ea4f70d9b6",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/IPFS/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/index.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/49cdc1d436f73f34d5d81b8f87d571ea4f70d9b6",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/index.js"
+      }
+    },
+    {
+      "name": "ipfs.json",
+      "path": "IPFS/ipfs.json",
+      "sha": "5579c3f66aff5fdb617d95aa930afe71920fe223",
+      "size": 957,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/ipfs.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/ipfs.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5579c3f66aff5fdb617d95aa930afe71920fe223",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/IPFS/ipfs.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/ipfs.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5579c3f66aff5fdb617d95aa930afe71920fe223",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/ipfs.json"
+      }
+    },
+    {
+      "name": "metadataUpload.js",
+      "path": "IPFS/metadataUpload.js",
+      "sha": "0130a767e4c8ab16188af5de18771259179a3e68",
+      "size": 1906,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/metadataUpload.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/metadataUpload.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/0130a767e4c8ab16188af5de18771259179a3e68",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/IPFS/metadataUpload.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/IPFS/metadataUpload.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/0130a767e4c8ab16188af5de18771259179a3e68",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/IPFS/metadataUpload.js"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "ac22b19d3af0886c5d604bbfcb0d5a2c71578cbb",
+      "size": 1080,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/ac22b19d3af0886c5d604bbfcb0d5a2c71578cbb",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/ac22b19d3af0886c5d604bbfcb0d5a2c71578cbb",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "1a4984e7cb0af8e093a2e3b8244addec0b2f0383",
+      "size": 1771,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/README.md?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/1a4984e7cb0af8e093a2e3b8244addec0b2f0383",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/1a4984e7cb0af8e093a2e3b8244addec0b2f0383",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/README.md"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "eaccac2604df31473038250e3709b0e13f4f13fd",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/contracts",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/eaccac2604df31473038250e3709b0e13f4f13fd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/eaccac2604df31473038250e3709b0e13f4f13fd",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/contracts"
+      }
+    },
+    {
+      "name": "ERC1155Basic.sol",
+      "path": "contracts/ERC1155Basic.sol",
+      "sha": "4e6d52c6f0ccb1b82609e7345ea901034e220d07",
+      "size": 488,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC1155Basic.sol?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC1155Basic.sol",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/4e6d52c6f0ccb1b82609e7345ea901034e220d07",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/contracts/ERC1155Basic.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC1155Basic.sol?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/4e6d52c6f0ccb1b82609e7345ea901034e220d07",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC1155Basic.sol"
+      }
+    },
+    {
+      "name": "ERC1155Custom.sol",
+      "path": "contracts/ERC1155Custom.sol",
+      "sha": "347c45ee4aa20cb1ee12ee2dde759bb29f88ef2e",
+      "size": 1857,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC1155Custom.sol?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC1155Custom.sol",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/347c45ee4aa20cb1ee12ee2dde759bb29f88ef2e",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/contracts/ERC1155Custom.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC1155Custom.sol?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/347c45ee4aa20cb1ee12ee2dde759bb29f88ef2e",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC1155Custom.sol"
+      }
+    },
+    {
+      "name": "ERC721Basic.sol",
+      "path": "contracts/ERC721Basic.sol",
+      "sha": "ba089aa53289f40674a3d37d86015c6081ed7439",
+      "size": 1705,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC721Basic.sol?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC721Basic.sol",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/ba089aa53289f40674a3d37d86015c6081ed7439",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/contracts/ERC721Basic.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC721Basic.sol?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/ba089aa53289f40674a3d37d86015c6081ed7439",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC721Basic.sol"
+      }
+    },
+    {
+      "name": "ERC721Custom.sol",
+      "path": "contracts/ERC721Custom.sol",
+      "sha": "1432e7c59b73712f2fe4c65f9339f6b8c845dd67",
+      "size": 2560,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC721Custom.sol?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC721Custom.sol",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/1432e7c59b73712f2fe4c65f9339f6b8c845dd67",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/contracts/ERC721Custom.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/ERC721Custom.sol?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/1432e7c59b73712f2fe4c65f9339f6b8c845dd67",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/ERC721Custom.sol"
+      }
+    },
+    {
+      "name": "Migrations.sol",
+      "path": "contracts/Migrations.sol",
+      "sha": "9aac9750f3b268f834a849ace9a94b293d8d4142",
+      "size": 419,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/Migrations.sol?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/Migrations.sol",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/9aac9750f3b268f834a849ace9a94b293d8d4142",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/contracts/Migrations.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/contracts/Migrations.sol?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/9aac9750f3b268f834a849ace9a94b293d8d4142",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/contracts/Migrations.sol"
+      }
+    },
+    {
+      "name": "images",
+      "path": "images",
+      "sha": "576cec155671d476bcf1dab1e0320908cb4bcf3f",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/images",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/576cec155671d476bcf1dab1e0320908cb4bcf3f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/576cec155671d476bcf1dab1e0320908cb4bcf3f",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/images"
+      }
+    },
+    {
+      "name": "0.png",
+      "path": "images/0.png",
+      "sha": "e5e77e463059f9bf55859c9aa7c11e7c494ba61d",
+      "size": 77805,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/0.png?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/0.png",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/e5e77e463059f9bf55859c9aa7c11e7c494ba61d",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/images/0.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/0.png?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/e5e77e463059f9bf55859c9aa7c11e7c494ba61d",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/0.png"
+      }
+    },
+    {
+      "name": "1.png",
+      "path": "images/1.png",
+      "sha": "dfcb54015ba4a0d78abbc333601782fa326650ed",
+      "size": 86650,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/1.png?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/1.png",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/dfcb54015ba4a0d78abbc333601782fa326650ed",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/images/1.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/1.png?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/dfcb54015ba4a0d78abbc333601782fa326650ed",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/1.png"
+      }
+    },
+    {
+      "name": "2.png",
+      "path": "images/2.png",
+      "sha": "2ce8637e97b3060ae9b9359536982b3a59fc9dae",
+      "size": 64098,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/2.png?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/2.png",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/2ce8637e97b3060ae9b9359536982b3a59fc9dae",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/images/2.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/2.png?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/2ce8637e97b3060ae9b9359536982b3a59fc9dae",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/2.png"
+      }
+    },
+    {
+      "name": "3.png",
+      "path": "images/3.png",
+      "sha": "5357de9d4260cc849457501a965fad2806297c61",
+      "size": 67559,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/3.png?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/3.png",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5357de9d4260cc849457501a965fad2806297c61",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/images/3.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/3.png?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/5357de9d4260cc849457501a965fad2806297c61",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/3.png"
+      }
+    },
+    {
+      "name": "4.png",
+      "path": "images/4.png",
+      "sha": "35bc45a9f939d6132cd2278e29e83e9241798c99",
+      "size": 3225,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/4.png?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/4.png",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/35bc45a9f939d6132cd2278e29e83e9241798c99",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/images/4.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/images/4.png?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/35bc45a9f939d6132cd2278e29e83e9241798c99",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/images/4.png"
+      }
+    },
+    {
+      "name": "list",
+      "path": "list",
+      "sha": "cd5a16f986480a4ca10531d7508ba3dc287d6a40",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/list?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/list",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/cd5a16f986480a4ca10531d7508ba3dc287d6a40",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/list?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/cd5a16f986480a4ca10531d7508ba3dc287d6a40",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/list"
+      }
+    },
+    {
+      "name": "ChainlinkVRF.json",
+      "path": "list/ChainlinkVRF.json",
+      "sha": "7082f626bb20620735d6102c71bae48225b77c61",
+      "size": 2068,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/list/ChainlinkVRF.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/list/ChainlinkVRF.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/7082f626bb20620735d6102c71bae48225b77c61",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/list/ChainlinkVRF.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/list/ChainlinkVRF.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/7082f626bb20620735d6102c71bae48225b77c61",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/list/ChainlinkVRF.json"
+      }
+    },
+    {
+      "name": "migrations",
+      "path": "migrations",
+      "sha": "92c48943c3c41df30ccdf022ef05bfe099a79364",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/migrations",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/92c48943c3c41df30ccdf022ef05bfe099a79364",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/92c48943c3c41df30ccdf022ef05bfe099a79364",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/migrations"
+      }
+    },
+    {
+      "name": "1_initial_migration.js",
+      "path": "migrations/1_initial_migration.js",
+      "sha": "16a7ba52f41282358c18dd6cb6f197ffa55018d5",
+      "size": 126,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations/1_initial_migration.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/migrations/1_initial_migration.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/16a7ba52f41282358c18dd6cb6f197ffa55018d5",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/migrations/1_initial_migration.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations/1_initial_migration.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/16a7ba52f41282358c18dd6cb6f197ffa55018d5",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/migrations/1_initial_migration.js"
+      }
+    },
+    {
+      "name": "2_erc721_nft_deploy.js",
+      "path": "migrations/2_erc721_nft_deploy.js",
+      "sha": "f556ff87657159c1e52021ad7653529327dd451d",
+      "size": 158,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations/2_erc721_nft_deploy.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/migrations/2_erc721_nft_deploy.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/f556ff87657159c1e52021ad7653529327dd451d",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/migrations/2_erc721_nft_deploy.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations/2_erc721_nft_deploy.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/f556ff87657159c1e52021ad7653529327dd451d",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/migrations/2_erc721_nft_deploy.js"
+      }
+    },
+    {
+      "name": "3_erc1155_nft_deploy.js",
+      "path": "migrations/3_erc1155_nft_deploy.js",
+      "sha": "fb924a4f8757102b00a61ddf822be63f87ccc437",
+      "size": 137,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations/3_erc1155_nft_deploy.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/migrations/3_erc1155_nft_deploy.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/fb924a4f8757102b00a61ddf822be63f87ccc437",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/migrations/3_erc1155_nft_deploy.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/migrations/3_erc1155_nft_deploy.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/fb924a4f8757102b00a61ddf822be63f87ccc437",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/migrations/3_erc1155_nft_deploy.js"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "96c1851456eca46698e030326866ec08649444bb",
+      "size": 1149,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/package.json?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/96c1851456eca46698e030326866ec08649444bb",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/96c1851456eca46698e030326866ec08649444bb",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/package.json"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "93b391bc9fe0a4bda5eea54ab5428faf2562b48c",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/scripts?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/scripts",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/93b391bc9fe0a4bda5eea54ab5428faf2562b48c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/scripts?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/93b391bc9fe0a4bda5eea54ab5428faf2562b48c",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/scripts"
+      }
+    },
+    {
+      "name": "MintNFTs.js",
+      "path": "scripts/MintNFTs.js",
+      "sha": "9c6564d9e180483572103f07a67b08da858eb554",
+      "size": 498,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/scripts/MintNFTs.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/scripts/MintNFTs.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/9c6564d9e180483572103f07a67b08da858eb554",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/scripts/MintNFTs.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/scripts/MintNFTs.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/9c6564d9e180483572103f07a67b08da858eb554",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/scripts/MintNFTs.js"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "023d48b948951f2880de7dfc242f7a1b2f8b7275",
+      "size": 0,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/test?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/test",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/023d48b948951f2880de7dfc242f7a1b2f8b7275",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/test?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/trees/023d48b948951f2880de7dfc242f7a1b2f8b7275",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/tree/master/test"
+      }
+    },
+    {
+      "name": "ERC721Custom.proxy.test.js",
+      "path": "test/ERC721Custom.proxy.test.js",
+      "sha": "60d1787590a1038a0c092310685346bd0cb38b42",
+      "size": 592,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/test/ERC721Custom.proxy.test.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/test/ERC721Custom.proxy.test.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/60d1787590a1038a0c092310685346bd0cb38b42",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/test/ERC721Custom.proxy.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/test/ERC721Custom.proxy.test.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/60d1787590a1038a0c092310685346bd0cb38b42",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/test/ERC721Custom.proxy.test.js"
+      }
+    },
+    {
+      "name": "ERC721Custom.test.js",
+      "path": "test/ERC721Custom.test.js",
+      "sha": "792ce85713355e5155f12dfb4f6c553c2a9ad73d",
+      "size": 2384,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/test/ERC721Custom.test.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/test/ERC721Custom.test.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/792ce85713355e5155f12dfb4f6c553c2a9ad73d",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/test/ERC721Custom.test.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/test/ERC721Custom.test.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/792ce85713355e5155f12dfb4f6c553c2a9ad73d",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/test/ERC721Custom.test.js"
+      }
+    },
+    {
+      "name": "truffle-config.js",
+      "path": "truffle-config.js",
+      "sha": "76ebdee38024aacf12c4a601b8fb3fbc5c15b7fa",
+      "size": 5483,
+      "url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/truffle-config.js?ref=master",
+      "html_url": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/truffle-config.js",
+      "git_url": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/76ebdee38024aacf12c4a601b8fb3fbc5c15b7fa",
+      "download_url": "https://raw.githubusercontent.com/YosephKS/truffle-opensea-nft/master/truffle-config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/contents/truffle-config.js?ref=master",
+        "git": "https://api.github.com/repos/YosephKS/truffle-opensea-nft/git/blobs/76ebdee38024aacf12c4a601b8fb3fbc5c15b7fa",
+        "html": "https://github.com/YosephKS/truffle-opensea-nft/blob/master/truffle-config.js"
+      }
+    }
+  ],
+  "external_domains": {
+    "admin.moralis.io": 1868,
+    "github.com": 6723,
+    "nodejs.org": 6002
+  },
+  "collected_at": "2026-03-07T10:55:17.469997"
+}

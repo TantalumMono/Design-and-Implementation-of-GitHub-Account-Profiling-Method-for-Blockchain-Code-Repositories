@@ -1,0 +1,10 @@
+﻿label,y_proba,y_pred,repo_full_name,family_id,is_real_positive,is_generated_positive,case_type
+1,0.9999251449258738,1,Zeeeepa/spyder-osint,F4_security_osint_cve,1,0,high_score_real_positive
+1,0.9998808785342095,1,arliawhite/rentverse,F3_web3_platform_app,1,0,high_score_real_positive
+1,0.9998596182908027,1,mdemetrial26rvk9w/solana-pumpfun-bot,F1_pumpfun_clone,1,0,high_score_real_positive
+1,0.1853143160102532,0,Morning-Star213/Solana-pumpfun-bot,F2_crypto_trading_bot,1,0,hard_real_positive
+1,0.33306751494139697,1,knightsdex/knightsbridge-dex,F3_web3_platform_app,1,0,hard_real_positive
+1,0.3938322284442841,1,FaceOFWood/SniperBot-Solana-PumpSwap,F2_crypto_trading_bot,1,0,hard_real_positive
+0,0.6210608564190826,1,axiomchronicles/blockchain_simulation,NEG_00247,0,0,hard_negative
+0,0.6160945972709176,1,mrkkyatilla/omus-wallet,NEG_01246,0,0,hard_negative
+0,0.5420073644291507,1,mrfomoweb3/nft-wallet-tracker,NEG_01244,0,0,hard_negative

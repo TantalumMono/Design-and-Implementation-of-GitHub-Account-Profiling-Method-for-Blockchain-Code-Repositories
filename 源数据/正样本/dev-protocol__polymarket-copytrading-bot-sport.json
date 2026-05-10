@@ -1,0 +1,1151 @@
+{
+  "repo_full_name": "dev-protocol/polymarket-copytrading-bot-sport",
+  "repo_deleted": false,
+  "data_source": "github_api",
+  "collected_at": "2026-03-17T03:56:42.071405",
+  "repo_detail": {
+    "id": 1183527718,
+    "node_id": "R_kgDORoszJg",
+    "name": "polymarket-copytrading-bot-sport",
+    "full_name": "dev-protocol/polymarket-copytrading-bot-sport",
+    "private": false,
+    "owner": {
+      "login": "dev-protocol",
+      "id": 49816297,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5ODE2Mjk3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49816297?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dev-protocol",
+      "html_url": "https://github.com/dev-protocol",
+      "followers_url": "https://api.github.com/users/dev-protocol/followers",
+      "following_url": "https://api.github.com/users/dev-protocol/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dev-protocol/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dev-protocol/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dev-protocol/subscriptions",
+      "organizations_url": "https://api.github.com/users/dev-protocol/orgs",
+      "repos_url": "https://api.github.com/users/dev-protocol/repos",
+      "events_url": "https://api.github.com/users/dev-protocol/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dev-protocol/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇 is Automated copy-trading bot for Polymarket that monitors successful traders and mirrors their positions in real time, CLUE: polymarket copytrading bot polymarket trading bot polymarket copy bot polymarket bot polymarket arbitrage bot polymarket copytrading bot polymarket trading bot polymarket copy bot",
+    "fork": false,
+    "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport",
+    "forks_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/forks",
+    "keys_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/teams",
+    "hooks_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/hooks",
+    "issue_events_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/events",
+    "assignees_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/tags",
+    "blobs_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/languages",
+    "stargazers_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/stargazers",
+    "contributors_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contributors",
+    "subscribers_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/subscribers",
+    "subscription_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/subscription",
+    "commits_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/merges",
+    "archive_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/downloads",
+    "issues_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/labels{/name}",
+    "releases_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/deployments",
+    "created_at": "2026-03-16T17:40:46Z",
+    "updated_at": "2026-03-17T03:52:44Z",
+    "pushed_at": "2026-03-16T17:41:50Z",
+    "git_url": "git://github.com/dev-protocol/polymarket-copytrading-bot-sport.git",
+    "ssh_url": "git@github.com:dev-protocol/polymarket-copytrading-bot-sport.git",
+    "clone_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport.git",
+    "svn_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport",
+    "homepage": "https://polymarket.com/crypto",
+    "size": 45,
+    "stargazers_count": 117,
+    "watchers_count": 117,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 1,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "polymarket-arbitrage-bot",
+      "polymarket-bot",
+      "polymarket-copy-bot",
+      "polymarket-copytrade",
+      "polymarket-copytrading",
+      "polymarket-copytrading-bot",
+      "polymarket-trading-bot"
+    ],
+    "visibility": "public",
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 117,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "dev-protocol",
+      "id": 49816297,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5ODE2Mjk3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49816297?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dev-protocol",
+      "html_url": "https://github.com/dev-protocol",
+      "followers_url": "https://api.github.com/users/dev-protocol/followers",
+      "following_url": "https://api.github.com/users/dev-protocol/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dev-protocol/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dev-protocol/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dev-protocol/subscriptions",
+      "organizations_url": "https://api.github.com/users/dev-protocol/orgs",
+      "repos_url": "https://api.github.com/users/dev-protocol/repos",
+      "events_url": "https://api.github.com/users/dev-protocol/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dev-protocol/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 1,
+    "subscribers_count": 110
+  },
+  "user_detail": {
+    "login": "dev-protocol",
+    "id": 49816297,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5ODE2Mjk3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49816297?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dev-protocol",
+    "html_url": "https://github.com/dev-protocol",
+    "followers_url": "https://api.github.com/users/dev-protocol/followers",
+    "following_url": "https://api.github.com/users/dev-protocol/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dev-protocol/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dev-protocol/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dev-protocol/subscriptions",
+    "organizations_url": "https://api.github.com/users/dev-protocol/orgs",
+    "repos_url": "https://api.github.com/users/dev-protocol/repos",
+    "events_url": "https://api.github.com/users/dev-protocol/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dev-protocol/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Dev Protocol",
+    "company": null,
+    "blog": "https://devprotocol.xyz",
+    "location": "Japan",
+    "email": "hi@devprotocol.xyz",
+    "hireable": null,
+    "bio": "A middleware protocol for building decentralised creator economy.",
+    "twitter_username": "poweredbyClubs",
+    "public_repos": 141,
+    "public_gists": 0,
+    "followers": 571,
+    "following": 0,
+    "created_at": "2019-04-20T15:37:59Z",
+    "updated_at": "2025-03-07T04:48:54Z"
+  },
+  "readme": "# Polymarket Copy trading Bot\n\nPolymarket Copytrading Bot which copies trades from one or more leader addresses on Polymarket. Config in `trade.toml`, secrets in `.env`.\n\n## Journey of Builder - [xstacks](https://t.me/x_stacks)\n\nWhile many traders focus heavily on crypto prediction markets, I noticed that they can be extremely volatile and unpredictable in short timeframes. Rapid price swings, aggressive position flipping, and sudden liquidity shifts make consistent automation difficult.\n\nWhen I started looking at Polymarket, I noticed one thing right away: markets can be unpredictable. Crypto markets, in particular, move fast—prices swing, positions flip, and liquidity can change in an instant, making consistent automation really tricky.\n\nInstead of limiting the bot to one type of market, I decided to build a system that could copy trades across all kinds of markets—Politics, Sports, Crypto, Economic events, and more. The idea was simple: follow experienced traders, act quickly, and stay flexible, no matter what market they’re in.\n\nI started development in early February 2026, spending a couple of weeks testing, refining filters, timing logic, and position sizes. Running simulations on historical data and testing with a small live balance showed promising results: steady, consistent gains without chasing extreme volatility.\n\nThe strategy isn’t about explosive wins. It’s about disciplined copy trading, spreading risk across multiple markets, and aiming for smooth, reliable performance. By following multiple leaders and diversifying trades, the bot can handle fast-moving markets like sports and crypto while still keeping long-term events, like politics and macroeconomics, in play.\n\nIn short, it’s a long-term, flexible system built for steady growth, smart risk control, and automated trading across the full spectrum of Polymarket.\nThis is a long-term strategy — built around discipline, diversification, and steady growth rather than hype.\n\n# Market Types\n\n- Polymarket includes Politics, Sports, Crypto, Economic, Geopolitical, Entertainment, and Experimental markets.\n- Politics & Macro markets are longer-term and news-driven, suitable for medium-term copy strategies.\n- Sports & Crypto markets are fast-moving and require quick execution (websocket mode recommended).\n- Entertainment markets tend to be slower and lower volatility.\n- Experimental / low-liquidity markets carry higher slippage risk and should use size limits.\n\nAdjust filters like entry_trade_sec, trade_sec_from_resolve, take_profit, and buy_amount_limit_in_usd based on the market’s volatility and duration.\n\n## Setup\n\n```bash\ngit clone https://github.com/dev-protocol/polymarket-copytrading-bot-sport.git\ncd polymarket-copytrading-bot-sport\nnpm install\n# Edit .env: WALLET_PRIVATE_KEY, PROXY_WALLET_ADDRESS (if Magic), SIGNATURE_TYPE\ncd frontend\nnpm install\n# Install for UI\ncd ..\nnpm run dev\n```\n\n# Advanced Polymarket Trading Bot.\n\nI have developed an advanced Polymarket trading bot, including a high-performance Rust-based copy trading system optimized for low-latency execution, as well as an AI agent trading bot built in TypeScript with automated strategy logic. \n\nThe architecture is designed for speed, efficiency, and scalability, making it suitable for serious traders looking to automate and optimize their activity in prediction markets. If you are interested in purchasing or learning more about the system and its capabilities, feel free to contact me directly.\n\n<img width=\"1884\" height=\"617\" alt=\"image\" src=\"https://github.com/user-attachments/assets/900d2bb1-de25-4d4c-a94d-7f083990e145\" />\n\nTG: [xstacks](https://t.me/x_stacks)\n\n## Run\n\n```bash\nnpm run dev    # tsx src/index.ts\n```\n\n## Env\n\n- `WALLET_PRIVATE_KEY` – EOA or Magic export\n- `PROXY_WALLET_ADDRESS` – Polymarket profile (required for Magic; optional EOA)\n- `SIGNATURE_TYPE` – 0 = EOA, 1 = Magic/proxy, 2 = Gnosis Safe\n\n### Target Wallets\n\n|Address|Profile|Pnl|\n|-|-|-|\n|0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d|@gabagool22|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/ef04d657-da3f-4b5a-aeed-b99f2c264df8\" />|\n|0x63ce342161250d705dc0b16df89036c8e5f9ba9a|@0x8dxd|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/e032f4e9-001a-4dd6-b3b5-6d983167f92d\" />|\n|0xa61ef8773ec2e821962306ca87d4b57e39ff0abd|@risk-manager|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/6ca49607-7615-4a0c-9786-54400971ee27\" />|\n|0x781a48229e2c08e20d1eaad90ef73710988c96e6|@100USDollars|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/380debcb-dc09-466f-b7cd-ca2552605eb7\" />|\n|0x0ac97e4f5c542cd98c226ae8e1736ae78b489641|@7thStaircase|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/c638d830-a472-4035-99ca-c33c72c3aa23\" />|\n|0x1d0034134e339a309700ff2d34e99fa2d48b0313|@0x1d0034134e|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/2e07c2bf-2ac6-42d2-b319-356bfc0def91\" />|\n|0xa9878e59934ab507f9039bcb917c1bae0451141d|@ilovecircle|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/b8342802-62d3-461d-8593-8f980178bdfe\" />|\n|0xd0d6053c3c37e727402d84c14069780d360993aa|@k9Q2mX4L8A7ZP3R|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/e3eaf5bb-b6d3-47fd-bf96-93d13bcd4442\" />|\n|0x594edB9112f526Fa6A80b8F858A6379C8A2c1C11|@0x594...1C11|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/d868f76d-74d9-405d-b168-7e8d5b27c083\" />|\n|0x1979ae6B7E6534dE9c4539D0c205E582cA637C9D|@0x197...7C9D|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/45d5c5cd-e9b2-492f-ad9d-94c2d9bf1fac\" />|\n|0x4460bf2c0aa59db412a6493c2c08970797b62970|@Bidou28old|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/9ff95df6-ff16-48ea-82d4-979d358f973d\" />|\n|0x0eA574F3204C5c9C0cdEad90392ea0990F4D17e4|@0x0eA...17e4|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/e5162217-c7b8-4656-8858-e82c93ca36e8\" />|\n|0x118689b24aead1d6e9507b8068d056b2ec4f051b|@russell110320|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/b508aa98-80a7-4a1f-8bf4-c4e097dc6105\" />|\n|0x13414a77a4be48988851c73dfd824d0168e70853|@czoyimsezblaznili|<img width=\"1200\" src=\"https://github.com/user-attachments/assets/eb1c7041-29b1-4a21-803f-59bbe8dc0a4b\" />|\n\n",
+  "readme_domains": {
+    "t.me": 5779,
+    "github.com": 6733
+  },
+  "tree_structure": [
+    {
+      "name": ".env.example",
+      "path": ".env.example",
+      "sha": "b2471148e0820e980e20541a9ac0918d8b381e9e",
+      "size": 305,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/.env.example?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/.env.example",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/b2471148e0820e980e20541a9ac0918d8b381e9e",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/.env.example",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/.env.example?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/b2471148e0820e980e20541a9ac0918d8b381e9e",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/.env.example"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "6931b0ce5849f9e1963228be6d0d9ac2936c3300",
+      "size": 102,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/6931b0ce5849f9e1963228be6d0d9ac2936c3300",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/6931b0ce5849f9e1963228be6d0d9ac2936c3300",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "4ab857911f0249bf151e40f70e19e5e7dfce8baa",
+      "size": 6300,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/README.md?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/4ab857911f0249bf151e40f70e19e5e7dfce8baa",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/4ab857911f0249bf151e40f70e19e5e7dfce8baa",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/README.md"
+      }
+    },
+    {
+      "name": "Update.md",
+      "path": "Update.md",
+      "sha": "b1a1fa7ea2dd285c5ccde6d6f6a1b2f3fce36e74",
+      "size": 511,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/Update.md?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/Update.md",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/b1a1fa7ea2dd285c5ccde6d6f6a1b2f3fce36e74",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/Update.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/Update.md?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/b1a1fa7ea2dd285c5ccde6d6f6a1b2f3fce36e74",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/Update.md"
+      }
+    },
+    {
+      "name": "frontend",
+      "path": "frontend",
+      "sha": "d5a565709aa0e736f4d71be92ffc801d2a399a98",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/d5a565709aa0e736f4d71be92ffc801d2a399a98",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/d5a565709aa0e736f4d71be92ffc801d2a399a98",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "frontend/index.html",
+      "sha": "13c0c928d52731e61c26ac5af3a82435073ca53c",
+      "size": 293,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/index.html?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/index.html",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/13c0c928d52731e61c26ac5af3a82435073ca53c",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/index.html?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/13c0c928d52731e61c26ac5af3a82435073ca53c",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/index.html"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "frontend/package.json",
+      "sha": "6b82bcfd9b898ca9c5e257b11fca34edf396f16d",
+      "size": 520,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/package.json?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/package.json",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/6b82bcfd9b898ca9c5e257b11fca34edf396f16d",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/package.json?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/6b82bcfd9b898ca9c5e257b11fca34edf396f16d",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "frontend/postcss.config.js",
+      "sha": "e008c9ceed56b640ec0a8145fc16247393f999e5",
+      "size": 70,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/postcss.config.js?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/postcss.config.js",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e008c9ceed56b640ec0a8145fc16247393f999e5",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/postcss.config.js?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e008c9ceed56b640ec0a8145fc16247393f999e5",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/postcss.config.js"
+      }
+    },
+    {
+      "name": "src",
+      "path": "frontend/src",
+      "sha": "121e2e09090d0ec6923def27928e2aa68263c282",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/121e2e09090d0ec6923def27928e2aa68263c282",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/121e2e09090d0ec6923def27928e2aa68263c282",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src"
+      }
+    },
+    {
+      "name": "App.tsx",
+      "path": "frontend/src/App.tsx",
+      "sha": "f17a5ee16aaad8a3b3e68259581ff54ab8c542aa",
+      "size": 3721,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/App.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/App.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/f17a5ee16aaad8a3b3e68259581ff54ab8c542aa",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/App.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/App.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/f17a5ee16aaad8a3b3e68259581ff54ab8c542aa",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/App.tsx"
+      }
+    },
+    {
+      "name": "api",
+      "path": "frontend/src/api",
+      "sha": "f5d64bd5396a85ff5ea87e9da6f0dc9b12640886",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/api?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/api",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/f5d64bd5396a85ff5ea87e9da6f0dc9b12640886",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/api?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/f5d64bd5396a85ff5ea87e9da6f0dc9b12640886",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/api"
+      }
+    },
+    {
+      "name": "client.ts",
+      "path": "frontend/src/api/client.ts",
+      "sha": "96d5eb2175c9efa03d7e3733be881be7fcecb708",
+      "size": 244,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/api/client.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/api/client.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/96d5eb2175c9efa03d7e3733be881be7fcecb708",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/api/client.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/api/client.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/96d5eb2175c9efa03d7e3733be881be7fcecb708",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/api/client.ts"
+      }
+    },
+    {
+      "name": "components",
+      "path": "frontend/src/components",
+      "sha": "32aad2784eb2bf974b4647822b32a4a7ad0b33b6",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/components?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/components",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/32aad2784eb2bf974b4647822b32a4a7ad0b33b6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/components?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/32aad2784eb2bf974b4647822b32a4a7ad0b33b6",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/components"
+      }
+    },
+    {
+      "name": "Layout.tsx",
+      "path": "frontend/src/components/Layout.tsx",
+      "sha": "1a684b3ed1f8cbecb189a31643c39d002b85b472",
+      "size": 950,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/components/Layout.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/components/Layout.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/1a684b3ed1f8cbecb189a31643c39d002b85b472",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/components/Layout.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/components/Layout.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/1a684b3ed1f8cbecb189a31643c39d002b85b472",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/components/Layout.tsx"
+      }
+    },
+    {
+      "name": "Sidebar.tsx",
+      "path": "frontend/src/components/Sidebar.tsx",
+      "sha": "a7ec70b9a2eaa09df6368507a5ab59c13d37d640",
+      "size": 910,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/components/Sidebar.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/components/Sidebar.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/a7ec70b9a2eaa09df6368507a5ab59c13d37d640",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/components/Sidebar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/components/Sidebar.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/a7ec70b9a2eaa09df6368507a5ab59c13d37d640",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/components/Sidebar.tsx"
+      }
+    },
+    {
+      "name": "features",
+      "path": "frontend/src/features",
+      "sha": "95eea8b9946063d3d242b036ddc2e4254d9bb5b0",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/95eea8b9946063d3d242b036ddc2e4254d9bb5b0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/95eea8b9946063d3d242b036ddc2e4254d9bb5b0",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features"
+      }
+    },
+    {
+      "name": "dashboard",
+      "path": "frontend/src/features/dashboard",
+      "sha": "c2dc2fbb42f1e5022ed5270315ba75599a1f806d",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/dashboard?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/dashboard",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/c2dc2fbb42f1e5022ed5270315ba75599a1f806d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/dashboard?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/c2dc2fbb42f1e5022ed5270315ba75599a1f806d",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/dashboard"
+      }
+    },
+    {
+      "name": "DashboardPage.tsx",
+      "path": "frontend/src/features/dashboard/DashboardPage.tsx",
+      "sha": "35791c4d74cb793e1c3f47b5617ca524849e7753",
+      "size": 1979,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/dashboard/DashboardPage.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/dashboard/DashboardPage.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/35791c4d74cb793e1c3f47b5617ca524849e7753",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/features/dashboard/DashboardPage.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/dashboard/DashboardPage.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/35791c4d74cb793e1c3f47b5617ca524849e7753",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/dashboard/DashboardPage.tsx"
+      }
+    },
+    {
+      "name": "log",
+      "path": "frontend/src/features/log",
+      "sha": "f798f15e383721c2cfb19c37e773869c9aed1a9a",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/log?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/log",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/f798f15e383721c2cfb19c37e773869c9aed1a9a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/log?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/f798f15e383721c2cfb19c37e773869c9aed1a9a",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/log"
+      }
+    },
+    {
+      "name": "LogPage.tsx",
+      "path": "frontend/src/features/log/LogPage.tsx",
+      "sha": "fc9848c3ce044ba7958929062b77167099128ec7",
+      "size": 2415,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/log/LogPage.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/log/LogPage.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/fc9848c3ce044ba7958929062b77167099128ec7",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/features/log/LogPage.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/log/LogPage.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/fc9848c3ce044ba7958929062b77167099128ec7",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/log/LogPage.tsx"
+      }
+    },
+    {
+      "name": "positions",
+      "path": "frontend/src/features/positions",
+      "sha": "01723122f7362afd287f38d7a2b5f8da887a65e0",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/positions?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/positions",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/01723122f7362afd287f38d7a2b5f8da887a65e0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/positions?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/01723122f7362afd287f38d7a2b5f8da887a65e0",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/positions"
+      }
+    },
+    {
+      "name": "PositionsPanel.tsx",
+      "path": "frontend/src/features/positions/PositionsPanel.tsx",
+      "sha": "bf2d15833102981c35f198b4be23f0bcc424ca8e",
+      "size": 6793,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/positions/PositionsPanel.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/positions/PositionsPanel.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/bf2d15833102981c35f198b4be23f0bcc424ca8e",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/features/positions/PositionsPanel.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/positions/PositionsPanel.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/bf2d15833102981c35f198b4be23f0bcc424ca8e",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/positions/PositionsPanel.tsx"
+      }
+    },
+    {
+      "name": "settings",
+      "path": "frontend/src/features/settings",
+      "sha": "8128c81eb5ba6afb44a0133209052f8f219429d1",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/settings?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/settings",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/8128c81eb5ba6afb44a0133209052f8f219429d1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/settings?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/8128c81eb5ba6afb44a0133209052f8f219429d1",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/features/settings"
+      }
+    },
+    {
+      "name": "SettingsPage.tsx",
+      "path": "frontend/src/features/settings/SettingsPage.tsx",
+      "sha": "3ae1bcb53e6c7b2d4038987ebb6511390cfc6e63",
+      "size": 2551,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/settings/SettingsPage.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/settings/SettingsPage.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/3ae1bcb53e6c7b2d4038987ebb6511390cfc6e63",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/features/settings/SettingsPage.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/features/settings/SettingsPage.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/3ae1bcb53e6c7b2d4038987ebb6511390cfc6e63",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/features/settings/SettingsPage.tsx"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "frontend/src/index.css",
+      "sha": "f7db450a8b7bb4eb6a75dc48bd3725f322e38f1c",
+      "size": 661,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/index.css?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/index.css",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/f7db450a8b7bb4eb6a75dc48bd3725f322e38f1c",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/index.css?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/f7db450a8b7bb4eb6a75dc48bd3725f322e38f1c",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/index.css"
+      }
+    },
+    {
+      "name": "main.tsx",
+      "path": "frontend/src/main.tsx",
+      "sha": "9b67590a0691533907c66b9af18228a5e4310fd3",
+      "size": 236,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/main.tsx?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/main.tsx",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/9b67590a0691533907c66b9af18228a5e4310fd3",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/main.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/main.tsx?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/9b67590a0691533907c66b9af18228a5e4310fd3",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/main.tsx"
+      }
+    },
+    {
+      "name": "types",
+      "path": "frontend/src/types",
+      "sha": "cb9f28d0b1890ea435dfddd16d1c7dc71f8a3f7f",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/types?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/types",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/cb9f28d0b1890ea435dfddd16d1c7dc71f8a3f7f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/types?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/cb9f28d0b1890ea435dfddd16d1c7dc71f8a3f7f",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/frontend/src/types"
+      }
+    },
+    {
+      "name": "state.ts",
+      "path": "frontend/src/types/state.ts",
+      "sha": "d27b17b52dd6506b75572126f6e5f6eb8c6e38eb",
+      "size": 631,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/types/state.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/types/state.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d27b17b52dd6506b75572126f6e5f6eb8c6e38eb",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/src/types/state.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/src/types/state.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d27b17b52dd6506b75572126f6e5f6eb8c6e38eb",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/src/types/state.ts"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "frontend/tailwind.config.js",
+      "sha": "f5876838a196f8429406a2d10a621aac04cf8ba1",
+      "size": 163,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/tailwind.config.js?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/f5876838a196f8429406a2d10a621aac04cf8ba1",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/tailwind.config.js?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/f5876838a196f8429406a2d10a621aac04cf8ba1",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/tailwind.config.js"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "frontend/tsconfig.json",
+      "sha": "9231a445ade99dae365cbff83edc2cd82eb04244",
+      "size": 604,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/tsconfig.json?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/tsconfig.json",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/9231a445ade99dae365cbff83edc2cd82eb04244",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/9231a445ade99dae365cbff83edc2cd82eb04244",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/tsconfig.json"
+      }
+    },
+    {
+      "name": "tsconfig.tsbuildinfo",
+      "path": "frontend/tsconfig.tsbuildinfo",
+      "sha": "8885e6b63dce0bf5e7ac478c5ce88fcf67af272f",
+      "size": 334,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/tsconfig.tsbuildinfo?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/tsconfig.tsbuildinfo",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/8885e6b63dce0bf5e7ac478c5ce88fcf67af272f",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/tsconfig.tsbuildinfo",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/tsconfig.tsbuildinfo?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/8885e6b63dce0bf5e7ac478c5ce88fcf67af272f",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/tsconfig.tsbuildinfo"
+      }
+    },
+    {
+      "name": "vite.config.ts",
+      "path": "frontend/vite.config.ts",
+      "sha": "e6b9cee58977a9626c100a09d8ba449e3667fb45",
+      "size": 249,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/vite.config.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/vite.config.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e6b9cee58977a9626c100a09d8ba449e3667fb45",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/frontend/vite.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/frontend/vite.config.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e6b9cee58977a9626c100a09d8ba449e3667fb45",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/frontend/vite.config.ts"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "81817022a38ecf381f880f08bfe8b48000eb9925",
+      "size": 1210,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/package.json?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/81817022a38ecf381f880f08bfe8b48000eb9925",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/81817022a38ecf381f880f08bfe8b48000eb9925",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/package.json"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "e7f3f2ac098028594e14dc10d089e795d2d91d55",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/e7f3f2ac098028594e14dc10d089e795d2d91d55",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/e7f3f2ac098028594e14dc10d089e795d2d91d55",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src"
+      }
+    },
+    {
+      "name": "config",
+      "path": "src/config",
+      "sha": "c1b8a73c65f23a2c3f07a62cc09ad90f4b2420bf",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/config",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/c1b8a73c65f23a2c3f07a62cc09ad90f4b2420bf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/c1b8a73c65f23a2c3f07a62cc09ad90f4b2420bf",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/config"
+      }
+    },
+    {
+      "name": "client.ts",
+      "path": "src/config/client.ts",
+      "sha": "7a498b3ed807572ab39662b61f3316848bcc2783",
+      "size": 876,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config/client.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/config/client.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/7a498b3ed807572ab39662b61f3316848bcc2783",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/config/client.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config/client.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/7a498b3ed807572ab39662b61f3316848bcc2783",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/config/client.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/config/index.ts",
+      "sha": "218988030d9739f2be6a8b73f5132bbc4bbc707e",
+      "size": 52,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/config/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/218988030d9739f2be6a8b73f5132bbc4bbc707e",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/config/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/218988030d9739f2be6a8b73f5132bbc4bbc707e",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/config/index.ts"
+      }
+    },
+    {
+      "name": "loadEnv.ts",
+      "path": "src/config/loadEnv.ts",
+      "sha": "028cb8fae5d873481a03a2c9f5bc359df3e44348",
+      "size": 3796,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config/loadEnv.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/config/loadEnv.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/028cb8fae5d873481a03a2c9f5bc359df3e44348",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/config/loadEnv.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/config/loadEnv.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/028cb8fae5d873481a03a2c9f5bc359df3e44348",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/config/loadEnv.ts"
+      }
+    },
+    {
+      "name": "constant",
+      "path": "src/constant",
+      "sha": "e85e5f09a8d7c120639042ad91b13bd86068e936",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/constant?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/constant",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/e85e5f09a8d7c120639042ad91b13bd86068e936",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/constant?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/e85e5f09a8d7c120639042ad91b13bd86068e936",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/constant"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/constant/index.ts",
+      "sha": "c9961728a7f0e3cb11b851ed5ac2b89f757fb7cf",
+      "size": 348,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/constant/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/constant/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/c9961728a7f0e3cb11b851ed5ac2b89f757fb7cf",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/constant/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/constant/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/c9961728a7f0e3cb11b851ed5ac2b89f757fb7cf",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/constant/index.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/index.ts",
+      "sha": "c0a09613930fd43256ed2b35e87b07e6d3b2d92d",
+      "size": 2507,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/c0a09613930fd43256ed2b35e87b07e6d3b2d92d",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/c0a09613930fd43256ed2b35e87b07e6d3b2d92d",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/index.ts"
+      }
+    },
+    {
+      "name": "realtime",
+      "path": "src/realtime",
+      "sha": "84eab07b517ac39e441fbc25a2d801801f8b7719",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/realtime",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/84eab07b517ac39e441fbc25a2d801801f8b7719",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/84eab07b517ac39e441fbc25a2d801801f8b7719",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/realtime"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/realtime/index.ts",
+      "sha": "173cbe94f66273ef980195dcccad4159f61511b3",
+      "size": 55,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/realtime/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/173cbe94f66273ef980195dcccad4159f61511b3",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/realtime/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/173cbe94f66273ef980195dcccad4159f61511b3",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/realtime/index.ts"
+      }
+    },
+    {
+      "name": "polling.ts",
+      "path": "src/realtime/polling.ts",
+      "sha": "dc180b752efcd5bdc5cbc26ed917fb5312757538",
+      "size": 6790,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime/polling.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/realtime/polling.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/dc180b752efcd5bdc5cbc26ed917fb5312757538",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/realtime/polling.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime/polling.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/dc180b752efcd5bdc5cbc26ed917fb5312757538",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/realtime/polling.ts"
+      }
+    },
+    {
+      "name": "websocket.ts",
+      "path": "src/realtime/websocket.ts",
+      "sha": "e428bb54a819af06a3be377a1605065b32f92236",
+      "size": 3171,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime/websocket.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/realtime/websocket.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e428bb54a819af06a3be377a1605065b32f92236",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/realtime/websocket.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/realtime/websocket.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e428bb54a819af06a3be377a1605065b32f92236",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/realtime/websocket.ts"
+      }
+    },
+    {
+      "name": "trading",
+      "path": "src/trading",
+      "sha": "d1925155a19ef420d3ff0aa20581854c5c8c9cef",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/trading",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/d1925155a19ef420d3ff0aa20581854c5c8c9cef",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/d1925155a19ef420d3ff0aa20581854c5c8c9cef",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/trading"
+      }
+    },
+    {
+      "name": "exit.ts",
+      "path": "src/trading/exit.ts",
+      "sha": "0836c265306f291b95efa14d1b72050a0ba286aa",
+      "size": 3553,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/exit.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/exit.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/0836c265306f291b95efa14d1b72050a0ba286aa",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/trading/exit.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/exit.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/0836c265306f291b95efa14d1b72050a0ba286aa",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/exit.ts"
+      }
+    },
+    {
+      "name": "filter.ts",
+      "path": "src/trading/filter.ts",
+      "sha": "7f73892003319c5143906a993c0368058f8d1c14",
+      "size": 1106,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/filter.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/filter.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/7f73892003319c5143906a993c0368058f8d1c14",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/trading/filter.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/filter.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/7f73892003319c5143906a993c0368058f8d1c14",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/filter.ts"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/trading/index.ts",
+      "sha": "d56568d69848a054f940b11206130dbb0fcba365",
+      "size": 73,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d56568d69848a054f940b11206130dbb0fcba365",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/trading/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d56568d69848a054f940b11206130dbb0fcba365",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/index.ts"
+      }
+    },
+    {
+      "name": "trading.ts",
+      "path": "src/trading/trading.ts",
+      "sha": "0836cf3b6f2a8998a480bdc3fb0366c1621f8b5c",
+      "size": 1930,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/trading.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/trading.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/0836cf3b6f2a8998a480bdc3fb0366c1621f8b5c",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/trading/trading.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/trading/trading.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/0836cf3b6f2a8998a480bdc3fb0366c1621f8b5c",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/trading/trading.ts"
+      }
+    },
+    {
+      "name": "types",
+      "path": "src/types",
+      "sha": "15fc17cd027661da97f51b34aa80694078068542",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/types?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/types",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/15fc17cd027661da97f51b34aa80694078068542",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/types?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/15fc17cd027661da97f51b34aa80694078068542",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/types"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/types/index.ts",
+      "sha": "d1785b065c90ea1e18a1000af1b809f57193c419",
+      "size": 1318,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/types/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/types/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d1785b065c90ea1e18a1000af1b809f57193c419",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/types/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/types/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d1785b065c90ea1e18a1000af1b809f57193c419",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/types/index.ts"
+      }
+    },
+    {
+      "name": "web",
+      "path": "src/web",
+      "sha": "2e507aa2e55f91b7766beef65e6dfa02fcc6fab0",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/web",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/2e507aa2e55f91b7766beef65e6dfa02fcc6fab0",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/2e507aa2e55f91b7766beef65e6dfa02fcc6fab0",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/web"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "src/web/index.ts",
+      "sha": "d87ca8b633f343a148e9a2474dbd03be358ec4bf",
+      "size": 93,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/index.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/index.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d87ca8b633f343a148e9a2474dbd03be358ec4bf",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/web/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/index.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/d87ca8b633f343a148e9a2474dbd03be358ec4bf",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/index.ts"
+      }
+    },
+    {
+      "name": "public",
+      "path": "src/web/public",
+      "sha": "d11e2986ee85813d6e3241178b7c638ac401a83f",
+      "size": 0,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/public?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/web/public",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/d11e2986ee85813d6e3241178b7c638ac401a83f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/public?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/trees/d11e2986ee85813d6e3241178b7c638ac401a83f",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/tree/master/src/web/public"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "src/web/public/index.html",
+      "sha": "af7408c25e58961f848576d9e8f1c8761aa6a75e",
+      "size": 431,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/public/index.html?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/public/index.html",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/af7408c25e58961f848576d9e8f1c8761aa6a75e",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/web/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/public/index.html?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/af7408c25e58961f848576d9e8f1c8761aa6a75e",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/public/index.html"
+      }
+    },
+    {
+      "name": "server.ts",
+      "path": "src/web/server.ts",
+      "sha": "9ec645214e661501a0afb0f7408b65e1c03cbb6f",
+      "size": 2098,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/server.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/server.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/9ec645214e661501a0afb0f7408b65e1c03cbb6f",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/web/server.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/server.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/9ec645214e661501a0afb0f7408b65e1c03cbb6f",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/server.ts"
+      }
+    },
+    {
+      "name": "state.ts",
+      "path": "src/web/state.ts",
+      "sha": "e3337810750f4c53e794b2a58d3c82f252e63de0",
+      "size": 3344,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/state.ts?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/state.ts",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e3337810750f4c53e794b2a58d3c82f252e63de0",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/src/web/state.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/src/web/state.ts?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e3337810750f4c53e794b2a58d3c82f252e63de0",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/src/web/state.ts"
+      }
+    },
+    {
+      "name": "trade.toml",
+      "path": "trade.toml",
+      "sha": "89a3b4aa4be89983cb3c6d972d62ae8a757d2b85",
+      "size": 1305,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/trade.toml?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/trade.toml",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/89a3b4aa4be89983cb3c6d972d62ae8a757d2b85",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/trade.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/trade.toml?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/89a3b4aa4be89983cb3c6d972d62ae8a757d2b85",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/trade.toml"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "e76964baf78366ec0b2edc535a577e711afb6b26",
+      "size": 729,
+      "url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/tsconfig.json?ref=master",
+      "html_url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/tsconfig.json",
+      "git_url": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e76964baf78366ec0b2edc535a577e711afb6b26",
+      "download_url": "https://raw.githubusercontent.com/dev-protocol/polymarket-copytrading-bot-sport/master/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/contents/tsconfig.json?ref=master",
+        "git": "https://api.github.com/repos/dev-protocol/polymarket-copytrading-bot-sport/git/blobs/e76964baf78366ec0b2edc535a577e711afb6b26",
+        "html": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport/blob/master/tsconfig.json"
+      }
+    }
+  ]
+}

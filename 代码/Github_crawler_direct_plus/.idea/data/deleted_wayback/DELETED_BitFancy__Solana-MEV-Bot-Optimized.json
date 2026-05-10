@@ -1,0 +1,64 @@
+{
+  "repo_full_name": "BitFancy/Solana-MEV-Bot-Optimized",
+  "owner": "BitFancy",
+  "is_repo_deleted": true,
+  "snapshot_time": "20250724164149",
+  "metrics": {
+    "stars": 434,
+    "forks": 165,
+    "watches": 21
+  },
+  "readme_full_text": "Solana MEV Bot - Flashloan Arbitrage Trading Bot\n\n\n📬 Contact & Support\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor support, questions, or collaboration opportunities, reach out through any of the above channels!\n\n\n\n\nA high-performance \nSolana MEV (Maximal Extractable Value) bot\n built in Rust, designed for atomic flashloan-based arbitrage across multiple DEXs. This bot leverages real-time mempool monitoring, advanced routing, and flashloan execution to capture arbitrage opportunities on Solana with maximum efficiency and security.\n\n\n🚀 Features\n\n\nCore MEV & Arbitrage Capabilities\n\n\n\n\nAtomic Flashloan Arbitrage\n: Executes arbitrage trades using flashloans, ensuring all legs succeed or the transaction reverts.\n\n\nMulti-DEX Support\n: Integrates with Raydium, Orca, Jupiter, Meteora, and more for deep liquidity and diverse routes.\n\n\nReal-time Mempool Monitoring\n: Uses Yellowstone gRPC for instant detection of profitable opportunities.\n\n\nJito Bundle Support\n: Optionally submits transactions as bundles for priority inclusion and MEV extraction.\n\n\nDynamic Routing\n: Finds the most profitable arbitrage paths across supported DEXs.\n\n\nBlacklist Management\n: Configurable token and pool blacklisting for risk mitigation.\n\n\nPriority Fee Optimization\n: Dynamically adjusts fees for transaction prioritization.\n\n\n\n\nTechnical Infrastructure\n\n\n\n\nHigh-Performance Rust\n: Built for speed, reliability, and low latency.\n\n\nAsync Architecture\n: Non-blocking I/O for maximum throughput.\n\n\nMulti-RPC Support\n: Fallback and load-balanced RPC endpoints for reliability.\n\n\nComprehensive Logging\n: Detailed transaction, error, and performance monitoring.\n\n\nFlexible Configuration\n: Environment variables and config files for all key parameters.\n\n\nModular Design\n: Easily extendable to support new DEXs or strategies.\n\n\n\n\n📋 Prerequisites\n\n\nEnsure you have the following installed:\n\n\n\n\nRust\n: Install Rust using rustup:\n\ncurl --proto \n'\n=https\n'\n --tlsv1.2 -sSf https://sh.rustup.rs \n|\n sh\n\n\n\n\nSolana CLI\n: Install by running:\n\nsh -c \n\"\n$(\ncurl -sSfL https://release.solana.com/stable/install\n)\n\"\n\n\n\n\n\n\n🛠️ Installation\n\n\n\n\nClone the repository:\n\ngit clone https://github.com/BitFancy/solana-mev-bot-optimized.git\n\ncd\n solana-mev-bot-optimized\n\n\n\n\nBuild the project:\n\ncargo build\n\n\n\n\nConfigure your environment:\n\n\n\nCreate a \n.env\n file in the root directory with the following variables:\n\nPRIVATE_KEY\n=\n\n\nRPC_HTTP\n=\nhttps://api.mainnet-beta.solana.com\n\n\nYELLOWSTONE_GRPC_HTTP\n=\nhttps://grpc.frca.shyft.to\n\n\nYELLOWSTONE_GRPC_TOKEN\n=\nyour_token_here\n\n\nSLIPPAGE\n=\n100\n\n\nJITO_BLOCK_ENGINE_URL\n=\nhttps://ny.mainnet.block-engine.jito.wtf\n\n\nJITO_TIP_VALUE\n=\n0.0001\n\n\nJITO_PRIORITY_FEE\n=\n0.00000\n\n\nTIME_EXCEED\n=\n1\n\n\nTOKEN_AMOUNT\n=\n0.01\n\n\nCOUNTER\n=\n2\n\n\nIS_PROGRESSIVE_SELL\n=\nfalse\n\n\nMAX_DEV_BUY\n=\n1\n\n\nMIN_DEV_BUY\n=\n0.1\n\n\n#\n Add additional DEX or flashloan provider settings as needed\n\n\n\n\n\n\n\n\n\n\n🚀 Running the Bot\n\n\nTo start the MEV bot:\n\n\ncargo run\n\n\nThe bot will:\n\n\n\n\nInitialize the trading and monitoring environment\n\n\nConnect to Yellowstone gRPC for real-time mempool monitoring\n\n\nScan for atomic arbitrage opportunities using flashloans\n\n\nExecute arbitrage trades across multiple DEXs\n\n\nMonitor and log all activity for transparency and debugging\n\n\n\n\n🔧 Configuration Options\n\n\n\n\nSlippage Tolerance\n: Set max allowed slippage for trades\n\n\nFlashloan Providers\n: Configure which protocols to use for flashloans\n\n\nDEX Selection\n: Enable/disable specific DEXs for routing\n\n\nBlacklist\n: Exclude risky tokens or pools\n\n\nPriority Fees\n: Set or auto-tune for transaction speed\n\n\nCounter Limits\n: Max attempts per opportunity\n\n\nTimeouts\n: Set timeouts for opportunity detection and execution\n\n\n\n\n💱 Supported DEXs & Protocols\n\n\n\n\nRaydium\n\n\nOrca\n\n\nJupiter\n\n\nMeteora\n\n\nWhirlpool\n\n\nPump\n\n\nVertigo\n\n\nSolfi\n\n\n(Easily extendable to more)\n\n\n\n\n⚡ Flashloan & Atomicity\n\n\n\n\nAtomic Execution\n: All arbitrage legs are executed in a single transaction; if any fail, the whole transaction reverts.\n\n\nFlashloan Integration\n: Supports flashloans from supported protocols for zero-capital arbitrage.\n\n\nCustomizable Flashloan Routing\n: Choose which pools or protocols to source flashloans from.\n\n\n\n\n📊 Logging & Monitoring\n\n\n\n\nStructured Logging\n: All actions, errors, and profits are logged.\n\n\nPerformance Metrics\n: Track latency, success rates, and profitability.\n\n\nAlerting\n: Optional hooks for Discord/Telegram alerts on major events.\n\n\n\n\n🏗️ Architecture\n\n\n\n\nEngine\n: Core arbitrage and MEV logic\n\n\nDEX Integrations\n: Modular adapters for each supported DEX\n\n\nFlashloan Module\n: Handles atomic loan sourcing and repayment\n\n\nMonitoring\n: Real-time mempool and opportunity scanner\n\n\nConfig & Risk\n: Blacklist, limits, and environment management\n\n\n\n\n🧩 Extensibility\n\n\n\n\nAdd New DEXs\n: Implement a new adapter and register it in the config\n\n\nCustom Strategies\n: Plug in new arbitrage or MEV strategies\n\n\nFlexible Config\n: All logic is driven by config and environment variables\n\n\n\n\n🗝️ Key Dependencies\n\n\n\n\nanchor-client\n: Solana program interaction\n\n\nyellowstone-grpc-client\n: Real-time blockchain monitoring\n\n\nspl-token\n: Token program integration\n\n\njito-json-rpc-client\n: Jito bundle support\n\n\ntokio\n: Async runtime for high-performance operations\n\n\n\n\n⚠️\n Important Notes\n\n\n\n\nRisk Warning\n: MEV and flashloan trading involves significant financial risk\n\n\nCapital Requirements\n: Ensure sufficient SOL for fees and collateral (if needed)\n\n\nNetwork Conditions\n: Performance depends on Solana network conditions\n\n\nLegal Compliance\n: Ensure compliance with local regulations\n\n\nTesting\n: Always test with small amounts before full deployment\n\n\n\n\n🤝 Contributing\n\n\nContributions are welcome! Please ensure:\n\n\n\n\nCode follows Rust best practices\n\n\nAll tests pass\n\n\nDocumentation is updated\n\n\nSecurity considerations are addressed\n\n\n\n\n📄 License\n\n\nThis project is licensed under the MIT License - see the LICENSE file for details.\n\n\n📬 Contact & Support\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🔗 Related Projects\n\n\n\n\nJito Labs\n - MEV infrastructure\n\n\nYellowstone\n - Real-time Solana data\n\n\nRaydium\n - Solana DEX\n\n\nOrca\n - Solana DEX\n\n\nJupiter\n - Solana aggregator\n\n\nMeteora\n - Solana DEX\n\n\n\n\n\n\nDisclaimer\n: This software is for educational and research purposes. Use at your own risk. The authors are not responsible for any financial losses incurred through the use of this software.\n\n",
+  "external_assets": {
+    "domains": {
+      "sh.rustup.rs": {
+        "age_days": 3681
+      },
+      "release.solana.com": {
+        "age_days": 12002
+      },
+      "api.mainnet-beta.solana.com": {
+        "age_days": 12002
+      }
+    },
+    "solana_wallets": []
+  },
+  "owner_current_status": {
+    "account_status": "active",
+    "account_info": {
+      "login": "BitFancy",
+      "id": 138289666,
+      "node_id": "U_kgDOCD4iAg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138289666?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/BitFancy",
+      "html_url": "https://github.com/BitFancy",
+      "followers_url": "https://api.github.com/users/BitFancy/followers",
+      "following_url": "https://api.github.com/users/BitFancy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/BitFancy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/BitFancy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/BitFancy/subscriptions",
+      "organizations_url": "https://api.github.com/users/BitFancy/orgs",
+      "repos_url": "https://api.github.com/users/BitFancy/repos",
+      "events_url": "https://api.github.com/users/BitFancy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/BitFancy/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "name": "BitBanana",
+      "company": null,
+      "blog": "https://t.me/bitfancy",
+      "location": null,
+      "email": null,
+      "hireable": true,
+      "bio": "💼 Backend | Blockchain Engineer | Python | JavaScript | Solana | Trading Bot",
+      "twitter_username": null,
+      "public_repos": 105,
+      "public_gists": 0,
+      "followers": 190,
+      "following": 15,
+      "created_at": "2023-07-01T08:47:27Z",
+      "updated_at": "2026-01-05T11:11:26Z"
+    }
+  }
+}

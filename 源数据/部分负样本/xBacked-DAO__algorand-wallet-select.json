@@ -1,0 +1,993 @@
+{
+  "repo_full_name": "xBacked-DAO/algorand-wallet-select",
+  "repo_detail": {
+    "id": 414436584,
+    "node_id": "R_kgDOGLPM6A",
+    "name": "algorand-wallet-select",
+    "full_name": "xBacked-DAO/algorand-wallet-select",
+    "private": false,
+    "owner": {
+      "login": "xBacked-DAO",
+      "id": 88599228,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NTk5MjI4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88599228?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xBacked-DAO",
+      "html_url": "https://github.com/xBacked-DAO",
+      "followers_url": "https://api.github.com/users/xBacked-DAO/followers",
+      "following_url": "https://api.github.com/users/xBacked-DAO/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xBacked-DAO/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xBacked-DAO/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xBacked-DAO/subscriptions",
+      "organizations_url": "https://api.github.com/users/xBacked-DAO/orgs",
+      "repos_url": "https://api.github.com/users/xBacked-DAO/repos",
+      "events_url": "https://api.github.com/users/xBacked-DAO/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xBacked-DAO/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select",
+    "description": "A single Web3 / Algorand provider solution for all Wallets",
+    "fork": false,
+    "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select",
+    "forks_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/forks",
+    "keys_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/teams",
+    "hooks_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/hooks",
+    "issue_events_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/events",
+    "assignees_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/tags",
+    "blobs_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/languages",
+    "stargazers_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/stargazers",
+    "contributors_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contributors",
+    "subscribers_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/subscribers",
+    "subscription_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/subscription",
+    "commits_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/merges",
+    "archive_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/downloads",
+    "issues_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/deployments",
+    "created_at": "2021-10-07T02:28:52Z",
+    "updated_at": "2025-09-05T10:08:24Z",
+    "pushed_at": "2023-03-06T15:33:26Z",
+    "git_url": "git://github.com/xBacked-DAO/algorand-wallet-select.git",
+    "ssh_url": "git@github.com:xBacked-DAO/algorand-wallet-select.git",
+    "clone_url": "https://github.com/xBacked-DAO/algorand-wallet-select.git",
+    "svn_url": "https://github.com/xBacked-DAO/algorand-wallet-select",
+    "homepage": "",
+    "size": 6550,
+    "stargazers_count": 22,
+    "watchers_count": 22,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 6,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 17,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "algorand",
+      "blockchain",
+      "crypto",
+      "defi",
+      "react",
+      "web3"
+    ],
+    "visibility": "public",
+    "forks": 6,
+    "open_issues": 17,
+    "watchers": 22,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "xBacked-DAO",
+      "id": 88599228,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NTk5MjI4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88599228?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xBacked-DAO",
+      "html_url": "https://github.com/xBacked-DAO",
+      "followers_url": "https://api.github.com/users/xBacked-DAO/followers",
+      "following_url": "https://api.github.com/users/xBacked-DAO/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xBacked-DAO/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xBacked-DAO/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xBacked-DAO/subscriptions",
+      "organizations_url": "https://api.github.com/users/xBacked-DAO/orgs",
+      "repos_url": "https://api.github.com/users/xBacked-DAO/repos",
+      "events_url": "https://api.github.com/users/xBacked-DAO/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xBacked-DAO/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 6,
+    "subscribers_count": 5
+  },
+  "user_detail": {
+    "login": "xBacked-DAO",
+    "id": 88599228,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NTk5MjI4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/88599228?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xBacked-DAO",
+    "html_url": "https://github.com/xBacked-DAO",
+    "followers_url": "https://api.github.com/users/xBacked-DAO/followers",
+    "following_url": "https://api.github.com/users/xBacked-DAO/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xBacked-DAO/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xBacked-DAO/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xBacked-DAO/subscriptions",
+    "organizations_url": "https://api.github.com/users/xBacked-DAO/orgs",
+    "repos_url": "https://api.github.com/users/xBacked-DAO/repos",
+    "events_url": "https://api.github.com/users/xBacked-DAO/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xBacked-DAO/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "xBacked DAO",
+    "company": null,
+    "blog": "https://xbacked.io",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": "xbacked",
+    "public_repos": 12,
+    "public_gists": 0,
+    "followers": 14,
+    "following": 0,
+    "created_at": "2021-08-07T22:18:31Z",
+    "updated_at": "2025-04-25T14:25:19Z"
+  },
+  "readme": "# Algorand Wallet Select\n\n![](./assets/wallet-selector-demo.gif)\n\nA single Web3 / Algorand provider solution for all Wallets.\n\n## Introduction\n\nAlgorandWalletSelect is an easy-to-use library to help developers add support for multiple providers in their apps with a simple customizable configuration.\n\nBy default AlgorandWalletSelect Library supports injected providers like (AlgoSigner, MyAlgoWallet, etc) and WalletConnect (OfficialAlgorandWallet, etc). You can also easily configure the library to support more wallets.\n\n## Projects using AlgorandWalletSelect\n\nOpen a PR to add your project to the list!\n\n- [xBacked DAO](https://xbacked.io/)\n\n## Usage\n\n1. Install the AlgorandWalletSelect NPM package\n\n```bash\nnpm install --save @xbacked-dao/algorand-wallet-select\n# OR\nyarn add @xbacked-dao/algorand-wallet-select\n```\n\n2. Add algorand-wallet-select to your Dapp as follows\n\n```javascript\nimport { WalletSelector } from \"algorand-wallet-select\";\n\nconst returnWallet = async (data) => {\n  if (!!data) {\n    console.log(data.connector.check());\n    console.log(await data.connector.connect());\n    console.log(data.connector.provider);\n  }\n};\n\nconst Template = (args) => (\n  <div>\n    <h1 className=\"ws-text-lg\">Algorand Wallet Selector</h1>\n    <p>Built with 💚 by xBacked</p>\n    <WalletSelector returnWallet={returnWallet} />\n  </div>\n);\n```\n\n## Optional: Configuring wallets to display\n\nSimply do the following to only display the MyAlgo wallet. Valid `wallets` are `myalgowallet`, `algosigner` and `walletconnect`.\n```javascript\nconst Template = (args) => (\n  <div>\n    <h1 className=\"ws-text-lg\">Algorand Wallet Selector</h1>\n    <p>Built with 💚 by xBacked</p>\n    <WalletSelector\n      returnWallet={returnWallet}\n      wallets=[\"myalgowallet\"]\n    />\n  </div>\n);\n```\n\n## Adding a new provider\n\nDo you want to add your provider to Web3Modal?\n\nNote: This flow will be simplified in future updates. \n\nAll logic for supported providers lives inside `src/wallets/providers`.\n\n1. You must add a new connection definition to `src/wallets/providers` that matches the following signature (using MyAlgo as an example):\n```javascript\n// Import the package.\nimport MyAlgo from '@randlabs/myalgo-connect';\n\n// Default export defining the instance and the standard interface.\nconst ConnectToMyAlgo = () => {\n  // Construct any required state for the connector.\n  const myAlgoWallet = new MyAlgo();\n\n  // Must return the following object.\n  return {\n    // Instance defined above.\n    provider: myAlgoWallet,\n    // Asynchronous function wrapping the connection method for the provider.\n    connect: async () => await myAlgoWallet.connect(),\n    // An optional function to check connection status if possible.\n    check: () => (false),\n  };\n}\n\nexport default ConnectToMyAlgo;\n```\n2. Add new connector to the default export in `src/wallets/providers`:\n```javascript\nimport algosigner from \"./algosigner\";\nimport myalgowallet from \"./myalgowallet\";\nimport walletconnect from \"./walletconnect\";\n// Import here and export below.\nimport myNewWallet from \"./myNewWallet\";\n\nexport {\n  algosigner,\n  myalgowallet,\n  walletconnect,\n  myNewWallet,\n};\n```\n\n3. Add a `.png` or `.svg` as a logo for the added wallet connector to `src/wallets/logos`\n\n4. Depending on the type of connector, create an entry in either the `src/wallets/injected.js` file or the `src/wallets/providers.js` file.\n\n5. After testing that the logo is displaying correctly, and you are able to return the valid instance create a pull request to this repository!\n## License\n\nMIT\n",
+  "tree_structure": [
+    {
+      "name": ".DS_Store",
+      "path": ".DS_Store",
+      "sha": "eea417886b14c93ea79776f7ec1141eb17e75268",
+      "size": 6148,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.DS_Store?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.DS_Store",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/eea417886b14c93ea79776f7ec1141eb17e75268",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.DS_Store?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/eea417886b14c93ea79776f7ec1141eb17e75268",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.DS_Store"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "dbf2c3f2cdbd2e8dc0ac7b0e84e389e280df4542",
+      "size": 167,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/dbf2c3f2cdbd2e8dc0ac7b0e84e389e280df4542",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/dbf2c3f2cdbd2e8dc0ac7b0e84e389e280df4542",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": ".storybook",
+      "path": ".storybook",
+      "sha": "f52c6b537b4dcae88c07e9c4ceb5ec9b5d40cd30",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.storybook?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/.storybook",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/f52c6b537b4dcae88c07e9c4ceb5ec9b5d40cd30",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.storybook?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/f52c6b537b4dcae88c07e9c4ceb5ec9b5d40cd30",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/.storybook"
+      }
+    },
+    {
+      "name": "main.js",
+      "path": ".storybook/main.js",
+      "sha": "cd7475934a4adbeee4661c412491cedf2a835754",
+      "size": 238,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.storybook/main.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.storybook/main.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/cd7475934a4adbeee4661c412491cedf2a835754",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/.storybook/main.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.storybook/main.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/cd7475934a4adbeee4661c412491cedf2a835754",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.storybook/main.js"
+      }
+    },
+    {
+      "name": "preview.js",
+      "path": ".storybook/preview.js",
+      "sha": "48afd568ae900d86b72a12d95e3682d01943ec0f",
+      "size": 173,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.storybook/preview.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.storybook/preview.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/48afd568ae900d86b72a12d95e3682d01943ec0f",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/.storybook/preview.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/.storybook/preview.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/48afd568ae900d86b72a12d95e3682d01943ec0f",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/.storybook/preview.js"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "c983dc771461ee17af6cda203092ffdc5b949050",
+      "size": 1067,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/c983dc771461ee17af6cda203092ffdc5b949050",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/c983dc771461ee17af6cda203092ffdc5b949050",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "1579da368dbf930e41204566d99e3ccf9aa4e632",
+      "size": 3537,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/README.md?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/1579da368dbf930e41204566d99e3ccf9aa4e632",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/1579da368dbf930e41204566d99e3ccf9aa4e632",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/README.md"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "assets",
+      "sha": "5eb4356c72ddeb68dd1da7da781360f2be91bc20",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/assets?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/assets",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/5eb4356c72ddeb68dd1da7da781360f2be91bc20",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/assets?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/5eb4356c72ddeb68dd1da7da781360f2be91bc20",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/assets"
+      }
+    },
+    {
+      "name": "wallet-selector-demo.gif",
+      "path": "assets/wallet-selector-demo.gif",
+      "sha": "bd0311cc18a04513e8215da9eb51667b5b353a07",
+      "size": 155346,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/assets/wallet-selector-demo.gif?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/assets/wallet-selector-demo.gif",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/bd0311cc18a04513e8215da9eb51667b5b353a07",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/assets/wallet-selector-demo.gif",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/assets/wallet-selector-demo.gif?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/bd0311cc18a04513e8215da9eb51667b5b353a07",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/assets/wallet-selector-demo.gif"
+      }
+    },
+    {
+      "name": "babel.config.js",
+      "path": "babel.config.js",
+      "sha": "e84d9c10b1183bfc1191ef76d30852c3e9491e39",
+      "size": 197,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/babel.config.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/babel.config.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/e84d9c10b1183bfc1191ef76d30852c3e9491e39",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/babel.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/babel.config.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/e84d9c10b1183bfc1191ef76d30852c3e9491e39",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/babel.config.js"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "798d7cbc6179f984bc7bd9a3aef8c8ed4e665735",
+      "size": 3803,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/package.json?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/package.json",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/798d7cbc6179f984bc7bd9a3aef8c8ed4e665735",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/package.json?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/798d7cbc6179f984bc7bd9a3aef8c8ed4e665735",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "postcss.config.js",
+      "sha": "80e2ffeae5426c0efa034c2c16588a8559dd6c37",
+      "size": 115,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/postcss.config.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/postcss.config.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/80e2ffeae5426c0efa034c2c16588a8559dd6c37",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/postcss.config.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/80e2ffeae5426c0efa034c2c16588a8559dd6c37",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/postcss.config.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "db646cfcb79e8545a8cfcf57e55d55f300a5506f",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/public",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/db646cfcb79e8545a8cfcf57e55d55f300a5506f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/db646cfcb79e8545a8cfcf57e55d55f300a5506f",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/public"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "public/index.html",
+      "sha": "da0f1cbc6ee90b8f8f02fda0b265e8f27377dfd6",
+      "size": 2694,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public/index.html?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/public/index.html",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/da0f1cbc6ee90b8f8f02fda0b265e8f27377dfd6",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/public/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public/index.html?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/da0f1cbc6ee90b8f8f02fda0b265e8f27377dfd6",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/public/index.html"
+      }
+    },
+    {
+      "name": "manifest.json",
+      "path": "public/manifest.json",
+      "sha": "96ed4379019ed5f9511bf4bb861a5d979404675e",
+      "size": 380,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public/manifest.json?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/public/manifest.json",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/96ed4379019ed5f9511bf4bb861a5d979404675e",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/public/manifest.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public/manifest.json?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/96ed4379019ed5f9511bf4bb861a5d979404675e",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/public/manifest.json"
+      }
+    },
+    {
+      "name": "robots.txt",
+      "path": "public/robots.txt",
+      "sha": "e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "size": 67,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public/robots.txt?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/public/robots.txt",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/public/robots.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/public/robots.txt?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/public/robots.txt"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "3d5e08e60622c2b86bdc022ce5f13d149f820846",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/3d5e08e60622c2b86bdc022ce5f13d149f820846",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/3d5e08e60622c2b86bdc022ce5f13d149f820846",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src"
+      }
+    },
+    {
+      "name": ".DS_Store",
+      "path": "src/.DS_Store",
+      "sha": "9a1da5d9c64e464f31eed3a1dac3428302d79c23",
+      "size": 6148,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/.DS_Store?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/.DS_Store",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/9a1da5d9c64e464f31eed3a1dac3428302d79c23",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/.DS_Store?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/9a1da5d9c64e464f31eed3a1dac3428302d79c23",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/.DS_Store"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/components",
+      "sha": "0a61e75592b4d679b0824d9f9a45e75b0f551d9a",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/components",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/0a61e75592b4d679b0824d9f9a45e75b0f551d9a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/0a61e75592b4d679b0824d9f9a45e75b0f551d9a",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/components"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "src/components/index.js",
+      "sha": "64a215ad926b94c67e2969d9c791a228ec5fa925",
+      "size": 108,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/index.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/index.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/64a215ad926b94c67e2969d9c791a228ec5fa925",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/components/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/index.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/64a215ad926b94c67e2969d9c791a228ec5fa925",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/index.js"
+      }
+    },
+    {
+      "name": "modal.js",
+      "path": "src/components/modal.js",
+      "sha": "a98175848fd43f8cf1539d52e119d6aac6b45af2",
+      "size": 3314,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/modal.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/modal.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/a98175848fd43f8cf1539d52e119d6aac6b45af2",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/components/modal.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/modal.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/a98175848fd43f8cf1539d52e119d6aac6b45af2",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/modal.js"
+      }
+    },
+    {
+      "name": "walletButton.js",
+      "path": "src/components/walletButton.js",
+      "sha": "1cdf2bef03dab353480dc130ab249d672fcca251",
+      "size": 584,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/walletButton.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/walletButton.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/1cdf2bef03dab353480dc130ab249d672fcca251",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/components/walletButton.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/walletButton.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/1cdf2bef03dab353480dc130ab249d672fcca251",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/walletButton.js"
+      }
+    },
+    {
+      "name": "walletSelector.js",
+      "path": "src/components/walletSelector.js",
+      "sha": "965ff0abe0a7d7644fa02b31ae0b60788df962cf",
+      "size": 1487,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/walletSelector.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/walletSelector.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/965ff0abe0a7d7644fa02b31ae0b60788df962cf",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/components/walletSelector.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/components/walletSelector.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/965ff0abe0a7d7644fa02b31ae0b60788df962cf",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/components/walletSelector.js"
+      }
+    },
+    {
+      "name": "context",
+      "path": "src/context",
+      "sha": "d8256540b9cddd3310cffa28e8a27294c9e9857d",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/context?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/context",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/d8256540b9cddd3310cffa28e8a27294c9e9857d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/context?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/d8256540b9cddd3310cffa28e8a27294c9e9857d",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/context"
+      }
+    },
+    {
+      "name": "ProvideWallet.js",
+      "path": "src/context/ProvideWallet.js",
+      "sha": "6482e95aa1fa680b9f5f046798e98c588911fa99",
+      "size": 417,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/context/ProvideWallet.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/context/ProvideWallet.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/6482e95aa1fa680b9f5f046798e98c588911fa99",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/context/ProvideWallet.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/context/ProvideWallet.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/6482e95aa1fa680b9f5f046798e98c588911fa99",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/context/ProvideWallet.js"
+      }
+    },
+    {
+      "name": "useProvideWallet.js",
+      "path": "src/context/useProvideWallet.js",
+      "sha": "989ebeb936b98154243c6d365eaa339497b61299",
+      "size": 995,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/context/useProvideWallet.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/context/useProvideWallet.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/989ebeb936b98154243c6d365eaa339497b61299",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/context/useProvideWallet.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/context/useProvideWallet.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/989ebeb936b98154243c6d365eaa339497b61299",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/context/useProvideWallet.js"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "src/index.js",
+      "sha": "f3625c100a6596dd4c23bac89a48a9c6db10aa8d",
+      "size": 76,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/index.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/index.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/f3625c100a6596dd4c23bac89a48a9c6db10aa8d",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/index.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/f3625c100a6596dd4c23bac89a48a9c6db10aa8d",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/index.js"
+      }
+    },
+    {
+      "name": "stories",
+      "path": "src/stories",
+      "sha": "a376c3ac352a6d005da5d498436dfbd287defb52",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/stories?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/stories",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/a376c3ac352a6d005da5d498436dfbd287defb52",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/stories?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/a376c3ac352a6d005da5d498436dfbd287defb52",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/stories"
+      }
+    },
+    {
+      "name": "selector.stories.jsx",
+      "path": "src/stories/selector.stories.jsx",
+      "sha": "940e947742cef7ae4739be44ca186068d71abfcb",
+      "size": 1357,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/stories/selector.stories.jsx?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/stories/selector.stories.jsx",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/940e947742cef7ae4739be44ca186068d71abfcb",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/stories/selector.stories.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/stories/selector.stories.jsx?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/940e947742cef7ae4739be44ca186068d71abfcb",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/stories/selector.stories.jsx"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "src/styles",
+      "sha": "80b2c751b8aa0dda40b9e4691ee29d2db97f06d6",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/styles?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/styles",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/80b2c751b8aa0dda40b9e4691ee29d2db97f06d6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/styles?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/80b2c751b8aa0dda40b9e4691ee29d2db97f06d6",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/styles"
+      }
+    },
+    {
+      "name": "tailwind.css",
+      "path": "src/styles/tailwind.css",
+      "sha": "ae5b0c0607bea7b8dae552a11a21aeb7028c15b9",
+      "size": 176,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/styles/tailwind.css?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/styles/tailwind.css",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/ae5b0c0607bea7b8dae552a11a21aeb7028c15b9",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/styles/tailwind.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/styles/tailwind.css?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/ae5b0c0607bea7b8dae552a11a21aeb7028c15b9",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/styles/tailwind.css"
+      }
+    },
+    {
+      "name": "wallets",
+      "path": "src/wallets",
+      "sha": "10465edef51bddd34bb267acaa801406c988b9d4",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/wallets",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/10465edef51bddd34bb267acaa801406c988b9d4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/10465edef51bddd34bb267acaa801406c988b9d4",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/wallets"
+      }
+    },
+    {
+      "name": ".DS_Store",
+      "path": "src/wallets/.DS_Store",
+      "sha": "3b9974adbb08f128025bf5d2eec400b4bc966acb",
+      "size": 6148,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/.DS_Store?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/.DS_Store",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/3b9974adbb08f128025bf5d2eec400b4bc966acb",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/.DS_Store?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/3b9974adbb08f128025bf5d2eec400b4bc966acb",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/.DS_Store"
+      }
+    },
+    {
+      "name": "index.js",
+      "path": "src/wallets/index.js",
+      "sha": "408275bf075d8b9dac7db5f18c968343f69d2885",
+      "size": 119,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/index.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/index.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/408275bf075d8b9dac7db5f18c968343f69d2885",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/index.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/index.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/408275bf075d8b9dac7db5f18c968343f69d2885",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/index.js"
+      }
+    },
+    {
+      "name": "injected.js",
+      "path": "src/wallets/injected.js",
+      "sha": "29cd09bb631002cae09d1428c697544098dca88e",
+      "size": 322,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/injected.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/injected.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/29cd09bb631002cae09d1428c697544098dca88e",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/injected.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/injected.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/29cd09bb631002cae09d1428c697544098dca88e",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/injected.js"
+      }
+    },
+    {
+      "name": "logos",
+      "path": "src/wallets/logos",
+      "sha": "73ebb93054da916d80f89d8ec89d4e3d72dad5d8",
+      "size": 0,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/wallets/logos",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/73ebb93054da916d80f89d8ec89d4e3d72dad5d8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/trees/73ebb93054da916d80f89d8ec89d4e3d72dad5d8",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/tree/master/src/wallets/logos"
+      }
+    },
+    {
+      "name": "algo.png",
+      "path": "src/wallets/logos/algo.png",
+      "sha": "28e33ae0a7112e68fa9a2f492fb06f9f732c041d",
+      "size": 7131,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/algo.png?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/algo.png",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/28e33ae0a7112e68fa9a2f492fb06f9f732c041d",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/algo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/algo.png?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/28e33ae0a7112e68fa9a2f492fb06f9f732c041d",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/algo.png"
+      }
+    },
+    {
+      "name": "algosigner.svg",
+      "path": "src/wallets/logos/algosigner.svg",
+      "sha": "98ee96cf44afcccdbea42f15bd0b01da8501a552",
+      "size": 1507,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/algosigner.svg?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/algosigner.svg",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/98ee96cf44afcccdbea42f15bd0b01da8501a552",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/algosigner.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/algosigner.svg?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/98ee96cf44afcccdbea42f15bd0b01da8501a552",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/algosigner.svg"
+      }
+    },
+    {
+      "name": "defly-logo.png",
+      "path": "src/wallets/logos/defly-logo.png",
+      "sha": "34272b85eeb2c77f37717517afa0d8d2d7c1d2db",
+      "size": 24722,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/defly-logo.png?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/defly-logo.png",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/34272b85eeb2c77f37717517afa0d8d2d7c1d2db",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/defly-logo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/defly-logo.png?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/34272b85eeb2c77f37717517afa0d8d2d7c1d2db",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/defly-logo.png"
+      }
+    },
+    {
+      "name": "exodus-logo.png",
+      "path": "src/wallets/logos/exodus-logo.png",
+      "sha": "f97c6b5b51ce5dbbee8aedd26ae343a52a9e4b56",
+      "size": 42984,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/exodus-logo.png?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/exodus-logo.png",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/f97c6b5b51ce5dbbee8aedd26ae343a52a9e4b56",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/exodus-logo.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/exodus-logo.png?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/f97c6b5b51ce5dbbee8aedd26ae343a52a9e4b56",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/exodus-logo.png"
+      }
+    },
+    {
+      "name": "exodus-logo.svg",
+      "path": "src/wallets/logos/exodus-logo.svg",
+      "sha": "2973a709b06f32b18bed04d28acbe6542b50581c",
+      "size": 2379,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/exodus-logo.svg?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/exodus-logo.svg",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/2973a709b06f32b18bed04d28acbe6542b50581c",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/exodus-logo.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/exodus-logo.svg?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/2973a709b06f32b18bed04d28acbe6542b50581c",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/exodus-logo.svg"
+      }
+    },
+    {
+      "name": "fireblocks-logo.svg",
+      "path": "src/wallets/logos/fireblocks-logo.svg",
+      "sha": "4a53c0011d2822868b25ea4fa3146db82beec54e",
+      "size": 758,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/fireblocks-logo.svg?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/fireblocks-logo.svg",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/4a53c0011d2822868b25ea4fa3146db82beec54e",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/fireblocks-logo.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/fireblocks-logo.svg?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/4a53c0011d2822868b25ea4fa3146db82beec54e",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/fireblocks-logo.svg"
+      }
+    },
+    {
+      "name": "myalgowallet.png",
+      "path": "src/wallets/logos/myalgowallet.png",
+      "sha": "d3007835339d18686119d5a501ea4c051839738d",
+      "size": 2799,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/myalgowallet.png?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/myalgowallet.png",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/d3007835339d18686119d5a501ea4c051839738d",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/myalgowallet.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/myalgowallet.png?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/d3007835339d18686119d5a501ea4c051839738d",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/myalgowallet.png"
+      }
+    },
+    {
+      "name": "pera.png",
+      "path": "src/wallets/logos/pera.png",
+      "sha": "9f47120b3b29dffc987d478ecce34acec71c0cac",
+      "size": 26302,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/pera.png?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/pera.png",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/9f47120b3b29dffc987d478ecce34acec71c0cac",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/pera.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/pera.png?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/9f47120b3b29dffc987d478ecce34acec71c0cac",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/pera.png"
+      }
+    },
+    {
+      "name": "walletconnect-circle.svg",
+      "path": "src/wallets/logos/walletconnect-circle.svg",
+      "sha": "97f4bd7705e712393e2c91c24553b6f57e7f89ef",
+      "size": 1950,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/walletconnect-circle.svg?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/walletconnect-circle.svg",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/97f4bd7705e712393e2c91c24553b6f57e7f89ef",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/walletconnect-circle.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/walletconnect-circle.svg?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/97f4bd7705e712393e2c91c24553b6f57e7f89ef",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/walletconnect-circle.svg"
+      }
+    },
+    {
+      "name": "walletconnect.png",
+      "path": "src/wallets/logos/walletconnect.png",
+      "sha": "c7437d22b5a5732d2c3bc597d39250f057a2c887",
+      "size": 188527,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/walletconnect.png?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/walletconnect.png",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/c7437d22b5a5732d2c3bc597d39250f057a2c887",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/walletconnect.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/walletconnect.png?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/c7437d22b5a5732d2c3bc597d39250f057a2c887",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/walletconnect.png"
+      }
+    },
+    {
+      "name": "walletconnect.svg",
+      "path": "src/wallets/logos/walletconnect.svg",
+      "sha": "59b902e3c1e73eedd475f654668c2adebdf2b6b9",
+      "size": 1534,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/walletconnect.svg?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/walletconnect.svg",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/59b902e3c1e73eedd475f654668c2adebdf2b6b9",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/logos/walletconnect.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/logos/walletconnect.svg?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/59b902e3c1e73eedd475f654668c2adebdf2b6b9",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/logos/walletconnect.svg"
+      }
+    },
+    {
+      "name": "providers.js",
+      "path": "src/wallets/providers.js",
+      "sha": "44de7a16b92f45dc9c3f15828b66319fdd9e6c2e",
+      "size": 833,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/providers.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/providers.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/44de7a16b92f45dc9c3f15828b66319fdd9e6c2e",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/src/wallets/providers.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/src/wallets/providers.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/44de7a16b92f45dc9c3f15828b66319fdd9e6c2e",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/src/wallets/providers.js"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "tailwind.config.js",
+      "sha": "f202ca00e577d2934885c8a447d611934a01f610",
+      "size": 703,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/tailwind.config.js?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/f202ca00e577d2934885c8a447d611934a01f610",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/tailwind.config.js?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/f202ca00e577d2934885c8a447d611934a01f610",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/tailwind.config.js"
+      }
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "sha": "b87adbe0a04c73f94ea5cece561e2b9927395227",
+      "size": 702795,
+      "url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/yarn.lock?ref=master",
+      "html_url": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/yarn.lock",
+      "git_url": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/b87adbe0a04c73f94ea5cece561e2b9927395227",
+      "download_url": "https://raw.githubusercontent.com/xBacked-DAO/algorand-wallet-select/master/yarn.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/contents/yarn.lock?ref=master",
+        "git": "https://api.github.com/repos/xBacked-DAO/algorand-wallet-select/git/blobs/b87adbe0a04c73f94ea5cece561e2b9927395227",
+        "html": "https://github.com/xBacked-DAO/algorand-wallet-select/blob/master/yarn.lock"
+      }
+    }
+  ],
+  "external_domains": {
+    "xbacked.io": 1728
+  },
+  "collected_at": "2026-03-17T11:55:17.864985"
+}

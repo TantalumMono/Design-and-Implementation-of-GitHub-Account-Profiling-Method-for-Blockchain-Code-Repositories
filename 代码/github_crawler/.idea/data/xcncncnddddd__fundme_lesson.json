@@ -1,0 +1,643 @@
+{
+  "repo_full_name": "xcncncnddddd/fundme_lesson",
+  "repo_detail": {
+    "id": 1126240397,
+    "node_id": "R_kgDOQyEQjQ",
+    "name": "fundme_lesson",
+    "full_name": "xcncncnddddd/fundme_lesson",
+    "private": false,
+    "owner": {
+      "login": "xcncncnddddd",
+      "id": 146499729,
+      "node_id": "U_kgDOCLtokQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146499729?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xcncncnddddd",
+      "html_url": "https://github.com/xcncncnddddd",
+      "followers_url": "https://api.github.com/users/xcncncnddddd/followers",
+      "following_url": "https://api.github.com/users/xcncncnddddd/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xcncncnddddd/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xcncncnddddd/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xcncncnddddd/subscriptions",
+      "organizations_url": "https://api.github.com/users/xcncncnddddd/orgs",
+      "repos_url": "https://api.github.com/users/xcncncnddddd/repos",
+      "events_url": "https://api.github.com/users/xcncncnddddd/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xcncncnddddd/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/xcncncnddddd/fundme_lesson",
+    "description": "A decentralized crowdfunding protocol built with Foundry & Solidity",
+    "fork": false,
+    "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson",
+    "forks_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/forks",
+    "keys_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/teams",
+    "hooks_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/hooks",
+    "issue_events_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/events",
+    "assignees_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/tags",
+    "blobs_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/languages",
+    "stargazers_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/stargazers",
+    "contributors_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contributors",
+    "subscribers_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/subscribers",
+    "subscription_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/subscription",
+    "commits_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/merges",
+    "archive_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/downloads",
+    "issues_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/labels{/name}",
+    "releases_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/deployments",
+    "created_at": "2026-01-01T13:20:07Z",
+    "updated_at": "2026-01-07T13:39:49Z",
+    "pushed_at": "2026-01-01T13:22:31Z",
+    "git_url": "git://github.com/xcncncnddddd/fundme_lesson.git",
+    "ssh_url": "git@github.com:xcncncnddddd/fundme_lesson.git",
+    "clone_url": "https://github.com/xcncncnddddd/fundme_lesson.git",
+    "svn_url": "https://github.com/xcncncnddddd/fundme_lesson",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "language": "Solidity",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "defi",
+      "fou",
+      "smart-contracts",
+      "solidity"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "xcncncnddddd",
+    "id": 146499729,
+    "node_id": "U_kgDOCLtokQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/146499729?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xcncncnddddd",
+    "html_url": "https://github.com/xcncncnddddd",
+    "followers_url": "https://api.github.com/users/xcncncnddddd/followers",
+    "following_url": "https://api.github.com/users/xcncncnddddd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xcncncnddddd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xcncncnddddd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xcncncnddddd/subscriptions",
+    "organizations_url": "https://api.github.com/users/xcncncnddddd/orgs",
+    "repos_url": "https://api.github.com/users/xcncncnddddd/repos",
+    "events_url": "https://api.github.com/users/xcncncnddddd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xcncncnddddd/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": null,
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 1,
+    "public_gists": 1,
+    "followers": 0,
+    "following": 2,
+    "created_at": "2023-09-30T02:02:05Z",
+    "updated_at": "2026-03-03T15:33:11Z"
+  },
+  "readme": "## Foundry\n\n**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**\n\nFoundry consists of:\n\n- **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).\n- **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.\n- **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.\n- **Chisel**: Fast, utilitarian, and verbose solidity REPL.\n\n## Documentation\n\nhttps://book.getfoundry.sh/\n\n## Usage\n\n### Build\n\n```shell\n$ forge build\n```\n\n### Test\n\n```shell\n$ forge test\n```\n\n### Format\n\n```shell\n$ forge fmt\n```\n\n### Gas Snapshots\n\n```shell\n$ forge snapshot\n```\n\n### Anvil\n\n```shell\n$ anvil\n```\n\n### Deploy\n\n```shell\n$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>\n```\n\n### Cast\n\n```shell\n$ cast <subcommand>\n```\n\n### Help\n\n```shell\n$ forge --help\n$ anvil --help\n$ cast --help\n```\n",
+  "tree_structure": [
+    {
+      "name": ".gas-snapshot",
+      "path": ".gas-snapshot",
+      "sha": "e7c4585f435a82ace112d6b21d1335ed997c131c",
+      "size": 539,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.gas-snapshot?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.gas-snapshot",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/e7c4585f435a82ace112d6b21d1335ed997c131c",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/.gas-snapshot",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.gas-snapshot?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/e7c4585f435a82ace112d6b21d1335ed997c131c",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.gas-snapshot"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "213b48898773bd0035455c55c2abeeeb48e92085",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.github?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/.github",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/213b48898773bd0035455c55c2abeeeb48e92085",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/213b48898773bd0035455c55c2abeeeb48e92085",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/.github"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "e0f044407a0920a26dd2ec90186fdad34008a33c",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.github/workflows?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/.github/workflows",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/e0f044407a0920a26dd2ec90186fdad34008a33c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.github/workflows?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/e0f044407a0920a26dd2ec90186fdad34008a33c",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/.github/workflows"
+      }
+    },
+    {
+      "name": "test.yml",
+      "path": ".github/workflows/test.yml",
+      "sha": "b79c8d4ffd1b29b1bb47a3d543ac5b8aad3f9d25",
+      "size": 663,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.github/workflows/test.yml?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.github/workflows/test.yml",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/b79c8d4ffd1b29b1bb47a3d543ac5b8aad3f9d25",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/.github/workflows/test.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.github/workflows/test.yml?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/b79c8d4ffd1b29b1bb47a3d543ac5b8aad3f9d25",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.github/workflows/test.yml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "85198aaa55b84c0390b360ea2ba730087a9fcf49",
+      "size": 156,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/85198aaa55b84c0390b360ea2ba730087a9fcf49",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/85198aaa55b84c0390b360ea2ba730087a9fcf49",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".gitmodules",
+      "path": ".gitmodules",
+      "sha": "733a71d721d8b55c87cf8e1237f7af042e54810d",
+      "size": 362,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.gitmodules?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.gitmodules",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/733a71d721d8b55c87cf8e1237f7af042e54810d",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/.gitmodules",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/.gitmodules?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/733a71d721d8b55c87cf8e1237f7af042e54810d",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/.gitmodules"
+      }
+    },
+    {
+      "name": "Makefile",
+      "path": "Makefile",
+      "sha": "6d500f9212ad8333c136b26b431dd9a20c5f3b0d",
+      "size": 328,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/Makefile?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/Makefile",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/6d500f9212ad8333c136b26b431dd9a20c5f3b0d",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/Makefile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/Makefile?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/6d500f9212ad8333c136b26b431dd9a20c5f3b0d",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/Makefile"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "8817d6ab7b2a90c4627d153da41cd2c5f892b949",
+      "size": 972,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/README.md?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/8817d6ab7b2a90c4627d153da41cd2c5f892b949",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/8817d6ab7b2a90c4627d153da41cd2c5f892b949",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/README.md"
+      }
+    },
+    {
+      "name": "foundry.lock",
+      "path": "foundry.lock",
+      "sha": "9b5cf6a63e1f013fb78001a0c5fc661a29feaa55",
+      "size": 355,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/foundry.lock?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/foundry.lock",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/9b5cf6a63e1f013fb78001a0c5fc661a29feaa55",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/foundry.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/foundry.lock?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/9b5cf6a63e1f013fb78001a0c5fc661a29feaa55",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/foundry.lock"
+      }
+    },
+    {
+      "name": "foundry.toml",
+      "path": "foundry.toml",
+      "sha": "d3df807276b5424029ca3241ea1b4036654dbd7a",
+      "size": 250,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/foundry.toml?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/foundry.toml",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/d3df807276b5424029ca3241ea1b4036654dbd7a",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/foundry.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/foundry.toml?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/d3df807276b5424029ca3241ea1b4036654dbd7a",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/foundry.toml"
+      }
+    },
+    {
+      "name": "lib",
+      "path": "lib",
+      "sha": "bdeb915294925ef9e2cdced0e4c6a990cdc42948",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/lib",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/bdeb915294925ef9e2cdced0e4c6a990cdc42948",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/bdeb915294925ef9e2cdced0e4c6a990cdc42948",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/lib"
+      }
+    },
+    {
+      "name": "chainlink-brownie-contracts",
+      "path": "lib/chainlink-brownie-contracts",
+      "sha": "67887b84d3add02a25ef4145fc014e2f549509da",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib/chainlink-brownie-contracts?ref=main",
+      "html_url": "https://github.com/smartcontractkit/chainlink-brownie-contracts/tree/67887b84d3add02a25ef4145fc014e2f549509da",
+      "git_url": "https://api.github.com/repos/smartcontractkit/chainlink-brownie-contracts/git/trees/67887b84d3add02a25ef4145fc014e2f549509da",
+      "download_url": null,
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib/chainlink-brownie-contracts?ref=main",
+        "git": "https://api.github.com/repos/smartcontractkit/chainlink-brownie-contracts/git/trees/67887b84d3add02a25ef4145fc014e2f549509da",
+        "html": "https://github.com/smartcontractkit/chainlink-brownie-contracts/tree/67887b84d3add02a25ef4145fc014e2f549509da"
+      }
+    },
+    {
+      "name": "forge-std",
+      "path": "lib/forge-std",
+      "sha": "26048ab55c64519ce21e032fdb49df1d5a2a7eb4",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib/forge-std?ref=main",
+      "html_url": "https://github.com/foundry-rs/forge-std/tree/26048ab55c64519ce21e032fdb49df1d5a2a7eb4",
+      "git_url": "https://api.github.com/repos/foundry-rs/forge-std/git/trees/26048ab55c64519ce21e032fdb49df1d5a2a7eb4",
+      "download_url": null,
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib/forge-std?ref=main",
+        "git": "https://api.github.com/repos/foundry-rs/forge-std/git/trees/26048ab55c64519ce21e032fdb49df1d5a2a7eb4",
+        "html": "https://github.com/foundry-rs/forge-std/tree/26048ab55c64519ce21e032fdb49df1d5a2a7eb4"
+      }
+    },
+    {
+      "name": "foundry-devops",
+      "path": "lib/foundry-devops",
+      "sha": "efff097a87e70c3d15661c9f2a2daeae0b33d5d5",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib/foundry-devops?ref=main",
+      "html_url": "https://github.com/Cyfrin/foundry-devops/tree/efff097a87e70c3d15661c9f2a2daeae0b33d5d5",
+      "git_url": "https://api.github.com/repos/Cyfrin/foundry-devops/git/trees/efff097a87e70c3d15661c9f2a2daeae0b33d5d5",
+      "download_url": null,
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/lib/foundry-devops?ref=main",
+        "git": "https://api.github.com/repos/Cyfrin/foundry-devops/git/trees/efff097a87e70c3d15661c9f2a2daeae0b33d5d5",
+        "html": "https://github.com/Cyfrin/foundry-devops/tree/efff097a87e70c3d15661c9f2a2daeae0b33d5d5"
+      }
+    },
+    {
+      "name": "script",
+      "path": "script",
+      "sha": "4f98d2bda95883e060cb073f91ffaebb911e6d29",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/script",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/4f98d2bda95883e060cb073f91ffaebb911e6d29",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/4f98d2bda95883e060cb073f91ffaebb911e6d29",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/script"
+      }
+    },
+    {
+      "name": ".DS_Store",
+      "path": "script/.DS_Store",
+      "sha": "5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "size": 6148,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/.DS_Store?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/.DS_Store",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/script/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/.DS_Store?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/.DS_Store"
+      }
+    },
+    {
+      "name": "DeployFundMe.s.sol",
+      "path": "script/DeployFundMe.s.sol",
+      "sha": "89941e8bfffef7f01ed515c314c9d8b90a14dda8",
+      "size": 1354,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/DeployFundMe.s.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/DeployFundMe.s.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/89941e8bfffef7f01ed515c314c9d8b90a14dda8",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/script/DeployFundMe.s.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/DeployFundMe.s.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/89941e8bfffef7f01ed515c314c9d8b90a14dda8",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/DeployFundMe.s.sol"
+      }
+    },
+    {
+      "name": "HelperConfig.s.sol",
+      "path": "script/HelperConfig.s.sol",
+      "sha": "d65c53d418dbc8741bd61194cd60239a09c856ff",
+      "size": 1863,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/HelperConfig.s.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/HelperConfig.s.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/d65c53d418dbc8741bd61194cd60239a09c856ff",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/script/HelperConfig.s.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/HelperConfig.s.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/d65c53d418dbc8741bd61194cd60239a09c856ff",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/HelperConfig.s.sol"
+      }
+    },
+    {
+      "name": "Interactions.s.sol",
+      "path": "script/Interactions.s.sol",
+      "sha": "99c0c9cfd7051dc01b151c338b6a2a688cf72c4b",
+      "size": 1207,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/Interactions.s.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/Interactions.s.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/99c0c9cfd7051dc01b151c338b6a2a688cf72c4b",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/script/Interactions.s.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/script/Interactions.s.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/99c0c9cfd7051dc01b151c338b6a2a688cf72c4b",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/script/Interactions.s.sol"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "9f69c07af01a2dfdd94c478802e397d44812dda7",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/src",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/9f69c07af01a2dfdd94c478802e397d44812dda7",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/9f69c07af01a2dfdd94c478802e397d44812dda7",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/src"
+      }
+    },
+    {
+      "name": ".DS_Store",
+      "path": "src/.DS_Store",
+      "sha": "5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "size": 6148,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src/.DS_Store?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/src/.DS_Store",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/src/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src/.DS_Store?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/src/.DS_Store"
+      }
+    },
+    {
+      "name": "FundMe.sol",
+      "path": "src/FundMe.sol",
+      "sha": "31cc709e26312961e79186a0a3d8407d81cc5f89",
+      "size": 3304,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src/FundMe.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/src/FundMe.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/31cc709e26312961e79186a0a3d8407d81cc5f89",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/src/FundMe.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src/FundMe.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/31cc709e26312961e79186a0a3d8407d81cc5f89",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/src/FundMe.sol"
+      }
+    },
+    {
+      "name": "PriceConverter.sol",
+      "path": "src/PriceConverter.sol",
+      "sha": "a9147b4829da6b11808869918f4950a1a39ba6cf",
+      "size": 1209,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src/PriceConverter.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/src/PriceConverter.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/a9147b4829da6b11808869918f4950a1a39ba6cf",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/src/PriceConverter.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/src/PriceConverter.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/a9147b4829da6b11808869918f4950a1a39ba6cf",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/src/PriceConverter.sol"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "329ba084b94a34118eaacffa97a4f480972fcdcc",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/test",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/329ba084b94a34118eaacffa97a4f480972fcdcc",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/329ba084b94a34118eaacffa97a4f480972fcdcc",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/test"
+      }
+    },
+    {
+      "name": ".DS_Store",
+      "path": "test/.DS_Store",
+      "sha": "5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "size": 6148,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/.DS_Store?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/.DS_Store",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/test/.DS_Store",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/.DS_Store?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/5008ddfcf53c02e82d7eee2e57c38e5672ef89f6",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/.DS_Store"
+      }
+    },
+    {
+      "name": "MockV3Aggregator.sol",
+      "path": "test/MockV3Aggregator.sol",
+      "sha": "57f4d0313c75daf65ca1686a2a97b592c13e029a",
+      "size": 1240,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/MockV3Aggregator.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/MockV3Aggregator.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/57f4d0313c75daf65ca1686a2a97b592c13e029a",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/test/MockV3Aggregator.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/MockV3Aggregator.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/57f4d0313c75daf65ca1686a2a97b592c13e029a",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/MockV3Aggregator.sol"
+      }
+    },
+    {
+      "name": "integration",
+      "path": "test/integration",
+      "sha": "d6d25282da9c098e24a9ddd1ac3c7dbf8d0a4ac8",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/integration?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/test/integration",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/d6d25282da9c098e24a9ddd1ac3c7dbf8d0a4ac8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/integration?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/d6d25282da9c098e24a9ddd1ac3c7dbf8d0a4ac8",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/test/integration"
+      }
+    },
+    {
+      "name": "InteractionsTest.t.sol",
+      "path": "test/integration/InteractionsTest.t.sol",
+      "sha": "2a45e440801bf1a4bd0a943fa048e1a7ac58af48",
+      "size": 1464,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/integration/InteractionsTest.t.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/integration/InteractionsTest.t.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/2a45e440801bf1a4bd0a943fa048e1a7ac58af48",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/test/integration/InteractionsTest.t.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/integration/InteractionsTest.t.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/2a45e440801bf1a4bd0a943fa048e1a7ac58af48",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/integration/InteractionsTest.t.sol"
+      }
+    },
+    {
+      "name": "unit",
+      "path": "test/unit",
+      "sha": "878e37524007e9ebca27218a6cbc8e23e6205b67",
+      "size": 0,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/unit?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/test/unit",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/878e37524007e9ebca27218a6cbc8e23e6205b67",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/unit?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/trees/878e37524007e9ebca27218a6cbc8e23e6205b67",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/tree/main/test/unit"
+      }
+    },
+    {
+      "name": "FundMeTest.t.sol",
+      "path": "test/unit/FundMeTest.t.sol",
+      "sha": "c77f91f359bbbda8c1e68e4d22b5306acfda4c80",
+      "size": 5256,
+      "url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/unit/FundMeTest.t.sol?ref=main",
+      "html_url": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/unit/FundMeTest.t.sol",
+      "git_url": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/c77f91f359bbbda8c1e68e4d22b5306acfda4c80",
+      "download_url": "https://raw.githubusercontent.com/xcncncnddddd/fundme_lesson/main/test/unit/FundMeTest.t.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/contents/test/unit/FundMeTest.t.sol?ref=main",
+        "git": "https://api.github.com/repos/xcncncnddddd/fundme_lesson/git/blobs/c77f91f359bbbda8c1e68e4d22b5306acfda4c80",
+        "html": "https://github.com/xcncncnddddd/fundme_lesson/blob/main/test/unit/FundMeTest.t.sol"
+      }
+    }
+  ],
+  "external_domains": {
+    "book.getfoundry.sh": 1449
+  },
+  "collected_at": "2026-03-18T19:01:20.875068"
+}

@@ -1,0 +1,1003 @@
+{
+  "repo_full_name": "yuichiroaoki/typescript-hardhat",
+  "repo_detail": {
+    "id": 384071293,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzODQwNzEyOTM=",
+    "name": "typescript-hardhat",
+    "full_name": "yuichiroaoki/typescript-hardhat",
+    "private": false,
+    "owner": {
+      "login": "yuichiroaoki",
+      "id": 45054071,
+      "node_id": "MDQ6VXNlcjQ1MDU0MDcx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45054071?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yuichiroaoki",
+      "html_url": "https://github.com/yuichiroaoki",
+      "followers_url": "https://api.github.com/users/yuichiroaoki/followers",
+      "following_url": "https://api.github.com/users/yuichiroaoki/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yuichiroaoki/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yuichiroaoki/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yuichiroaoki/subscriptions",
+      "organizations_url": "https://api.github.com/users/yuichiroaoki/orgs",
+      "repos_url": "https://api.github.com/users/yuichiroaoki/repos",
+      "events_url": "https://api.github.com/users/yuichiroaoki/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yuichiroaoki/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/yuichiroaoki/typescript-hardhat",
+    "description": "Template for smart contract development using Typescript & Hardhat",
+    "fork": false,
+    "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat",
+    "forks_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/forks",
+    "keys_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/teams",
+    "hooks_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/hooks",
+    "issue_events_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/events",
+    "assignees_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/tags",
+    "blobs_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/languages",
+    "stargazers_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/stargazers",
+    "contributors_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contributors",
+    "subscribers_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/subscribers",
+    "subscription_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/subscription",
+    "commits_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/merges",
+    "archive_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/downloads",
+    "issues_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/labels{/name}",
+    "releases_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/deployments",
+    "created_at": "2021-07-08T09:27:50Z",
+    "updated_at": "2026-03-18T11:13:21Z",
+    "pushed_at": "2023-10-16T15:58:01Z",
+    "git_url": "git://github.com/yuichiroaoki/typescript-hardhat.git",
+    "ssh_url": "git@github.com:yuichiroaoki/typescript-hardhat.git",
+    "clone_url": "https://github.com/yuichiroaoki/typescript-hardhat.git",
+    "svn_url": "https://github.com/yuichiroaoki/typescript-hardhat",
+    "homepage": "",
+    "size": 5652,
+    "stargazers_count": 46,
+    "watchers_count": 46,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 22,
+    "mirror_url": null,
+    "archived": true,
+    "disabled": false,
+    "open_issues_count": 9,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": true,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "chai",
+      "ethereum",
+      "hardhat",
+      "solidity",
+      "typescript"
+    ],
+    "visibility": "public",
+    "forks": 22,
+    "open_issues": 9,
+    "watchers": 46,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 22,
+    "subscribers_count": 1
+  },
+  "user_detail": {
+    "login": "yuichiroaoki",
+    "id": 45054071,
+    "node_id": "MDQ6VXNlcjQ1MDU0MDcx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/45054071?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yuichiroaoki",
+    "html_url": "https://github.com/yuichiroaoki",
+    "followers_url": "https://api.github.com/users/yuichiroaoki/followers",
+    "following_url": "https://api.github.com/users/yuichiroaoki/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yuichiroaoki/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yuichiroaoki/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yuichiroaoki/subscriptions",
+    "organizations_url": "https://api.github.com/users/yuichiroaoki/orgs",
+    "repos_url": "https://api.github.com/users/yuichiroaoki/repos",
+    "events_url": "https://api.github.com/users/yuichiroaoki/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yuichiroaoki/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Yuichiro Aoki",
+    "company": null,
+    "blog": "",
+    "location": "Nara, Japan",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 71,
+    "public_gists": 12,
+    "followers": 357,
+    "following": 7,
+    "created_at": "2018-11-15T01:28:18Z",
+    "updated_at": "2025-12-25T04:41:25Z"
+  },
+  "readme": "# Smart Contract Dev Template\n\nTemplate for smart contract development using Typescript & Hardhat\n\n[Available Scripts](https://github.com/yuichiroaoki/typescript-hardhat/wiki/Available-Scripts)\n\n[Setup Environment Variables](https://github.com/yuichiroaoki/typescript-hardhat/wiki/Setup-Environment-Variables)\n",
+  "tree_structure": [
+    {
+      "name": ".env.example",
+      "path": ".env.example",
+      "sha": "c891e27096a8ceb4ee6fb095a8513e873e9f3383",
+      "size": 128,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.env.example?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.env.example",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/c891e27096a8ceb4ee6fb095a8513e873e9f3383",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.env.example",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.env.example?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/c891e27096a8ceb4ee6fb095a8513e873e9f3383",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.env.example"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "4b4c3c0c8769fcf3f656935ec1cae0e7b610e7d5",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.github",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/4b4c3c0c8769fcf3f656935ec1cae0e7b610e7d5",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/4b4c3c0c8769fcf3f656935ec1cae0e7b610e7d5",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.github"
+      }
+    },
+    {
+      "name": "ISSUE_TEMPLATE",
+      "path": ".github/ISSUE_TEMPLATE",
+      "sha": "297071d972c79764ba659d5a30f16877c96bdeca",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/ISSUE_TEMPLATE?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.github/ISSUE_TEMPLATE",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/297071d972c79764ba659d5a30f16877c96bdeca",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/ISSUE_TEMPLATE?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/297071d972c79764ba659d5a30f16877c96bdeca",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.github/ISSUE_TEMPLATE"
+      }
+    },
+    {
+      "name": "bug_report.md",
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "sha": "dd84ea7824f11be1eeda22377549cbc1aec7f980",
+      "size": 834,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/ISSUE_TEMPLATE/bug_report.md?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/ISSUE_TEMPLATE/bug_report.md",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/dd84ea7824f11be1eeda22377549cbc1aec7f980",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.github/ISSUE_TEMPLATE/bug_report.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/ISSUE_TEMPLATE/bug_report.md?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/dd84ea7824f11be1eeda22377549cbc1aec7f980",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/ISSUE_TEMPLATE/bug_report.md"
+      }
+    },
+    {
+      "name": "feature_request.md",
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "sha": "bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "size": 595,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/ISSUE_TEMPLATE/feature_request.md?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/ISSUE_TEMPLATE/feature_request.md",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.github/ISSUE_TEMPLATE/feature_request.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/ISSUE_TEMPLATE/feature_request.md?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/ISSUE_TEMPLATE/feature_request.md"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "fcf9821d30dd75dbbfd1294d0a1ba1af5abd9384",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/workflows?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.github/workflows",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/fcf9821d30dd75dbbfd1294d0a1ba1af5abd9384",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/workflows?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/fcf9821d30dd75dbbfd1294d0a1ba1af5abd9384",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.github/workflows"
+      }
+    },
+    {
+      "name": "slither.yaml",
+      "path": ".github/workflows/slither.yaml",
+      "sha": "72f88701002a2af86f8a50e26ba49008ea0bef4d",
+      "size": 1419,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/workflows/slither.yaml?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/workflows/slither.yaml",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/72f88701002a2af86f8a50e26ba49008ea0bef4d",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.github/workflows/slither.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/workflows/slither.yaml?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/72f88701002a2af86f8a50e26ba49008ea0bef4d",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/workflows/slither.yaml"
+      }
+    },
+    {
+      "name": "test.yaml",
+      "path": ".github/workflows/test.yaml",
+      "sha": "147f6795dda7a450b54f46257f923af8a119f650",
+      "size": 530,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/workflows/test.yaml?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/workflows/test.yaml",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/147f6795dda7a450b54f46257f923af8a119f650",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.github/workflows/test.yaml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.github/workflows/test.yaml?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/147f6795dda7a450b54f46257f923af8a119f650",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.github/workflows/test.yaml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "614460ce79ea885c1e6b3b4da5ba973a3d0cb6e1",
+      "size": 1787,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/614460ce79ea885c1e6b3b4da5ba973a3d0cb6e1",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/614460ce79ea885c1e6b3b4da5ba973a3d0cb6e1",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": ".husky",
+      "path": ".husky",
+      "sha": "5a0a2afd7ac787cf3158fb59ad53537783396c9d",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.husky?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.husky",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/5a0a2afd7ac787cf3158fb59ad53537783396c9d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.husky?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/5a0a2afd7ac787cf3158fb59ad53537783396c9d",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.husky"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".husky/.gitignore",
+      "sha": "31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+      "size": 2,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.husky/.gitignore?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.husky/.gitignore",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.husky/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.husky/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/31354ec1389994b5f6708c7d915fdcc6bb76ba6e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.husky/.gitignore"
+      }
+    },
+    {
+      "name": "pre-commit",
+      "path": ".husky/pre-commit",
+      "sha": "36af219892fda8ea669cd4b6725cd7b892231967",
+      "size": 58,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.husky/pre-commit?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.husky/pre-commit",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/36af219892fda8ea669cd4b6725cd7b892231967",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.husky/pre-commit",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.husky/pre-commit?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/36af219892fda8ea669cd4b6725cd7b892231967",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.husky/pre-commit"
+      }
+    },
+    {
+      "name": ".lintstagedrc",
+      "path": ".lintstagedrc",
+      "sha": "709bcc961c4448fb53d0beb5b9f40123c27a7154",
+      "size": 85,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.lintstagedrc?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.lintstagedrc",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/709bcc961c4448fb53d0beb5b9f40123c27a7154",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.lintstagedrc",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.lintstagedrc?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/709bcc961c4448fb53d0beb5b9f40123c27a7154",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.lintstagedrc"
+      }
+    },
+    {
+      "name": ".prettierignore",
+      "path": ".prettierignore",
+      "sha": "d16fc89cf5915f00d2f08cad576b1d0ba0131236",
+      "size": 200,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.prettierignore?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.prettierignore",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/d16fc89cf5915f00d2f08cad576b1d0ba0131236",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.prettierignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.prettierignore?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/d16fc89cf5915f00d2f08cad576b1d0ba0131236",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.prettierignore"
+      }
+    },
+    {
+      "name": ".prettierrc.json",
+      "path": ".prettierrc.json",
+      "sha": "4ecab335a3bd30faa0fff6f1c4886529729adf9e",
+      "size": 174,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.prettierrc.json?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.prettierrc.json",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4ecab335a3bd30faa0fff6f1c4886529729adf9e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.prettierrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.prettierrc.json?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4ecab335a3bd30faa0fff6f1c4886529729adf9e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.prettierrc.json"
+      }
+    },
+    {
+      "name": ".yarn",
+      "path": ".yarn",
+      "sha": "7c451ef40ac33336c2382d58ce7510e258450fd3",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarn?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.yarn",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/7c451ef40ac33336c2382d58ce7510e258450fd3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarn?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/7c451ef40ac33336c2382d58ce7510e258450fd3",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.yarn"
+      }
+    },
+    {
+      "name": "releases",
+      "path": ".yarn/releases",
+      "sha": "34a31a1e6e65d2436feb4b86ff9b33ff9437c778",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarn/releases?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.yarn/releases",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/34a31a1e6e65d2436feb4b86ff9b33ff9437c778",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarn/releases?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/34a31a1e6e65d2436feb4b86ff9b33ff9437c778",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/.yarn/releases"
+      }
+    },
+    {
+      "name": "yarn-3.6.1.cjs",
+      "path": ".yarn/releases/yarn-3.6.1.cjs",
+      "sha": "5227385a9ec1f3869e3dbffc15b22af023cdf386",
+      "size": 2228925,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarn/releases/yarn-3.6.1.cjs?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.yarn/releases/yarn-3.6.1.cjs",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/5227385a9ec1f3869e3dbffc15b22af023cdf386",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.yarn/releases/yarn-3.6.1.cjs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarn/releases/yarn-3.6.1.cjs?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/5227385a9ec1f3869e3dbffc15b22af023cdf386",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.yarn/releases/yarn-3.6.1.cjs"
+      }
+    },
+    {
+      "name": ".yarnrc.yml",
+      "path": ".yarnrc.yml",
+      "sha": "edf5b783ffa9e3cee432faed25cfd741a14fa63e",
+      "size": 66,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarnrc.yml?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.yarnrc.yml",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/edf5b783ffa9e3cee432faed25cfd741a14fa63e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/.yarnrc.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/.yarnrc.yml?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/edf5b783ffa9e3cee432faed25cfd741a14fa63e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/.yarnrc.yml"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "109cb810333f56752e06a31b51a7b7f1337e62f1",
+      "size": 1070,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/LICENSE?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/LICENSE",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/109cb810333f56752e06a31b51a7b7f1337e62f1",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/LICENSE?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/109cb810333f56752e06a31b51a7b7f1337e62f1",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "0f5ff805ddfb7223e437f325a9aa26c08dd3ca2b",
+      "size": 310,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/README.md?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/0f5ff805ddfb7223e437f325a9aa26c08dd3ca2b",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/0f5ff805ddfb7223e437f325a9aa26c08dd3ca2b",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/README.md"
+      }
+    },
+    {
+      "name": "contracts",
+      "path": "contracts",
+      "sha": "c46961fba758fc8e13be05499f9c20a211ccf58f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/c46961fba758fc8e13be05499f9c20a211ccf58f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/c46961fba758fc8e13be05499f9c20a211ccf58f",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts"
+      }
+    },
+    {
+      "name": "Base.sol",
+      "path": "contracts/Base.sol",
+      "sha": "d82be37cb5ce24d62fd13efd3426fabc7e0f9045",
+      "size": 832,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Base.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Base.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/d82be37cb5ce24d62fd13efd3426fabc7e0f9045",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/Base.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Base.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/d82be37cb5ce24d62fd13efd3426fabc7e0f9045",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Base.sol"
+      }
+    },
+    {
+      "name": "Greeter.sol",
+      "path": "contracts/Greeter.sol",
+      "sha": "4af9758970fdb46c038640a35faa0691ea7c5fa5",
+      "size": 520,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Greeter.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Greeter.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4af9758970fdb46c038640a35faa0691ea7c5fa5",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/Greeter.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Greeter.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4af9758970fdb46c038640a35faa0691ea7c5fa5",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Greeter.sol"
+      }
+    },
+    {
+      "name": "Upgradeable.sol",
+      "path": "contracts/Upgradeable.sol",
+      "sha": "7ca4ed9f2c1aa6529f6669bf37d7ec7ff0ab740b",
+      "size": 1809,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Upgradeable.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Upgradeable.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/7ca4ed9f2c1aa6529f6669bf37d7ec7ff0ab740b",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/Upgradeable.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Upgradeable.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/7ca4ed9f2c1aa6529f6669bf37d7ec7ff0ab740b",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Upgradeable.sol"
+      }
+    },
+    {
+      "name": "Vault.sol",
+      "path": "contracts/Vault.sol",
+      "sha": "efc44a1788a8f10fc21f09f6fddaffa9da452324",
+      "size": 541,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Vault.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Vault.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/efc44a1788a8f10fc21f09f6fddaffa9da452324",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/Vault.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/Vault.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/efc44a1788a8f10fc21f09f6fddaffa9da452324",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/Vault.sol"
+      }
+    },
+    {
+      "name": "base",
+      "path": "contracts/base",
+      "sha": "b8d630727cdedd25381de65d000b96722544772f",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/base?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/base",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/b8d630727cdedd25381de65d000b96722544772f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/base?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/b8d630727cdedd25381de65d000b96722544772f",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/base"
+      }
+    },
+    {
+      "name": "VaultBase.sol",
+      "path": "contracts/base/VaultBase.sol",
+      "sha": "3b098502b1df4675fda1545381f6c8b0988e0a5a",
+      "size": 882,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/base/VaultBase.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/base/VaultBase.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/3b098502b1df4675fda1545381f6c8b0988e0a5a",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/base/VaultBase.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/base/VaultBase.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/3b098502b1df4675fda1545381f6c8b0988e0a5a",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/base/VaultBase.sol"
+      }
+    },
+    {
+      "name": "interfaces",
+      "path": "contracts/interfaces",
+      "sha": "e5a05fd5e314c553750532526ec1a9d7a8b5c0ad",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/interfaces?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/interfaces",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/e5a05fd5e314c553750532526ec1a9d7a8b5c0ad",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/interfaces?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/e5a05fd5e314c553750532526ec1a9d7a8b5c0ad",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/interfaces"
+      }
+    },
+    {
+      "name": "IBase.sol",
+      "path": "contracts/interfaces/IBase.sol",
+      "sha": "1c6eb8659fc2e462a9395350539cb55659d10b10",
+      "size": 216,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/interfaces/IBase.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/interfaces/IBase.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/1c6eb8659fc2e462a9395350539cb55659d10b10",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/interfaces/IBase.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/interfaces/IBase.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/1c6eb8659fc2e462a9395350539cb55659d10b10",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/interfaces/IBase.sol"
+      }
+    },
+    {
+      "name": "libraries",
+      "path": "contracts/libraries",
+      "sha": "d9c619503bedbbf3ac405996f80bcc37ce18bb69",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/libraries?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/libraries",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/d9c619503bedbbf3ac405996f80bcc37ce18bb69",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/libraries?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/d9c619503bedbbf3ac405996f80bcc37ce18bb69",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/libraries"
+      }
+    },
+    {
+      "name": "BytesLib.sol",
+      "path": "contracts/libraries/BytesLib.sol",
+      "sha": "c04966a2f8abfa21db36ba4d2a910da8d2d49023",
+      "size": 1612,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/libraries/BytesLib.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/libraries/BytesLib.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/c04966a2f8abfa21db36ba4d2a910da8d2d49023",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/libraries/BytesLib.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/libraries/BytesLib.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/c04966a2f8abfa21db36ba4d2a910da8d2d49023",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/libraries/BytesLib.sol"
+      }
+    },
+    {
+      "name": "mock",
+      "path": "contracts/mock",
+      "sha": "547474d91a38b3cd5d9e2fa7b5f097574c6243f4",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/mock?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/mock",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/547474d91a38b3cd5d9e2fa7b5f097574c6243f4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/mock?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/547474d91a38b3cd5d9e2fa7b5f097574c6243f4",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/contracts/mock"
+      }
+    },
+    {
+      "name": "ERC20Mock.sol",
+      "path": "contracts/mock/ERC20Mock.sol",
+      "sha": "a402ff495901da0a402ea1de7b3e1045a27520ca",
+      "size": 887,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/mock/ERC20Mock.sol?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/mock/ERC20Mock.sol",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/a402ff495901da0a402ea1de7b3e1045a27520ca",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/contracts/mock/ERC20Mock.sol",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/contracts/mock/ERC20Mock.sol?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/a402ff495901da0a402ea1de7b3e1045a27520ca",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/contracts/mock/ERC20Mock.sol"
+      }
+    },
+    {
+      "name": "hardhat.config.ts",
+      "path": "hardhat.config.ts",
+      "sha": "5fa0466da5ed71f34eea764977592ea5a4302faf",
+      "size": 842,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/hardhat.config.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/hardhat.config.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/5fa0466da5ed71f34eea764977592ea5a4302faf",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/hardhat.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/hardhat.config.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/5fa0466da5ed71f34eea764977592ea5a4302faf",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/hardhat.config.ts"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "1ddde5e55ae2f906804449f6661e49aab7533e8e",
+      "size": 1565,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/package.json?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/1ddde5e55ae2f906804449f6661e49aab7533e8e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/1ddde5e55ae2f906804449f6661e49aab7533e8e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/package.json"
+      }
+    },
+    {
+      "name": "scripts",
+      "path": "scripts",
+      "sha": "f4b7ac84ab1ab60740acf1d7f24add6e253b127b",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/scripts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/scripts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/f4b7ac84ab1ab60740acf1d7f24add6e253b127b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/scripts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/f4b7ac84ab1ab60740acf1d7f24add6e253b127b",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/scripts"
+      }
+    },
+    {
+      "name": "sample-script.ts",
+      "path": "scripts/sample-script.ts",
+      "sha": "2255cc0e2b6fa31551c919e973c2db8329dce225",
+      "size": 1446,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/scripts/sample-script.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/scripts/sample-script.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/2255cc0e2b6fa31551c919e973c2db8329dce225",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/scripts/sample-script.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/scripts/sample-script.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/2255cc0e2b6fa31551c919e973c2db8329dce225",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/scripts/sample-script.ts"
+      }
+    },
+    {
+      "name": "tasks",
+      "path": "tasks",
+      "sha": "f90e0512eb1858809180fd928803c24d5ffd2059",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/tasks",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/f90e0512eb1858809180fd928803c24d5ffd2059",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/f90e0512eb1858809180fd928803c24d5ffd2059",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/tasks"
+      }
+    },
+    {
+      "name": "accounts.ts",
+      "path": "tasks/accounts.ts",
+      "sha": "008869d858196dee4ab653c031e6e21fecba142e",
+      "size": 240,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks/accounts.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tasks/accounts.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/008869d858196dee4ab653c031e6e21fecba142e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/tasks/accounts.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks/accounts.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/008869d858196dee4ab653c031e6e21fecba142e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tasks/accounts.ts"
+      }
+    },
+    {
+      "name": "balance.ts",
+      "path": "tasks/balance.ts",
+      "sha": "e690042b5eb2a0b846f62954dab26c416b1c6160",
+      "size": 405,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks/balance.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tasks/balance.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/e690042b5eb2a0b846f62954dab26c416b1c6160",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/tasks/balance.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks/balance.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/e690042b5eb2a0b846f62954dab26c416b1c6160",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tasks/balance.ts"
+      }
+    },
+    {
+      "name": "block-number.ts",
+      "path": "tasks/block-number.ts",
+      "sha": "347bc8e4809f74c13fd22997341b1a105d1a0d44",
+      "size": 271,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks/block-number.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tasks/block-number.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/347bc8e4809f74c13fd22997341b1a105d1a0d44",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/tasks/block-number.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tasks/block-number.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/347bc8e4809f74c13fd22997341b1a105d1a0d44",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tasks/block-number.ts"
+      }
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "sha": "e0aa00d287d5bbca09b1f67f1bd42751d7406c83",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/test",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/e0aa00d287d5bbca09b1f67f1bd42751d7406c83",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/e0aa00d287d5bbca09b1f67f1bd42751d7406c83",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/test"
+      }
+    },
+    {
+      "name": "Base.test.ts",
+      "path": "test/Base.test.ts",
+      "sha": "5bd6d9e39adfac90e0f12a41eaeb766c0801101d",
+      "size": 1672,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/Base.test.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/Base.test.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/5bd6d9e39adfac90e0f12a41eaeb766c0801101d",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/test/Base.test.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/Base.test.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/5bd6d9e39adfac90e0f12a41eaeb766c0801101d",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/Base.test.ts"
+      }
+    },
+    {
+      "name": "Upgradeable.test.ts",
+      "path": "test/Upgradeable.test.ts",
+      "sha": "4f106b73dddeb913fd7688deb882385e99945f9e",
+      "size": 3376,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/Upgradeable.test.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/Upgradeable.test.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4f106b73dddeb913fd7688deb882385e99945f9e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/test/Upgradeable.test.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/Upgradeable.test.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4f106b73dddeb913fd7688deb882385e99945f9e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/Upgradeable.test.ts"
+      }
+    },
+    {
+      "name": "Vault.test.ts",
+      "path": "test/Vault.test.ts",
+      "sha": "f480eb61ac5d45de4110b611fad9e9fe56cf1e5f",
+      "size": 2118,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/Vault.test.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/Vault.test.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/f480eb61ac5d45de4110b611fad9e9fe56cf1e5f",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/test/Vault.test.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/Vault.test.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/f480eb61ac5d45de4110b611fad9e9fe56cf1e5f",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/Vault.test.ts"
+      }
+    },
+    {
+      "name": "sample.test.ts",
+      "path": "test/sample.test.ts",
+      "sha": "18a1a596665273e86b187adedba809b6300941a9",
+      "size": 519,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/sample.test.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/sample.test.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/18a1a596665273e86b187adedba809b6300941a9",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/test/sample.test.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/test/sample.test.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/18a1a596665273e86b187adedba809b6300941a9",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/test/sample.test.ts"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "4a997eb22adc10811e996eda4f322cf27834f16c",
+      "size": 277,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4a997eb22adc10811e996eda4f322cf27834f16c",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/4a997eb22adc10811e996eda4f322cf27834f16c",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "utils",
+      "path": "utils",
+      "sha": "9bde138333283140fd0a6857d26968df83535cc4",
+      "size": 0,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/utils?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/utils",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/9bde138333283140fd0a6857d26968df83535cc4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/utils?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/trees/9bde138333283140fd0a6857d26968df83535cc4",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/tree/main/utils"
+      }
+    },
+    {
+      "name": "index.ts",
+      "path": "utils/index.ts",
+      "sha": "613631bc06ba0fa143991e6ff1b67b90bc338a5e",
+      "size": 1093,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/utils/index.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/utils/index.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/613631bc06ba0fa143991e6ff1b67b90bc338a5e",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/utils/index.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/utils/index.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/613631bc06ba0fa143991e6ff1b67b90bc338a5e",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/utils/index.ts"
+      }
+    },
+    {
+      "name": "token.ts",
+      "path": "utils/token.ts",
+      "sha": "57cc63cbb835862291b6ca965ff9e710683b5072",
+      "size": 1241,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/utils/token.ts?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/utils/token.ts",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/57cc63cbb835862291b6ca965ff9e710683b5072",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/utils/token.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/utils/token.ts?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/57cc63cbb835862291b6ca965ff9e710683b5072",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/utils/token.ts"
+      }
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "sha": "8820540b2dea402a51b46ebd6a7a82aca2f5bad9",
+      "size": 246082,
+      "url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/yarn.lock?ref=main",
+      "html_url": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/yarn.lock",
+      "git_url": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/8820540b2dea402a51b46ebd6a7a82aca2f5bad9",
+      "download_url": "https://raw.githubusercontent.com/yuichiroaoki/typescript-hardhat/main/yarn.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/contents/yarn.lock?ref=main",
+        "git": "https://api.github.com/repos/yuichiroaoki/typescript-hardhat/git/blobs/8820540b2dea402a51b46ebd6a7a82aca2f5bad9",
+        "html": "https://github.com/yuichiroaoki/typescript-hardhat/blob/main/yarn.lock"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6739
+  },
+  "collected_at": "2026-03-23T14:37:24.771150"
+}

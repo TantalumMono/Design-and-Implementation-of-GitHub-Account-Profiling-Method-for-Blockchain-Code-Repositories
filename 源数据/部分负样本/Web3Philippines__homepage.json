@@ -1,0 +1,2477 @@
+{
+  "repo_full_name": "Web3Philippines/homepage",
+  "repo_detail": {
+    "id": 560390282,
+    "node_id": "R_kgDOIWbgig",
+    "name": "homepage",
+    "full_name": "Web3Philippines/homepage",
+    "private": false,
+    "owner": {
+      "login": "Web3Philippines",
+      "id": 105350478,
+      "node_id": "O_kgDOBkeFTg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105350478?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Web3Philippines",
+      "html_url": "https://github.com/Web3Philippines",
+      "followers_url": "https://api.github.com/users/Web3Philippines/followers",
+      "following_url": "https://api.github.com/users/Web3Philippines/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Web3Philippines/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Web3Philippines/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Web3Philippines/subscriptions",
+      "organizations_url": "https://api.github.com/users/Web3Philippines/orgs",
+      "repos_url": "https://api.github.com/users/Web3Philippines/repos",
+      "events_url": "https://api.github.com/users/Web3Philippines/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Web3Philippines/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/Web3Philippines/homepage",
+    "description": "Official Web3 Philippines Homepage. 🚀",
+    "fork": false,
+    "url": "https://api.github.com/repos/Web3Philippines/homepage",
+    "forks_url": "https://api.github.com/repos/Web3Philippines/homepage/forks",
+    "keys_url": "https://api.github.com/repos/Web3Philippines/homepage/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/Web3Philippines/homepage/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/Web3Philippines/homepage/teams",
+    "hooks_url": "https://api.github.com/repos/Web3Philippines/homepage/hooks",
+    "issue_events_url": "https://api.github.com/repos/Web3Philippines/homepage/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/Web3Philippines/homepage/events",
+    "assignees_url": "https://api.github.com/repos/Web3Philippines/homepage/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/Web3Philippines/homepage/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/Web3Philippines/homepage/tags",
+    "blobs_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/Web3Philippines/homepage/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/Web3Philippines/homepage/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/Web3Philippines/homepage/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/Web3Philippines/homepage/languages",
+    "stargazers_url": "https://api.github.com/repos/Web3Philippines/homepage/stargazers",
+    "contributors_url": "https://api.github.com/repos/Web3Philippines/homepage/contributors",
+    "subscribers_url": "https://api.github.com/repos/Web3Philippines/homepage/subscribers",
+    "subscription_url": "https://api.github.com/repos/Web3Philippines/homepage/subscription",
+    "commits_url": "https://api.github.com/repos/Web3Philippines/homepage/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/Web3Philippines/homepage/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/Web3Philippines/homepage/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/Web3Philippines/homepage/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/Web3Philippines/homepage/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/Web3Philippines/homepage/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/Web3Philippines/homepage/merges",
+    "archive_url": "https://api.github.com/repos/Web3Philippines/homepage/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/Web3Philippines/homepage/downloads",
+    "issues_url": "https://api.github.com/repos/Web3Philippines/homepage/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/Web3Philippines/homepage/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/Web3Philippines/homepage/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/Web3Philippines/homepage/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/Web3Philippines/homepage/labels{/name}",
+    "releases_url": "https://api.github.com/repos/Web3Philippines/homepage/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/Web3Philippines/homepage/deployments",
+    "created_at": "2022-11-01T11:52:57Z",
+    "updated_at": "2024-04-24T11:48:16Z",
+    "pushed_at": "2024-04-05T02:52:43Z",
+    "git_url": "git://github.com/Web3Philippines/homepage.git",
+    "ssh_url": "git@github.com:Web3Philippines/homepage.git",
+    "clone_url": "https://github.com/Web3Philippines/homepage.git",
+    "svn_url": "https://github.com/Web3Philippines/homepage",
+    "homepage": "https://web3philippines.org",
+    "size": 131373,
+    "stargazers_count": 7,
+    "watchers_count": 7,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 5,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "community",
+      "community-project",
+      "javascript",
+      "next",
+      "nft",
+      "philippines",
+      "react",
+      "web3",
+      "web3ph",
+      "web3philippines",
+      "web3phl"
+    ],
+    "visibility": "public",
+    "forks": 5,
+    "open_issues": 1,
+    "watchers": 7,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "custom_properties": {},
+    "organization": {
+      "login": "Web3Philippines",
+      "id": 105350478,
+      "node_id": "O_kgDOBkeFTg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105350478?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Web3Philippines",
+      "html_url": "https://github.com/Web3Philippines",
+      "followers_url": "https://api.github.com/users/Web3Philippines/followers",
+      "following_url": "https://api.github.com/users/Web3Philippines/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Web3Philippines/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Web3Philippines/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Web3Philippines/subscriptions",
+      "organizations_url": "https://api.github.com/users/Web3Philippines/orgs",
+      "repos_url": "https://api.github.com/users/Web3Philippines/repos",
+      "events_url": "https://api.github.com/users/Web3Philippines/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Web3Philippines/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "network_count": 5,
+    "subscribers_count": 2
+  },
+  "user_detail": {
+    "login": "Web3Philippines",
+    "id": 105350478,
+    "node_id": "O_kgDOBkeFTg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/105350478?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Web3Philippines",
+    "html_url": "https://github.com/Web3Philippines",
+    "followers_url": "https://api.github.com/users/Web3Philippines/followers",
+    "following_url": "https://api.github.com/users/Web3Philippines/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Web3Philippines/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Web3Philippines/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Web3Philippines/subscriptions",
+    "organizations_url": "https://api.github.com/users/Web3Philippines/orgs",
+    "repos_url": "https://api.github.com/users/Web3Philippines/repos",
+    "events_url": "https://api.github.com/users/Web3Philippines/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Web3Philippines/received_events",
+    "type": "Organization",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Web3 Philippines® Developers",
+    "company": null,
+    "blog": "https://web3philippines.org",
+    "location": "Philippines",
+    "email": "gm@web3philippines.org",
+    "hireable": null,
+    "bio": "Helping Filipinos to build in Web3 space! 💜💙🌱",
+    "twitter_username": "web3phl",
+    "public_repos": 13,
+    "public_gists": 0,
+    "followers": 75,
+    "following": 0,
+    "created_at": "2022-05-11T08:38:18Z",
+    "updated_at": "2023-10-05T13:42:46Z"
+  },
+  "readme": "# Homepage [![created by](https://img.shields.io/badge/by-Web3%20Philippines-7b3fe4.svg?longCache=true&style=flat-square)](https://web3philippines.org)\n\n[![maintainer](https://img.shields.io/badge/maintainer-OSS%20Philippines-blue.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://ossph.org) [![release](https://img.shields.io/github/release/web3phl/homepage.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/web3phl/homepage/releases) [![star](https://img.shields.io/github/stars/web3phl/homepage.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/web3phl/homepage/stargazers) [![license](https://img.shields.io/github/license/web3phl/homepage.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/web3phl/homepage/blob/main/license)\n\n**Homepage** is an open-source webpage for the Web3 Philippines organization.\n\n## 🎯 Contributing\n\nContributions are welcome, create a pull request to this repo and we will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!\n\nRead the project's [contributing guide](./contributing.md) for more info.\n\n## 🐛 Issues\n\nPlease report any issues and bugs by [creating a new issue here](https://github.com/web3phl/homepage/issues/new/choose), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨\n\n## 📋 Code of Conduct\n\nRead the project's [code of conduct](./code_of_conduct.md).\n\n## 📃 License\n\nWeb3 Philippines Homepage is licensed under [GNU General Public License v3.0](https://opensource.org/licenses/GPL-3.0).\n\n## 📝 Author\n\nWeb3 Philippines Homepage is developed and maintained by [Web3 Philippines](https://web3philippines.org), [OSS Philippines](https://ossph.org) and [WG Technology Labs](https://wgtechlabs.com) with the help of awesome [contributors](https://github.com/web3phl/homepage/graphs/contributors).\n\n[![contributors](https://contrib.rocks/image?repo=web3phl/homepage)](https://github.com/web3phl/homepage/graphs/contributors)\n\n---\n\n💻💖☕ by [Web3 Philippines](https://web3philippines.org), [OSS Philippines](https://ossph.org) | He is Awesome 🙏\n",
+  "tree_structure": [
+    {
+      "name": ".eslintrc.json",
+      "path": ".eslintrc.json",
+      "sha": "bffb357a7122523ec94045523758c4b825b448ef",
+      "size": 40,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/.eslintrc.json?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/.eslintrc.json",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/bffb357a7122523ec94045523758c4b825b448ef",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/.eslintrc.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/.eslintrc.json?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/bffb357a7122523ec94045523758c4b825b448ef",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/.eslintrc.json"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "4c469afd49e5a9c7ea9ad680778443b8d1a35cc2",
+      "size": 441,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4c469afd49e5a9c7ea9ad680778443b8d1a35cc2",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4c469afd49e5a9c7ea9ad680778443b8d1a35cc2",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "41c23a006e4382ee12c0faa5e34f714361c2b4af",
+      "size": 2253,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/README.md?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/41c23a006e4382ee12c0faa5e34f714361c2b4af",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/41c23a006e4382ee12c0faa5e34f714361c2b4af",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/README.md"
+      }
+    },
+    {
+      "name": "code_of_conduct.md",
+      "path": "code_of_conduct.md",
+      "sha": "8c8f95b8beb413c7745bcecffb00bdd620260b38",
+      "size": 5475,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/code_of_conduct.md?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/code_of_conduct.md",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8c8f95b8beb413c7745bcecffb00bdd620260b38",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/code_of_conduct.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/code_of_conduct.md?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8c8f95b8beb413c7745bcecffb00bdd620260b38",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/code_of_conduct.md"
+      }
+    },
+    {
+      "name": "components",
+      "path": "components",
+      "sha": "27f2ad85096c349a747f0506bdc2e217fbe65651",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/components?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/components",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/27f2ad85096c349a747f0506bdc2e217fbe65651",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/components?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/27f2ad85096c349a747f0506bdc2e217fbe65651",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/components"
+      }
+    },
+    {
+      "name": "Footer.tsx",
+      "path": "components/Footer.tsx",
+      "sha": "6225e3770ad657533ebd744e705c8b1ef5731bd9",
+      "size": 2536,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/components/Footer.tsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/components/Footer.tsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6225e3770ad657533ebd744e705c8b1ef5731bd9",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/components/Footer.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/components/Footer.tsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6225e3770ad657533ebd744e705c8b1ef5731bd9",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/components/Footer.tsx"
+      }
+    },
+    {
+      "name": "Navbar.tsx",
+      "path": "components/Navbar.tsx",
+      "sha": "78ed5221dd4dd8219dda2c714585835f5e1056ef",
+      "size": 3510,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/components/Navbar.tsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/components/Navbar.tsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/78ed5221dd4dd8219dda2c714585835f5e1056ef",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/components/Navbar.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/components/Navbar.tsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/78ed5221dd4dd8219dda2c714585835f5e1056ef",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/components/Navbar.tsx"
+      }
+    },
+    {
+      "name": "contributing.md",
+      "path": "contributing.md",
+      "sha": "788c6bc4627191cfe13fda1502c4158988a807af",
+      "size": 1531,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/contributing.md?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/contributing.md",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/788c6bc4627191cfe13fda1502c4158988a807af",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/contributing.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/contributing.md?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/788c6bc4627191cfe13fda1502c4158988a807af",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/contributing.md"
+      }
+    },
+    {
+      "name": "index.html",
+      "path": "index.html",
+      "sha": "8b5b23736b3682fac1093a87a66e5602860a403d",
+      "size": 2553,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/index.html?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/index.html",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8b5b23736b3682fac1093a87a66e5602860a403d",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/index.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/index.html?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8b5b23736b3682fac1093a87a66e5602860a403d",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/index.html"
+      }
+    },
+    {
+      "name": "license",
+      "path": "license",
+      "sha": "e72bfddabc15be5718a7cc061ac10e47741d8219",
+      "size": 35148,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/license?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/license",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e72bfddabc15be5718a7cc061ac10e47741d8219",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/license",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/license?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e72bfddabc15be5718a7cc061ac10e47741d8219",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/license"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "ef1c93a6bb788d85082bec849c5924e7a6e27f88",
+      "size": 923,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/package.json?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/ef1c93a6bb788d85082bec849c5924e7a6e27f88",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/ef1c93a6bb788d85082bec849c5924e7a6e27f88",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/package.json"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "pages",
+      "sha": "1f0419d1ba3397a2e873dc8a5321c40b38c583e4",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/pages?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/pages",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/1f0419d1ba3397a2e873dc8a5321c40b38c583e4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/pages?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/1f0419d1ba3397a2e873dc8a5321c40b38c583e4",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/pages"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "pages/index.tsx",
+      "sha": "e0ae94039198a8297179c112b353911ffe951c32",
+      "size": 16044,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/pages/index.tsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/pages/index.tsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e0ae94039198a8297179c112b353911ffe951c32",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/pages/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/pages/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e0ae94039198a8297179c112b353911ffe951c32",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/pages/index.tsx"
+      }
+    },
+    {
+      "name": "postcss.config.js",
+      "path": "postcss.config.js",
+      "sha": "2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+      "size": 80,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/postcss.config.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/postcss.config.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/postcss.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/postcss.config.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/postcss.config.js"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "ce454e81b421294c9ad27ea20e1cf4b60a9aabf6",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/public?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/public",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/ce454e81b421294c9ad27ea20e1cf4b60a9aabf6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/public?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/ce454e81b421294c9ad27ea20e1cf4b60a9aabf6",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/public"
+      }
+    },
+    {
+      "name": "banner_r.jpg",
+      "path": "public/banner_r.jpg",
+      "sha": "cc9475db4b226e283663861188d4b9565e073c75",
+      "size": 2124689,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/public/banner_r.jpg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/public/banner_r.jpg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cc9475db4b226e283663861188d4b9565e073c75",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/public/banner_r.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/public/banner_r.jpg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cc9475db4b226e283663861188d4b9565e073c75",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/public/banner_r.jpg"
+      }
+    },
+    {
+      "name": "vite.svg",
+      "path": "public/vite.svg",
+      "sha": "e7b8dfb1b2a60bd50538bec9f876511b9cac21e3",
+      "size": 1497,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/public/vite.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/public/vite.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e7b8dfb1b2a60bd50538bec9f876511b9cac21e3",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/public/vite.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/public/vite.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e7b8dfb1b2a60bd50538bec9f876511b9cac21e3",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/public/vite.svg"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "c16b9bf4bb4cc1004be322d7d96aa16cc9befaf3",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/c16b9bf4bb4cc1004be322d7d96aa16cc9befaf3",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/c16b9bf4bb4cc1004be322d7d96aa16cc9befaf3",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src"
+      }
+    },
+    {
+      "name": "App.css",
+      "path": "src/App.css",
+      "sha": "cca57b36a8a657300997050dae1d747750b52912",
+      "size": 59,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/App.css?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/App.css",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cca57b36a8a657300997050dae1d747750b52912",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/App.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/App.css?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cca57b36a8a657300997050dae1d747750b52912",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/App.css"
+      }
+    },
+    {
+      "name": "App.jsx",
+      "path": "src/App.jsx",
+      "sha": "0df5424a3e36d4a250f87e92ca957c665dd904f0",
+      "size": 1253,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/App.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/App.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0df5424a3e36d4a250f87e92ca957c665dd904f0",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/App.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/App.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0df5424a3e36d4a250f87e92ca957c665dd904f0",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/App.jsx"
+      }
+    },
+    {
+      "name": "assets",
+      "path": "src/assets",
+      "sha": "5e06c061ecba94714b8e7d07f5c6aaad0017a3ab",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/5e06c061ecba94714b8e7d07f5c6aaad0017a3ab",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/5e06c061ecba94714b8e7d07f5c6aaad0017a3ab",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets"
+      }
+    },
+    {
+      "name": "font",
+      "path": "src/assets/font",
+      "sha": "f4775a335cdbca007022e92dd2e0fc5fa080f442",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/font",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/f4775a335cdbca007022e92dd2e0fc5fa080f442",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/f4775a335cdbca007022e92dd2e0fc5fa080f442",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/font"
+      }
+    },
+    {
+      "name": "futura",
+      "path": "src/assets/font/futura",
+      "sha": "18a8af5e28abe4a7f6453ad9975b320aba91eddd",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/font/futura",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/18a8af5e28abe4a7f6453ad9975b320aba91eddd",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/18a8af5e28abe4a7f6453ad9975b320aba91eddd",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/font/futura"
+      }
+    },
+    {
+      "name": "Futura Bold Italic font.ttf",
+      "path": "src/assets/font/futura/Futura Bold Italic font.ttf",
+      "sha": "095bbdff60d46dd14809f8d65cca82c5e5ff10a5",
+      "size": 39444,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Bold%20Italic%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Bold%20Italic%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/095bbdff60d46dd14809f8d65cca82c5e5ff10a5",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Bold%20Italic%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Bold%20Italic%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/095bbdff60d46dd14809f8d65cca82c5e5ff10a5",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Bold%20Italic%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Bold font.ttf",
+      "path": "src/assets/font/futura/Futura Bold font.ttf",
+      "sha": "0725025e5a903c1020a16f006ff760f04a717316",
+      "size": 39444,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Bold%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Bold%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0725025e5a903c1020a16f006ff760f04a717316",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Bold%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Bold%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0725025e5a903c1020a16f006ff760f04a717316",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Bold%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Bold font.woff",
+      "path": "src/assets/font/futura/Futura Bold font.woff",
+      "sha": "6a25a5dcc466918a6668a3b7d62dc2fedba0f056",
+      "size": 25308,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Bold%20font.woff?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Bold%20font.woff",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6a25a5dcc466918a6668a3b7d62dc2fedba0f056",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Bold%20font.woff",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Bold%20font.woff?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6a25a5dcc466918a6668a3b7d62dc2fedba0f056",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Bold%20font.woff"
+      }
+    },
+    {
+      "name": "Futura Book Italic font.ttf",
+      "path": "src/assets/font/futura/Futura Book Italic font.ttf",
+      "sha": "99cd8a6ada31ce1012eca2e05355d30ec6d82c52",
+      "size": 38672,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Book%20Italic%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Book%20Italic%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/99cd8a6ada31ce1012eca2e05355d30ec6d82c52",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Book%20Italic%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Book%20Italic%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/99cd8a6ada31ce1012eca2e05355d30ec6d82c52",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Book%20Italic%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Book font.ttf",
+      "path": "src/assets/font/futura/Futura Book font.ttf",
+      "sha": "8abcf15912a589ac2172edb4135f4c58369d8132",
+      "size": 37688,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Book%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Book%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8abcf15912a589ac2172edb4135f4c58369d8132",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Book%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Book%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8abcf15912a589ac2172edb4135f4c58369d8132",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Book%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Extra Black font.ttf",
+      "path": "src/assets/font/futura/Futura Extra Black font.ttf",
+      "sha": "f6f1b39462897544e17fdcc4623b6dc74997c623",
+      "size": 40028,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Extra%20Black%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Extra%20Black%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f6f1b39462897544e17fdcc4623b6dc74997c623",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Extra%20Black%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Extra%20Black%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f6f1b39462897544e17fdcc4623b6dc74997c623",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Extra%20Black%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Heavy Italic font.ttf",
+      "path": "src/assets/font/futura/Futura Heavy Italic font.ttf",
+      "sha": "8a49a3695cb63dc65a89c8c8ff76622a2fd30a92",
+      "size": 39564,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Heavy%20Italic%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Heavy%20Italic%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8a49a3695cb63dc65a89c8c8ff76622a2fd30a92",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Heavy%20Italic%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Heavy%20Italic%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8a49a3695cb63dc65a89c8c8ff76622a2fd30a92",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Heavy%20Italic%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Heavy font.ttf",
+      "path": "src/assets/font/futura/Futura Heavy font.ttf",
+      "sha": "97eded13a2e44285191f18a635967fe8803b97ce",
+      "size": 38980,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Heavy%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Heavy%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/97eded13a2e44285191f18a635967fe8803b97ce",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Heavy%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Heavy%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/97eded13a2e44285191f18a635967fe8803b97ce",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Heavy%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Light Italic font.ttf",
+      "path": "src/assets/font/futura/Futura Light Italic font.ttf",
+      "sha": "cfb5ce4132db75fe54f36acb3f77d3c84d57a29f",
+      "size": 38052,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Light%20Italic%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Light%20Italic%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cfb5ce4132db75fe54f36acb3f77d3c84d57a29f",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Light%20Italic%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Light%20Italic%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cfb5ce4132db75fe54f36acb3f77d3c84d57a29f",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Light%20Italic%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Light font.ttf",
+      "path": "src/assets/font/futura/Futura Light font.ttf",
+      "sha": "250162f49392b2fd004193988d4eb76d8fb6c02c",
+      "size": 35704,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Light%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Light%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/250162f49392b2fd004193988d4eb76d8fb6c02c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Light%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Light%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/250162f49392b2fd004193988d4eb76d8fb6c02c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Light%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura Medium Italic font.ttf",
+      "path": "src/assets/font/futura/Futura Medium Italic font.ttf",
+      "sha": "81878d5f4c26d8e00cb18f86e626795d2df86c3c",
+      "size": 39172,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Medium%20Italic%20font.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Medium%20Italic%20font.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/81878d5f4c26d8e00cb18f86e626795d2df86c3c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20Medium%20Italic%20font.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20Medium%20Italic%20font.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/81878d5f4c26d8e00cb18f86e626795d2df86c3c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20Medium%20Italic%20font.ttf"
+      }
+    },
+    {
+      "name": "Futura XBlk BT.ttf",
+      "path": "src/assets/font/futura/Futura XBlk BT.ttf",
+      "sha": "06a53a8e162704d4d5b8c998c93c082249641d7e",
+      "size": 38860,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20XBlk%20BT.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20XBlk%20BT.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/06a53a8e162704d4d5b8c998c93c082249641d7e",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura%20XBlk%20BT.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura%20XBlk%20BT.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/06a53a8e162704d4d5b8c998c93c082249641d7e",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura%20XBlk%20BT.ttf"
+      }
+    },
+    {
+      "name": "Futura-CondensedLight.otf",
+      "path": "src/assets/font/futura/Futura-CondensedLight.otf",
+      "sha": "aebc4d947c37f67809b16d225ad4bf8179cdff69",
+      "size": 17072,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura-CondensedLight.otf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura-CondensedLight.otf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/aebc4d947c37f67809b16d225ad4bf8179cdff69",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/Futura-CondensedLight.otf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/Futura-CondensedLight.otf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/aebc4d947c37f67809b16d225ad4bf8179cdff69",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/Futura-CondensedLight.otf"
+      }
+    },
+    {
+      "name": "MCR.txt",
+      "path": "src/assets/font/futura/MCR.txt",
+      "sha": "b1a1bb449712bf7d898c179e48c11e8356a37ca2",
+      "size": 7250,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/MCR.txt?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/MCR.txt",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b1a1bb449712bf7d898c179e48c11e8356a37ca2",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/MCR.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/MCR.txt?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b1a1bb449712bf7d898c179e48c11e8356a37ca2",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/MCR.txt"
+      }
+    },
+    {
+      "name": "futur.ttf",
+      "path": "src/assets/font/futura/futur.ttf",
+      "sha": "cde2c37adfe93844d940b3a92d01d0d7de94d7c9",
+      "size": 50452,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futur.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futur.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cde2c37adfe93844d940b3a92d01d0d7de94d7c9",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/futur.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futur.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cde2c37adfe93844d940b3a92d01d0d7de94d7c9",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futur.ttf"
+      }
+    },
+    {
+      "name": "futur.woff",
+      "path": "src/assets/font/futura/futur.woff",
+      "sha": "9c0f3cb499d2e7d8421533b63f7e50164b34c55a",
+      "size": 22036,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futur.woff?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futur.woff",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9c0f3cb499d2e7d8421533b63f7e50164b34c55a",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/futur.woff",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futur.woff?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9c0f3cb499d2e7d8421533b63f7e50164b34c55a",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futur.woff"
+      }
+    },
+    {
+      "name": "futura light bt.ttf",
+      "path": "src/assets/font/futura/futura light bt.ttf",
+      "sha": "3fb654f1566b2e20ee7eb5639874513ebc293600",
+      "size": 37432,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20light%20bt.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20light%20bt.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3fb654f1566b2e20ee7eb5639874513ebc293600",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/futura%20light%20bt.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20light%20bt.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3fb654f1566b2e20ee7eb5639874513ebc293600",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20light%20bt.ttf"
+      }
+    },
+    {
+      "name": "futura medium bt.ttf",
+      "path": "src/assets/font/futura/futura medium bt.ttf",
+      "sha": "1ef199e9153a580ea105cca6896d954acbc35f63",
+      "size": 38764,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20medium%20bt.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20medium%20bt.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1ef199e9153a580ea105cca6896d954acbc35f63",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/futura%20medium%20bt.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20medium%20bt.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1ef199e9153a580ea105cca6896d954acbc35f63",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20medium%20bt.ttf"
+      }
+    },
+    {
+      "name": "futura medium bt.woff",
+      "path": "src/assets/font/futura/futura medium bt.woff",
+      "sha": "588bbc9efb2658e72f3b16d90fa565e8fd004a8f",
+      "size": 25052,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20medium%20bt.woff?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20medium%20bt.woff",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/588bbc9efb2658e72f3b16d90fa565e8fd004a8f",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/futura%20medium%20bt.woff",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20medium%20bt.woff?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/588bbc9efb2658e72f3b16d90fa565e8fd004a8f",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20medium%20bt.woff"
+      }
+    },
+    {
+      "name": "futura medium condensed bt.ttf",
+      "path": "src/assets/font/futura/futura medium condensed bt.ttf",
+      "sha": "7c3fe9e37ba50c240f4f9dc1bda7790197cc4b9b",
+      "size": 36336,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20medium%20condensed%20bt.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20medium%20condensed%20bt.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/7c3fe9e37ba50c240f4f9dc1bda7790197cc4b9b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/futura%20medium%20condensed%20bt.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/futura%20medium%20condensed%20bt.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/7c3fe9e37ba50c240f4f9dc1bda7790197cc4b9b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/futura%20medium%20condensed%20bt.ttf"
+      }
+    },
+    {
+      "name": "tt0205m_.ttf",
+      "path": "src/assets/font/futura/tt0205m_.ttf",
+      "sha": "3dc05d94943fffeab2995fc6c632bcce8bc14f44",
+      "size": 41644,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/tt0205m_.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/tt0205m_.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3dc05d94943fffeab2995fc6c632bcce8bc14f44",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/tt0205m_.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/tt0205m_.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3dc05d94943fffeab2995fc6c632bcce8bc14f44",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/tt0205m_.ttf"
+      }
+    },
+    {
+      "name": "unicode.futurab.ttf",
+      "path": "src/assets/font/futura/unicode.futurab.ttf",
+      "sha": "0c18339e17bf5395caab225bb87a3808e1be938e",
+      "size": 79538,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/unicode.futurab.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/unicode.futurab.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0c18339e17bf5395caab225bb87a3808e1be938e",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/unicode.futurab.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/unicode.futurab.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0c18339e17bf5395caab225bb87a3808e1be938e",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/unicode.futurab.ttf"
+      }
+    },
+    {
+      "name": "unicode.futurabb.ttf",
+      "path": "src/assets/font/futura/unicode.futurabb.ttf",
+      "sha": "68422b1095ad4c9363f9e4b391ab0ec288a344fb",
+      "size": 78650,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/unicode.futurabb.ttf?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/unicode.futurabb.ttf",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/68422b1095ad4c9363f9e4b391ab0ec288a344fb",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/font/futura/unicode.futurabb.ttf",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/font/futura/unicode.futurabb.ttf?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/68422b1095ad4c9363f9e4b391ab0ec288a344fb",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/font/futura/unicode.futurabb.ttf"
+      }
+    },
+    {
+      "name": "icons",
+      "path": "src/assets/icons",
+      "sha": "bc4d853a9eb812d9ef82ee6ac557b489c304348c",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/icons",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/bc4d853a9eb812d9ef82ee6ac557b489c304348c",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/bc4d853a9eb812d9ef82ee6ac557b489c304348c",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/icons"
+      }
+    },
+    {
+      "name": "arrow.svg",
+      "path": "src/assets/icons/arrow.svg",
+      "sha": "f3f5993b586aaee2c63392cb3e8f69080dcb8838",
+      "size": 1231,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/arrow.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/arrow.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f3f5993b586aaee2c63392cb3e8f69080dcb8838",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/arrow.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/arrow.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f3f5993b586aaee2c63392cb3e8f69080dcb8838",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/arrow.svg"
+      }
+    },
+    {
+      "name": "close.svg",
+      "path": "src/assets/icons/close.svg",
+      "sha": "f4252fc60ee551a300317ba9eb328ea3860dddce",
+      "size": 321,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/close.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/close.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f4252fc60ee551a300317ba9eb328ea3860dddce",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/close.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/close.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f4252fc60ee551a300317ba9eb328ea3860dddce",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/close.svg"
+      }
+    },
+    {
+      "name": "contactIcon",
+      "path": "src/assets/icons/contactIcon",
+      "sha": "ebbefac5db5375636f184f1bf9f03360d3705e43",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/icons/contactIcon",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/ebbefac5db5375636f184f1bf9f03360d3705e43",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/ebbefac5db5375636f184f1bf9f03360d3705e43",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/icons/contactIcon"
+      }
+    },
+    {
+      "name": "discord.svg",
+      "path": "src/assets/icons/contactIcon/discord.svg",
+      "sha": "58740d6163b3a9e7822e80cd6fdd7c4a95a97843",
+      "size": 3112,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/discord.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/discord.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/58740d6163b3a9e7822e80cd6fdd7c4a95a97843",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/discord.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/discord.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/58740d6163b3a9e7822e80cd6fdd7c4a95a97843",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/discord.svg"
+      }
+    },
+    {
+      "name": "email.svg",
+      "path": "src/assets/icons/contactIcon/email.svg",
+      "sha": "d0b14161677ebb72a088a98568a926d7d8e24302",
+      "size": 465,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/email.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/email.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/d0b14161677ebb72a088a98568a926d7d8e24302",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/email.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/email.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/d0b14161677ebb72a088a98568a926d7d8e24302",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/email.svg"
+      }
+    },
+    {
+      "name": "facebook.svg",
+      "path": "src/assets/icons/contactIcon/facebook.svg",
+      "sha": "3fa63089ee660dd57d010e1863089bea22c7acb6",
+      "size": 667,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/facebook.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/facebook.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3fa63089ee660dd57d010e1863089bea22c7acb6",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/facebook.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/facebook.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3fa63089ee660dd57d010e1863089bea22c7acb6",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/facebook.svg"
+      }
+    },
+    {
+      "name": "gather.svg",
+      "path": "src/assets/icons/contactIcon/gather.svg",
+      "sha": "5540dbccfa78cffa94a153ad1ac57d5245830c7e",
+      "size": 4548,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/gather.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/gather.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5540dbccfa78cffa94a153ad1ac57d5245830c7e",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/gather.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/gather.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5540dbccfa78cffa94a153ad1ac57d5245830c7e",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/gather.svg"
+      }
+    },
+    {
+      "name": "github.svg",
+      "path": "src/assets/icons/contactIcon/github.svg",
+      "sha": "221186e6fb33aed42cf28451e76d00445020de0b",
+      "size": 1053,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/github.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/github.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/221186e6fb33aed42cf28451e76d00445020de0b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/github.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/github.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/221186e6fb33aed42cf28451e76d00445020de0b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/github.svg"
+      }
+    },
+    {
+      "name": "instagram.svg",
+      "path": "src/assets/icons/contactIcon/instagram.svg",
+      "sha": "37cc35183982baf25d7648e9db4733112b478823",
+      "size": 4258,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/instagram.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/instagram.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/37cc35183982baf25d7648e9db4733112b478823",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/instagram.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/instagram.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/37cc35183982baf25d7648e9db4733112b478823",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/instagram.svg"
+      }
+    },
+    {
+      "name": "linkedin.svg",
+      "path": "src/assets/icons/contactIcon/linkedin.svg",
+      "sha": "4169f0c470c61de6770f446337de2e1d441e17ea",
+      "size": 1779,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/linkedin.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/linkedin.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4169f0c470c61de6770f446337de2e1d441e17ea",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/linkedin.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/linkedin.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4169f0c470c61de6770f446337de2e1d441e17ea",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/linkedin.svg"
+      }
+    },
+    {
+      "name": "reddit.svg",
+      "path": "src/assets/icons/contactIcon/reddit.svg",
+      "sha": "b62298ebd65bed2798684b4c6cf92143221d4693",
+      "size": 3751,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/reddit.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/reddit.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b62298ebd65bed2798684b4c6cf92143221d4693",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/reddit.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/reddit.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b62298ebd65bed2798684b4c6cf92143221d4693",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/reddit.svg"
+      }
+    },
+    {
+      "name": "tiktok.svg",
+      "path": "src/assets/icons/contactIcon/tiktok.svg",
+      "sha": "9728d3be95ffbe3bf96682d2a5f27f5feee73f54",
+      "size": 1600,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/tiktok.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/tiktok.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9728d3be95ffbe3bf96682d2a5f27f5feee73f54",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/tiktok.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/tiktok.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9728d3be95ffbe3bf96682d2a5f27f5feee73f54",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/tiktok.svg"
+      }
+    },
+    {
+      "name": "x.svg",
+      "path": "src/assets/icons/contactIcon/x.svg",
+      "sha": "4cb9b9ff00b34d35776515817de6695d140b2b95",
+      "size": 423,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/x.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/x.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4cb9b9ff00b34d35776515817de6695d140b2b95",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/x.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/x.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4cb9b9ff00b34d35776515817de6695d140b2b95",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/x.svg"
+      }
+    },
+    {
+      "name": "youtube.svg",
+      "path": "src/assets/icons/contactIcon/youtube.svg",
+      "sha": "41b44e3e6087c511b4c0f5a7b0bb381b206c1e89",
+      "size": 1132,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/youtube.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/youtube.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/41b44e3e6087c511b4c0f5a7b0bb381b206c1e89",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/contactIcon/youtube.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/contactIcon/youtube.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/41b44e3e6087c511b4c0f5a7b0bb381b206c1e89",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/contactIcon/youtube.svg"
+      }
+    },
+    {
+      "name": "discord.svg",
+      "path": "src/assets/icons/discord.svg",
+      "sha": "5192792708d020a7f1f2b69bf60191f87f765f55",
+      "size": 1990,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/discord.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/discord.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5192792708d020a7f1f2b69bf60191f87f765f55",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/discord.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/discord.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5192792708d020a7f1f2b69bf60191f87f765f55",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/discord.svg"
+      }
+    },
+    {
+      "name": "facebook.svg",
+      "path": "src/assets/icons/facebook.svg",
+      "sha": "d6733d3c1bfab9743b4071bd950104defd61553e",
+      "size": 536,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/facebook.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/facebook.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/d6733d3c1bfab9743b4071bd950104defd61553e",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/facebook.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/facebook.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/d6733d3c1bfab9743b4071bd950104defd61553e",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/facebook.svg"
+      }
+    },
+    {
+      "name": "favicon_24.png",
+      "path": "src/assets/icons/favicon_24.png",
+      "sha": "286f1d0aa3dd0d8e20dc0d3d26a2481a326a8a4a",
+      "size": 692,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/favicon_24.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/favicon_24.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/286f1d0aa3dd0d8e20dc0d3d26a2481a326a8a4a",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/favicon_24.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/favicon_24.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/286f1d0aa3dd0d8e20dc0d3d26a2481a326a8a4a",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/favicon_24.png"
+      }
+    },
+    {
+      "name": "github.svg",
+      "path": "src/assets/icons/github.svg",
+      "sha": "f1eea106248f7069c0bbb77dd51283c20ea8fc18",
+      "size": 1968,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/github.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/github.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f1eea106248f7069c0bbb77dd51283c20ea8fc18",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/github.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/github.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f1eea106248f7069c0bbb77dd51283c20ea8fc18",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/github.svg"
+      }
+    },
+    {
+      "name": "linkedin.svg",
+      "path": "src/assets/icons/linkedin.svg",
+      "sha": "1d8bc814cdf4b4a3161fab3c553a1822b7c3fb8c",
+      "size": 1178,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/linkedin.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/linkedin.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1d8bc814cdf4b4a3161fab3c553a1822b7c3fb8c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/linkedin.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/linkedin.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1d8bc814cdf4b4a3161fab3c553a1822b7c3fb8c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/linkedin.svg"
+      }
+    },
+    {
+      "name": "linkedin_black.svg",
+      "path": "src/assets/icons/linkedin_black.svg",
+      "sha": "d0656e39a42da96f3e2f84a58813ca4ee174f39e",
+      "size": 1004,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/linkedin_black.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/linkedin_black.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/d0656e39a42da96f3e2f84a58813ca4ee174f39e",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/linkedin_black.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/linkedin_black.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/d0656e39a42da96f3e2f84a58813ca4ee174f39e",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/linkedin_black.svg"
+      }
+    },
+    {
+      "name": "menu.svg",
+      "path": "src/assets/icons/menu.svg",
+      "sha": "6ed3d7355a6c57cfd281fdfb35defdf2f7b67084",
+      "size": 157,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/menu.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/menu.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6ed3d7355a6c57cfd281fdfb35defdf2f7b67084",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/menu.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/menu.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6ed3d7355a6c57cfd281fdfb35defdf2f7b67084",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/menu.svg"
+      }
+    },
+    {
+      "name": "minus.svg",
+      "path": "src/assets/icons/minus.svg",
+      "sha": "8e7575d2d19ef4f59aee0e959ead5cc9c155bd16",
+      "size": 159,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/minus.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/minus.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8e7575d2d19ef4f59aee0e959ead5cc9c155bd16",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/minus.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/minus.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8e7575d2d19ef4f59aee0e959ead5cc9c155bd16",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/minus.svg"
+      }
+    },
+    {
+      "name": "plus.svg",
+      "path": "src/assets/icons/plus.svg",
+      "sha": "b1ea0d609d195f4b71fcc3367f9fdb7ab35cf11a",
+      "size": 200,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/plus.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/plus.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b1ea0d609d195f4b71fcc3367f9fdb7ab35cf11a",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/plus.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/plus.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b1ea0d609d195f4b71fcc3367f9fdb7ab35cf11a",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/plus.svg"
+      }
+    },
+    {
+      "name": "web3ph.svg",
+      "path": "src/assets/icons/web3ph.svg",
+      "sha": "c44f95a1d39aa43b274ab98a180422928b53dcf5",
+      "size": 12756,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/web3ph.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/web3ph.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c44f95a1d39aa43b274ab98a180422928b53dcf5",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/web3ph.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/web3ph.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c44f95a1d39aa43b274ab98a180422928b53dcf5",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/web3ph.svg"
+      }
+    },
+    {
+      "name": "web3ph_white.svg",
+      "path": "src/assets/icons/web3ph_white.svg",
+      "sha": "8ddee25682d270139630ed319b01309d0c160c3c",
+      "size": 12756,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/web3ph_white.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/web3ph_white.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8ddee25682d270139630ed319b01309d0c160c3c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/web3ph_white.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/web3ph_white.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8ddee25682d270139630ed319b01309d0c160c3c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/web3ph_white.svg"
+      }
+    },
+    {
+      "name": "x.svg",
+      "path": "src/assets/icons/x.svg",
+      "sha": "14e85b18bda8a4b54141ff4affb01eab13badf4b",
+      "size": 373,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/x.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/x.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/14e85b18bda8a4b54141ff4affb01eab13badf4b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/x.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/x.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/14e85b18bda8a4b54141ff4affb01eab13badf4b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/x.svg"
+      }
+    },
+    {
+      "name": "x_black.svg",
+      "path": "src/assets/icons/x_black.svg",
+      "sha": "2ef885663804e0cf295903b615627b7344ab6eec",
+      "size": 430,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/x_black.svg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/x_black.svg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2ef885663804e0cf295903b615627b7344ab6eec",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/icons/x_black.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/icons/x_black.svg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2ef885663804e0cf295903b615627b7344ab6eec",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/icons/x_black.svg"
+      }
+    },
+    {
+      "name": "images",
+      "path": "src/assets/images",
+      "sha": "ed922782f0dbfb63eeaf6a9d68c25c1cdaba6985",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/images",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/ed922782f0dbfb63eeaf6a9d68c25c1cdaba6985",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/ed922782f0dbfb63eeaf6a9d68c25c1cdaba6985",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/images"
+      }
+    },
+    {
+      "name": "banner.jpg",
+      "path": "src/assets/images/banner.jpg",
+      "sha": "03ae1b8c5a0e227733057132938b7f23160f606c",
+      "size": 2118327,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/banner.jpg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/banner.jpg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/03ae1b8c5a0e227733057132938b7f23160f606c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/banner.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/banner.jpg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/03ae1b8c5a0e227733057132938b7f23160f606c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/banner.jpg"
+      }
+    },
+    {
+      "name": "benedict.png",
+      "path": "src/assets/images/benedict.png",
+      "sha": "6f9838718c6a177b78927c0ca2392492bed84a6f",
+      "size": 1037559,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/benedict.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/benedict.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6f9838718c6a177b78927c0ca2392492bed84a6f",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/benedict.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/benedict.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6f9838718c6a177b78927c0ca2392492bed84a6f",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/benedict.png"
+      }
+    },
+    {
+      "name": "directory.png",
+      "path": "src/assets/images/directory.png",
+      "sha": "1df3db7a833e6ca073186e85508296a755047b80",
+      "size": 42583,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/directory.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/directory.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1df3db7a833e6ca073186e85508296a755047b80",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/directory.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/directory.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1df3db7a833e6ca073186e85508296a755047b80",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/directory.png"
+      }
+    },
+    {
+      "name": "display_profile",
+      "path": "src/assets/images/display_profile",
+      "sha": "e5ea1b056bad1c054a535d277b050f25dff360c9",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/images/display_profile",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/e5ea1b056bad1c054a535d277b050f25dff360c9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/e5ea1b056bad1c054a535d277b050f25dff360c9",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/assets/images/display_profile"
+      }
+    },
+    {
+      "name": "Airouh.png",
+      "path": "src/assets/images/display_profile/Airouh.png",
+      "sha": "0e7f5a21e5203c32622fc93cf4bf6f05825ef2e3",
+      "size": 874555,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Airouh.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Airouh.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0e7f5a21e5203c32622fc93cf4bf6f05825ef2e3",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Airouh.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Airouh.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0e7f5a21e5203c32622fc93cf4bf6f05825ef2e3",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Airouh.png"
+      }
+    },
+    {
+      "name": "Allan.png",
+      "path": "src/assets/images/display_profile/Allan.png",
+      "sha": "8452ca335ee2e3604f020bfc67c8b92b48f7fbee",
+      "size": 916773,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Allan.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Allan.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8452ca335ee2e3604f020bfc67c8b92b48f7fbee",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Allan.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Allan.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/8452ca335ee2e3604f020bfc67c8b92b48f7fbee",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Allan.png"
+      }
+    },
+    {
+      "name": "Alvin.png",
+      "path": "src/assets/images/display_profile/Alvin.png",
+      "sha": "b9864d5d8a66b3daf56a65093399fc02dba30185",
+      "size": 988845,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Alvin.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Alvin.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b9864d5d8a66b3daf56a65093399fc02dba30185",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Alvin.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Alvin.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b9864d5d8a66b3daf56a65093399fc02dba30185",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Alvin.png"
+      }
+    },
+    {
+      "name": "Dwayne.png",
+      "path": "src/assets/images/display_profile/Dwayne.png",
+      "sha": "9c2d77b3e48dcc1c31ffce8ffd96be3777d57994",
+      "size": 794250,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Dwayne.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Dwayne.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9c2d77b3e48dcc1c31ffce8ffd96be3777d57994",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Dwayne.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Dwayne.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9c2d77b3e48dcc1c31ffce8ffd96be3777d57994",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Dwayne.png"
+      }
+    },
+    {
+      "name": "Jb.png",
+      "path": "src/assets/images/display_profile/Jb.png",
+      "sha": "1327163ad6cf580f5f5565baaff90e07d68196e3",
+      "size": 1023016,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Jb.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Jb.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1327163ad6cf580f5f5565baaff90e07d68196e3",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Jb.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Jb.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/1327163ad6cf580f5f5565baaff90e07d68196e3",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Jb.png"
+      }
+    },
+    {
+      "name": "Kristian.png",
+      "path": "src/assets/images/display_profile/Kristian.png",
+      "sha": "5aaff1a51b801cd706241811c3be9dbfb9231b75",
+      "size": 933656,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Kristian.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Kristian.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5aaff1a51b801cd706241811c3be9dbfb9231b75",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Kristian.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Kristian.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5aaff1a51b801cd706241811c3be9dbfb9231b75",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Kristian.png"
+      }
+    },
+    {
+      "name": "Mark.png",
+      "path": "src/assets/images/display_profile/Mark.png",
+      "sha": "9c57226ab19842664137f4e354d6f6ea71d05fce",
+      "size": 898466,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Mark.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Mark.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9c57226ab19842664137f4e354d6f6ea71d05fce",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Mark.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Mark.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9c57226ab19842664137f4e354d6f6ea71d05fce",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Mark.png"
+      }
+    },
+    {
+      "name": "Melissa.png",
+      "path": "src/assets/images/display_profile/Melissa.png",
+      "sha": "c579ed184c2f27ab16cc6402df52c62f7079a070",
+      "size": 1033934,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Melissa.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Melissa.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c579ed184c2f27ab16cc6402df52c62f7079a070",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Melissa.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Melissa.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c579ed184c2f27ab16cc6402df52c62f7079a070",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Melissa.png"
+      }
+    },
+    {
+      "name": "Paula.png",
+      "path": "src/assets/images/display_profile/Paula.png",
+      "sha": "f6e9d960b1a4b32b6925a256286cf43d85fbb09d",
+      "size": 1101801,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Paula.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Paula.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f6e9d960b1a4b32b6925a256286cf43d85fbb09d",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Paula.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Paula.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f6e9d960b1a4b32b6925a256286cf43d85fbb09d",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Paula.png"
+      }
+    },
+    {
+      "name": "Warb.png",
+      "path": "src/assets/images/display_profile/Warb.png",
+      "sha": "90180dc2e4f9e1f1c7738c8e01024cffd513cc96",
+      "size": 1036014,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Warb.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Warb.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/90180dc2e4f9e1f1c7738c8e01024cffd513cc96",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Warb.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Warb.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/90180dc2e4f9e1f1c7738c8e01024cffd513cc96",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Warb.png"
+      }
+    },
+    {
+      "name": "Waren.png",
+      "path": "src/assets/images/display_profile/Waren.png",
+      "sha": "fc178d98b1b735d7905e598c888ceff588d90e9d",
+      "size": 830950,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Waren.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Waren.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/fc178d98b1b735d7905e598c888ceff588d90e9d",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/display_profile/Waren.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/display_profile/Waren.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/fc178d98b1b735d7905e598c888ceff588d90e9d",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/display_profile/Waren.png"
+      }
+    },
+    {
+      "name": "hero.jpg",
+      "path": "src/assets/images/hero.jpg",
+      "sha": "f60b2eacec4e364c9c495bce48e45ba6ed7dbe00",
+      "size": 910075,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/hero.jpg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/hero.jpg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f60b2eacec4e364c9c495bce48e45ba6ed7dbe00",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/hero.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/hero.jpg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f60b2eacec4e364c9c495bce48e45ba6ed7dbe00",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/hero.jpg"
+      }
+    },
+    {
+      "name": "imbakan.png",
+      "path": "src/assets/images/imbakan.png",
+      "sha": "2f5c24e6bb30cce2397e637f19266d2b1cbc9963",
+      "size": 10385,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/imbakan.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/imbakan.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2f5c24e6bb30cce2397e637f19266d2b1cbc9963",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/imbakan.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/imbakan.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2f5c24e6bb30cce2397e637f19266d2b1cbc9963",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/imbakan.png"
+      }
+    },
+    {
+      "name": "kristian.png",
+      "path": "src/assets/images/kristian.png",
+      "sha": "5ae06e1d67986e966de2011f397b78e3d1af4c0c",
+      "size": 2091052,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/kristian.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/kristian.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5ae06e1d67986e966de2011f397b78e3d1af4c0c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/kristian.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/kristian.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5ae06e1d67986e966de2011f397b78e3d1af4c0c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/kristian.png"
+      }
+    },
+    {
+      "name": "mark.png",
+      "path": "src/assets/images/mark.png",
+      "sha": "09ec5cc01896c6bc8737ad1552871b7dbdbf2d73",
+      "size": 602052,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/mark.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/mark.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/09ec5cc01896c6bc8737ad1552871b7dbdbf2d73",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/mark.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/mark.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/09ec5cc01896c6bc8737ad1552871b7dbdbf2d73",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/mark.png"
+      }
+    },
+    {
+      "name": "matuto.png",
+      "path": "src/assets/images/matuto.png",
+      "sha": "a5955474136014dbe5e84ea3981c65e96744acbd",
+      "size": 440631,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/matuto.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/matuto.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a5955474136014dbe5e84ea3981c65e96744acbd",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/matuto.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/matuto.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a5955474136014dbe5e84ea3981c65e96744acbd",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/matuto.png"
+      }
+    },
+    {
+      "name": "melissa.png",
+      "path": "src/assets/images/melissa.png",
+      "sha": "fb1e86fc89533e2032022beef406693320477925",
+      "size": 490107,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/melissa.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/melissa.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/fb1e86fc89533e2032022beef406693320477925",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/melissa.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/melissa.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/fb1e86fc89533e2032022beef406693320477925",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/melissa.png"
+      }
+    },
+    {
+      "name": "paula.png",
+      "path": "src/assets/images/paula.png",
+      "sha": "48ef7de388f130a853fb79eff65d4c7c1cff190a",
+      "size": 687379,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/paula.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/paula.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/48ef7de388f130a853fb79eff65d4c7c1cff190a",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/paula.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/paula.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/48ef7de388f130a853fb79eff65d4c7c1cff190a",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/paula.png"
+      }
+    },
+    {
+      "name": "placeholder1.png",
+      "path": "src/assets/images/placeholder1.png",
+      "sha": "6a8d7512832c830725b7b9d92ec6ab704d6c501d",
+      "size": 325780,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder1.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder1.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6a8d7512832c830725b7b9d92ec6ab704d6c501d",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder1.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder1.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6a8d7512832c830725b7b9d92ec6ab704d6c501d",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder1.png"
+      }
+    },
+    {
+      "name": "placeholder2.png",
+      "path": "src/assets/images/placeholder2.png",
+      "sha": "419cf7ecce40e327bd649c26aebfaafd31443473",
+      "size": 91733,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder2.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder2.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/419cf7ecce40e327bd649c26aebfaafd31443473",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder2.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder2.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/419cf7ecce40e327bd649c26aebfaafd31443473",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder2.png"
+      }
+    },
+    {
+      "name": "placeholder3.png",
+      "path": "src/assets/images/placeholder3.png",
+      "sha": "6378498feb0e8e9d256ebca714ff5c99e1c6de10",
+      "size": 68116,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder3.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder3.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6378498feb0e8e9d256ebca714ff5c99e1c6de10",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder3.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder3.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/6378498feb0e8e9d256ebca714ff5c99e1c6de10",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder3.png"
+      }
+    },
+    {
+      "name": "placeholder4.png",
+      "path": "src/assets/images/placeholder4.png",
+      "sha": "2b3767055d738c33255823f9b6abaab8ae45b3a0",
+      "size": 20386,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder4.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder4.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2b3767055d738c33255823f9b6abaab8ae45b3a0",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder4.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder4.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2b3767055d738c33255823f9b6abaab8ae45b3a0",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder4.png"
+      }
+    },
+    {
+      "name": "placeholder5.jpg",
+      "path": "src/assets/images/placeholder5.jpg",
+      "sha": "a6b8424cf9720fc108fd5ff3d90b4cec9792aadc",
+      "size": 483669,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder5.jpg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder5.jpg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a6b8424cf9720fc108fd5ff3d90b4cec9792aadc",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder5.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder5.jpg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a6b8424cf9720fc108fd5ff3d90b4cec9792aadc",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder5.jpg"
+      }
+    },
+    {
+      "name": "placeholder6.jpg",
+      "path": "src/assets/images/placeholder6.jpg",
+      "sha": "0db1c7c6362a9c2134160697b6f9435de8e7a2a4",
+      "size": 553011,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder6.jpg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder6.jpg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0db1c7c6362a9c2134160697b6f9435de8e7a2a4",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder6.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder6.jpg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0db1c7c6362a9c2134160697b6f9435de8e7a2a4",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder6.jpg"
+      }
+    },
+    {
+      "name": "placeholder7.jpg",
+      "path": "src/assets/images/placeholder7.jpg",
+      "sha": "fa8370d1bc7d433fc4b4dcd8577d6a2486dad2d6",
+      "size": 491617,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder7.jpg?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder7.jpg",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/fa8370d1bc7d433fc4b4dcd8577d6a2486dad2d6",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/placeholder7.jpg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/placeholder7.jpg?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/fa8370d1bc7d433fc4b4dcd8577d6a2486dad2d6",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/placeholder7.jpg"
+      }
+    },
+    {
+      "name": "waren.png",
+      "path": "src/assets/images/waren.png",
+      "sha": "a98fc32b6dfa43ebe8369552d9fbf3857dfeecc5",
+      "size": 907733,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/waren.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/waren.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a98fc32b6dfa43ebe8369552d9fbf3857dfeecc5",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/waren.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/waren.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a98fc32b6dfa43ebe8369552d9fbf3857dfeecc5",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/waren.png"
+      }
+    },
+    {
+      "name": "warvin.png",
+      "path": "src/assets/images/warvin.png",
+      "sha": "c70ddd08cf159dfc42bc2ca88cf23b43ff39c2e3",
+      "size": 811499,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/warvin.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/warvin.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c70ddd08cf159dfc42bc2ca88cf23b43ff39c2e3",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/warvin.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/warvin.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c70ddd08cf159dfc42bc2ca88cf23b43ff39c2e3",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/warvin.png"
+      }
+    },
+    {
+      "name": "yenn.png",
+      "path": "src/assets/images/yenn.png",
+      "sha": "912b21d6a0ad815e003befaa032bb5a60b9b1d26",
+      "size": 856374,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/yenn.png?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/yenn.png",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/912b21d6a0ad815e003befaa032bb5a60b9b1d26",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/assets/images/yenn.png",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/assets/images/yenn.png?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/912b21d6a0ad815e003befaa032bb5a60b9b1d26",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/assets/images/yenn.png"
+      }
+    },
+    {
+      "name": "components",
+      "path": "src/components",
+      "sha": "9a9b709eaf6e94aef2af81ad099b4597eb8afabf",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/components",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/9a9b709eaf6e94aef2af81ad099b4597eb8afabf",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/9a9b709eaf6e94aef2af81ad099b4597eb8afabf",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/components"
+      }
+    },
+    {
+      "name": "Faqs.jsx",
+      "path": "src/components/Faqs.jsx",
+      "sha": "231b2793e735ea938d120ed0de7d078e3753ce1c",
+      "size": 1055,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Faqs.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Faqs.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/231b2793e735ea938d120ed0de7d078e3753ce1c",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/Faqs.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Faqs.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/231b2793e735ea938d120ed0de7d078e3753ce1c",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Faqs.jsx"
+      }
+    },
+    {
+      "name": "Footer.jsx",
+      "path": "src/components/Footer.jsx",
+      "sha": "cdc628c78d0496a937db322c166b4e5d328c5344",
+      "size": 1432,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Footer.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Footer.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cdc628c78d0496a937db322c166b4e5d328c5344",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/Footer.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Footer.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/cdc628c78d0496a937db322c166b4e5d328c5344",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Footer.jsx"
+      }
+    },
+    {
+      "name": "FooterAction.jsx",
+      "path": "src/components/FooterAction.jsx",
+      "sha": "b7747d983906941f32e25b7d3f723e2e41e23ead",
+      "size": 572,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/FooterAction.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/FooterAction.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b7747d983906941f32e25b7d3f723e2e41e23ead",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/FooterAction.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/FooterAction.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b7747d983906941f32e25b7d3f723e2e41e23ead",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/FooterAction.jsx"
+      }
+    },
+    {
+      "name": "GradientButton.jsx",
+      "path": "src/components/GradientButton.jsx",
+      "sha": "2f4550091bf1e71c73bc3975d103713e97b43858",
+      "size": 478,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/GradientButton.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/GradientButton.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2f4550091bf1e71c73bc3975d103713e97b43858",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/GradientButton.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/GradientButton.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2f4550091bf1e71c73bc3975d103713e97b43858",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/GradientButton.jsx"
+      }
+    },
+    {
+      "name": "Header.jsx",
+      "path": "src/components/Header.jsx",
+      "sha": "c1b99aa02fc35b0154ab594c3489a516351eac31",
+      "size": 1021,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Header.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Header.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c1b99aa02fc35b0154ab594c3489a516351eac31",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/Header.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Header.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c1b99aa02fc35b0154ab594c3489a516351eac31",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Header.jsx"
+      }
+    },
+    {
+      "name": "HomeContents.jsx",
+      "path": "src/components/HomeContents.jsx",
+      "sha": "9beef39e3b364540101485c0e2f9bf032ddafd71",
+      "size": 5353,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/HomeContents.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/HomeContents.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9beef39e3b364540101485c0e2f9bf032ddafd71",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/HomeContents.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/HomeContents.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/9beef39e3b364540101485c0e2f9bf032ddafd71",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/HomeContents.jsx"
+      }
+    },
+    {
+      "name": "InputWithButton.jsx",
+      "path": "src/components/InputWithButton.jsx",
+      "sha": "ebd7f5dd3e1ba79e1303fa1b7467643b0824bb5f",
+      "size": 715,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/InputWithButton.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/InputWithButton.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/ebd7f5dd3e1ba79e1303fa1b7467643b0824bb5f",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/InputWithButton.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/InputWithButton.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/ebd7f5dd3e1ba79e1303fa1b7467643b0824bb5f",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/InputWithButton.jsx"
+      }
+    },
+    {
+      "name": "Navbar.jsx",
+      "path": "src/components/Navbar.jsx",
+      "sha": "0a7527ddee51c8dc15c038371f011bdd6914dad8",
+      "size": 5751,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Navbar.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Navbar.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0a7527ddee51c8dc15c038371f011bdd6914dad8",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/Navbar.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/Navbar.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/0a7527ddee51c8dc15c038371f011bdd6914dad8",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/Navbar.jsx"
+      }
+    },
+    {
+      "name": "ProductCard.jsx",
+      "path": "src/components/ProductCard.jsx",
+      "sha": "f3324ecd5bb4f283dbcef1abe090fec9facb0bed",
+      "size": 1249,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/ProductCard.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/ProductCard.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f3324ecd5bb4f283dbcef1abe090fec9facb0bed",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/ProductCard.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/ProductCard.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f3324ecd5bb4f283dbcef1abe090fec9facb0bed",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/ProductCard.jsx"
+      }
+    },
+    {
+      "name": "ScrollToTop.jsx",
+      "path": "src/components/ScrollToTop.jsx",
+      "sha": "a1bbaeff567fdf04781d22e3943c076d233dd28b",
+      "size": 1058,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/ScrollToTop.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/components/ScrollToTop.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a1bbaeff567fdf04781d22e3943c076d233dd28b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/components/ScrollToTop.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/components/ScrollToTop.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a1bbaeff567fdf04781d22e3943c076d233dd28b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/components/ScrollToTop.jsx"
+      }
+    },
+    {
+      "name": "data",
+      "path": "src/data",
+      "sha": "e7faad81f69334f8eb4e9364a77aa497cc2a2ead",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/data",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/e7faad81f69334f8eb4e9364a77aa497cc2a2ead",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/e7faad81f69334f8eb4e9364a77aa497cc2a2ead",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/data"
+      }
+    },
+    {
+      "name": "aboutData.js",
+      "path": "src/data/aboutData.js",
+      "sha": "b54747e37aaed58a5d7932bf65ed4736c80d0952",
+      "size": 998,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/aboutData.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/aboutData.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b54747e37aaed58a5d7932bf65ed4736c80d0952",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/aboutData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/aboutData.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/b54747e37aaed58a5d7932bf65ed4736c80d0952",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/aboutData.js"
+      }
+    },
+    {
+      "name": "blogData.js",
+      "path": "src/data/blogData.js",
+      "sha": "78848aeb74f266a47c482b21a2158889d50b3861",
+      "size": 772,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/blogData.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/blogData.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/78848aeb74f266a47c482b21a2158889d50b3861",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/blogData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/blogData.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/78848aeb74f266a47c482b21a2158889d50b3861",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/blogData.js"
+      }
+    },
+    {
+      "name": "contactData.js",
+      "path": "src/data/contactData.js",
+      "sha": "f87c7d8fbd84c35f468ef04caba29031989029d6",
+      "size": 2761,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/contactData.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/contactData.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f87c7d8fbd84c35f468ef04caba29031989029d6",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/contactData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/contactData.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/f87c7d8fbd84c35f468ef04caba29031989029d6",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/contactData.js"
+      }
+    },
+    {
+      "name": "faqsData.js",
+      "path": "src/data/faqsData.js",
+      "sha": "79e891ca96c6e4c07a3472f7d26654ba8cbcd177",
+      "size": 2104,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/faqsData.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/faqsData.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/79e891ca96c6e4c07a3472f7d26654ba8cbcd177",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/faqsData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/faqsData.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/79e891ca96c6e4c07a3472f7d26654ba8cbcd177",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/faqsData.js"
+      }
+    },
+    {
+      "name": "membersData.js",
+      "path": "src/data/membersData.js",
+      "sha": "e55d47845f22c8040086c6eabf59e1fd231df2e3",
+      "size": 3248,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/membersData.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/membersData.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e55d47845f22c8040086c6eabf59e1fd231df2e3",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/membersData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/membersData.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/e55d47845f22c8040086c6eabf59e1fd231df2e3",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/membersData.js"
+      }
+    },
+    {
+      "name": "productsData.js",
+      "path": "src/data/productsData.js",
+      "sha": "99d0c0ea1cc85dd0bd0a438d1ff90b95a048092b",
+      "size": 784,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/productsData.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/productsData.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/99d0c0ea1cc85dd0bd0a438d1ff90b95a048092b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/productsData.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/productsData.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/99d0c0ea1cc85dd0bd0a438d1ff90b95a048092b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/productsData.js"
+      }
+    },
+    {
+      "name": "socialMediaLinks.js",
+      "path": "src/data/socialMediaLinks.js",
+      "sha": "60e50956169a7a3a6a141ef5c04437fca633724a",
+      "size": 861,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/socialMediaLinks.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/data/socialMediaLinks.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/60e50956169a7a3a6a141ef5c04437fca633724a",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/data/socialMediaLinks.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/data/socialMediaLinks.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/60e50956169a7a3a6a141ef5c04437fca633724a",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/data/socialMediaLinks.js"
+      }
+    },
+    {
+      "name": "index.css",
+      "path": "src/index.css",
+      "sha": "bd6213e1dfe6b0a79ce7d8b37d0d2dc70f0250bb",
+      "size": 58,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/index.css?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/index.css",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/bd6213e1dfe6b0a79ce7d8b37d0d2dc70f0250bb",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/index.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/index.css?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/bd6213e1dfe6b0a79ce7d8b37d0d2dc70f0250bb",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/index.css"
+      }
+    },
+    {
+      "name": "main.jsx",
+      "path": "src/main.jsx",
+      "sha": "aab3f49bfe537d74ac4305530019648d43622df8",
+      "size": 402,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/main.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/main.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/aab3f49bfe537d74ac4305530019648d43622df8",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/main.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/main.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/aab3f49bfe537d74ac4305530019648d43622df8",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/main.jsx"
+      }
+    },
+    {
+      "name": "pages",
+      "path": "src/pages",
+      "sha": "728f9192843010996e9dda47cfae2f2ce6e3e371",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/pages",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/728f9192843010996e9dda47cfae2f2ce6e3e371",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/728f9192843010996e9dda47cfae2f2ce6e3e371",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/pages"
+      }
+    },
+    {
+      "name": "About.jsx",
+      "path": "src/pages/About.jsx",
+      "sha": "054af90bb7466c33e6353c7a7771b76045eb8e9e",
+      "size": 6155,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/About.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/About.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/054af90bb7466c33e6353c7a7771b76045eb8e9e",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/pages/About.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/About.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/054af90bb7466c33e6353c7a7771b76045eb8e9e",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/About.jsx"
+      }
+    },
+    {
+      "name": "Blog.jsx",
+      "path": "src/pages/Blog.jsx",
+      "sha": "3a58b070d8876936844822a4df81f21c0f5768ff",
+      "size": 3051,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Blog.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Blog.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3a58b070d8876936844822a4df81f21c0f5768ff",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/pages/Blog.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Blog.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3a58b070d8876936844822a4df81f21c0f5768ff",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Blog.jsx"
+      }
+    },
+    {
+      "name": "Contact.jsx",
+      "path": "src/pages/Contact.jsx",
+      "sha": "2e3e715bf8a8503483cb8c1e8c5fa1dd6d41082d",
+      "size": 2406,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Contact.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Contact.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2e3e715bf8a8503483cb8c1e8c5fa1dd6d41082d",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/pages/Contact.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Contact.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/2e3e715bf8a8503483cb8c1e8c5fa1dd6d41082d",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Contact.jsx"
+      }
+    },
+    {
+      "name": "Home.jsx",
+      "path": "src/pages/Home.jsx",
+      "sha": "4237eba46f58f5777cd254f1d53351f769fbe969",
+      "size": 3859,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Home.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Home.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4237eba46f58f5777cd254f1d53351f769fbe969",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/pages/Home.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Home.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/4237eba46f58f5777cd254f1d53351f769fbe969",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Home.jsx"
+      }
+    },
+    {
+      "name": "Products.jsx",
+      "path": "src/pages/Products.jsx",
+      "sha": "868fa389539f16b91372c70a65db0715daf7ee6f",
+      "size": 1796,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Products.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Products.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/868fa389539f16b91372c70a65db0715daf7ee6f",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/pages/Products.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/Products.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/868fa389539f16b91372c70a65db0715daf7ee6f",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/Products.jsx"
+      }
+    },
+    {
+      "name": "UnknownPage.jsx",
+      "path": "src/pages/UnknownPage.jsx",
+      "sha": "ce80c16051df8d8bd7c63d80085b8d6107702db7",
+      "size": 812,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/UnknownPage.jsx?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/UnknownPage.jsx",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/ce80c16051df8d8bd7c63d80085b8d6107702db7",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/pages/UnknownPage.jsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/pages/UnknownPage.jsx?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/ce80c16051df8d8bd7c63d80085b8d6107702db7",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/pages/UnknownPage.jsx"
+      }
+    },
+    {
+      "name": "styles",
+      "path": "src/styles",
+      "sha": "7d57a4a87fa43f6b8eb10834cb29ffdf236acb15",
+      "size": 0,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/styles?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/tree/main/src/styles",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/7d57a4a87fa43f6b8eb10834cb29ffdf236acb15",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/styles?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/trees/7d57a4a87fa43f6b8eb10834cb29ffdf236acb15",
+        "html": "https://github.com/Web3Philippines/homepage/tree/main/src/styles"
+      }
+    },
+    {
+      "name": "main.css",
+      "path": "src/styles/main.css",
+      "sha": "3d1d3e5677040d3854a416804a061133d5132f90",
+      "size": 564,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/styles/main.css?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/styles/main.css",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3d1d3e5677040d3854a416804a061133d5132f90",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/styles/main.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/styles/main.css?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3d1d3e5677040d3854a416804a061133d5132f90",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/styles/main.css"
+      }
+    },
+    {
+      "name": "scrollToTop.css",
+      "path": "src/styles/scrollToTop.css",
+      "sha": "a8b1066e947ea2019d6ff8f93e8b2ede4d78be9b",
+      "size": 246,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/styles/scrollToTop.css?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/src/styles/scrollToTop.css",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a8b1066e947ea2019d6ff8f93e8b2ede4d78be9b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/src/styles/scrollToTop.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/src/styles/scrollToTop.css?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/a8b1066e947ea2019d6ff8f93e8b2ede4d78be9b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/src/styles/scrollToTop.css"
+      }
+    },
+    {
+      "name": "tailwind.config.js",
+      "path": "tailwind.config.js",
+      "sha": "c10d84002e73dcefd1b87ba37c8f1132d0bb74cd",
+      "size": 606,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/tailwind.config.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/tailwind.config.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c10d84002e73dcefd1b87ba37c8f1132d0bb74cd",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/tailwind.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/tailwind.config.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/c10d84002e73dcefd1b87ba37c8f1132d0bb74cd",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/tailwind.config.js"
+      }
+    },
+    {
+      "name": "vercel.json",
+      "path": "vercel.json",
+      "sha": "3a48e56ba5246d0bc3cff58923771c6b1c4f1f93",
+      "size": 62,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/vercel.json?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/vercel.json",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3a48e56ba5246d0bc3cff58923771c6b1c4f1f93",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/vercel.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/vercel.json?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/3a48e56ba5246d0bc3cff58923771c6b1c4f1f93",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/vercel.json"
+      }
+    },
+    {
+      "name": "vite.config.js",
+      "path": "vite.config.js",
+      "sha": "5a33944a9b41b59a9cf06ee4bb5586c77510f06b",
+      "size": 163,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/vite.config.js?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/vite.config.js",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5a33944a9b41b59a9cf06ee4bb5586c77510f06b",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/vite.config.js",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/vite.config.js?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/5a33944a9b41b59a9cf06ee4bb5586c77510f06b",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/vite.config.js"
+      }
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "sha": "467bde069ef825977e6938d752593afa0d8e6dc8",
+      "size": 131433,
+      "url": "https://api.github.com/repos/Web3Philippines/homepage/contents/yarn.lock?ref=main",
+      "html_url": "https://github.com/Web3Philippines/homepage/blob/main/yarn.lock",
+      "git_url": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/467bde069ef825977e6938d752593afa0d8e6dc8",
+      "download_url": "https://raw.githubusercontent.com/Web3Philippines/homepage/main/yarn.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Web3Philippines/homepage/contents/yarn.lock?ref=main",
+        "git": "https://api.github.com/repos/Web3Philippines/homepage/git/blobs/467bde069ef825977e6938d752593afa0d8e6dc8",
+        "html": "https://github.com/Web3Philippines/homepage/blob/main/yarn.lock"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6733,
+    "opensource.org": 10261,
+    "contrib.rocks": null,
+    "wgtechlabs.com": 943,
+    "web3philippines.org": 1390,
+    "img.shields.io": 4775,
+    "ossph.org": 1946
+  },
+  "collected_at": "2026-03-17T16:51:52.160728"
+}

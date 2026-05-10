@@ -1,0 +1,837 @@
+{
+  "repo_full_name": "solanmevbot/solana-mev-bot",
+  "repo_deleted": false,
+  "data_source": "github_api",
+  "collected_at": "2026-03-15T04:23:06.217067",
+  "repo_detail": {
+    "id": 16924605,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjkyNDYwNQ==",
+    "name": "solana-mev-bot",
+    "full_name": "solanmevbot/solana-mev-bot",
+    "private": false,
+    "owner": {
+      "login": "solanmevbot",
+      "id": 5007939,
+      "node_id": "MDQ6VXNlcjUwMDc5Mzk=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5007939?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/solanmevbot",
+      "html_url": "https://github.com/solanmevbot",
+      "followers_url": "https://api.github.com/users/solanmevbot/followers",
+      "following_url": "https://api.github.com/users/solanmevbot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/solanmevbot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/solanmevbot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/solanmevbot/subscriptions",
+      "organizations_url": "https://api.github.com/users/solanmevbot/orgs",
+      "repos_url": "https://api.github.com/users/solanmevbot/repos",
+      "events_url": "https://api.github.com/users/solanmevbot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/solanmevbot/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/solanmevbot/solana-mev-bot",
+    "description": "solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot solana mev bot",
+    "fork": false,
+    "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot",
+    "forks_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/forks",
+    "keys_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/teams",
+    "hooks_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/hooks",
+    "issue_events_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/events",
+    "assignees_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/tags",
+    "blobs_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/languages",
+    "stargazers_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/stargazers",
+    "contributors_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contributors",
+    "subscribers_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/subscribers",
+    "subscription_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/subscription",
+    "commits_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/merges",
+    "archive_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/downloads",
+    "issues_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/labels{/name}",
+    "releases_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/deployments",
+    "created_at": "2014-02-17T19:53:14Z",
+    "updated_at": "2026-03-13T06:53:32Z",
+    "pushed_at": "2026-02-19T16:43:34Z",
+    "git_url": "git://github.com/solanmevbot/solana-mev-bot.git",
+    "ssh_url": "git@github.com:solanmevbot/solana-mev-bot.git",
+    "clone_url": "https://github.com/solanmevbot/solana-mev-bot.git",
+    "svn_url": "https://github.com/solanmevbot/solana-mev-bot",
+    "homepage": "https://solana-mevbot.vercel.app",
+    "size": 1948,
+    "stargazers_count": 211,
+    "watchers_count": 211,
+    "language": "Rust",
+    "has_issues": false,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "has_discussions": false,
+    "forks_count": 67,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "bot",
+      "dex",
+      "mev",
+      "mevbot",
+      "rust",
+      "solana",
+      "solana-mevbot",
+      "solanabot",
+      "solanamev-bot",
+      "solanamevbot"
+    ],
+    "visibility": "public",
+    "forks": 67,
+    "open_issues": 1,
+    "watchers": 211,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 67,
+    "subscribers_count": 29
+  },
+  "user_detail": {
+    "login": "solanmevbot",
+    "id": 5007939,
+    "node_id": "MDQ6VXNlcjUwMDc5Mzk=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5007939?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/solanmevbot",
+    "html_url": "https://github.com/solanmevbot",
+    "followers_url": "https://api.github.com/users/solanmevbot/followers",
+    "following_url": "https://api.github.com/users/solanmevbot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/solanmevbot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/solanmevbot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/solanmevbot/subscriptions",
+    "organizations_url": "https://api.github.com/users/solanmevbot/orgs",
+    "repos_url": "https://api.github.com/users/solanmevbot/repos",
+    "events_url": "https://api.github.com/users/solanmevbot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/solanmevbot/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Solana Mev Bot",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": true,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 36,
+    "public_gists": 1,
+    "followers": 84,
+    "following": 22,
+    "created_at": "2013-07-14T18:00:31Z",
+    "updated_at": "2026-02-12T20:51:34Z"
+  },
+  "readme": "# Solana MEV Bot - Advanced Flashloan & Arbitrage Trading Bot\n\nA high-performance, flash-loan-integrated MEV (Maximal Extractable Value) arbitrage bot for the Solana blockchain. This professional-grade **Solana trading bot** is engineered to identify and execute profitable arbitrage opportunities across a wide range of decentralized exchanges (DEXs). Our **Solana flashloan bot** leverages Kamino Finance flash loans to maximize capital efficiency, making it one of the most advanced **Solana arbitrage bots** available. This Rust-based **MEV bot** solution is designed for serious traders seeking automated profit generation through cross-DEX arbitrage on the Solana network.\n\n## Contact Information\n\n- **Discord**: [@solanmevbot]\n- **Telegram**: [solanmevbot](https://t.me/solanmevbot)\n- **Email**: [for38864@gmail.com](mailto:for38864@gmail.com)\n\n## Overview\n\nThe **Solana Arbitrage Bot** is a sophisticated **MEV trading bot** framework designed for executing complex arbitrage strategies on the Solana network. This advanced **Solana trading bot** operates by continuously monitoring price discrepancies of token pairs across various decentralized exchanges (DEXs) and executing atomic, multi-leg trades to capitalize on these differences. As a powerful **Solana flashloan bot**, the integration of flash loans from Kamino Finance allows the bot to leverage significant capital without requiring large upfront investments, maximizing profitability and ROI potential.\n\nThis professional **Solana arbitrage bot** is engineered for automated trading, utilizing sophisticated algorithms to identify profitable opportunities across multiple liquidity pools. The bot supports cross-DEX arbitrage, enabling traders to profit from price differences between Raydium, Orca, Meteora, Pump AMM, and other major Solana DEXs. Whether you're looking for a **Solana MEV bot**, **Solana flashloan bot**, **Solana trading bot**, or **Solana arbitrage bot**, this comprehensive solution provides all the features needed for successful automated trading on the Solana blockchain.\n\nKey features of this **Solana MEV bot** include:\n- **Flashloan Integration**: Leverage Kamino Finance flash loans for capital-efficient arbitrage trading\n- **Multi-DEX Support**: Monitor and trade across multiple Solana decentralized exchanges simultaneously\n- **High-Speed Execution**: Optimized transaction building and submission for maximum success rates\n- **Automated Trading**: Fully automated **Solana trading bot** that requires minimal manual intervention\n- **Advanced MEV Strategies**: Sophisticated arbitrage detection and execution algorithms\n- **Yellowstone gRPC Integration**: Low-latency event streaming for real-time opportunity detection\n- **Jito Block Engine Ready**: Support for bundle submission and priority fee optimization\n\nThis tool is intended for experienced developers and quantitative traders with a strong understanding of blockchain technology, DeFi protocols, MEV strategies, and Solana network mechanics.\n\n## Why Choose This Solana MEV Bot?\n\nWhen searching for the best **Solana arbitrage bot**, **Solana flashloan bot**, or **Solana trading bot**, this solution stands out with its comprehensive feature set:\n\n- **Advanced MEV Bot Architecture**: Built specifically for Solana blockchain, this **MEV bot** leverages cutting-edge technology to extract maximum value from on-chain opportunities\n- **Flashloan Integration**: Unlike basic trading bots, this **Solana flashloan bot** integrates seamlessly with Kamino Finance, allowing you to trade with borrowed capital that's repaid within the same transaction\n- **Multi-Strategy Support**: This **Solana arbitrage bot** supports various arbitrage strategies including cross-DEX arbitrage, triangular arbitrage, and flash loan arbitrage\n- **Professional Trading Bot Features**: As a complete **Solana trading bot** solution, it includes transaction spam prevention, compute unit optimization, and multi-RPC support for maximum reliability\n- **Automated Execution**: Set up once and let your **Solana MEV bot** run 24/7, automatically identifying and executing profitable trades without manual intervention\n- **Rust Performance**: Built in Rust for maximum speed and efficiency, critical for **MEV bot** operations where milliseconds matter\n- **Yellowstone gRPC Streaming**: Real-time mempool and account monitoring for instant opportunity detection\n- **Jito Integration**: Ready for bundle submission and block-engine integration for maximum transaction success rates\n\nWhether you're looking for a **Solana MEV bot**, **Solana flashloan bot**, **Solana trading bot**, or **Solana arbitrage bot**, this solution provides enterprise-grade functionality for serious traders and developers.\n\n**Disclaimer:** This is an advanced trading tool that carries significant financial risk. The authors and contributors are not liable for any financial losses. Use this software at your own risk.\n\n## Architecture Diagram\n\nThe following diagram illustrates the **Solana MEV bot's** operational flow:\n\n```mermaid\ngraph TD\n    A[Start Solana MEV Bot] --> B{Load `.env` Config};\n    B --> C{Initialize RPC Clients};\n    C --> D{Load Wallet};\n    D --> E{Initialize Yellowstone gRPC};\n    E --> F{Load Blacklist};\n    F --> G[Spawn Monitoring Task];\n    G --> H{Event Loop};\n    H --> I[Monitor for Opportunities];\n    I --> J{Opportunity Detected?};\n    J -->|Yes| K[Build Arbitrage Transaction];\n    J -->|No| H;\n    K --> L[Apply Flashloan Logic];\n    L --> M[Sign Transaction];\n    M --> N[Send via RPC/Jito];\n    N --> O{Success?};\n    O -->|Yes| P[Log Trade];\n    O -->|No| Q[Retry/Log Failure];\n    P --> H;\n    Q --> H;\n```\n\n## How It Works: The Solana MEV Bot Lifecycle\n\nThis **Solana arbitrage bot** operates through a structured, asynchronous lifecycle, designed for high performance and reliability. Understanding how this **Solana trading bot** works is essential for maximizing its potential as a profitable **MEV bot** solution. The **Solana flashloan bot's** workflow ensures optimal execution of arbitrage opportunities while minimizing risk and maximizing capital efficiency.\n\n1. **Configuration Loading**: Upon launch, the **Solana MEV bot** reads the `.env` file to load its operational parameters, including the user's wallet, RPC endpoints, Yellowstone gRPC credentials, slippage settings, and trading parameters.\n\n2. **Initialization**: The **Solana trading bot** establishes connections to the specified Solana RPC endpoints (both blocking and non-blocking clients). The main RPC is used for fetching on-chain data, while Yellowstone gRPC provides low-latency event streaming for real-time opportunity detection.\n\n3. **Wallet and Token Account Setup**: The **Solana MEV bot** loads the user's keypair and checks wallet balance. For each configured token mint, it verifies the existence of Associated Token Accounts (ATAs) and can automatically create them if needed.\n\n4. **Blacklist Loading**: The **Solana arbitrage bot** loads token blacklist from `blacklist.txt` if present, filtering out tokens that should not be traded.\n\n5. **Yellowstone gRPC Connection**: The **Solana flashloan bot** establishes a connection to Yellowstone gRPC for real-time account and transaction monitoring. This enables the **Solana trading bot** to detect opportunities as they appear in the mempool or on-chain.\n\n6. **Trading Loop**: The core component of the **Solana arbitrage bot** enters an infinite loop to continuously perform the following steps:\n   - **Event Monitoring**: The **Solana MEV bot** monitors Yellowstone gRPC streams for relevant events (new token launches, liquidity additions, price discrepancies)\n   - **Opportunity Detection**: When a profitable arbitrage opportunity is detected, the **Solana trading bot** evaluates the potential profit, checks against blacklist and risk parameters\n   - **Build Transaction**: The **Solana flashloan bot** constructs an atomic transaction that executes the arbitrage strategy. This may include flash loan instructions (borrow, swap, repay) or direct multi-leg swaps across DEXs\n   - **Transaction Signing**: The transaction is signed with the configured wallet\n   - **Send Transaction**: The **Solana MEV bot** sends the transaction to the Solana network through the configured RPC endpoints. If Jito integration is enabled, the **Solana arbitrage bot** can submit bundles for improved inclusion probability\n   - **Delay**: The loop waits for a configurable delay before starting the next iteration, allowing the **Solana trading bot** to balance between frequency of attempts and network resources\n\n## Technical Deep Dive\n\nThis section provides an in-depth look at the technical architecture of the **Solana MEV bot**. Understanding these components is essential for optimizing the performance of your **Solana trading bot**, **Solana flashloan bot**, or **Solana arbitrage bot** setup.\n\n### Event Monitoring (`src/engine/monitor.rs`)\n\nThe monitoring system is responsible for detecting trading opportunities for the **Solana MEV bot**.\n\n- **Yellowstone gRPC Integration**: Subscribes to real-time account updates and transaction streams\n- **Event Filtering**: Filters events based on configured criteria (token mints, program IDs, account changes)\n- **Opportunity Detection**: Identifies arbitrage opportunities by comparing prices across multiple DEXs\n- **Risk Assessment**: Evaluates opportunities against blacklist, dev buy limits, and other risk parameters\n\n### Swap Execution (`src/engine/swap.rs`)\n\nThe swap execution system handles trade execution for the **Solana trading bot**.\n\n- **Swap Direction**: Supports both buy and sell operations\n- **Input Types**: Supports quantity-based or percentage-based trade sizing\n- **Slippage Protection**: Configurable slippage tolerance to protect against unfavorable price movements\n- **Jito Integration**: Optional bundle submission through Jito block engine for improved transaction success rates\n\n### DEX Integration (`src/dex/`)\n\nThe DEX integration layer enables the **Solana arbitrage bot** to interact with multiple decentralized exchanges.\n\n- **PumpFun Support**: Integration with PumpFun for new token launches\n- **Multi-DEX Architecture**: Extensible architecture for adding support for Raydium, Orca, Meteora, and other DEXs\n- **Pool Data Parsing**: Deserializes on-chain pool data for price calculations\n\n### Transaction Building (`src/core/tx.rs`)\n\nThe transaction building system constructs atomic transactions for the **Solana MEV bot**.\n\n- **Instruction Assembly**: Builds Solana instructions for swaps, flash loans, and other operations\n- **Compute Budget**: Sets compute unit limits and priority fees for transaction optimization\n- **Versioned Transactions**: Supports versioned transactions with Address Lookup Tables (ALTs) for efficient account packing\n- **Atomic Execution**: Ensures all operations in a transaction succeed or fail together\n\n## Supported DEXs - Multi-Exchange Arbitrage Support\n\nThis **Solana MEV bot** integrates with a comprehensive list of Solana's top decentralized exchanges, enabling sophisticated cross-DEX arbitrage strategies. The **Solana arbitrage bot** monitors price differences across all these platforms simultaneously, identifying profitable trading opportunities that a **Solana flashloan bot** can execute atomically. The **Solana trading bot's** multi-DEX support is essential for maximizing arbitrage opportunities:\n\n- **PumpFun**: New token launches and early-stage trading\n- **Raydium**: V4, Constant Product (CPMM), and Concentrated Liquidity (CLMM) pools\n- **Meteora**: Dynamic Liquidity Market Maker (DLMM), Dynamic AMM, and DAMM V2\n- **Orca**: Whirlpool (Concentrated Liquidity) pools\n- **Additional DEXs**: Extensible architecture for adding more exchanges\n\n*Note: Full multi-DEX routing and flashloan integration require implementation of the strategy modules. The framework provides the foundation for these features.*\n\n## Performance, PNL, and ROI - Optimizing Your Solana MEV Bot\n\nUnderstanding and optimizing your **Solana trading bot's** performance is critical for achieving profitability. Whether you're running a **Solana arbitrage bot**, **Solana flashloan bot**, or **Solana MEV bot**, this section provides a deeper look into the factors influencing performance and how to approach PNL and ROI analysis. Maximizing the efficiency of your automated trading strategy requires careful tuning of all performance parameters.\n\n### Performance Tuning - Maximizing Your Solana Trading Bot Success Rate\n\nThe success of an arbitrage trade executed by your **Solana MEV bot** is a race against time. The **Solana arbitrage bot's** ability to quickly identify an opportunity, build a transaction, and have it included in a block before the opportunity disappears is paramount. For a **Solana flashloan bot**, speed is especially critical since flash loans must be repaid within the same transaction, leaving no margin for error or delay. Optimizing your **Solana trading bot's** performance involves balancing multiple factors to achieve maximum profitability.\n\nThe following diagram illustrates the key factors that influence the bot's performance:\n\n```mermaid\ngraph TD\n    subgraph Bot Configuration\n        B1[Yellowstone gRPC Latency];\n        B2[RPC Provider Quality];\n        B3[Slippage Tolerance];\n        B4[Process Delay];\n    end\n    subgraph External Factors\n        E1[Network Congestion];\n        E2[Market Volatility];\n        E3[DEX Liquidity];\n    end\n    subgraph Performance\n        P[Arbitrage Success Rate & Profitability];\n    end\n\n    B1 --> P;\n    B2 --> P;\n    B3 --> P;\n    B4 --> P;\n    E1 --> P;\n    E2 --> P;\n    E3 --> P;\n```\n\n- **RPC Provider**: The quality of your RPC provider is arguably the most critical factor for your **Solana MEV bot's** success. A low-latency, high-reliability RPC endpoint ensures that your **Solana trading bot** receives on-chain data quickly and can submit arbitrage transactions with minimal delay. For a **Solana flashloan bot**, RPC latency directly impacts profitability since flash loan arbitrage opportunities are extremely time-sensitive.\n\n- **Yellowstone gRPC**: The **Solana MEV bot** leverages Yellowstone gRPC for real-time event streaming. A high-quality Yellowstone endpoint with low latency is essential for detecting opportunities before competitors. The **Solana arbitrage bot** relies on this stream to identify profitable trades as they appear.\n\n- **Network Conditions**: High network congestion on Solana can lead to longer transaction confirmation times and increase the likelihood of your **Solana arbitrage bot's** transaction being dropped. The **Solana MEV bot** must adapt to network conditions to maintain optimal performance.\n\n- **Market Volatility**: While volatility creates arbitrage opportunities for your **Solana trading bot**, it also means that those opportunities are fleeting. The **Solana arbitrage bot** must be able to act within milliseconds to capitalize on price discrepancies before they disappear. A well-tuned **Solana flashloan bot** can exploit these volatile conditions more effectively than traditional trading methods.\n\n- **Slippage Tolerance**: The `SLIPPAGE` setting determines how much price movement your **Solana MEV bot** will tolerate. Higher slippage increases the chance of successful execution but reduces net profit per trade. Finding the optimal balance is key to maximizing your **Solana trading bot's** ROI.\n\n- **Jito Integration**: When enabled, the **Solana MEV bot** can submit transactions through Jito bundles, improving inclusion probability. This is especially valuable for time-sensitive arbitrage opportunities where the **Solana flashloan bot** must execute quickly.\n\n#### The Slippage vs. Success Rate Trade-off\n\nSetting slippage tolerance is a delicate balancing act. The following diagram illustrates the trade-off between slippage tolerance and transaction success rate:\n\n```mermaid\ngraph TD\n    subgraph \"Profitability Analysis\"\n        direction LR\n        A[Start] --> B(Gross Profit from Arbitrage);\n        B --> C(Transaction Fees);\n        B --> D(Slippage Loss);\n        C --> E(Net Profit);\n        D --> E(Net Profit);\n    end\n\n    subgraph \"Slippage vs. Success Trade-off\"\n        direction TB\n        F(High Slippage Tolerance) --> G(Higher Success Rate);\n        G --> H(More Trades Executed);\n        H --> I(Higher Slippage Costs);\n        I --> J(Lower Net Profit per Trade);\n\n        K(Low Slippage Tolerance) --> L(Lower Success Rate);\n        L --> M(Fewer Trades Executed);\n        M --> N(Lower Slippage Costs);\n        N --> O(Higher Potential Net Profit per Trade);\n    end\n```\n\n### PNL and ROI Analysis - Tracking Your Solana MEV Bot Performance\n\n**This Solana MEV bot is a trade execution engine and does not have built-in PNL or ROI tracking.** To effectively measure your **Solana trading bot's** profitability, whether you're running a **Solana arbitrage bot** or **Solana flashloan bot**, you must implement a separate monitoring and analysis solution. Tracking performance metrics is essential for optimizing your automated trading strategy and ensuring long-term profitability.\n\nThe following diagram outlines a recommended workflow for tracking PNL:\n\n```mermaid\ngraph TD\n    A[Solana MEV Bot Executes Trade] --> B{Log Transaction Signature};\n    B --> C{Query Transaction Status};\n    C -- Success --> D[Parse Balance Changes];\n    D --> E{Calculate Profit/Loss};\n    E --> F[Aggregate PNL & ROI];\n    C -- Failure --> G[Log Failed Transaction];\n    G --> F;\n```\n\nA practical approach to implementing this workflow would be:\n\n1. **Logging**: Modify the **Solana MEV bot** to log every transaction signature to a database or a file.\n2. **Data Fetcher**: Create a separate script that periodically reads the transaction logs.\n3. **On-Chain Verification**: For each signature, use the Solana RPC `getTransaction` method to fetch the transaction details.\n4. **Balance Parsing**: Analyze the `preTokenBalances` and `postTokenBalances` fields in the transaction metadata to determine the exact change in your token balances.\n5. **Profit Calculation**: Convert the token balance changes to a common currency (e.g., USDC) to calculate the net profit or loss for each trade.\n6. **Aggregation**: Store the results in a database to track your overall PNL and ROI over time.\n\n## Getting Started - Setting Up Your Solana MEV Bot\n\nThis guide will help you set up and configure your **Solana arbitrage bot**, **Solana flashloan bot**, or **Solana trading bot**. Whether you're new to MEV bots or an experienced trader, following these steps will get your automated trading system up and running on the Solana blockchain.\n\n### Prerequisites\n\nBefore deploying your **Solana MEV bot**, ensure you have:\n- [Rust and Cargo](https://www.rust-lang.org/tools/install) installed (required for compiling the **Solana trading bot**)\n- A Solana wallet with sufficient SOL to cover transaction fees and potential flash loan costs\n- Understanding of Solana network mechanics, DeFi protocols, and arbitrage trading strategies\n- Access to a Solana RPC endpoint (paid RPC recommended for production)\n- Yellowstone gRPC endpoint and token (optional but highly recommended for low-latency monitoring)\n\n### Installation & Setup\n\n1. **Clone the Repository:**\n   Clone the **Solana MEV bot** repository to get started with your automated trading setup:\n   ```bash\n   git clone https://github.com/solanmevbot/solana-mev-bot.git\n   cd solana-mev-bot\n   ```\n\n2. **Configure the Bot:**\n   Configure your **Solana arbitrage bot** by creating a `.env` file with your credentials. This **Solana trading bot** requires proper configuration to execute profitable trades:\n   ```bash\n   touch .env\n   ```\n   \n   Then, edit `.env` and add your configuration (see Configuration section below).\n\n3. **Run the Bot:**\n   Launch your **Solana MEV bot** to start automated arbitrage trading:\n   ```bash\n   cargo run\n   ```\n\nOnce running, your **Solana arbitrage bot** will begin monitoring for profitable trading opportunities across multiple DEXs, executing trades automatically when arbitrage opportunities are detected.\n\n## Configuration - Solana MEV Bot Settings\n\nThese settings control the core behavior of your **Solana trading bot**. Proper configuration is essential for optimal performance of your **Solana arbitrage bot** and **Solana flashloan bot** operations.\n\n### Core Configuration (`.env` file)\n\nThe **Solana MEV bot** reads configuration from a `.env` file in the project root. All settings are loaded at startup.\n\n#### `RPC_HTTP` - Primary RPC Endpoint\n\n- **Description**: The primary Solana RPC HTTP URL for fetching on-chain data and submitting transactions\n- **Type**: `string`\n- **Example**: `https://api.mainnet-beta.solana.com`\n- **Required**: Yes\n- **Note**: Use a high-quality, low-latency RPC provider for optimal **Solana MEV bot** performance. Paid RPCs are recommended for production **Solana trading bot** deployments.\n\n#### `PRIVATE_KEY` - Wallet Private Key\n\n- **Description**: Your wallet's private key in base58-encoded format\n- **Type**: `string`\n- **Required**: Yes\n- **Security Warning**: Never commit this to version control. Use a dedicated hot wallet with limited funds for your **Solana arbitrage bot**.\n\n#### `YELLOWSTONE_GRPC_HTTP` - Yellowstone gRPC Endpoint\n\n- **Description**: Yellowstone gRPC endpoint URL for real-time event streaming\n- **Type**: `string`\n- **Example**: `https://grpc.yellowstone.com`\n- **Required**: Yes (for real-time monitoring)\n- **Note**: Essential for low-latency opportunity detection in your **Solana flashloan bot**.\n\n#### `YELLOWSTONE_GRPC_TOKEN` - Yellowstone Authentication Token\n\n- **Description**: Authentication token for your Yellowstone gRPC provider\n- **Type**: `string`\n- **Required**: Yes (if using Yellowstone gRPC)\n- **Note**: Obtain this from your Yellowstone provider to enable real-time monitoring for your **Solana MEV bot**.\n\n#### `SLIPPAGE` - Slippage Tolerance\n\n- **Description**: Maximum slippage tolerance as a percentage (0-100)\n- **Type**: `integer`\n- **Default**: `0`\n- **Example**: `5` (for 5% slippage tolerance)\n- **Note**: Higher slippage increases success rate but reduces net profit per trade. Balance carefully for your **Solana trading bot**.\n\n#### `TOKEN_AMOUNT` - Trade Amount\n\n- **Description**: Amount to trade per transaction (interpreted based on `SwapInType`)\n- **Type**: `float`\n- **Default**: `0.0000001`\n- **Example**: `0.1` (for 0.1 SOL worth of tokens)\n- **Note**: This is used by the **Solana arbitrage bot** to determine trade size.\n\n#### `TIME_EXCEED` - Timeout Threshold\n\n- **Description**: Maximum age in seconds for an opportunity before it's considered stale\n- **Type**: `integer`\n- **Required**: Yes\n- **Example**: `30` (opportunities older than 30 seconds are ignored)\n- **Note**: Helps the **Solana MEV bot** avoid executing on stale opportunities.\n\n#### `COUNTER` - Counter Limit\n\n- **Description**: Maximum number of trades or attempts per time period (strategy-dependent)\n- **Type**: `integer`\n- **Default**: `0` (unlimited)\n- **Note**: Used for rate limiting in your **Solana trading bot**.\n\n#### `MIN_DEV_BUY` - Minimum Dev Buy Threshold\n\n- **Description**: Minimum developer buy amount heuristic (strategy-dependent)\n- **Type**: `integer`\n- **Default**: `0`\n- **Note**: Used by the **Solana arbitrage bot** to filter opportunities based on developer activity.\n\n#### `MAX_DEV_BUY` - Maximum Dev Buy Threshold\n\n- **Description**: Maximum developer buy amount heuristic (strategy-dependent)\n- **Type**: `integer`\n- **Default**: `0`\n- **Note**: Used by the **Solana MEV bot** to filter opportunities based on developer activity.\n\n### Blacklist Configuration\n\nThe **Solana MEV bot** supports token blacklisting via a `blacklist.txt` file in the project root.\n\n- **Format**: One token mint address per line\n- **Location**: `blacklist.txt` in project root\n- **Note**: If the file doesn't exist, the **Solana trading bot** will operate without blacklist filtering.\n\n### Jito Integration\n\nThe **Solana flashloan bot** includes Jito client dependency for bundle submission.\n\n- **Status**: Jito integration is available but requires implementation in your strategy modules\n- **Benefits**: Improved transaction inclusion probability for time-sensitive arbitrage opportunities\n- **Configuration**: Set `use_jito: true` in swap configuration (currently hardcoded in config)\n\n## Operational Safety Tips for Your Solana MEV Bot\n\nWhen running your **Solana MEV bot**, follow these safety guidelines:\n\n- **Use a Fresh Hot Wallet**: Deploy your **Solana trading bot** with a dedicated hot wallet containing only the funds needed for trading. Never use your main wallet.\n- **Start Small**: Begin with small trade amounts to test your **Solana arbitrage bot** configuration before scaling up.\n- **Monitor Closely**: Watch your **Solana flashloan bot** closely during initial runs to ensure it's behaving as expected.\n- **RPC Quality**: Use high-quality, paid RPC endpoints for production **Solana MEV bot** deployments. Free RPCs may have rate limits and higher latency.\n- **Network Stability**: Run your **Solana trading bot** on a machine with stable internet connection and accurate system clock. Latency matters for MEV extraction.\n- **Logging**: Enable comprehensive logging to track all trades and identify issues with your **Solana arbitrage bot**.\n- **Flashloan Safety**: If implementing flashloan functionality, thoroughly test atomic repayment logic with small amounts first. Flash loans must be repaid in the same transaction.\n- **Blacklist Management**: Regularly update your blacklist to avoid trading problematic tokens with your **Solana MEV bot**.\n\n## Troubleshooting Your Solana MEV Bot\n\nCommon issues when running the **Solana MEV bot**:\n\n- **Config Hangs at Startup**: Missing environment variables will cause the **Solana trading bot** to error and loop. Ensure `.env` is present and contains all required variables.\n- **RPC Errors / Timeouts**: Use a paid RPC provider, verify `RPC_HTTP` is correct, and check rate limits. High-quality RPCs are essential for **Solana arbitrage bot** success.\n- **Yellowstone Connection Issues**: Verify your `YELLOWSTONE_GRPC_HTTP` and `YELLOWSTONE_GRPC_TOKEN` are correct. Check your Yellowstone provider's status.\n- **Build Issues**: Update your Rust toolchain with `rustup update` and rebuild the **Solana MEV bot**.\n- **Transaction Failures**: Check slippage settings, ensure sufficient SOL balance, and verify RPC endpoint reliability for your **Solana flashloan bot**.\n- **No Opportunities Detected**: Verify Yellowstone gRPC is connected and streaming events. Check your filtering criteria aren't too restrictive for your **Solana trading bot**.\n\n## Contributing to the Solana MEV Bot\n\nPRs welcome to improve this **Solana MEV bot**. If you're adding a new strategy module to the **Solana MEV bot**, please include:\n\n- A short README section describing inputs/outputs and risk controls for the **Solana MEV bot**\n- A minimal config schema (env vars) and example values\n- Clear logs for key state transitions in your **Solana MEV bot** implementation\n- Tests where applicable\n- Documentation updates\n\n## Contact Information\n\n- **Discord**: [@solanmevbot]\n- **Telegram**: [solanmevbot](https://t.me/solanmevbot)\n- **Email**: [for38864@gmail.com](mailto:for38864@gmail.com)\n\n## License\n\nThis project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.\n\n---\n\n**Remember**: This **Solana MEV bot** is a powerful tool that requires careful configuration and monitoring. Always test thoroughly with small amounts before deploying to production. The authors and contributors are not responsible for any financial losses incurred while using this **Solana trading bot**.\n",
+  "readme_domains": {
+    "api.mainnet-beta.solana.com`": 0,
+    "t.me": 5777,
+    "www.rust-lang.org": 5828,
+    "github.com": 6731,
+    "grpc.yellowstone.com`": 0
+  },
+  "tree_structure": [
+    {
+      "name": ".env.example",
+      "path": ".env.example",
+      "sha": "710b4cc488b6612b0655b0c2e7288f292d9100d0",
+      "size": 849,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.env.example?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.env.example",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/710b4cc488b6612b0655b0c2e7288f292d9100d0",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/.env.example",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.env.example?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/710b4cc488b6612b0655b0c2e7288f292d9100d0",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.env.example"
+      }
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "sha": "d7e7071c508507408bf1e8b98c1336193be47cc1",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/.github",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/d7e7071c508507408bf1e8b98c1336193be47cc1",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/d7e7071c508507408bf1e8b98c1336193be47cc1",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/.github"
+      }
+    },
+    {
+      "name": "ISSUE_TEMPLATE",
+      "path": ".github/ISSUE_TEMPLATE",
+      "sha": "444a531e1fd96ca15983c2daa7c06e7ae6b9f475",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/ISSUE_TEMPLATE?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/.github/ISSUE_TEMPLATE",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/444a531e1fd96ca15983c2daa7c06e7ae6b9f475",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/ISSUE_TEMPLATE?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/444a531e1fd96ca15983c2daa7c06e7ae6b9f475",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/.github/ISSUE_TEMPLATE"
+      }
+    },
+    {
+      "name": "feature_request.md",
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "sha": "bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "size": 595,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/ISSUE_TEMPLATE/feature_request.md?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.github/ISSUE_TEMPLATE/feature_request.md",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/.github/ISSUE_TEMPLATE/feature_request.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/ISSUE_TEMPLATE/feature_request.md?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.github/ISSUE_TEMPLATE/feature_request.md"
+      }
+    },
+    {
+      "name": "workflows",
+      "path": ".github/workflows",
+      "sha": "8f83c743919f18ac97a4be80b02b209d68a7a9c9",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/workflows?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/.github/workflows",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/8f83c743919f18ac97a4be80b02b209d68a7a9c9",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/workflows?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/8f83c743919f18ac97a4be80b02b209d68a7a9c9",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/.github/workflows"
+      }
+    },
+    {
+      "name": "static.yml",
+      "path": ".github/workflows/static.yml",
+      "sha": "0ba82305f82b2242b40f3317e18e8a0165397ee8",
+      "size": 1252,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/workflows/static.yml?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.github/workflows/static.yml",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/0ba82305f82b2242b40f3317e18e8a0165397ee8",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/.github/workflows/static.yml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.github/workflows/static.yml?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/0ba82305f82b2242b40f3317e18e8a0165397ee8",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.github/workflows/static.yml"
+      }
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "721bb1a4a1fae2c0c5025d8bb519830c126bb217",
+      "size": 26,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.gitignore?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.gitignore",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/721bb1a4a1fae2c0c5025d8bb519830c126bb217",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/.gitignore?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/721bb1a4a1fae2c0c5025d8bb519830c126bb217",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/.gitignore"
+      }
+    },
+    {
+      "name": "CODE_OF_CONDUCT.md",
+      "path": "CODE_OF_CONDUCT.md",
+      "sha": "18c91471812cb6f4c4e8d0fc407f70c4612e1648",
+      "size": 5202,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/CODE_OF_CONDUCT.md?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/CODE_OF_CONDUCT.md",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/18c91471812cb6f4c4e8d0fc407f70c4612e1648",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/CODE_OF_CONDUCT.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/CODE_OF_CONDUCT.md?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/18c91471812cb6f4c4e8d0fc407f70c4612e1648",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/CODE_OF_CONDUCT.md"
+      }
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "path": "CONTRIBUTING.md",
+      "sha": "dbca8b6ff4f118f447c6bc1934e9ca2e6d2c6d33",
+      "size": 2081,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/CONTRIBUTING.md?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/CONTRIBUTING.md",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/dbca8b6ff4f118f447c6bc1934e9ca2e6d2c6d33",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/CONTRIBUTING.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/CONTRIBUTING.md?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/dbca8b6ff4f118f447c6bc1934e9ca2e6d2c6d33",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/CONTRIBUTING.md"
+      }
+    },
+    {
+      "name": "Cargo.lock",
+      "path": "Cargo.lock",
+      "sha": "345a639e682674af56ab2f13c2506902b56bc850",
+      "size": 207557,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/Cargo.lock?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/Cargo.lock",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/345a639e682674af56ab2f13c2506902b56bc850",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/Cargo.lock",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/Cargo.lock?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/345a639e682674af56ab2f13c2506902b56bc850",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/Cargo.lock"
+      }
+    },
+    {
+      "name": "Cargo.toml",
+      "path": "Cargo.toml",
+      "sha": "84b476a795f14abd5c7b80070bf490783a668f75",
+      "size": 1349,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/Cargo.toml?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/Cargo.toml",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/84b476a795f14abd5c7b80070bf490783a668f75",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/Cargo.toml",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/Cargo.toml?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/84b476a795f14abd5c7b80070bf490783a668f75",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/Cargo.toml"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "Makefile",
+      "path": "Makefile",
+      "sha": "567ab3d1352ce2cbd9a91ab9b9560109d78a8726",
+      "size": 1424,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/Makefile?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/Makefile",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/567ab3d1352ce2cbd9a91ab9b9560109d78a8726",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/Makefile",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/Makefile?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/567ab3d1352ce2cbd9a91ab9b9560109d78a8726",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/Makefile"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "5aef034e1ea5320e07cc7f923d62ceb1565c909d",
+      "size": 27797,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/README.md?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/5aef034e1ea5320e07cc7f923d62ceb1565c909d",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/5aef034e1ea5320e07cc7f923d62ceb1565c909d",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/README.md"
+      }
+    },
+    {
+      "name": "SECURITY.md",
+      "path": "SECURITY.md",
+      "sha": "034e848032092eaf8ef96eac731b6ed5961987f3",
+      "size": 619,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/SECURITY.md?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/SECURITY.md",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/034e848032092eaf8ef96eac731b6ed5961987f3",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/SECURITY.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/SECURITY.md?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/034e848032092eaf8ef96eac731b6ed5961987f3",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/SECURITY.md"
+      }
+    },
+    {
+      "name": "build.sh",
+      "path": "build.sh",
+      "sha": "172b33732384a72a897fb468d460103536893f92",
+      "size": 779,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/build.sh?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/build.sh",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/172b33732384a72a897fb468d460103536893f92",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/build.sh",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/build.sh?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/172b33732384a72a897fb468d460103536893f92",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/build.sh"
+      }
+    },
+    {
+      "name": "google0286a7236ac9c0ba.html",
+      "path": "google0286a7236ac9c0ba.html",
+      "sha": "b93bb1443ca4540b42543d092c66348227ba9237",
+      "size": 53,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/google0286a7236ac9c0ba.html?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/google0286a7236ac9c0ba.html",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/b93bb1443ca4540b42543d092c66348227ba9237",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/google0286a7236ac9c0ba.html",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/google0286a7236ac9c0ba.html?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/b93bb1443ca4540b42543d092c66348227ba9237",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/google0286a7236ac9c0ba.html"
+      }
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "sha": "c1ac5a8b153167ae89974e1b00eef2f4d28fbbd6",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/c1ac5a8b153167ae89974e1b00eef2f4d28fbbd6",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/c1ac5a8b153167ae89974e1b00eef2f4d28fbbd6",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src"
+      }
+    },
+    {
+      "name": "common",
+      "path": "src/common",
+      "sha": "4cf05ca2297263bc4aaf31d30a8f4725b19fbe42",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/common",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/4cf05ca2297263bc4aaf31d30a8f4725b19fbe42",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/4cf05ca2297263bc4aaf31d30a8f4725b19fbe42",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/common"
+      }
+    },
+    {
+      "name": "blacklist.rs",
+      "path": "src/common/blacklist.rs",
+      "sha": "93862476f8cea7d01a327418807465bd1f2206b8",
+      "size": 829,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/blacklist.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/blacklist.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/93862476f8cea7d01a327418807465bd1f2206b8",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/common/blacklist.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/blacklist.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/93862476f8cea7d01a327418807465bd1f2206b8",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/blacklist.rs"
+      }
+    },
+    {
+      "name": "config.rs",
+      "path": "src/common/config.rs",
+      "sha": "d9236e73904ccc006c07750380e1438878ae3020",
+      "size": 8915,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/config.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/config.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/d9236e73904ccc006c07750380e1438878ae3020",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/common/config.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/config.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/d9236e73904ccc006c07750380e1438878ae3020",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/config.rs"
+      }
+    },
+    {
+      "name": "constants.rs",
+      "path": "src/common/constants.rs",
+      "sha": "753316a811c99ce6f2b90f3530c0fde16f0d7180",
+      "size": 90,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/constants.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/constants.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/753316a811c99ce6f2b90f3530c0fde16f0d7180",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/common/constants.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/constants.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/753316a811c99ce6f2b90f3530c0fde16f0d7180",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/constants.rs"
+      }
+    },
+    {
+      "name": "logger.rs",
+      "path": "src/common/logger.rs",
+      "sha": "b9ae18f29895f3d625109038b14a2e395ba5650a",
+      "size": 1484,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/logger.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/logger.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/b9ae18f29895f3d625109038b14a2e395ba5650a",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/common/logger.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/logger.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/b9ae18f29895f3d625109038b14a2e395ba5650a",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/logger.rs"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/common/mod.rs",
+      "sha": "802d3bb9ad87498005819a3768bb6aa7dd6986f5",
+      "size": 70,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/mod.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/mod.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/802d3bb9ad87498005819a3768bb6aa7dd6986f5",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/common/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/common/mod.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/802d3bb9ad87498005819a3768bb6aa7dd6986f5",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/common/mod.rs"
+      }
+    },
+    {
+      "name": "core",
+      "path": "src/core",
+      "sha": "dc58950a86fe8a91dbb6fe3f6cca125f4b57d0d8",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/core",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/dc58950a86fe8a91dbb6fe3f6cca125f4b57d0d8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/dc58950a86fe8a91dbb6fe3f6cca125f4b57d0d8",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/core"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/core/mod.rs",
+      "sha": "ee2cea4fe9b275535f6dccd4c0e4e01e59caec5d",
+      "size": 27,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core/mod.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/core/mod.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/ee2cea4fe9b275535f6dccd4c0e4e01e59caec5d",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/core/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core/mod.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/ee2cea4fe9b275535f6dccd4c0e4e01e59caec5d",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/core/mod.rs"
+      }
+    },
+    {
+      "name": "token.rs",
+      "path": "src/core/token.rs",
+      "sha": "02e2e13edcdda844b237130fb3073d9e92417f96",
+      "size": 2913,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core/token.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/core/token.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/02e2e13edcdda844b237130fb3073d9e92417f96",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/core/token.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core/token.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/02e2e13edcdda844b237130fb3073d9e92417f96",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/core/token.rs"
+      }
+    },
+    {
+      "name": "tx.rs",
+      "path": "src/core/tx.rs",
+      "sha": "a7d3445d0d79dfe570055611d4d393f5c2d7d2c9",
+      "size": 25,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core/tx.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/core/tx.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/a7d3445d0d79dfe570055611d4d393f5c2d7d2c9",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/core/tx.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/core/tx.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/a7d3445d0d79dfe570055611d4d393f5c2d7d2c9",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/core/tx.rs"
+      }
+    },
+    {
+      "name": "dex",
+      "path": "src/dex",
+      "sha": "302680f108e85808fd0c4beb974d52418fa75245",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/dex?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/dex",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/302680f108e85808fd0c4beb974d52418fa75245",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/dex?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/302680f108e85808fd0c4beb974d52418fa75245",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/dex"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/dex/mod.rs",
+      "sha": "77797eca0a55d713c92baec4f4f851a6514dde1a",
+      "size": 18,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/dex/mod.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/dex/mod.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/77797eca0a55d713c92baec4f4f851a6514dde1a",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/dex/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/dex/mod.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/77797eca0a55d713c92baec4f4f851a6514dde1a",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/dex/mod.rs"
+      }
+    },
+    {
+      "name": "pump_fun.rs",
+      "path": "src/dex/pump_fun.rs",
+      "sha": "5fde333559753f1f825a3458080af1706893f031",
+      "size": 31,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/dex/pump_fun.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/dex/pump_fun.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/5fde333559753f1f825a3458080af1706893f031",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/dex/pump_fun.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/dex/pump_fun.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/5fde333559753f1f825a3458080af1706893f031",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/dex/pump_fun.rs"
+      }
+    },
+    {
+      "name": "engine",
+      "path": "src/engine",
+      "sha": "7c6e9419659c9de92ee1054cd4938ff65d7fbbdb",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/engine",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/7c6e9419659c9de92ee1054cd4938ff65d7fbbdb",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/7c6e9419659c9de92ee1054cd4938ff65d7fbbdb",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/engine"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/engine/mod.rs",
+      "sha": "58c65bb55ebd7997c27e667b1d17256b591416a4",
+      "size": 31,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine/mod.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/engine/mod.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/58c65bb55ebd7997c27e667b1d17256b591416a4",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/engine/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine/mod.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/58c65bb55ebd7997c27e667b1d17256b591416a4",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/engine/mod.rs"
+      }
+    },
+    {
+      "name": "monitor.rs",
+      "path": "src/engine/monitor.rs",
+      "sha": "8e16783b39d31981f2380830d4a922ae1deda083",
+      "size": 502,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine/monitor.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/engine/monitor.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/8e16783b39d31981f2380830d4a922ae1deda083",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/engine/monitor.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine/monitor.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/8e16783b39d31981f2380830d4a922ae1deda083",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/engine/monitor.rs"
+      }
+    },
+    {
+      "name": "swap.rs",
+      "path": "src/engine/swap.rs",
+      "sha": "e3db7a89489ad149f618e784c40cbde1064fa999",
+      "size": 208,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine/swap.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/engine/swap.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/e3db7a89489ad149f618e784c40cbde1064fa999",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/engine/swap.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/engine/swap.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/e3db7a89489ad149f618e784c40cbde1064fa999",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/engine/swap.rs"
+      }
+    },
+    {
+      "name": "error",
+      "path": "src/error",
+      "sha": "26478af79f56ce9bfc510ca63ec7e2c017711c4d",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/error?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/error",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/26478af79f56ce9bfc510ca63ec7e2c017711c4d",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/error?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/26478af79f56ce9bfc510ca63ec7e2c017711c4d",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/error"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/error/mod.rs",
+      "sha": "080c7f80bd131c6388f9df3fdb7aad0f5f929f02",
+      "size": 7071,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/error/mod.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/error/mod.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/080c7f80bd131c6388f9df3fdb7aad0f5f929f02",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/error/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/error/mod.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/080c7f80bd131c6388f9df3fdb7aad0f5f929f02",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/error/mod.rs"
+      }
+    },
+    {
+      "name": "lib.rs",
+      "path": "src/lib.rs",
+      "sha": "228657a9694582b516945a8bfcdd87382454798b",
+      "size": 92,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/lib.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/lib.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/228657a9694582b516945a8bfcdd87382454798b",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/lib.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/lib.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/228657a9694582b516945a8bfcdd87382454798b",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/lib.rs"
+      }
+    },
+    {
+      "name": "main.rs",
+      "path": "src/main.rs",
+      "sha": "b59255ad1ad86dd4c06309c5356c14df802f5163",
+      "size": 733,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/main.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/main.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/b59255ad1ad86dd4c06309c5356c14df802f5163",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/main.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/main.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/b59255ad1ad86dd4c06309c5356c14df802f5163",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/main.rs"
+      }
+    },
+    {
+      "name": "services",
+      "path": "src/services",
+      "sha": "e135ec1b04367f3bae8900cbfd0d44068bcb8e01",
+      "size": 0,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/services?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/services",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/e135ec1b04367f3bae8900cbfd0d44068bcb8e01",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/services?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/trees/e135ec1b04367f3bae8900cbfd0d44068bcb8e01",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/tree/master/src/services"
+      }
+    },
+    {
+      "name": "mod.rs",
+      "path": "src/services/mod.rs",
+      "sha": "5525a42e83cde977f49e6136af15885cd1890b2f",
+      "size": 31,
+      "url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/services/mod.rs?ref=master",
+      "html_url": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/services/mod.rs",
+      "git_url": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/5525a42e83cde977f49e6136af15885cd1890b2f",
+      "download_url": "https://raw.githubusercontent.com/solanmevbot/solana-mev-bot/master/src/services/mod.rs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/solanmevbot/solana-mev-bot/contents/src/services/mod.rs?ref=master",
+        "git": "https://api.github.com/repos/solanmevbot/solana-mev-bot/git/blobs/5525a42e83cde977f49e6136af15885cd1890b2f",
+        "html": "https://github.com/solanmevbot/solana-mev-bot/blob/master/src/services/mod.rs"
+      }
+    }
+  ]
+}

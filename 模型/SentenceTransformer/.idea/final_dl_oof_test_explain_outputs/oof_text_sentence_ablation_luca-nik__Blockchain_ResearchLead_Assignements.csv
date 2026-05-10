@@ -1,0 +1,21 @@
+﻿branch,text_unit,base_prob,ablated_prob,prob_drop
+README,challenge market-making algorithm focus designed market-making algorithm leveraging predictive fair value estimation.,0.8581788053706875,0.8278967848224984,0.03028202054818907
+README,challenge defi liquidity pool mechanics focus examined reserve calculations swap mechanics defi liquidity pool.,0.8581788053706875,0.8315448135944266,0.026633991776260912
+README,learning outcomes enabled develop deep understanding defi mechanics trading strategies.,0.8581788053706875,0.8412769443929057,0.01690186097778179
+README,document highlights detailed solutions available solutions.pdf includes methodologies step-by-step explanation approaches used challenge.,0.8581788053706875,0.854133224021304,0.004045581349383487
+README,install dependencies bash installation.sh 2.,0.8581788053706875,0.8581788053706875,0.0
+README,navigate desired challenge folder bash cd exercisexxx 3.,0.8581788053706875,0.8581788053706875,0.0
+README,run main script using poetry bash poetry run python src main.py feedback contributions feel free explore reach feedback questions,0.8581788053706875,0.8581788053706875,0.0
+README,running replicate results 1.,0.8581788053706875,0.8581788053706875,0.0
+README,apply mathematical modeling real-world financial systems.,0.8581788053706875,0.8604214553339822,-0.0022426499632947072
+README,explore use simulations data-driven methods strategy optimization.,0.8581788053706875,0.8655197778835858,-0.007340972512898336
+README,simulations visualizations results support findings.,0.8581788053706875,0.866915888750479,-0.00873708337979151
+README,outcome identified strategies exploit price inefficiencies optimal returns.,0.8581788053706875,0.8682993977240836,-0.01012059235339613
+README,outcome demonstrated impact trades pool reserves price slippage.,0.8581788053706875,0.8683521319185491,-0.010173326547861627
+README,outcome assessed algorithm strengths limitations potential machine learning optimization.,0.8581788053706875,0.8699381446639813,-0.011759339293293869
+README,assumptions testing documentation thought process assumptions validation methods.,0.8581788053706875,0.8706142696350965,-0.012435464264409002
+README,details modeled price determination arbitrage scenarios using mathematical frameworks.,0.8581788053706875,0.8748173668222528,-0.01663856145156528
+README,details explored protocol design derived mathematical conditions profitable arbitrage.,0.8581788053706875,0.8781190093397327,-0.019940203969045278
+README,details outlined methods generating optimal quotes managing risk simulating performance.,0.8581788053706875,0.8795692526138521,-0.021390447243164634
+README,research lead assignment c11 labs defi research lead overview showcases solutions selected challenges c11 labs research lead assignment tasks focus algorithmic trading strategies spanning topics like arbitrage detection liquidity pool mechanics market-making algorithms highlights structured approach solving complex problems decentralized finance defi challenges solved challenge arbitrage metronome 1.0 focus analyzed arbitrage opportunities metronome 1.0 cryptocurrency ecosystem.,0.8581788053706875,0.8842907644083721,-0.026111959037684596
+AUX,defi challenges algorithmic trading solutions explore solutions research tasks arbitrage liquidity pools market-making strategies.,0.8581788053706875,0.9910185574471312,-0.13283975207644372

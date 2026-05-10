@@ -1,0 +1,20 @@
+{
+  "repo_full_name": "bytillo/spyder-osint",
+  "repo_deleted": true,
+  "data_source": "wayback_snapshot",
+  "collection_timestamp": "2026-03-17T02:07:00.862799",
+  "repo_detail": {
+    "repo_full_name": "bytillo/spyder-osint",
+    "snapshot_url": "http://web.archive.org/web/20250715165539/https://github.com/bytillo/spyder-osint",
+    "snapshot_time": "20250715165539",
+    "stars": 589,
+    "forks": 468000,
+    "watches": 1,
+    "readme": "Spyder🕷\n\n\nSpyder is a universal open-source intelligence (OSINT) research tool that performs searches using large global databases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeatures\n\n\n\n\nPhone number information\n\n\nIP address information\n\n\nSocials(Facebook, Instagram, Telegram, Twitter) information\n\n\nEmail information & Email bomber\n\n\nPerson's name search\n\n\nPhysical address information\n\n\nDomain lookup\n\n\nLicense plate information(EU, Asia)\n\n\nUsername search\n\n\n\n\nRequirements\n\n\n\n\nPython 3.10\n\n\nPip\n\n\nGit\n\n\n\n\nInstallation🍃(WINDOWS)\n\n\ngit clone https://github.com/bytillo/spyder-osint\n\ncd\n spyder-osint\nrun.bat\n\n\nOR\n\n\ngit clone https://github.com/bytillo/spyder-osint\n\ncd\n spyder-osint\npip install -r requirements.txt\npython spyder.py\n\n\nInstallation🍃(LINUX)\n\n\nsudo apt install python3 python3-pip -y\ngit clone https://github.com/bytillo/spyder-osint\n\ncd\n spyder-osint\npip3 install -r requirements.txt\nchmod +x run.sh\n./run.sh \n\n\nContribution🌟\n\n\n\n\nREPORT BUGS TO MY \nTELEGRAM\n\n\nDon't forget to put stars, it supports me a lot⭐\n\n\n\n",
+    "readme_domains": {
+      "github.com": 6733
+    }
+  },
+  "user_detail": null,
+  "owner_current_status": "deleted_or_banned"
+}

@@ -1,0 +1,1166 @@
+{
+  "repo_full_name": "WISEPLAT/backtrader_bybit",
+  "repo_detail": {
+    "id": 753168002,
+    "node_id": "R_kgDOLORugg",
+    "name": "backtrader_bybit",
+    "full_name": "WISEPLAT/backtrader_bybit",
+    "private": false,
+    "owner": {
+      "login": "WISEPLAT",
+      "id": 29922332,
+      "node_id": "MDQ6VXNlcjI5OTIyMzMy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29922332?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/WISEPLAT",
+      "html_url": "https://github.com/WISEPLAT",
+      "followers_url": "https://api.github.com/users/WISEPLAT/followers",
+      "following_url": "https://api.github.com/users/WISEPLAT/following{/other_user}",
+      "gists_url": "https://api.github.com/users/WISEPLAT/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/WISEPLAT/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/WISEPLAT/subscriptions",
+      "organizations_url": "https://api.github.com/users/WISEPLAT/orgs",
+      "repos_url": "https://api.github.com/users/WISEPLAT/repos",
+      "events_url": "https://api.github.com/users/WISEPLAT/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/WISEPLAT/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/WISEPLAT/backtrader_bybit",
+    "description": "Bybit API integration with Backtrader. Run strategies for Backtest and Live Trading. Get historical price data for Bitcoin, Ethereum and all coins from Bybit. EASY create your strategies.",
+    "fork": false,
+    "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit",
+    "forks_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/forks",
+    "keys_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/teams",
+    "hooks_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/hooks",
+    "issue_events_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/events",
+    "assignees_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/tags",
+    "blobs_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/languages",
+    "stargazers_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/stargazers",
+    "contributors_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contributors",
+    "subscribers_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/subscribers",
+    "subscription_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/subscription",
+    "commits_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/merges",
+    "archive_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/downloads",
+    "issues_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/labels{/name}",
+    "releases_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/deployments",
+    "created_at": "2024-02-05T15:48:46Z",
+    "updated_at": "2026-04-01T17:18:45Z",
+    "pushed_at": "2024-05-21T04:28:13Z",
+    "git_url": "git://github.com/WISEPLAT/backtrader_bybit.git",
+    "ssh_url": "git@github.com:WISEPLAT/backtrader_bybit.git",
+    "clone_url": "https://github.com/WISEPLAT/backtrader_bybit.git",
+    "svn_url": "https://github.com/WISEPLAT/backtrader_bybit",
+    "homepage": "",
+    "size": 156,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 21,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "algo",
+      "algo-trading-software",
+      "algo-trading-strategies",
+      "algotrading",
+      "backtrader",
+      "binance",
+      "bitcoin",
+      "bybit",
+      "bybit-api",
+      "bybit-bot",
+      "cryptocurrency",
+      "example-trading-strategies",
+      "live-trading",
+      "live-trading-strategies",
+      "offline-trading-strategies",
+      "trading",
+      "trading-bot",
+      "trading-strategies",
+      "trading-system"
+    ],
+    "visibility": "public",
+    "forks": 21,
+    "open_issues": 1,
+    "watchers": 60,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 21,
+    "subscribers_count": 2
+  },
+  "user_detail": {
+    "login": "WISEPLAT",
+    "id": 29922332,
+    "node_id": "MDQ6VXNlcjI5OTIyMzMy",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29922332?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WISEPLAT",
+    "html_url": "https://github.com/WISEPLAT",
+    "followers_url": "https://api.github.com/users/WISEPLAT/followers",
+    "following_url": "https://api.github.com/users/WISEPLAT/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WISEPLAT/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WISEPLAT/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WISEPLAT/subscriptions",
+    "organizations_url": "https://api.github.com/users/WISEPLAT/orgs",
+    "repos_url": "https://api.github.com/users/WISEPLAT/repos",
+    "events_url": "https://api.github.com/users/WISEPLAT/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WISEPLAT/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Oleg Shpagin",
+    "company": "WISEPLAT",
+    "blog": "https://www.youtube.com/@wiseplat",
+    "location": null,
+    "email": "info@wiseplat.org",
+    "hireable": null,
+    "bio": "IT Professional, Developer of Trading Robots, Python, C#, C++, Java, JavaScript, Go, Certified System Administrator",
+    "twitter_username": null,
+    "public_repos": 436,
+    "public_gists": 2,
+    "followers": 536,
+    "following": 0,
+    "created_at": "2017-07-05T13:58:45Z",
+    "updated_at": "2025-10-13T04:22:08Z"
+  },
+  "readme": "# backtrader_bybit\nBybit API integration with [Backtrader](https://github.com/WISEPLAT/backtrader).\n\nWith this integration you can do:\n - Backtesting your strategy on historical data from the exchange [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 ) + [Backtrader](https://github.com/WISEPLAT/backtrader )  // Backtesting \n - Launch trading systems for automatic trading on the exchange [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 ) + [Backtrader](https://github.com/WISEPLAT/backtrader ) // Live trading\n - Download historical data for cryptocurrencies from the exchange [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230)\n\nFor API connection we are using library [pybit](https://github.com/bybit-exchange/pybit).\n\n✅ Online Example for [ByBit BACKTEST Trading Strategy for BTC and ETH #2](https://www.kaggle.com/code/olegshpagin/bybit-backtest-trading-strategy-for-btc-and-eth-2)\n\n✅ Online Example for [LIVE Trading Strategy for Ethereum on Bybit](https://www.kaggle.com/code/olegshpagin/live-trading-strategy-for-ethereum-on-bybit)\n\n\n**You can say Thanks:**\n\nUSDT (Tron TRC20): TEHaXZX7KLjAm4eLWdf4VKfsqRUQpv8fTT\n\nor by [**Binance**](https://accounts.binance.com/register?ref=200640624 ) **ID** **200640624** through the exchange (no commission)\n\nor by [**Bybit**](https://www.bybit.com/invite?ref=KXLXXE%230 ) **UID** **112927970** through the exchange (no commission)\n\n## Installation\n1) The simplest way:\n```shell\npip install backtrader_bybit\n```\nor\n```shell\ngit clone https://github.com/WISEPLAT/backtrader_bybit\n```\nor\n```shell\npip install git+https://github.com/WISEPLAT/backtrader_bybit.git\n```\n\n2) Please use backtrader from my repository (as your can push your commits in it). Install it:\n```shell\npip install git+https://github.com/WISEPLAT/backtrader.git\n```\n-- Can I use your bybit interface with original backtrader?\n\n-- Yes, you can use original backtrader, as the author of original backtrader had approved all my changes. \n\nHere is the link: [mementum/backtrader#472](https://github.com/mementum/backtrader/pull/472)\n\n3) We have some dependencies, you need to install them: \n```shell\npip install pybit pycryptodome backtrader pandas matplotlib\n```\n\nor\n\n```shell\npip install -r requirements.txt\n```\n\n### Getting started\nTo make it easier to figure out how everything works, many examples have been made in the folders **DataExamplesBybit** and **StrategyExamplesBybit**.\n\nBefore running the example, you need to get your API key, Secret key and Type of Account, and put them in the file **ConfigBybit\\Config.py:**\n\n```python\n# content of ConfigBybit\\Config.py \nclass Config:\n    BYBIT_API_KEY = \"YOUR_API_KEY\"\n    BYBIT_API_SECRET = \"YOUR_SECRET_KEY\"\n    BYBIT_ACCOUNT_TYPE = \"UNIFIED\"  # UNIFIED or CONTRACT\n```\n\n#### How to get a Bybit API token:\n1. Register your account on [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 )\n2. Go to [\"Profile\" -> \"API Management\"](https://www.bybit.com/app/user/api-management?ref=KXLXXE%230 ) \n3. Then push the button \"Create New Key\" and select \"System generated\"\n4. In \"API Key restrictions\" enable \"Read-Write\" and in \"Unified Trading\"->\"SPOT\" enable \"Trade\"\n5. Copy and paste to the file **ConfigBybit\\Config.py ** received **\"API key\"** and **\"Secret key\"**\n\n#### Now you can run examples\n\nThe **DataExamplesBybit** folder contains the code of examples for working with exchange data via the [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 ) API.\n\n* **01 - Symbol.py** - trading strategy for obtaining historical and \"live\" data of one ticker for one timeframe\n* **02 - Symbol data to DF.py** - export to csv file of historical data of one ticker for one timeframe\n* **03 - Symbols.py** - trading strategy for multiple tickers on the same timeframe\n* **04 - Resample.py** - trading strategy for obtaining data from one ticker for different timeframes by converting a smaller timeframe into a larger one\n* **05 - Replay.py** - launching a trading strategy on a smaller timeframe, with processing on a larger one and displaying a larger interval chart\n* **06 - Rollover.py** - launch of a trading strategy based on gluing data from a file with historical data and the last downloaded history from the broker\n* **08 - Timeframes.py** - trading strategy is running on different timeframes.\n* **09 - Get Asset Info - through client.py** - getting info about asset: balance, lot size, min price step, min value to buy and etc.\n* **Strategy.py** - An example of a trading strategy that only outputs data of the OHLCV for ticker/tickers\n\nThe **StrategyExamplesBybit** folder contains the code of sample strategies.\n\n* **01 - Live Trade - Just Buy and Sell.py** - An example of a live trading strategy for ETH ticker on the base USDT ticker.\n  * The strategy shows how to Buy at Market or Limit order and how to Cancel order.\n  * Example of placing and cancel orders on the Bybit exchange.\n    * Please be aware! This is Live order - if market has a big change down in value of price more than 5% - the order will be completed....\n    * Please be aware! For Market order - it will be completed!\n    * **Do not forget to cancel the submitted orders from the exchange after the test!**\n\n* **01 - Live Trade.py** - An example of a live trading strategy for two BTC and ETH tickers on the base USDT ticker.\n  * The strategy shows how to apply indicators (SMA, RSI) to several tickers at the same time.\n  * Example of placing and cancel orders on the Bybit exchange.\n    * Please be aware! This is Live order - if market has a big change down in value of price more than 5% - the order will be completed.... \n    * **Do not forget to cancel the submitted orders from the exchange after the test!**\n\n\n* **02 - Live Trade MultiPortfolio.py** - An example of a live trading strategy for a set of tickers that can be transferred to the strategy in a list (BTC, ETH, BNB) on the base USDT ticker.\n  * The strategy shows how to apply indicators (SMA, RSI) to several tickers at the same time.\n  * Example of placing and cancel orders on the Bybit exchange.\n    * Please be aware! This is Live order - if market has a big change down in value of price more than 5% - the order will be completed.... \n    * **Do not forget to cancel the submitted orders from the exchange after the test!**\n\n\n* **03 - Live Trade ETH.py** - An example of a live trading strategy for two BNB and XMR tickers on the basic ETH ticker.\n  * The strategy shows how to apply indicators (SMA, RSI) to several tickers at the same time.\n  * Example of placing and cancel orders on the Bybit exchange.\n    * Please be aware! This is Live order - if market has a big change down in value of price more than 5% - the order will be completed.... \n    * **Do not forget to cancel the submitted orders from the exchange after the test!**\n\n\n* **04 - Offline Backtest.py** - An example of a trading strategy on a historical data - not live mode - for two BTC and ETH tickers on the base USDT ticker.\n  * The strategy shows how to apply indicators (SMA, RSI) to several tickers at the same time.\n    * Not a live mode - for testing strategies without sending orders to the exchange!\n\n\n* **05 - Offline Backtest MultiPortfolio.py** - An example of a trading strategy on a historical data - not live mode - for a set of tickers that can be transferred to the strategy in a list (BTC, ETH, BNB) on the base USDT ticker.\n  * The strategy shows how to apply indicators (SMA, RSI) to several tickers at the same time.\n    * Not a live mode - for testing strategies without sending orders to the exchange!\n\n\n* **06 - Live Trade Just Buy and Close by Market.py** - An example of a live trading strategy for ETH ticker on the base USDT ticker.\n  * The strategy shows how to buy by close price and sell by market a little value of ETH after 3 bars.\n  * Example of placing orders on the Bybit exchange.\n    * **Do not forget to cancel the submitted orders from the exchange after the test!**\n\n\n* **07 - Offline Backtest Indicators.py** - An example of a trading strategy for a history test using SMA and RSI indicators - not live mode - for two BTC and ETH tickers on the base USDT ticker.\n  * The strategy shows how to apply indicators (SMA, RSI) to several tickers at the same time.\n    * generates 177% of revenue at the time of video recording))\n    * Non-live mode - for testing strategies without sending orders to the exchange!\n\n\n* **08 - Offline Backtest Margin Trade with Leverage 50x - Linear Trade.py** - An example of a trading strategy with the use of margin Leverage 50x for a history backtest using SMA indicators - not live mode - for two BTC and ETH tickers on the base of USDT ticker.\n  * The strategy shows how to apply indicators SMA to several tickers at the same time.\n    * generates 792% of revenue at the time of file publishing\n    * Non-live mode - for testing strategies without sending orders to the exchange!\n  * The strategy shows how to use margin with Leverage 50x for backtest on history market data for cryptocurrencies.\n```commandline\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\nWas money: 2000.00\nEnding Portfolio Value: 17853.46\nRemaining available funds: 4887.38\nAssets in the amount of: 12966.08\n\n2000.00 ==> 17853.46 ==> +792.67%\n\nSQN:  AutoOrderedDict([('sqn', 1.0031776139642996), ('trades', 4)])\nVWR:  OrderedDict([('vwr', 25.613023915870777)])\nTDD:  OrderedDict([('maxdrawdown', 65.77087178559279), ('maxdrawdownperiod', 304)])\nDD:  AutoOrderedDict([('len', 6), ('drawdown', 20.46618403019286), ('moneydown', 229.70872494394746), ('max', AutoOrderedDict([('len', 304), ('drawdown', 65.77087178559279), ('moneydown', 295.8359186842)]))])\nAR:  OrderedDict([(2021, 0.0), (2022, -0.42822236821405035), (2023, 4.540830244681184), (2024, 1.8176719585784271)])\nProfitability:  OrderedDict([('rtot', 2.1890502317806253), ('ravg', 0.0022178827069712515), ('rnorm', 0.7487590850582526), ('rnorm100', 74.87590850582527)])\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n```\n\n## Thanks\n- backtrader: Very simple and cool library!\n- [pybit](https://github.com/bybit-exchange/pybit): For creating Bybit API wrapper, shortening a lot of work.\n\n## License\n[MIT](https://choosealicense.com/licenses/mit)\n\n## Important\nError correction, revision and development of the library is carried out by the author and the community!\n\n**Push your commits!**\n\n## Terms of Use\nThe backtrader_bybit library, which allows you to integrate Backtrader and Bybit API, is the **Program** created solely for the convenience of work.\nWhen using the **Program**, the User is obliged to comply with the provisions of the current legislation of his country.\nUsing the **Program** are offered on an \"AS IS\" basis. No guarantees, either oral or written, are attached and are not provided.\nThe author and the community does not guarantee that all errors of the **Program** have been eliminated, respectively, the author and the community do not bear any responsibility for\nthe consequences of using the **Program**, including, but not limited to, any damage to equipment, computers, mobile devices,\nUser software caused by or related to the use of the **Program**, as well as for any financial losses\nincurred by the User as a result of using the **Program**.\nNo one is responsible for data loss, losses, damages, including accidental or indirect, lost profits, loss of revenue or any other losses\nrelated to the use of the **Program**.\n\nThe **Program** is distributed under the terms of the [MIT](https://choosealicense.com/licenses/mit ) license.\n\n## Star History\n\nPlease put a Star 🌟 for this code\n\n[![Star History Chart](https://api.star-history.com/svg?repos=WISEPLAT/backtrader_bybit&type=Timeline)](https://star-history.com/#WISEPLAT/backtrader_bybit&Timeline)\n\nПожалуйста, поставьте Звезду 🌟 этому коду\n\n==========================================================================\n\n# backtrader_bybit\n\nИнтеграция Bybit API с [Backtrader](https://github.com/WISEPLAT/backtrader ).\n\nС помощью этой интеграции вы можете делать:\n- Тестирование вашей стратегии на исторических данных с биржи [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 ) + [Backtrader](https://github.com/WISEPLAT/backtrader )\n- Запускать торговые системы для автоматической торговли на бирже [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 ) + [Backtrader](https://github.com/WISEPLAT/backtrader ) \n- Загружать исторические данные по криптовалютам с биржи [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 )\n\nДля подключения к API мы используем библиотеку [pybit](https://github.com/bybit-exchange/pybit ).\n\n✅ Online Пример для [ByBit BACKTEST Trading Strategy for BTC and ETH #2](https://www.kaggle.com/code/olegshpagin/bybit-backtest-trading-strategy-for-btc-and-eth-2)\n\n✅ Online Пример для [LIVE Trading Strategy for Ethereum on Bybit](https://www.kaggle.com/code/olegshpagin/live-trading-strategy-for-ethereum-on-bybit)\n\n\n**Можно сказать Спасибо:**\n\nUSDT (Tron TRC20): TEHaXZX7KLjAm4eLWdf4VKfsqRUQpv8fTT\n\nили по [**Binance**](https://accounts.binance.com/register?ref=200640624 ) **ID** **200640624** через биржу (без комиссии)\n\nили по [**Bybit**](https://www.bybit.com/invite?ref=KXLXXE%230 ) **UID** **112927970** через биржу (без комиссии) \n\n\n## Установка\n1) Самый простой способ:\n```shell\npip install backtrader_bybit\n```\nили\n```shell\ngit clone https://github.com/WISEPLAT/backtrader_bybit\n```\nили\n```shell\npip install git+https://github.com/WISEPLAT/backtrader_bybit.git\n```\n\n2) Пожалуйста, используйте backtrader из моего репозитория (так как вы можете размещать в нем свои коммиты). Установите его:\n```shell\npip install git+https://github.com/WISEPLAT/backtrader.git\n```\n-- Могу ли я использовать ваш интерфейс bybit с оригинальным backtrader?\n\n-- Да, вы можете использовать оригинальный backtrader, так как автор оригинального backtrader одобрил все мои изменения.\n\nВот ссылка: [mementum/backtrader#472](https://github.com/mementum/backtrader/pull/472)\n\n3) У нас есть некоторые зависимости, вам нужно их установить:\n```shell\npip install pybit pycryptodome backtrader pandas matplotlib\n```\n\nили\n\n```shell\npip install -r requirements.txt\n```\n\n### Начало работы\nЧтобы было легче разобраться как всё работает, сделано множество примеров в папках **DataExamplesBybit_ru** и **StrategyExamplesBybit_ru**.\n\nПеред запуском примера, необходимо получить свой API ключ, Secret ключ и Тип аккаунта, и прописать их в файле **ConfigBybit\\Config.py:**\n\n```python\n# content of ConfigBybit\\Config.py \nclass Config:\n    BYBIT_API_KEY = \"YOUR_API_KEY\"\n    BYBIT_API_SECRET = \"YOUR_SECRET_KEY\"\n    BYBIT_ACCOUNT_TYPE = \"UNIFIED\"  # UNIFIED or CONTRACT\n```\n\n####  Как получить токен Bybit API:\n1. Зарегистрируйте свой аккаунт на [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 )\n2. Перейдите в [\"Профиль\" -> \"\"\"Управление API\"](https://www.bybit.com/app/user/api-management?ref=KXLXXE%230 )\n3. Затем нажмите кнопку \"Создать Новый Ключ\" и выберите \"Сгенерированный системой\".\n4. В разделе \"Разрешения API ключа\" включите \"\"Чтение и запись\" и в \"Единый торговый аккаунт\"->\"СПОТ\" включите \"Торговать\".\n5. Скопируйте и вставьте в файл **ConfigBybit\\Config.py** полученные **\"Ключ API\"** и **\"Секретный ключ\"**\n\n#### Теперь можно запускать примеры\n\nВ папке **DataExamplesBybit_ru** находится код примеров по работе с биржевыми данными через API интерфейс [Bybit](https://www.bybit.com/invite?ref=KXLXXE%230 ).\n\n* **01 - Symbol.py** - торговая стратегия для получения исторических и \"живых\" данных одного тикера по одному таймфрейму\n* **02 - Symbol data to DF.py** - экспорт в csv файл исторических данных одного тикера по одному таймфрейму\n* **03 - Symbols.py** - торговая стратегия для нескольких тикеров по одному таймфрейму\n* **04 - Resample.py** - торговая стратегия для получения данных одного тикера по разным таймфреймам методом конвертации меньшего таймфрейма в больший\n* **05 - Replay.py** - запуск торговой стратегии на меньшем таймфрейме, с обработкой на большем и выводом графика большего интервала\n* **06 - Rollover.py** - запуск торговой стратегии на склейке данных из файла с историческими данными и последней загруженной истории с брокера\n* **08 - Timeframes.py** - торговая стратегия для одного тикера по разным таймфреймам\n* **09 - Get Asset Info - through client.py** - получение информации об активе: баланс, размер лота, минимальный шаг цены, минимальная стоимость покупки и т.д.\n* **Strategy.py** - Пример торговой стратегии, которая только выводит данные по тикеру/тикерам OHLCV\n\nВ папке **StrategyExamplesBybit_ru** находится код примеров стратегий.  \n\n* **01 - Live Trade - Just Buy and Sell.py** - Пример торговой стратегии в live режиме для ETH на базовом тикере USDT. \n  * В стратегии показано как выставлять Ордер по Рынку и Лимитный ордер и как отменять ордер. \n  * Пример выставления заявок на биржу Bybit и их снятие.\n    * Пожалуйста, имейте в виду! Это live режим - если на рынке произойдет значительное изменение цены в сторону понижения более чем на 5% - ордер может быть выполнен....\n    * Пожалуйста, имейте в виду! Для ордера по Рынку - он будет выполнен....\n    * **Не забудьте после теста снять с биржи выставленные заявки!**\n\n* **01 - Live Trade.py** - Пример торговой стратегии в live режиме для двух тикеров BTC и ETH на базовом тикере USDT. \n  * В стратегии показано как применять индикаторы (SMA, RSI) к нескольким тикерам одновременно. \n  * Пример выставления заявок на биржу Bybit и их снятие.\n    * Пожалуйста, имейте в виду! Это live режим - если на рынке произойдет значительное изменение цены в сторону понижения более чем на 5% - ордер может быть выполнен.... \n    * **Не забудьте после теста снять с биржи выставленные заявки!**\n\n\n* **02 - Live Trade MultiPortfolio.py** - Пример торговой стратегии в live режиме для множества тикеров, которые можно передавать в стратегию списком (BTC, ETH, BNB) на базовом тикере USDT. \n  * В стратегии показано как применять индикаторы (SMA, RSI) к нескольким тикерам одновременно. \n  * Пример выставления заявок на биржу Bybit и их снятие.\n    * Пожалуйста, имейте в виду! Это live режим - если на рынке произойдет значительное изменение цены в сторону понижения более чем на 5% - ордер может быть выполнен....\n    * **Не забудьте после теста снять с биржи выставленные заявки!**\n\n\n* **03 - Live Trade ETH.py** - Пример торговой стратегии в live режиме для двух тикеров BNB и XMR на базовом тикере ETH. \n  * В стратегии показано как применять индикаторы (SMA, RSI) к нескольким тикерам одновременно. \n  * Пример выставления заявок на биржу Bybit и их снятие.\n    * Пожалуйста, имейте в виду! Это live режим - если на рынке произойдет значительное изменение цены в сторону понижения более чем на 5% - ордер может быть выполнен....\n    * **Не забудьте после теста снять с биржи выставленные заявки!**\n\n\n* **04 - Offline Backtest.py** - Пример торговой стратегии для теста на истории - не live режим - для двух тикеров BTC и ETH на базовом тикере USDT. \n  * В стратегии показано как применять индикаторы (SMA, RSI) к нескольким тикерам одновременно.\n    * Не live режим - для тестирования стратегий без отправки заявок на биржу!\n\n\n* **05 - Offline Backtest MultiPortfolio.py** - Пример торговой стратегии для теста на истории - не live режим - для множества тикеров, которые можно передавать в стратегию списком (BTC, ETH, BNB) на базовом тикере USDT. \n  * В стратегии показано как применять индикаторы (SMA, RSI) к нескольким тикерам одновременно.\n    * Не live режим - для тестирования стратегий без отправки заявок на биржу!\n\n\n* **06 - Live Trade Just Buy and Close by Market.py** - Пример торговой стратегии в live для тикера ETH на базовом тикере USDT.\n  * Стратегия показывает, как покупать по цене закрытия и продавать по рыночной небольшое количество ETH через 3 бара.\n  * Пример размещения ордеров на бирже Bybit.\n    * **Не забудьте отменить выставленные ордера с биржи после тестирования!**\n\n\n* **07 - Offline Backtest Indicators.py** - Пример торговой стратегии для теста на истории с использованием индикаторов SMA и RSI - не live режим - для двух тикеров BTC и ETH на базовом тикере USDT. \n  * В стратегии показано как применять индикаторы (SMA, RSI) к нескольким тикерам одновременно.\n    * генерит 177% дохода на момент записи видео )) \n    * Не live режим - для тестирования стратегий без отправки заявок на биржу!\n\n\n* **08 - Offline Backtest Margin Trade with Leverage 50x - Linear Trade.py** - Пример торговой стратегии с использованием маржинального плеча 50x для исторического бэктеста с использованием индикаторов SMA - не в режиме реального времени - для двух тикеров BTC и ETH на основе тикера USDT.\n  * Стратегия показывает, как применять индикаторы SMA к нескольким тикерам одновременно.\n    * генерирует 792% дохода на момент публикации файла\n    * Не live режим - для тестирования стратегий без отправки ордеров на биржу!!\n  * Стратегия показывает, как использовать маржинальную торговлю с кредитным плечом 50x для тестирования на исторических рыночных данных для криптовалют.\n```commandline\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\nWas money: 2000.00\nEnding Portfolio Value: 17853.46\nRemaining available funds: 4887.38\nAssets in the amount of: 12966.08\n\n2000.00 ==> 17853.46 ==> +792.67%\n\nSQN:  AutoOrderedDict([('sqn', 1.0031776139642996), ('trades', 4)])\nVWR:  OrderedDict([('vwr', 25.613023915870777)])\nTDD:  OrderedDict([('maxdrawdown', 65.77087178559279), ('maxdrawdownperiod', 304)])\nDD:  AutoOrderedDict([('len', 6), ('drawdown', 20.46618403019286), ('moneydown', 229.70872494394746), ('max', AutoOrderedDict([('len', 304), ('drawdown', 65.77087178559279), ('moneydown', 295.8359186842)]))])\nAR:  OrderedDict([(2021, 0.0), (2022, -0.42822236821405035), (2023, 4.540830244681184), (2024, 1.8176719585784271)])\nProfitability:  OrderedDict([('rtot', 2.1890502317806253), ('ravg', 0.0022178827069712515), ('rnorm', 0.7487590850582526), ('rnorm100', 74.87590850582527)])\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n```\n\n## Спасибо\n- backtrader: очень простая и классная библиотека!\n- [pybit](https://github.com/bybit-exchange/pybit ): Для создания оболочки Bybit API, сокращающей большую часть работы.\n\n## Важно\nИсправление ошибок, доработка и развитие библиотеки осуществляется автором и сообществом!\n\n**Пушьте ваши коммиты!** \n\n# Условия использования\nБиблиотека backtrader_bybit позволяющая делать интеграцию Backtrader и Bybit API - это **Программа** созданная исключительно для удобства работы.\nПри использовании **Программы** Пользователь обязан соблюдать положения действующего законодательства Российской Федерации или своей страны.\nИспользование **Программы** предлагается по принципу «Как есть» («AS IS»). Никаких гарантий, как устных, так и письменных не прилагается и не предусматривается.\nАвтор и сообщество не дает гарантии, что все ошибки **Программы** были устранены, соответственно автор и сообщество не несет никакой ответственности за\nпоследствия использования **Программы**, включая, но, не ограничиваясь любым ущербом оборудованию, компьютерам, мобильным устройствам, \nпрограммному обеспечению Пользователя вызванным или связанным с использованием **Программы**, а также за любые финансовые потери,\nпонесенные Пользователем в результате использования **Программы**.\nНикто не ответственен за потерю данных, убытки, ущерб, включаю случайный или косвенный, упущенную выгоду, потерю доходов или любые другие потери,\nсвязанные с использованием **Программы**.\n\n**Программа** распространяется на условиях лицензии [MIT](https://choosealicense.com/licenses/mit).\n",
+  "tree_structure": [
+    {
+      "name": "ConfigBybit",
+      "path": "ConfigBybit",
+      "sha": "975fc8ec5a11bdb79701d4ddb430165a0fba3760",
+      "size": 0,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/ConfigBybit?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/ConfigBybit",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/975fc8ec5a11bdb79701d4ddb430165a0fba3760",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/ConfigBybit?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/975fc8ec5a11bdb79701d4ddb430165a0fba3760",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/ConfigBybit"
+      }
+    },
+    {
+      "name": "Config.py",
+      "path": "ConfigBybit/Config.py",
+      "sha": "0769ccb1c2cd5033f97cb49b04a5c85c84b5a778",
+      "size": 880,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/ConfigBybit/Config.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/ConfigBybit/Config.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/0769ccb1c2cd5033f97cb49b04a5c85c84b5a778",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/ConfigBybit/Config.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/ConfigBybit/Config.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/0769ccb1c2cd5033f97cb49b04a5c85c84b5a778",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/ConfigBybit/Config.py"
+      }
+    },
+    {
+      "name": "DataExamplesBybit",
+      "path": "DataExamplesBybit",
+      "sha": "fd10dca89fe4021c5fd4f9f6e88dc56e07eeae89",
+      "size": 0,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/DataExamplesBybit",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/fd10dca89fe4021c5fd4f9f6e88dc56e07eeae89",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/fd10dca89fe4021c5fd4f9f6e88dc56e07eeae89",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/DataExamplesBybit"
+      }
+    },
+    {
+      "name": "01 - Symbol.py",
+      "path": "DataExamplesBybit/01 - Symbol.py",
+      "sha": "90d15b682c01f94abb10fda3df26d2150307f0b5",
+      "size": 2091,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/01%20-%20Symbol.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/01%20-%20Symbol.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/90d15b682c01f94abb10fda3df26d2150307f0b5",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/01%20-%20Symbol.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/01%20-%20Symbol.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/90d15b682c01f94abb10fda3df26d2150307f0b5",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/01%20-%20Symbol.py"
+      }
+    },
+    {
+      "name": "02 - Symbol data to DF.py",
+      "path": "DataExamplesBybit/02 - Symbol data to DF.py",
+      "sha": "bc7402065f3e59c0b8fc474592cbe9a2a873ff98",
+      "size": 3686,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/02%20-%20Symbol%20data%20to%20DF.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/02%20-%20Symbol%20data%20to%20DF.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/bc7402065f3e59c0b8fc474592cbe9a2a873ff98",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/02%20-%20Symbol%20data%20to%20DF.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/02%20-%20Symbol%20data%20to%20DF.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/bc7402065f3e59c0b8fc474592cbe9a2a873ff98",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/02%20-%20Symbol%20data%20to%20DF.py"
+      }
+    },
+    {
+      "name": "03 - Symbols.py",
+      "path": "DataExamplesBybit/03 - Symbols.py",
+      "sha": "f57d2eae5f00cadbe30f82827ead07c412cd0d0e",
+      "size": 2331,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/03%20-%20Symbols.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/03%20-%20Symbols.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/f57d2eae5f00cadbe30f82827ead07c412cd0d0e",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/03%20-%20Symbols.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/03%20-%20Symbols.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/f57d2eae5f00cadbe30f82827ead07c412cd0d0e",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/03%20-%20Symbols.py"
+      }
+    },
+    {
+      "name": "04 - Resample.py",
+      "path": "DataExamplesBybit/04 - Resample.py",
+      "sha": "da2abe929e9e2f1ac4e269927c260353c39dd902",
+      "size": 3712,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/04%20-%20Resample.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/04%20-%20Resample.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/da2abe929e9e2f1ac4e269927c260353c39dd902",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/04%20-%20Resample.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/04%20-%20Resample.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/da2abe929e9e2f1ac4e269927c260353c39dd902",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/04%20-%20Resample.py"
+      }
+    },
+    {
+      "name": "05 - Replay.py",
+      "path": "DataExamplesBybit/05 - Replay.py",
+      "sha": "5e6d5b299965957e0884bbe1e96a40bde72bd6a1",
+      "size": 1716,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/05%20-%20Replay.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/05%20-%20Replay.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/5e6d5b299965957e0884bbe1e96a40bde72bd6a1",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/05%20-%20Replay.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/05%20-%20Replay.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/5e6d5b299965957e0884bbe1e96a40bde72bd6a1",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/05%20-%20Replay.py"
+      }
+    },
+    {
+      "name": "06 - Rollover.py",
+      "path": "DataExamplesBybit/06 - Rollover.py",
+      "sha": "d7180c4bf6396f7027564c39498d55f7d600d4c6",
+      "size": 2826,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/06%20-%20Rollover.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/06%20-%20Rollover.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d7180c4bf6396f7027564c39498d55f7d600d4c6",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/06%20-%20Rollover.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/06%20-%20Rollover.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d7180c4bf6396f7027564c39498d55f7d600d4c6",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/06%20-%20Rollover.py"
+      }
+    },
+    {
+      "name": "08 - Timeframes.py",
+      "path": "DataExamplesBybit/08 - Timeframes.py",
+      "sha": "8c805a152c9b202b23696956fb6a4d16126edadf",
+      "size": 3024,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/08%20-%20Timeframes.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/08%20-%20Timeframes.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/8c805a152c9b202b23696956fb6a4d16126edadf",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/08%20-%20Timeframes.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/08%20-%20Timeframes.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/8c805a152c9b202b23696956fb6a4d16126edadf",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/08%20-%20Timeframes.py"
+      }
+    },
+    {
+      "name": "09 - Get Asset Info - through client.py",
+      "path": "DataExamplesBybit/09 - Get Asset Info - through client.py",
+      "sha": "bd1acd534a9b6a9658505d4f16f40a7f3405770c",
+      "size": 1047,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/09%20-%20Get%20Asset%20Info%20-%20through%20client.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/09%20-%20Get%20Asset%20Info%20-%20through%20client.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/bd1acd534a9b6a9658505d4f16f40a7f3405770c",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/09%20-%20Get%20Asset%20Info%20-%20through%20client.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/09%20-%20Get%20Asset%20Info%20-%20through%20client.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/bd1acd534a9b6a9658505d4f16f40a7f3405770c",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/09%20-%20Get%20Asset%20Info%20-%20through%20client.py"
+      }
+    },
+    {
+      "name": "BTCUSDT_D.csv",
+      "path": "DataExamplesBybit/BTCUSDT_D.csv",
+      "sha": "c26c905b615475055dbede432e14807325a7f364",
+      "size": 13398,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/BTCUSDT_D.csv?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/BTCUSDT_D.csv",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/c26c905b615475055dbede432e14807325a7f364",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/BTCUSDT_D.csv",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/BTCUSDT_D.csv?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/c26c905b615475055dbede432e14807325a7f364",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/BTCUSDT_D.csv"
+      }
+    },
+    {
+      "name": "BTCUSDT_D_minus_5_days.csv",
+      "path": "DataExamplesBybit/BTCUSDT_D_minus_5_days.csv",
+      "sha": "cf4c693a009d461dd21be76f4ed0522cc46e87c7",
+      "size": 13061,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/BTCUSDT_D_minus_5_days.csv?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/BTCUSDT_D_minus_5_days.csv",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/cf4c693a009d461dd21be76f4ed0522cc46e87c7",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/BTCUSDT_D_minus_5_days.csv",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/BTCUSDT_D_minus_5_days.csv?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/cf4c693a009d461dd21be76f4ed0522cc46e87c7",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/BTCUSDT_D_minus_5_days.csv"
+      }
+    },
+    {
+      "name": "Strategy.py",
+      "path": "DataExamplesBybit/Strategy.py",
+      "sha": "64034bd3d4637b42de9316e1320b17b2cddef1c1",
+      "size": 1774,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/Strategy.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/Strategy.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/64034bd3d4637b42de9316e1320b17b2cddef1c1",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit/Strategy.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit/Strategy.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/64034bd3d4637b42de9316e1320b17b2cddef1c1",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit/Strategy.py"
+      }
+    },
+    {
+      "name": "DataExamplesBybit_ru",
+      "path": "DataExamplesBybit_ru",
+      "sha": "e01b53a0041bae8f60ca85f2e300b862c35150e4",
+      "size": 0,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/DataExamplesBybit_ru",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/e01b53a0041bae8f60ca85f2e300b862c35150e4",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/e01b53a0041bae8f60ca85f2e300b862c35150e4",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/DataExamplesBybit_ru"
+      }
+    },
+    {
+      "name": "01 - Symbol.py",
+      "path": "DataExamplesBybit_ru/01 - Symbol.py",
+      "sha": "e80239fa452cc395abf702f0d806f1abbeb6bbd2",
+      "size": 2649,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/01%20-%20Symbol.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/01%20-%20Symbol.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/e80239fa452cc395abf702f0d806f1abbeb6bbd2",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/01%20-%20Symbol.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/01%20-%20Symbol.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/e80239fa452cc395abf702f0d806f1abbeb6bbd2",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/01%20-%20Symbol.py"
+      }
+    },
+    {
+      "name": "02 - Symbol data to DF.py",
+      "path": "DataExamplesBybit_ru/02 - Symbol data to DF.py",
+      "sha": "c1a2cce7032da01340aeee11213d82918db80e66",
+      "size": 4164,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/02%20-%20Symbol%20data%20to%20DF.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/02%20-%20Symbol%20data%20to%20DF.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/c1a2cce7032da01340aeee11213d82918db80e66",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/02%20-%20Symbol%20data%20to%20DF.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/02%20-%20Symbol%20data%20to%20DF.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/c1a2cce7032da01340aeee11213d82918db80e66",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/02%20-%20Symbol%20data%20to%20DF.py"
+      }
+    },
+    {
+      "name": "03 - Symbols.py",
+      "path": "DataExamplesBybit_ru/03 - Symbols.py",
+      "sha": "fd9a231320271b53fa515aad59e35d1ca424495e",
+      "size": 2995,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/03%20-%20Symbols.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/03%20-%20Symbols.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/fd9a231320271b53fa515aad59e35d1ca424495e",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/03%20-%20Symbols.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/03%20-%20Symbols.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/fd9a231320271b53fa515aad59e35d1ca424495e",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/03%20-%20Symbols.py"
+      }
+    },
+    {
+      "name": "04 - Resample.py",
+      "path": "DataExamplesBybit_ru/04 - Resample.py",
+      "sha": "626dd1b59ac6cd68f8c7cb59e446c9d54a76e90d",
+      "size": 4847,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/04%20-%20Resample.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/04%20-%20Resample.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/626dd1b59ac6cd68f8c7cb59e446c9d54a76e90d",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/04%20-%20Resample.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/04%20-%20Resample.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/626dd1b59ac6cd68f8c7cb59e446c9d54a76e90d",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/04%20-%20Resample.py"
+      }
+    },
+    {
+      "name": "05 - Replay.py",
+      "path": "DataExamplesBybit_ru/05 - Replay.py",
+      "sha": "4db61a58e06e62c194b6894c2fe326bb63a54a09",
+      "size": 2239,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/05%20-%20Replay.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/05%20-%20Replay.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/4db61a58e06e62c194b6894c2fe326bb63a54a09",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/05%20-%20Replay.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/05%20-%20Replay.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/4db61a58e06e62c194b6894c2fe326bb63a54a09",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/05%20-%20Replay.py"
+      }
+    },
+    {
+      "name": "06 - Rollover.py",
+      "path": "DataExamplesBybit_ru/06 - Rollover.py",
+      "sha": "4dabdb4340febf4997d744570fc0a13e4748d9db",
+      "size": 3521,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/06%20-%20Rollover.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/06%20-%20Rollover.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/4dabdb4340febf4997d744570fc0a13e4748d9db",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/06%20-%20Rollover.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/06%20-%20Rollover.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/4dabdb4340febf4997d744570fc0a13e4748d9db",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/06%20-%20Rollover.py"
+      }
+    },
+    {
+      "name": "08 - Timeframes.py",
+      "path": "DataExamplesBybit_ru/08 - Timeframes.py",
+      "sha": "27a8058cea8ad5b3659dff029faac00a5c1ff026",
+      "size": 4097,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/08%20-%20Timeframes.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/08%20-%20Timeframes.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/27a8058cea8ad5b3659dff029faac00a5c1ff026",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/08%20-%20Timeframes.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/08%20-%20Timeframes.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/27a8058cea8ad5b3659dff029faac00a5c1ff026",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/08%20-%20Timeframes.py"
+      }
+    },
+    {
+      "name": "09 - Get Asset Info - through client.py",
+      "path": "DataExamplesBybit_ru/09 - Get Asset Info - through client.py",
+      "sha": "31ba2c5ebd8f9731edeb8e500db2626d5e9b09cc",
+      "size": 1217,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/09%20-%20Get%20Asset%20Info%20-%20through%20client.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/09%20-%20Get%20Asset%20Info%20-%20through%20client.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/31ba2c5ebd8f9731edeb8e500db2626d5e9b09cc",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/09%20-%20Get%20Asset%20Info%20-%20through%20client.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/09%20-%20Get%20Asset%20Info%20-%20through%20client.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/31ba2c5ebd8f9731edeb8e500db2626d5e9b09cc",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/09%20-%20Get%20Asset%20Info%20-%20through%20client.py"
+      }
+    },
+    {
+      "name": "BTCUSDT_1d.csv",
+      "path": "DataExamplesBybit_ru/BTCUSDT_1d.csv",
+      "sha": "ffe5c02185836cff05308e62354f312977b33118",
+      "size": 21408,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/BTCUSDT_1d.csv?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/BTCUSDT_1d.csv",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/ffe5c02185836cff05308e62354f312977b33118",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/BTCUSDT_1d.csv",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/BTCUSDT_1d.csv?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/ffe5c02185836cff05308e62354f312977b33118",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/BTCUSDT_1d.csv"
+      }
+    },
+    {
+      "name": "BTCUSDT_1d_minus_5_days.csv",
+      "path": "DataExamplesBybit_ru/BTCUSDT_1d_minus_5_days.csv",
+      "sha": "a9f61eff765d54b94ff26f80e9d60db22fb0fcb3",
+      "size": 21116,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/BTCUSDT_1d_minus_5_days.csv?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/BTCUSDT_1d_minus_5_days.csv",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/a9f61eff765d54b94ff26f80e9d60db22fb0fcb3",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/BTCUSDT_1d_minus_5_days.csv",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/BTCUSDT_1d_minus_5_days.csv?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/a9f61eff765d54b94ff26f80e9d60db22fb0fcb3",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/BTCUSDT_1d_minus_5_days.csv"
+      }
+    },
+    {
+      "name": "Strategy.py",
+      "path": "DataExamplesBybit_ru/Strategy.py",
+      "sha": "6f5ed28f2e70b095ca13abcccad164d8e0fa4e68",
+      "size": 1957,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/Strategy.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/Strategy.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/6f5ed28f2e70b095ca13abcccad164d8e0fa4e68",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/DataExamplesBybit_ru/Strategy.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/DataExamplesBybit_ru/Strategy.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/6f5ed28f2e70b095ca13abcccad164d8e0fa4e68",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/DataExamplesBybit_ru/Strategy.py"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "sha": "33097aa99936ddfd8a6895a1d3b21e61f5067227",
+      "size": 1069,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/LICENSE?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/LICENSE",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/33097aa99936ddfd8a6895a1d3b21e61f5067227",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/LICENSE",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/LICENSE?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/33097aa99936ddfd8a6895a1d3b21e61f5067227",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/LICENSE"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "967a2accb6aedae406f8391d86bbbec85f6f274d",
+      "size": 29464,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/README.md?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/README.md",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/967a2accb6aedae406f8391d86bbbec85f6f274d",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/README.md?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/967a2accb6aedae406f8391d86bbbec85f6f274d",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/README.md"
+      }
+    },
+    {
+      "name": "StrategyExamplesBybit",
+      "path": "StrategyExamplesBybit",
+      "sha": "a8ea6a4a909e03b5d306712bbfed4db10a5c0e47",
+      "size": 0,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/StrategyExamplesBybit",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/a8ea6a4a909e03b5d306712bbfed4db10a5c0e47",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/a8ea6a4a909e03b5d306712bbfed4db10a5c0e47",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/StrategyExamplesBybit"
+      }
+    },
+    {
+      "name": "01 - Live Trade - Just Buy and Sell.py",
+      "path": "StrategyExamplesBybit/01 - Live Trade - Just Buy and Sell.py",
+      "sha": "25e648292dfc58619c35fa2bfcdb0687e3dc3fdc",
+      "size": 6966,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/25e648292dfc58619c35fa2bfcdb0687e3dc3fdc",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/25e648292dfc58619c35fa2bfcdb0687e3dc3fdc",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py"
+      }
+    },
+    {
+      "name": "01 - Live Trade.py",
+      "path": "StrategyExamplesBybit/01 - Live Trade.py",
+      "sha": "4717d0b92525087da1c1f3a5de5a27f2a4e679f5",
+      "size": 7260,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/01%20-%20Live%20Trade.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/01%20-%20Live%20Trade.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/4717d0b92525087da1c1f3a5de5a27f2a4e679f5",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/01%20-%20Live%20Trade.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/01%20-%20Live%20Trade.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/4717d0b92525087da1c1f3a5de5a27f2a4e679f5",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/01%20-%20Live%20Trade.py"
+      }
+    },
+    {
+      "name": "02 - Live Trade MultiPortfolio.py",
+      "path": "StrategyExamplesBybit/02 - Live Trade MultiPortfolio.py",
+      "sha": "7413b96b5786aec7292bc1c0459ca060b66d0ae5",
+      "size": 7204,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/02%20-%20Live%20Trade%20MultiPortfolio.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/02%20-%20Live%20Trade%20MultiPortfolio.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/7413b96b5786aec7292bc1c0459ca060b66d0ae5",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/02%20-%20Live%20Trade%20MultiPortfolio.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/02%20-%20Live%20Trade%20MultiPortfolio.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/7413b96b5786aec7292bc1c0459ca060b66d0ae5",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/02%20-%20Live%20Trade%20MultiPortfolio.py"
+      }
+    },
+    {
+      "name": "03 - Live Trade ETH.py",
+      "path": "StrategyExamplesBybit/03 - Live Trade ETH.py",
+      "sha": "270e6bd2b7c6dd0df147cf2d137bdab3b18cb3d9",
+      "size": 7318,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/03%20-%20Live%20Trade%20ETH.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/03%20-%20Live%20Trade%20ETH.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/270e6bd2b7c6dd0df147cf2d137bdab3b18cb3d9",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/03%20-%20Live%20Trade%20ETH.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/03%20-%20Live%20Trade%20ETH.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/270e6bd2b7c6dd0df147cf2d137bdab3b18cb3d9",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/03%20-%20Live%20Trade%20ETH.py"
+      }
+    },
+    {
+      "name": "04 - Offline Backtest.py",
+      "path": "StrategyExamplesBybit/04 - Offline Backtest.py",
+      "sha": "9025d819df621a6aaad58cb5ec72c35aa0c305ec",
+      "size": 7677,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/04%20-%20Offline%20Backtest.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/04%20-%20Offline%20Backtest.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/9025d819df621a6aaad58cb5ec72c35aa0c305ec",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/04%20-%20Offline%20Backtest.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/04%20-%20Offline%20Backtest.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/9025d819df621a6aaad58cb5ec72c35aa0c305ec",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/04%20-%20Offline%20Backtest.py"
+      }
+    },
+    {
+      "name": "05 - Offline Backtest MultiPortfolio.py",
+      "path": "StrategyExamplesBybit/05 - Offline Backtest MultiPortfolio.py",
+      "sha": "d4b7fd01358e79a8fc8e5a8b622df9dc39fa511c",
+      "size": 7576,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/05%20-%20Offline%20Backtest%20MultiPortfolio.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/05%20-%20Offline%20Backtest%20MultiPortfolio.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d4b7fd01358e79a8fc8e5a8b622df9dc39fa511c",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/05%20-%20Offline%20Backtest%20MultiPortfolio.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/05%20-%20Offline%20Backtest%20MultiPortfolio.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d4b7fd01358e79a8fc8e5a8b622df9dc39fa511c",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/05%20-%20Offline%20Backtest%20MultiPortfolio.py"
+      }
+    },
+    {
+      "name": "06 - Live Trade Just Buy and Close by Market.py",
+      "path": "StrategyExamplesBybit/06 - Live Trade Just Buy and Close by Market.py",
+      "sha": "31ec95603830f34b0df2b5ba42acf0fa187d77de",
+      "size": 8228,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/31ec95603830f34b0df2b5ba42acf0fa187d77de",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/31ec95603830f34b0df2b5ba42acf0fa187d77de",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py"
+      }
+    },
+    {
+      "name": "07 - Offline Backtest Indicators.py",
+      "path": "StrategyExamplesBybit/07 - Offline Backtest Indicators.py",
+      "sha": "2e01ad79100ca5b1e2b1f453f886b83bb553c1cf",
+      "size": 9439,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/07%20-%20Offline%20Backtest%20Indicators.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/07%20-%20Offline%20Backtest%20Indicators.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/2e01ad79100ca5b1e2b1f453f886b83bb553c1cf",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/07%20-%20Offline%20Backtest%20Indicators.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/07%20-%20Offline%20Backtest%20Indicators.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/2e01ad79100ca5b1e2b1f453f886b83bb553c1cf",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/07%20-%20Offline%20Backtest%20Indicators.py"
+      }
+    },
+    {
+      "name": "08 - Offline Backtest Margin Trade with Leverage 50x - Linear Trade.py",
+      "path": "StrategyExamplesBybit/08 - Offline Backtest Margin Trade with Leverage 50x - Linear Trade.py",
+      "sha": "53b10580d13f9c9a0f056845577df8e934cc29bc",
+      "size": 10764,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/53b10580d13f9c9a0f056845577df8e934cc29bc",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/53b10580d13f9c9a0f056845577df8e934cc29bc",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py"
+      }
+    },
+    {
+      "name": "just_print_OHLCV.py",
+      "path": "StrategyExamplesBybit/just_print_OHLCV.py",
+      "sha": "d34e609b2f13b41269ec6a78daae9a3156a5c910",
+      "size": 3665,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/just_print_OHLCV.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/just_print_OHLCV.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d34e609b2f13b41269ec6a78daae9a3156a5c910",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/just_print_OHLCV.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/just_print_OHLCV.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d34e609b2f13b41269ec6a78daae9a3156a5c910",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/just_print_OHLCV.py"
+      }
+    },
+    {
+      "name": "just_print_OHLCV_D1.py",
+      "path": "StrategyExamplesBybit/just_print_OHLCV_D1.py",
+      "sha": "47de6693d6c8ce22986b21639b754782f16b760f",
+      "size": 3703,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/just_print_OHLCV_D1.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/just_print_OHLCV_D1.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/47de6693d6c8ce22986b21639b754782f16b760f",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit/just_print_OHLCV_D1.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit/just_print_OHLCV_D1.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/47de6693d6c8ce22986b21639b754782f16b760f",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit/just_print_OHLCV_D1.py"
+      }
+    },
+    {
+      "name": "StrategyExamplesBybit_ru",
+      "path": "StrategyExamplesBybit_ru",
+      "sha": "247a6704920f75887e3c13e0bb45f121db353eac",
+      "size": 0,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/StrategyExamplesBybit_ru",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/247a6704920f75887e3c13e0bb45f121db353eac",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/247a6704920f75887e3c13e0bb45f121db353eac",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/StrategyExamplesBybit_ru"
+      }
+    },
+    {
+      "name": "01 - Live Trade - Just Buy and Sell.py",
+      "path": "StrategyExamplesBybit_ru/01 - Live Trade - Just Buy and Sell.py",
+      "sha": "587a694dc7a94b7d5561f287b2acef4785c9bb9f",
+      "size": 7660,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/587a694dc7a94b7d5561f287b2acef4785c9bb9f",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/587a694dc7a94b7d5561f287b2acef4785c9bb9f",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/01%20-%20Live%20Trade%20-%20Just%20Buy%20and%20Sell.py"
+      }
+    },
+    {
+      "name": "01 - Live Trade.py",
+      "path": "StrategyExamplesBybit_ru/01 - Live Trade.py",
+      "sha": "eeaa55ebf5b7ced4e24401ce6bcdae61bc1b187f",
+      "size": 8551,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/01%20-%20Live%20Trade.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/01%20-%20Live%20Trade.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/eeaa55ebf5b7ced4e24401ce6bcdae61bc1b187f",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/01%20-%20Live%20Trade.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/01%20-%20Live%20Trade.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/eeaa55ebf5b7ced4e24401ce6bcdae61bc1b187f",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/01%20-%20Live%20Trade.py"
+      }
+    },
+    {
+      "name": "02 - Live Trade MultiPortfolio.py",
+      "path": "StrategyExamplesBybit_ru/02 - Live Trade MultiPortfolio.py",
+      "sha": "8a4008d86297e383e492f6831ac5eae0e53580d9",
+      "size": 8471,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/02%20-%20Live%20Trade%20MultiPortfolio.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/02%20-%20Live%20Trade%20MultiPortfolio.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/8a4008d86297e383e492f6831ac5eae0e53580d9",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/02%20-%20Live%20Trade%20MultiPortfolio.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/02%20-%20Live%20Trade%20MultiPortfolio.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/8a4008d86297e383e492f6831ac5eae0e53580d9",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/02%20-%20Live%20Trade%20MultiPortfolio.py"
+      }
+    },
+    {
+      "name": "03 - Live Trade ETH.py",
+      "path": "StrategyExamplesBybit_ru/03 - Live Trade ETH.py",
+      "sha": "a47d84fdcf4a483812ce212ec70008fe690e05ee",
+      "size": 8609,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/03%20-%20Live%20Trade%20ETH.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/03%20-%20Live%20Trade%20ETH.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/a47d84fdcf4a483812ce212ec70008fe690e05ee",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/03%20-%20Live%20Trade%20ETH.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/03%20-%20Live%20Trade%20ETH.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/a47d84fdcf4a483812ce212ec70008fe690e05ee",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/03%20-%20Live%20Trade%20ETH.py"
+      }
+    },
+    {
+      "name": "04 - Offline Backtest.py",
+      "path": "StrategyExamplesBybit_ru/04 - Offline Backtest.py",
+      "sha": "1ef01fcd25c84f5cfd3bd1c2d5130e91cac788e7",
+      "size": 9183,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/04%20-%20Offline%20Backtest.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/04%20-%20Offline%20Backtest.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/1ef01fcd25c84f5cfd3bd1c2d5130e91cac788e7",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/04%20-%20Offline%20Backtest.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/04%20-%20Offline%20Backtest.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/1ef01fcd25c84f5cfd3bd1c2d5130e91cac788e7",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/04%20-%20Offline%20Backtest.py"
+      }
+    },
+    {
+      "name": "05 - Offline Backtest MultiPortfolio.py",
+      "path": "StrategyExamplesBybit_ru/05 - Offline Backtest MultiPortfolio.py",
+      "sha": "559d80c3c6fabc7b583e5fc833849fdb2f305335",
+      "size": 9015,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/05%20-%20Offline%20Backtest%20MultiPortfolio.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/05%20-%20Offline%20Backtest%20MultiPortfolio.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/559d80c3c6fabc7b583e5fc833849fdb2f305335",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/05%20-%20Offline%20Backtest%20MultiPortfolio.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/05%20-%20Offline%20Backtest%20MultiPortfolio.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/559d80c3c6fabc7b583e5fc833849fdb2f305335",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/05%20-%20Offline%20Backtest%20MultiPortfolio.py"
+      }
+    },
+    {
+      "name": "06 - Live Trade Just Buy and Close by Market.py",
+      "path": "StrategyExamplesBybit_ru/06 - Live Trade Just Buy and Close by Market.py",
+      "sha": "31ec95603830f34b0df2b5ba42acf0fa187d77de",
+      "size": 8228,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/31ec95603830f34b0df2b5ba42acf0fa187d77de",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/31ec95603830f34b0df2b5ba42acf0fa187d77de",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/06%20-%20Live%20Trade%20Just%20Buy%20and%20Close%20by%20Market.py"
+      }
+    },
+    {
+      "name": "07 - Offline Backtest Indicators.py",
+      "path": "StrategyExamplesBybit_ru/07 - Offline Backtest Indicators.py",
+      "sha": "2175b5bc4e19f7cb8fdf5a44cbcba810e6b6cb3f",
+      "size": 11303,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/07%20-%20Offline%20Backtest%20Indicators.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/07%20-%20Offline%20Backtest%20Indicators.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/2175b5bc4e19f7cb8fdf5a44cbcba810e6b6cb3f",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/07%20-%20Offline%20Backtest%20Indicators.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/07%20-%20Offline%20Backtest%20Indicators.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/2175b5bc4e19f7cb8fdf5a44cbcba810e6b6cb3f",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/07%20-%20Offline%20Backtest%20Indicators.py"
+      }
+    },
+    {
+      "name": "08 - Offline Backtest Margin Trade with Leverage 50x - Linear Trade.py",
+      "path": "StrategyExamplesBybit_ru/08 - Offline Backtest Margin Trade with Leverage 50x - Linear Trade.py",
+      "sha": "53b10580d13f9c9a0f056845577df8e934cc29bc",
+      "size": 10764,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/53b10580d13f9c9a0f056845577df8e934cc29bc",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/53b10580d13f9c9a0f056845577df8e934cc29bc",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/08%20-%20Offline%20Backtest%20Margin%20Trade%20with%20Leverage%2050x%20-%20Linear%20Trade.py"
+      }
+    },
+    {
+      "name": "just_print_OHLCV.py",
+      "path": "StrategyExamplesBybit_ru/just_print_OHLCV.py",
+      "sha": "d34e609b2f13b41269ec6a78daae9a3156a5c910",
+      "size": 3665,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/just_print_OHLCV.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/just_print_OHLCV.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d34e609b2f13b41269ec6a78daae9a3156a5c910",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/just_print_OHLCV.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/just_print_OHLCV.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/d34e609b2f13b41269ec6a78daae9a3156a5c910",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/just_print_OHLCV.py"
+      }
+    },
+    {
+      "name": "just_print_OHLCV_D1.py",
+      "path": "StrategyExamplesBybit_ru/just_print_OHLCV_D1.py",
+      "sha": "47de6693d6c8ce22986b21639b754782f16b760f",
+      "size": 3703,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/just_print_OHLCV_D1.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/just_print_OHLCV_D1.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/47de6693d6c8ce22986b21639b754782f16b760f",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/StrategyExamplesBybit_ru/just_print_OHLCV_D1.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/StrategyExamplesBybit_ru/just_print_OHLCV_D1.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/47de6693d6c8ce22986b21639b754782f16b760f",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/StrategyExamplesBybit_ru/just_print_OHLCV_D1.py"
+      }
+    },
+    {
+      "name": "backtrader_bybit",
+      "path": "backtrader_bybit",
+      "sha": "e8c5c8f846631b6f2d3a4dfd41c5bc0cf663bdb8",
+      "size": 0,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/backtrader_bybit",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/e8c5c8f846631b6f2d3a4dfd41c5bc0cf663bdb8",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/trees/e8c5c8f846631b6f2d3a4dfd41c5bc0cf663bdb8",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/tree/master/backtrader_bybit"
+      }
+    },
+    {
+      "name": "__init__.py",
+      "path": "backtrader_bybit/__init__.py",
+      "sha": "29a00262a6c2ed89f9d93bf26e7958b3b2ecb1c6",
+      "size": 36,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/__init__.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/__init__.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/29a00262a6c2ed89f9d93bf26e7958b3b2ecb1c6",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/backtrader_bybit/__init__.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/__init__.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/29a00262a6c2ed89f9d93bf26e7958b3b2ecb1c6",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/__init__.py"
+      }
+    },
+    {
+      "name": "bybit_broker.py",
+      "path": "backtrader_bybit/bybit_broker.py",
+      "sha": "7aa7c20f37ec2362c9b081cec8a67973ed899cc0",
+      "size": 9171,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/bybit_broker.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/bybit_broker.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/7aa7c20f37ec2362c9b081cec8a67973ed899cc0",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/backtrader_bybit/bybit_broker.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/bybit_broker.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/7aa7c20f37ec2362c9b081cec8a67973ed899cc0",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/bybit_broker.py"
+      }
+    },
+    {
+      "name": "bybit_feed.py",
+      "path": "backtrader_bybit/bybit_feed.py",
+      "sha": "2803eba4ed8d25703f3e08c943cb33b68d130328",
+      "size": 13887,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/bybit_feed.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/bybit_feed.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/2803eba4ed8d25703f3e08c943cb33b68d130328",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/backtrader_bybit/bybit_feed.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/bybit_feed.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/2803eba4ed8d25703f3e08c943cb33b68d130328",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/bybit_feed.py"
+      }
+    },
+    {
+      "name": "bybit_store.py",
+      "path": "backtrader_bybit/bybit_store.py",
+      "sha": "fd992de88b2e1ef61bf057ca38ca5f28812771f9",
+      "size": 6277,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/bybit_store.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/bybit_store.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/fd992de88b2e1ef61bf057ca38ca5f28812771f9",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/backtrader_bybit/bybit_store.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/bybit_store.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/fd992de88b2e1ef61bf057ca38ca5f28812771f9",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/bybit_store.py"
+      }
+    },
+    {
+      "name": "enums.py",
+      "path": "backtrader_bybit/enums.py",
+      "sha": "0e8921a64173faa29df2007066a8094efd9203c7",
+      "size": 798,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/enums.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/enums.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/0e8921a64173faa29df2007066a8094efd9203c7",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/backtrader_bybit/enums.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/backtrader_bybit/enums.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/0e8921a64173faa29df2007066a8094efd9203c7",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/backtrader_bybit/enums.py"
+      }
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "sha": "a15e91a3bab0731c8f7e944478f8e1885ebf4f65",
+      "size": 48,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/requirements.txt?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/requirements.txt",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/a15e91a3bab0731c8f7e944478f8e1885ebf4f65",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/requirements.txt",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/requirements.txt?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/a15e91a3bab0731c8f7e944478f8e1885ebf4f65",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/requirements.txt"
+      }
+    },
+    {
+      "name": "setup.cfg",
+      "path": "setup.cfg",
+      "sha": "7d99dd6979f69bfbb33cfbba48ea96a0583e8da4",
+      "size": 35,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/setup.cfg?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/setup.cfg",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/7d99dd6979f69bfbb33cfbba48ea96a0583e8da4",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/setup.cfg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/setup.cfg?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/7d99dd6979f69bfbb33cfbba48ea96a0583e8da4",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/setup.cfg"
+      }
+    },
+    {
+      "name": "setup.py",
+      "path": "setup.py",
+      "sha": "aea851cd7b4791f14a6e7f69a5c71c3a03759821",
+      "size": 2121,
+      "url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/setup.py?ref=master",
+      "html_url": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/setup.py",
+      "git_url": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/aea851cd7b4791f14a6e7f69a5c71c3a03759821",
+      "download_url": "https://raw.githubusercontent.com/WISEPLAT/backtrader_bybit/master/setup.py",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/contents/setup.py?ref=master",
+        "git": "https://api.github.com/repos/WISEPLAT/backtrader_bybit/git/blobs/aea851cd7b4791f14a6e7f69a5c71c3a03759821",
+        "html": "https://github.com/WISEPLAT/backtrader_bybit/blob/master/setup.py"
+      }
+    }
+  ],
+  "external_domains": {
+    "github.com": 6754,
+    "www.bybit.com": 9742,
+    "star-history.com": 1636,
+    "accounts.binance.com": 3292,
+    "api.star-history.com": 1636,
+    "www.kaggle.com": 6066,
+    "choosealicense.com": 5103
+  },
+  "collected_at": "2026-04-07T16:27:42.460502"
+}

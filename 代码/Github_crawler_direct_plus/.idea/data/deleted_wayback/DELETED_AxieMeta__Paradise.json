@@ -1,0 +1,20 @@
+{
+  "repo_full_name": "AxieMeta/Paradise",
+  "owner": "AxieMeta",
+  "is_repo_deleted": true,
+  "snapshot_time": "20231017012055",
+  "metrics": {
+    "stars": 2,
+    "forks": 17,
+    "watches": 0
+  },
+  "readme_full_text": "Paradise\n\n\nMVP version of Paradise\n\n\nAvailable Scripts\n\n\nIn the project directory, you can run:\n\n\nyarn install\n\n\nyarn start\n\n\nRuns the app in the development mode.\n\nOpen \nhttp://localhost:3000\n to view it in the browser.\n\n\nThe page will reload if you make edits.\n\nYou will also see any lint errors in the console.\n\n\nyarn test\n\n\nLaunches the test runner in the interactive watch mode.\n\nSee the section about \nrunning tests\n for more information.\n\n\nyarn build\n\n\nBuilds the app for production to the \nbuild\n folder.\n\nIt correctly bundles React in production mode and optimizes the build for the best performance.\n\n\nThe build is minified and the filenames include the hashes.\n\nYour app is ready to be deployed!\n\n\nSee the section about \ndeployment\n for more information.\n\n\nyarn eject\n\n",
+  "external_assets": {
+    "domains": {},
+    "solana_wallets": []
+  },
+  "owner_current_status": {
+    "account_status": "deleted_or_banned",
+    "account_info": null
+  }
+}

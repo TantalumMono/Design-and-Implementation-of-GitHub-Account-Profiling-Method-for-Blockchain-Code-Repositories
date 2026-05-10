@@ -1,0 +1,2060 @@
+threshold,precision,recall,f1,f2,accuracy,roc_auc,pr_auc,confusion_matrix,family,n,n_pos,n_neg
+0.015,1.0,1.0,1.0,1.0,1.0,,,[[60]],F1_pumpfun_clone,60,60,0
+0.015,1.0,0.95,0.9743589743589743,0.9595959595959596,0.95,,,"[[0, 0], [3, 57]]",F2_crypto_trading_bot,60,60,0
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 0], [60, 0]]",F3_web3_platform_app,60,60,0
+0.015,1.0,0.3333333333333333,0.5,0.3846153846153846,0.3333333333333333,,,"[[0, 0], [40, 20]]",F4_security_osint_cve,60,60,0
+0.015,1.0,0.7666666666666667,0.8679245283018868,0.8041958041958043,0.7666666666666667,,,"[[0, 0], [14, 46]]",F5_ai_media_demo,60,60,0
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::007SKRN__crypto-portfolio-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::00hello__solidity-experiments.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0ryX__Blockchain-Miner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0wl3xSec__web3-cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0x-Crisbanks__panda-Web3-smart-contract-auditor-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0x4543__zeta-crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xDeadList__0xDeadList.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xGeegZ__defi-gambler.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xGval__evm-mcp-tools.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xJonaseb11__Meta-suite.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xJonaseb11__shared_wallet.3.0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xJonaseb11__solidity_L.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xLabs-Org__DeHarvest.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xMaka__w3py.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xMesinTempur__Flappyster.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xPleiades__switch-trade-coin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xRajkumar__damn-vulnerable-defi-solutions.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xRobWatson__Allowance-dApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xTaoDev__Wallet-Trades-Tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xTijan__coin-flip.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xalberto__solana-crash-game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xbitcoin__0xbitcoin-token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xcregis__anychain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xdevrel__Conditional-NFTs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xefrain__Bsc-bootcamp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xfps__python-solidity-blockchain-smart-contract-course.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xfrosty__leverade-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xhappydev__evm-explorer-uniswap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xinevitable__bento.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::0xisk__awesome-solidity-security.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xmdrakib__JesseHillClimb.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xpranay__WildCoins-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::0xwagmi__bitcoin_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::1-5Pool__RansomwareEschrowService.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::10ap17__Damn-Vulnerable-DeFi-Foundry.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::10gic__vanitygen-plusplus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::1200wd__bitcoinlib.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::1983shiv__blockchain-crypto-smart-contract-example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::1Crazymoney__ethNearMarketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::1poolfinance__1Pool-Strategy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::2303A51405__solidity-smart_contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::23Konradbase__altseason-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::2qx__awesome-bitcoin-cash.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::339-Labs__wallet-platform-mpc-go.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::3Dpass__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::5ajaki__safe-mcp-server.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::6sl3pt__ethereum-data-analytics.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::914alexwillett__StochRSI-Crypto-Trading-Algorithm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::94929__rock-paper-scissors.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ACINQ__phoenix.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AICoin-io__AICoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AS-1312__Crypto-Steps.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ASPPIBRA-DAO__DIGITAL_WORLD_REAL_ESTATE_MARKET.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AbhinavOC24__sPay.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AbioyeSamuel__DBANK_DeFi_DApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AbushakerJamil__Hardhat-Test.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AchyuthMohan__Blockchain-Cryptogram.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::AchyuthMohan__cryptogram-nmit-block-chain-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Adamant-im__adamant-api-jsclient.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Adamant-im__adamant-im.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Aditya-alchemist__GFGKIIT-CRYPTOMA-HyperThon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AdrianaMiha__Krypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Adrijan-Petek__gas-fee-optimizer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Adrijan-Petek__onchain-nft-art.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Adrijan-Petek__portfolio-tracker-pnl.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Adrijan-Petek__token-correlation-analyzer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Afrozllm__Web3-Wallet-Connect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::AiKay96__Bitcoin-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AidosKuneen__aidos-wallet-v1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ajitabh-Kalia__Ethereum-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Akshat-cs__hardhat-defi-aave-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AkshitTiwarii__carbonx.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::AleRapchan__nft-token-factory.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AlejandroGV96__web3-test.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AlexCheema__Tanuki.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::AlexNa-Holdings__web3pro.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Alikhan-Shanbay__AegisScan.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AllanOtieno254__SmartContractVendingMachine.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Amr-9__HexHunter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::An4Dev__Solana-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Web3-Projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AnalytixAudit__Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AndreiD__qv_voting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Aniket-Engg__sol-profiler-vscode.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AnnaNX1__create-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Anonymous961__NFTClaimApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AntoineBastide47__Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Anton1636__crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Anugo1__Attest-Nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ApeWorX__ape-ganache.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ApeWorX__ape-ledger.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ApeWorX__evm-trace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Aperture-Finance__Aperture-Lens.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Aranyani01__Alpha-defi-adapter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Arifin036__defi-staking-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ArnaudBand__nftMarketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Arowolokehinde__STX-TIP.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ArrjunPradeep__safeCryptoWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ArshS1__sengh-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ArthurAhiyarov__Hardhat-Betting-Smart-Contract-Bsc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Aryan0770__Blockchain-Major-CryptoBox.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ashland-jp__Web3-Projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AshutoshShekharProjects__Blockchain-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AssetifyLabsTeams__Assetifily.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Autosaida__DeFiHackAnalysis.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AuxillaryLord__Smart-Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Axentro__Axentro.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::AymaanPathan__ClauseAI.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Aytaditya__NFT_Staking_app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::B3Pay__B3Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BSN-DDC__taianchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BTCwalletGen__BTCwalletGen.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Baat-Maan__defiBasic.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BadakalaYashwanth__Web-3Cryptocurrency-Wallet-Generator-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Bananapus__nana-fee-project-deployer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BasinLogix__BLX_chain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BeTechnologyCo__zkevm-boilerplate.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BeanstalkFarms__Basin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BeanstalkFarms__Beanstalk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BendDAO__bend-lending-protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::BertrandConxy__Lottery.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BeycanPress__cryptopay-lite.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BibliothecaDAO__realms-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BibliothecaDAO__realms-react.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Bill171991__SATFLOW-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BirthdayResearch__defichain-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::BitPortal__bitportal-client.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Bitcoin-II__BitcoinII-Core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::BlackPeter13__LightningTipBot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Block-Beats-Estonia__BITCOIN-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Block-Chen__blocksdk-go.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Blockchain-for-Developers__sp18-midterm-pt2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BlueWallet__BlueWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Blueforce99__web3-bubble-portfolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Bottom-Labs__wallet-core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BradMoonUESTC__FireWallProject.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::BraianVaylet__buildspace-epic-nfts-ui.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::BraisCabo__Decentralized-Crypto-Casino.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Brunomike__cryptopunk-clone-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Busulis__OPNet-Vesting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ButterDevelop__AutoBlumSmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Bwest981__BitcoinSig.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Bytez3__MEDiscordBuySell.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::C0A21130__web3-demo-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CIpherEE__TECHCRUSHERC-20.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CJpaekil__nft-marketplace-ERC721.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CODEX108__FINAL-BLOCKSPIRIT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CPix18__CryptoCopyRights.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CaiqueRibeiro__decentralized-stripe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CateryaTech__tradeforge.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Certora__CertoraProver.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChainAgnostic__CAIPs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChainEasy__ChainEasy-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChainInsighter__Ondo-Flux-Finance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChainInsighter__Web3-Casino-Crash-Game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChainShot__AAVEDaiEscrow.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChainsQueen__web3dashboard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Chia-Network__chia-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Chirag21__CryptoZombies-solidity-v0.8.16.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChocoChichia__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChrisZyy3__presale-nft-web3-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ChrisdeWolf__blockchain-attack-probabilities.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ClusterH__Memories-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Cocodrilette__DeFi-Staking-SolidityContracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Code-Decoders__specter-defi-near.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CodeMachine0121__EthereumWallet_local_API.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CoinSpace__CoinSpace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Coldcard__firmware.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ColonySatoshi__BTCME.WEB3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ConsenSys-archive__vscode-ext.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ConsenSysDiligence__0x-review.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ConsenSysDiligence__mythril.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ConsenSysMesh__live-libs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Consensys__defi-score.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Consensys__eth-lightwallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ConstanzaOriana__RealEstate_dApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Cr0mb__Crypto-Sweeper.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Cr0mb__Satoshi-Sweeper.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Crypto0390__nft-airdrops.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CryptoApex23__mnemonic-balance-checker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::CryptoCreams__Crypto-Creams.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CryptoExplor__CeloNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CryptoFist__MemeMarketplace-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CryptoSnowPrince__CryptoGame_Backend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Cryptorubic__multi-proxy-rubic.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::CutupAngel__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::D-Y-So__Blockchain_Project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DE-labtory__zulu.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DEFIProtocol__Web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DTVMStack__DTVM.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dadel-1__Polymarket-CopyTrading.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dakii03__crypto-project-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Daltonic__dappCinemasX.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Daltonic__dappFundsX.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Damian-Sanchez__CryptoTextAlert.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DanielCM2001__SendCrypto-Blockchain-App-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::DanielDimitrov5__NFT-Marketplace-FE.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DappFactory__CryptoTrivia.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::DappioLab__navigator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Darkbladecr__cryptoWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Daudxu__eth-wallet-modal.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DeCleanup-Network__contracts-evm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::DeFiCh__defiscan.live.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DeFiDesk__DeFiDesk.github.io.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DeFiNecromancer__Basic-Name-Storage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DeFireX__defirex-protocol-v3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DePayFi__buttons.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DePayFi__depay-claimable-nft-airdrops.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::DePayFi__web3-wallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DePayFi__widgets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DealAiFind__DealAiFind-Ai-DEX-FrontRun-JS-V4.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Decurity__semgrep-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Deed3Labs__Protocol-DApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Deeppanchal2108__metaflex-nft-lab.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Defi-Pool-Share__DefiPoolShare.DPSTContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Defi-Pool-Share__DefiPoolShare.LendingContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DemocracyEarth__exodus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DemocracyEarth__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Denis345__blockchain-automation-tool.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DenisZS__cckat.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DevAyomi__Smart-Wallet-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DevJihwan__SmartContractSample_RentCar.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DevMarc16__appkit-connect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DevStudioX__Phoenix-Clipper-Malware-Private.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dharma256__solidity-multisig-wallet-56.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dilkashpeshimam18__defi-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DimarcoKevin__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DimensionDev__Maskbook.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dineshv0311__Web3.0-CryptoTransfer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::DixDev1621__BLOCKCHAIN-DeFi-Router.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DjibrilM__strike-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Dklish__trading-lab.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DonggeunYu__MEV-Attack-on-the-BSC.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dopular__CLI-Searching-and-Tracing-EVMTransactions.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dpost-George__foundry-web3-wallet-security-Advanced.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DrLinuxOfficial__CryptoWallet-Cracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Drix10__ai-resources.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::DudeOfCode__web3.pyandSolidityTodolist.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Dyslex7c__DefiYieldOptimizer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ERC4626-Alliance__sup-web-4626.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ETsCalrskj__Kypt-MultiSig-Wallet-Transactions-Tron-Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EWCunha__brownie-fund-me.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EdgeApp__edge-react-gui.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EjaraApp__trustdart.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Elmanilov__CastClaim.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ElromEvedElElyon__bitcoinbrasil.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Elytro-eth__ETHShanghai2022.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EmanHerawy__web3Drive.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Emivvvvv__btc-vanity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Emmahchinonso__web3-bridge-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Emmanuel-213__MyFirstSmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Emmanuel-Samuel__Alchemy-projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Enkhai__crypto-blockchain-python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Enricrypto__arb-wave-flashloans-arbitrage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EnridoZanoge__Layer-1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::EpicVillage__Ore-Blue-Miner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Erfaniaa__crypto-portfolio-optimizer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EtherAuthority__Portfolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EtherTW__LogoVote2017.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EthereumCommonwealth__Auditing.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::EthereumCommonwealth__multi-geth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ethernal-Tech__bridge-web-test-suite.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ev3rlasting__Sui-Vanity-Wallet-Generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::EveryThinUknow__BlockchainPrototype.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ExodusMovement__bitcoind-zmq.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Expandergraph__crypto-crawler.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ExpertVagabond__mango-v4.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FACINGS__collection-manager.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FIFA0313__blockchain-wallet-adapter-designe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FIFA0313__sui-mcp-server-wallet-management.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FIT-DNU__Blockchain-Technology.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Fabischu2008__Vinechain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Fabomarche__ethereum-viewer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Faouzijedidi1__NFT-Game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Farber98__MultiSigWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::FazioNico__meta-gotchi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Fida-Kainth__Block-Chain-A-Decentralized-Cryptocurrency-Wallet-System-with-Automated-Zakat-Deduction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FilOzone__synapse-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FinHubRotman__eth-blockchain-data.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Flame-eth__Multiparty-Solidity-Wallet-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ForcingVaporizer__Blockchain-Dapp-Crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Formyselfonly__smart-contract-quickstart.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FredericRezeau__soroban-snooker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FrederikBolding__chainlist.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Frenzoid__DAPP_Bank.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Freya-Lark__Chainlink-2024-17hours-Web3-tutorial.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FriendlyUser__solidity-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::FujiwaraChoki__CoinWizard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GHODA-crypto__shatranj.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GRANTsol__PanteraProtocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GameChangerFinance__gamechanger.wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Gearbox-protocol__gearbox-protocol-description.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Generic35__Ethereum-Wallet-Dai-Token-Clone.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GlitchicaL__project-arcadia.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GobyWallet__openapi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Gola-k__jsm_nft_marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::GoodDollar__GoodDAPP.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GoogleEnginer__defi-yield-calculator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GridexProtocol__core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::GuiTeK__bip39-splitter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Gupta-4699__crypto_gallery.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Gzeu__hero-forge-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HAECHI-LABS__vvisp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HODLorg__HODLbot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HackUnderway__BlockChain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Hackathons-w-Rapto__RugRader.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HadhemiBM__SmartContract_NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Haehnchen__uniswap-arbitrage-flash-swap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HalfSuperNate__BalanceOfBatchDataToString.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HandyDudes__ETH-NFT-buildspace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Hany-Almnaem__Solana-Documents-as-NFTs-in-a-wallet-Project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HappyGroupHub__Ethereum-Wallet-Tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Hardchat__Web3.py-Transaction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HariVP03__nft-kart.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HarryR__shwop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Harukite__wallets-generate.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::HashLips__hashlips_nft_contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HashLips__nft_collection_minter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::HassanA632__blockchain-wallet-risk-analyser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::HawkTahir1__ZENC.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::HectorNBL__eth_solseum_gen_hnbl.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::HilliamT__foundry-web3-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HimanshuGupta-p1__ETHIFY.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::HongThaiPham__plugin-u2u.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HopefulHeart2020__Finaomics-Solidity-Web3-React.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HugoBrunet13__NFT-Marketplace-Auction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Huy-2k11__Native-Parser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::HyperPlay-Gaming__hyperplay-desktop-client.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Hyperledger-TWGC__GM-interoperability.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::IBM__loyalty-points-evm-fabric.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::IBQ-SUP__b-rad-coin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Iamdungx__denigma-cracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Iamtheusername112__Crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::IaroslavTitov__OnchainVestingService.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::IcarusCan__CryptoSimsNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::IgorAugust0__blockchain-security-labs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Imperial-Group-19__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Infineon__secora-blockchain-walletconnect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Infinite-Null__Wallet-Master.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Isaacdelly__Plutus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Itheum__sdk-mx-data-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Ivy-Apps__ivy-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Iwai88961997__Electrum-Fake-Balance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::J12ATA__my-wave-portal.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JACKORARO12__BlockChainVoting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JJ-Top__Despliegue-en-Ganache-de-SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JackG-eth__CryptoZombieEthSC.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Jackhuang166__chess-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jackhuang166__evm-dex-swap-staking-liquidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JackyVerse__SmartContractSolidityEth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JacobZavita__nfts-react.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jahankohan__NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jahankohan__NFTWhiteListing.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jain-Sameer__DecentralizedStableCoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JamBrains__jam-docs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JamesANZ__crypto-timelocked-backup.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JamesANZ__learn-solidity-with-examples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Janus-chan__ZkSync_Accounts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jared351__Blockchain-crypto-currencies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JasminDreasond__Dohpw.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JasonnLim__Blockchain-MedicalRecords.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JavaCardOS__BitcoinWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jeff1010-web__NFT-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jeiwan__zuniswapv2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JennEYoon__DeFi-ml.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JoeanSteinbock__crypto-price-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jolsho__eth_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Jon-Becker__heimdall-rs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JoshuaDevCo__defi-arb.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JuanXavier__DEX_React.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::JulieGibbs__NFT1155_Contract_Test_Assignment.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::JulyIghor__QtBitcoinTrader.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::JumpCrypto__crypto-reading-list.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Juniorduc44__brownie_fund_me.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::JunoNode__juno.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::KOSASIH__GEE-Platform.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KOSASIH__nexus-finance-core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KYVENetwork__kyvejs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kalashin1__GTA-token-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KareimGazer__Blockchain-Sim.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Karhal__web3-connect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kartikey353__Bitcoin-WalletCmd.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KashifCh-eth__Lottery-Smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kazopl__mpc-agent-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kazopl__nft-marketplace-signatures.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::KehindeA533__CryptoDev_NFTCollection_Frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kelvyne__starknet-storage-proof-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KenatSF__NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KernelFailure__blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Kevaljagani__NFT-Market.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KevinSmall__blockchain3d.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::KevzPeter__EduBlocks.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Keya-Moradi__Cryptopunk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kimonic99__Heneftee.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kimxons__generate-btc-keys.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kingscliq__nuking-nfts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::KittenYang__SafeSnap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kr1ptal__ethers-kt.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::KrishGitVerse__speedrun-multisig-msu.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Kula529__-nft-collectible-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Kuprovskiy__defi.finance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LN-Zap__zap-desktop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LaChance-Lab__EVM-Solana-Casino-Games.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LanceHez__Blockchain_Army_Knife-wallet-cracker-with-multichian.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Laszlo23__deficrown.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Lavkush3411__nft-backend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LeandroHugo__EtherJoint-Decentralized-Finance-for-Shared-Prosperity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LearnWeb3DAO__14-Days-of-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Lego1st__VotingDapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Lemonio1Official__privateKey.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Lemury1__wallet_stealer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Lilypad-Tech__lilypad.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::LinuxKunaL__gigalate-crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::LoboVH__NFT-contract-NEAR-PROTOCOL.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LocalCryptos__LocalCryptosWalletBackupExplorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Logarithm-Labs__basis-mcp-server.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LondheShubham153__falcon-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Lopes-Marcio__chia-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Louis-XWB__ICP_Web3Jobs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Lucifer666XD__ZenDesk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::LuckyPigeon__Smart-Contract-Playground.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MGM103__CDP_Stable_Coin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MaelRibes__Crypto-Kids.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Magicred-1__hackin-dau.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MahadISL__Web3-App----Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ManaanAnsari__MultiSigWallet-Solidity-Foundry.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Manuel-yang__BlockChainSelfLearning.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MarcoBrian__damn-vulnerable-defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Markkop__markkop-defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MartinSerafini__Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MartinoTruppini__LegalTech-SmartContract.it.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MassDotMoney__nested-core-lego.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Mathieu2301__TradingView-API.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Mattjhagen__P3-Lending.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MauriceBoendermaker__kraken_forge_hackathon_2025.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Medicyp__NFT_Marketplace_using_Ethereum_Smart_Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Melchizedek4ever__Time-Lock-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MeoMunDep__Fintopio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MeoMunDep__OG-Labs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Merou1__Blockchain_Edh_cryptoCoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Meta-Dragons__CronoSafe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::MhmdNdri__XCryptoDApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Michal2SAB__Ethereum-Stealer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MitchPierias__advanced-eos-examples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mizogg__GUI_keyhunt.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mizogg__Mizogg-Tools.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mizogg__Tkinter-Power-Mini.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mo-Ali98__mint-your-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MohaiminulEraj__Indicium.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mojo96666__hack-crypto-wallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Monyancha__Reown-Wallet-Connect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mooninghnk__ethreum-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MoralisWeb3__unity-web3-game-kit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Moyintech__First-nft-project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mr-Malik-Aryan__LendVault.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MrinalSingh04__solidity-production-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MukeshMano19__BlockchainApp-CryptoCurrency-Exchange.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Multy-io__Multy-Android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Multy-io__Multy-back.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MuscleBunny__NFT_MarketPlace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Muziris-Labs__fusion-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MyCryptoHQ__MyCrypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::MyEtherWallet__MyEtherWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Mystique85__Hub-Portal-Chat.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::NCRadtke00__Web3CryptoExchange.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NEST-Protocol__NEST-Oracle-V4.0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nachoxt17__Blockchain-Memory-Game-with-ERC-721-Tokens.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NaimaGhulamMuhammad__nftMarketplace-smartcontracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NancenFrelly__crypto_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NecroNexus__Blocklog.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NenadBolovic__Cryptography_project_PKI_smart_contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Neph-dev__EpicNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NesterZz__NFT-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NetSepio__evmcontracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Neufund__ledger-wallet-provider.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Neurproject__NeurProjects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nexacore-Org__NexaFx-web.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nexis-Network__nexis-network.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NikhilSehgal123__coinbase-execution-algorithm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nipol__ERC721yul.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nishantthapa4591__Smart-Wallet-with-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nishu0__anime_nft_marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Nitin2489__simple-wallet-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Niweera__opensear.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NoNameNo1F__Blockchain-Applied_BitcoinScripts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Noahendriks__CryptoTokens.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Noahflx__ghost-wallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NodeFactoryIo__solidity-node-docker-starter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Normalizex__1inch-api-v4.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Novus-Tech-LLC__Casino-Games.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::NyanyanKat__Crypto_Lottery_Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Obalfour__CryptoPokes.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OffcierCia__DeFi-Developer-Road-Map.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OffcierCia__tips-solidity-code-auditors.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OffcierCia__ultimate-defi-research-base.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OkeA-dev__StablePay.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Olanetsoft__buymeacoffee-be.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Om-Mishra7__KRMU-OS-Expo_2023.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OmarChefrad__HourZero.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OnChainMee__evm-base-pumfun-smart-contract-v1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::OnGridSystems__erc20_airdrop_cli.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OneKeyHQ__app-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OneMug-Coffee__onemug-link-in-bio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OpenTradingNetworkFoundation__otn-token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Operaconga14__llama_flux.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OpiumProtocol__erc721o.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OptimalLukasDev__Bitcoin-Wallet-finder.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Opty-Fi__defi-adapters.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Opty1712__nft-opensea-search.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::OriginProtocol__origin-dollar.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Outlier1217__stellar-ai-escrow-commerce-hackathon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Overtorment__cli-cold-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Oxdevonchain__ethereum-nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::P4-Games__VeriTrust-SmartContracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PL2134__Capstone-Project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PROFADAM__defi-token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Pallavii-dev__Crypto-Transfer-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Parkhomets__crypto_solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PaulLaux__eth-hot-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PaulRBerg__prb-math.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PaymagicXYZ__lensmo-fe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PeggyJV__sommelier.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PepperWatch__rust.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PeterVermeulen01123__NFT-cryptoDevs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Petrosdevri__Solidity-Token-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Phildo__ethbrute.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PhilipAtEmcogma__CryptoKittiesNFTDapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PiDAOLab__Pi-NFT-CryptoDragonKing.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PigCharid__ethereum-codeAnalysis.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Pixie1234__BlockchainCrypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Planxnx__defi-tx-kit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Planxnx__ethereum-wallet-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Plycedes__rps-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Pobepto__walle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Polkaverse__Substrate-Chain-to-deploy-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Polygon-Academy__basicnfts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PolymathNetwork__polymath-core-deprecated.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PrakyathReddy__CryptoDevs-NFT-Collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ProgrammingPirates__Free_NFT_Drawing.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ProjectOpenSea__nft-tutorial.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::PromiseGameFi__cyrrus-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Promish984__IC-Pad.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Pymmdrza__Rich-Address-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::QuanTumfuryxl__ethereum-arbitrage-suite-1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::QuantForgeOrg__PineTS.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::QuantLet__Blockchain_mechanism.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Quiark__Roboth.web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Quillhash__QuillAudit_smart_contract_audit_Reports.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::R3D4NG3L__DebankScripts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::RCarmelaVO__qhatuy-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::RDCH106__pycoinmon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RFMCR__Platzi_ETHDeveloperProgram2023.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RabbyHub__Rabby.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Racks-Community__MrCryptoIndexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RafaBlockDev__Lending-Pool.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RageTrade__core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Raiden1411__zabi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::RainbowMiner__RainbowMiner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Rajeshwarkanawat__CryptoWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Rami8612__liquidity-orchestrator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ramprakash852__Proofify-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Rashi1005__Reputation-Forge-Crypto-Credit-Score-DApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RavikantShinde05__Ethers_Academy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::RazDwa1923__ML_Pred_Crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RektifyAI__attack-playbook.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RelapsedCode__qa-assuring-ethereum-tspvak.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RigoBlock__v3-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Robin2164__nft1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Robocular__defi-mcp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::RocktimRajkumar__CrowdFunding-Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Rohit04052004__aave-credit-scoring-analysis.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Rohitw3code__web3-solidity-python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RoseBayConsulting__Titan.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RyanHaraki__ethereumjs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::RyanKoech__Crypto_Fund.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ryu204__crypto_rocket.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Ryz0nd__useWeb3Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::S-Amine__go-uni.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SANTHOSH17-DOT__HODL.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SATO-Technologies__Hordes-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::SBIP-Migration__aave-migrator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SSSami22__Crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SXNGE4444__magic-crypto-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sahiru2007__Blockchain-based-healthcare-data-system-with-disease-prediction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Samarth208P__validator0x.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sammers21__crypto-owl.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Samuellyworld__Tippers.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SarathAdhi__Online_Poll_Creator_Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SatoshiPortal__bullbitcoin-mobile.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Savjee__SavjeeCoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ScopeLift__endaoment.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SebastienLeger02__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sebx__blockchain_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SecorD0__evm-mnemonic-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SergioCifuentes__mpl-core-staking-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ShackAmeri__brownie-koalaStaking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ShadowGuardAI__crypto-hdwallet-analyzer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Shahroz-Hussain-Dev__Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Shaivpidadi__NFT-Dapp-Boilerplate.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Shakedash-dev__ReverseBlockChainShell.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Shashwat-Manglam-Jain__NFT-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ShivRaiGithub__DeFi-Assessment.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ShivankK26__Crypto-Wallet-Extension.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ShivankK26__Solidity-Smart-Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ShredSecurity__protocol-deployment-checklist.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ShrikantaMazumder__crypto-zombie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SiddharthaBhattacharjee__Python_Script_To_Access_Deployed_Smartcontract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::SilentCicero__MultiSignatureWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SilentCicero__wafr.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SimSimButDifferent__hardhat-defi-fcc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SimonPhoenix96__crypto-website.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SkSamreen3__Organ-Matching-Transplantation-Blockchain-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sky4Master__JS-DEX-TrackBot-Sky4Master.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::SkyPierIO__skypier-vpn.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Slidebits__ethereum-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SmolDapp__smoldapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SofianeHamlaoui__Cryto-Minning-Simulator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Solomon-0xGuardian__solana_guessing_game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SonOfMosiah__maxx-finance-subgraph.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SoshiCrmProject__btcyield-platform.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Spectral-Finance__scraped-sol-files.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SpiderOak__Encryptr.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Springbock99__hd-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SqueezerIO__squeezer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Stacktical__stacktical-dsla-developer-toolkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::StephanAkkerman__crypto-ohlcv.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Stephen-Kimoi__NFT-collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::StevenMolina22__cryptocoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Stor-Network__stor-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::StratosGrig__BlockchainProjects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Strykr-Prism__realtime-crypto-price-api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sudhanmanoharan__MarketPlace-BlockChain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sukoed__nft-minting-engine.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SunWeb3Sec__DeFiHackLabs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SunWeb3Sec__DeFiVulnLabs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Sunilshah-7__web3-blockchain-curve.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SuperRich__soliditywallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Swap76__Supply-Chain-Using-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::SwezyDev__MultiExodus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Swizec__blockchain-redux.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Synthetixio__SIPs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Synthetixio__synthetix-js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Synthetixio__synthetix.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TJ-2004__dechai.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TP-Lab__Mobile-SDK.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TP-Lab__key-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TShanku__linked-chain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TW2541__Solidity_Web3_Practice_Python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Talent-Index__StableCoin-Project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TaliaKaza__CryptoSentinel.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TanujJha__OpenD-NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TasmeTime__yt-react-next-ui-crypto-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TechRate__Smart-Contract-Audits.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TegroTON__DEX-TON-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TegroTON__ton3-client.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TeleportDAO__teleswap-contracts-evm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Tenosia__Wallet-Multi-SDK.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Teyik0__solidity-order-book.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Tezsure__plenty-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ThalesBMC__crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::The-Poolz__LockDealNFT.Builders.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TheDancingBananas__dancing-bananas-front-end.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::TheODDYSEY__Vending-Machine-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Throvn__web3-multi-signature-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Toporin__Satodime-Applet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Topten1004__DoubleDice-Platform.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Topten1004__NFT-Marketplace-ERC1155.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TradMod__awesome-audits-checklists.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Trapesys__pandoras-box.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TrentPierce__Ethereum-Address-Collider.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::TrinetixHubs__PixelVerse.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Trum3it__bsc-web3-connector.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Tsatsch__Web3DevLearn.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Tswaanda__tswaanda-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::UMAprotocol__docs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::UMAprotocol__protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::UraniumCorporation__solana-payout-action.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::UssCalSst41__Xyn-SeedWatcher-Crypto-Balance-Checker-Searcher-MultiCoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::VaultLayer__vaultlayer-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Vedant7789__defi_wallet_score.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::VedikaaSankhe__ds_VedikaSankhe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Velocity-BPA__n8n-nodes-aztec.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Velocity-BPA__n8n-nodes-pendle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::VeloraDEX__sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::VersoriumX__web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ViditGalav__NFT-Synthesizer-Sol-Breeder.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Vikash-8090-Yadav__Learn-Earn-in-WEB3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Viken-Blockchain-Solutions__Solidity-files.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ViktorVL584__Crypto-News-Aggregator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::VishviThrimavithana__crypto-arbitrage-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::VitalR__NFTLazyMinting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::VitalR__Uniswap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Vitali-workspace__Crypto-Testnet-Faucet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Vitalik-Hakim__antimony.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Vivojay__De-Fi-Infidelity-Coders.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::VulnPlanet__l3x.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WISEPLAT__backtrader_bybit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WTFAcademy__WTF-CTF.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Wallet3__Wallet3-Desktop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Wallet3__Wallet3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WalletConnect__walletconnect-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::WalletWasabi__WalletWasabi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Walletika__walletika-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WalletsTool__WalletsTool.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WeaverFi__api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WeaverFi__cookietrack-api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WeaverFi__weaverfi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Web3-Club__Blockchain-Developer-roadmap_Chinese.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Web3Auth__Auth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Web3Philippines__homepage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WilliamMassalino__foundry-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::WizardOfAus__WizardsEthereumWorkshop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::XRPLF__xrpl.js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::XXXGutierrezXXX__defi-staking-smart-contract-solana.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Xalt8__Vyper.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Y-Xiang-hub__Crowdsourcing-With-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::YarovoyVladimir09__rust-solana-NftLoanPlatform.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::Yassin-MT__EETP.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::YassineMharrek__Phenicia-Metaverse.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::YiJie-Zhu__Crypto-Identity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::YieldHabitat__YieldHabitat_.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::YordanPavlov__BlockchainRoulette.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::YosephKS__moralis-opensea-plugins.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::YosephKS__truffle-opensea-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Yourmix0x__webwag-tiri.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ZIYUT__nft-wallet-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Zaid-maker__web3-nft-game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ZetiAi__defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Zheaoli__awesome-coins.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Zodomo__OrdinalDucks.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ZuInnoTe__spark-hadoopcryptoledger-ds.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::Zynora06JaA7__Arb-Script.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::a1fred__cryptoportfolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::a3igner__dixie-coin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::a6b8__ascii-to-svg-generator-for-ruby.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::aankor__wnft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aaquib8700__Wallet-SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aarambh-darshan__mini-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aaronajis92__smart-contract-cryptorian.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aave__aave-v3-core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aave__governance-crosschain-bridges.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aawp-ai__aawp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::abba-platforms__NADD.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::abdullahpichoo__SimpleStorage-using-Brownie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::abdurrazzak5621__neonops-ai.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::abhi-rawal__aave_credit_scoring.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ac12644__ICO-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::acebusters__acebusters-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ada173__solidity-template.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adam-art__SOLANA-PROJECT-v1.0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adameth2900__ETH.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adamocallaghan__membrane-finance-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adeshshukla__MyCryptoFolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::adhithim09__Dsurv---Crypto_Token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adilsachwani__web3ForSmartContracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adityajkate__crypto-risk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adrianhajdin__project_crowdfunding.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adrianhajdin__project_web3.0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adrianhajdin__project_web3_battle_game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adrianmcli__eth95.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adrianmcli__ganache-jest-example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adw0rd__solidity-create2-web3-example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::adwait2001__Mint-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aelew__cryptotracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aeminium-labs__nextjs-solana-starter-kit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aeternity__aeternity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::afacchi0__rpc-inspector.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::afroze93__smart-contract-1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::agencyenterprise__serpro-web3-hackathon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aggel008__defi-signal.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aha-moment-group__braavos.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aha-moment-group__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ahester57__private-chain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ahmadbrainworks__fiddi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ahmedali8__hardhat-js-starterkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ahmedali8__hardhat-ts-template.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ahmedali8__solspeakai.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ahmetozlu__defi_yield_farming.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ahmetzturk__epic-nfts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aiLeonardo__cryptotips.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aidear3__smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::aidevrelagent__nama-repo-lowercase-dengan-dash-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aitos-io__BoAT-X-Framework.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ajaysaini-sgvu__cryptocurrency-api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ajsizzle__bitcoin-ticker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::akashmehrotra29__my-wave-portal.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::akbarwijayaa__simple-defi-flash.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::akhileshthite__dtube.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::akinncar__ar-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::akiselyoff__defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::akshit0201__Web3-Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alanpelayoo__FatedEth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alebeta06__chainlink-bootcampES-2024.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alejoacosta74__ethereum-erc20token-vault.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alejoacosta74__ethereum-farming-example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alejoacosta74__token-swap-exchange.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alesanro__ethereum-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alexandrupele__web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alexbensimon__pakt.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alexbiet__smartwallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alexharrod__cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alexia795__Gnosis-wallet-pro.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::alexx855__axie-tools.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alfonsrv__crypto-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::algonomad571__CryptoHFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::alice-si__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aliezzahn__crypto-chart.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aliezzahn__crypto-price-correlation-matrix.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aliezzahn__yield-farming-optimization-calculator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aliraza944__MultiSig-Wallet-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alisidaniel__Defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alissonfernandes__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::almonit__almonit-plugin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aloshai__aequi-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alpaca-finance__bsc-alpaca-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alpdevcode__ethereum-multisig-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::alpha-sol__alpha-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alpinelab-it__BuyMeABeer-Solidity-DeFi-Tipping-smart-contract-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::alto-io__contractor.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::amandladev__erc721-nftMint-smartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::amazingandyyy__leptin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::amazingandyyy__solidity-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::amdonatusprince__brownie_simple_storage-application.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::amnegan__BlockChain-CryptoCurrencies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::amonrak__rustychain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::amurto__cryptoludo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ancutadaniel__ethereum_hardhat_nft_marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::andrarwes__BlockChainApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::andreitoma8__legendary-owls-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::andrejrakic__Pied-Piper-DeFi-App-Subspace-Demo-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::andrewinsoul__CadenaCourse-CryptoBank-UI.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::andycapaldo__hello-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::angelcatanzariti1__web3_py_example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ankitaryan404__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::annasudol__multi-signature-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::anoff__cryptobooks.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ant-design__ant-design-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::antoniopgs__tangible.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::anudeeep4__Decentralized-Identity-Project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::anwar-776__gocryp8.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::anza-xyz__wallet-adapter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aonemd__stakehouse.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::apache__incubator-resilientdb-ResLens.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::apalowski688-art__ethereum-bitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::apeboard__pools.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::apoorvlathey__Crypto-Car-Battle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::apoorvm230__web3-vuln-scanner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aptos-labs__petra-vault.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::aqemal__owasp-sc-token-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aragon__use-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::aranair__pine.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ardriveapp__turbo-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::aridder__pengekrukka.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::armors__armors-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::armorwallet__armor-crypto-mcp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::arokvic__FundMeProject-SmartContracts-Web3-Brownie-Solidity-2022.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::arpesh28__solidity-wallet-contract-collections.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::artem-bayandin__blockchain-samples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::arthur-reedy460y__web3cha.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::arthur0725__CryptoZombie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::arthuravianna__uff-web3-course.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::artimonist__artimonist-cli.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::as3360__ReinforcementLearntTradingBot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ashbz__CryptoSharp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ashelkovnykov__offline-wallet-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ashok-p__module-19-Cryptowallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::asilveira1969__bitcoincashblockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::atitkh__WebXR---NFT-Viewer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::atlaschain__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::attestate__kiwistand.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::atul24112001__trackpack.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::aurowallet__auro-wallet-browser-extension.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::austintgriffith__burner-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::axiomchronicles__blockchain_simulation.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::axldarealest__crypto-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::axone-protocol__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ayushi030709__aave-credit-scorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ayushn2__market_maker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::azerpas__Crypto2discord.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::azerpas__prescurity-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::baby636__causes.cash.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::balajipachai__smart-contract-for-fun.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::balancer__balancer-v2-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::balancer__frontend-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::balancer__scaffold-balancer-v3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::balive053__blockchainFromScratch.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::banjtheman__highwind.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::banjtheman__polygon_nft_workshop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bansaltushar014__Chapter-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::banteg__multicall.py.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::batteringram-dev__Web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bavix__laravel-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bc1plainview__opnet-builder.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::bchainexpt__Blockchain-wallet-andorid-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bcoin-org__bcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::beeman__solana-mobile-seeker-genesis-holders.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bekatom__awesome-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::belimad__NftHorizon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::benjaminbang987__crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::benruseau__Inhetherit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::benzemeze1-art__nft-rarity-tracker-2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bevry-archive__emailtowallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bhau7233__MSig-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bhemen__usdc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bifrost-platform__solidity-contract-configs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bigbomio__digital-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::bigint__hey.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bilinearlabs__beacon-contract-indexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bilix-software__eth-new-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::birukG09__DeFiVerse-Bank-Simulator-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bitcoin-flasher__flasher-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bitcoin-wallet__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bitcoinaverage__api-integration-examples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bitpay__bitpay-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bitpay__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bitquery__explorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bjboss007__flask-web3-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bkrem__react-nft-gallery.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blackalbino01__epic-nfts-ui.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blakewood84__react-metamask-medium.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::block-foundation__solidity-digital-twin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockchain-certificates__cert-issuer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockchain-etl__blockchain-etl-streaming.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockchain-etl__public-datasets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockchain__My-Wallet-V3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::blockchain__blockchain-wallet-v4-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockchaingate__eXchangily-web.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockonomics__prestashop-plugin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::blockstarter__ico-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bloomwalletio__bloom.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bluewhale-protocol__bluewhale-trust.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bob-collective__bob.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bokkypoobah__Nix.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bomzj__newbits.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bonedaddy__cryptovendingmachine.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bostonlink__blockexplorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::braedonsaunders__homerun.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::brendanjryan__crypto-keystore-rs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::brendansiraky__solidity-nft-mint-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::brilliant927__nft-mint-polygon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::brlojam4932__usdc-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::btcltceth__crypto_explorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::btcsuite__btcwallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::btq-ag__QRiNG.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::buihuudong19__E-Wallet-Blockchain-sourcecode.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::buybackoff__SolidityAuction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bwire-official__Gastronaut-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::bzthelmaeddins54__headlee.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::c-bruce__SharedWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::caiovicentino__debank-mcp-server.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cake-tech__cake_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::calintzy__evmscope.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::camerodev__Finaomics-Solidity-Web3-React.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::canyon-network__canyon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::capsulesocial__capsule-near.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::captain-woof__meta-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cardano-foundation__cardano-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::carlosgauci__crypto-track.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::carmenbickel__NFT-Collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::catze-labs__jury-dao-web.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cawfree__web3-react-native.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cdc-Hitesh__cdc-Hitesh.github.io.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::celer-network__layer2-finance-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::chainapsis__keplr-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chainjet__platform.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::charanbalaji2005__CryptoView-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::charlo1492charlo14928__NFT-Yield-Farming.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chase-manning__debt-farming.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::chatch__hashed-timelock-contract-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chauhan-varun__Account-abstraction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chawresh__Multi-Currency-Rich-Address-Finder-v1.0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::chellscript__bitLeaf.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cherti__bitcoin-analysis.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cherylwilson314__web3py_crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chjj__mako.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chjj__termcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chmajidnaeem__blockchain-bitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chrisalexadams__balancer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::chrisstef__defi-staking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::citadelgrad__crypto-commando.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::citizenweb3__validatorinfo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::classicshi__web3-decoder.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::cliffhall__in-app-pro-shop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cloudframeworks-blockchain__user-guide-fabric-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cluck135__First-Deployed-Token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cmandar24__Ethereum-Private-Key-Generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cmdruid__tapscript.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::coccoinomane__crabada.py.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::codeVirtuoso21__NFT-marketplace-cryptoBoys.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::codebatine__Chores-for-Crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::codeesura__Arbitrage-uniswap-sushiswap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::codegenius2__solana-verify-eddsa.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::coderasha__NFT-Marketplace--EThereum-Polygon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::codewithmide__FlowPrice-Oracle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::codex-protocol__service.eel.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::codymj__GeminiCryptoTrader.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::coin-worx__ethereum-voting-demo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::coinbase__chainstorage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::coinbase__coinbase-wallet-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::colonelxy__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::coming-chat__wallet-SDK.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::compound-finance__palisade.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::conka8__Solana-Dexterity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::consenlabs__imkey-manager.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::coral-xyz__backpack.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cordovaem__solana-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cosmostation__cosmostation-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::coti-io__coti-ethers.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::coti-io__coti-sdk-python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::courtney-haley__SUPERIO-DeFi-Yield-Farm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::covir-io__cvr-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::craftBrainLLC__ethereum-indexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::crcristian97__solidity-nft-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::crestalnetwork__intentkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cristiandbetancurg__fulgol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::critfinds__Web3CRIT-Scanner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::crossclaim__btcrelay-sol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::crpdev__decentralised-ebay.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::crypto-balance-checker-seed-phrases__crypto-balance-checker-seed-phrases.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::crypto-cooker__Web3-Project-Overview.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::crypto-crawler__crypto-ohlcv.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::crypto-org-chain__cronos.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::crypto1014__NFT-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptoadvance__specter-desktop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::cryptococks-xyz__cryptococks-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptodance__cryptodance-backend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptoforge318__NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptoleadxyz__demo-infura-web3py.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::cryptomkt__cryptomkt-python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptopayserver00__cryptopayserver.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptopunksnotdead__awesome-cryptopunks-bubble.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cryptosguru__nft_terra_cosmwasm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cshep4__crypto-dot-com-exchange-go.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::csimbana__suiguard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cunarist__solie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::curvefi__curve-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::cyforge__Orbis-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cypherium__uniswap-interface-cypherium.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::cypherpunk-symposium__web3-starter-rs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::czeti__shamus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::czhc__bookmarks.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::d-invisible__DocuManage-web3--Aptos.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::d3or__eth-vanity-gen.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dalloglio__nft-pokemon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::danieltantonio__SharedWallet_Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::danielwpz__nft-linkdrop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::danilych__token-factory-web-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::danilych__token-sale.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::danpatrocinio__web3-api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dante4rt__t3rn-airdrop-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dapperlabs__dapper-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dappforce__polkaverse.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dapphub__ds-math.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dappros__nfmt.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dappteacher__smart-contract-audit-portfolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dappuniversity__Runner-blockchain-game-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dappuniversity__hd_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dariocast__algorand-nft-loan.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::darkgrovelabs__sec3hub.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::darrylyeo__blockhead.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::datmedevil17__hack-web3conf.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::daulathussain__nfts-api-starter-file.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::davdotsol__react-and-web3-demo-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::davdotsol__uniswap-v2-defi-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::davidmeng630__defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dbarobin__awesome-mirror.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::deadarchitects__test-low-gas-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::decentralized-identity__element.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::deepbluelake__web3-lab.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::defilab__defi-blockchain-dumper.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::defiprime__defiprime1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::delvtech__agent0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dennohpeter__MultiDexArbBot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::denzopas__myWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::desbenn__defi-arbitrage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::desktop-examples__crypto-analysis.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::desoul-labs__soulhub-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::deusfinance__deus-interface-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dev-x-master__Election-Blockchain-App.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::devano12__Kryptex-miner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::developeruche__hybrid.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::develrocket__NFT-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::devridge0__aave-core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dex-guru__assets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dgrmunch__docuten-blockchain-proof-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dharmaprotocol__dharma.js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dharmaprotocol__experimental.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dherranzf__CryptoBank.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dhiraj0911__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dhiraj0911__defi-uniswap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::diadata-org__diadata.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::didil__stone-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::diego-tobalina__PancakeSwapBot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::diorwave__solana-blockchain-development.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::distbit0__coinStats.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dkpeakbil__bitcoinwalletwatcher.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dkrsgood__ETH_Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dmakarov-dev__Ethereum-Solidity-token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dmitriiprusakov__definition-hack-nft-versus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dogecoin__dogecoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dojimanetwork__web3fy-go.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::domechn__track3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::donnywin85__defi-yield-aggregator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dorianbayart__DexPairs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::dozerokz__polymarket_monitor.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::drips-network__app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::drisst12__safe-smart-account.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::drpcorg__dshackle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ducga1998__tai-xiu-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::duneanalytics__evm.codes.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::duytacong24895__smart-contract-lesson-1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dvinubius__tiny-multisig-typescript.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dvvrtmshra__StellarPay.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::dydxprotocol__protocol_v1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ebellocchia__erc20_splitter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::edubrunaldi__generic-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::educoin__notarypoc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::edwintyx__Blockchain-Cryptocurrency-Project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::eka0789__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::el-noir__MedicAi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::el-noir__ethereum-defi-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::eldorado-Coder__NFT-marketplace-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::elkoutwest__bitcoin_browser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::elxor__jetum-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emerald-dao__float.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emeraldpay__dshackle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emiliosheinz__vue-js-crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emilyhon__foundry-defi-stablecoin-f23.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emlynazuma__blockchainCrawler.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emograms__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::emtinanseo__dApp-Refund-by-Location-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::energychain__CorrentlyWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::enricobottazzi__Zeko.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::enricozanardo__bitcoin-sentiment-analys-on-tweets-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::enzymefinance__protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::eonian-core__farm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::epacrypt25__Web3BlockchainVooting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::eprbell__dali-rp2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::eprbell__rp2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::eq-lab__marginly.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ernestognw__ethereum_signature.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ervikassingh__nft-market.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::esolidar__web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::estevaopbs__bitcoin-rs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ethaccount__vue-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ethereum-boilerplate__ethereum-prediction-market-boilerplate.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ethers-io__ethers.js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ethersphere__swap-swear-and-swindle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::euphonious-raisinnutcookie575__ethwizc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::everstake__wallet-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::everx-labs__everdev.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::everx-labs__evernode-se.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::evm-tooling__viem-go.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::exactly__liquidation-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::exactly__protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::exekerey__3xpl-mcp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::exglos__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::explorills__expl-nodes-dashboard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::f-z__decentralized-option-trading-platform.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fabianorodrigo__defiamm.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fadedreams__wallet_go_blockchain_concepts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fadliferdian28__MyCryptoToken.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fairrustana__Sports-Betting-Sportsbook.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::faizack__Supply-Chain-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::falila__smart-contract-interpreter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::farisamirmudin__cryptotransfer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::faysalbadaoui__RegisterDeviceSolanaProgram.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fbsobreira__gotron-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::feeeei__vanity-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::felipeserrano05__one-sol-protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fewwwww__awesome-uniswap-hooks.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::filips123__BlogChain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::flannerychristopher__web3_py_simple_storage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::flappyagent__flappy-bird-solidity-2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::flexa__collateral-manager.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::floranguyen0__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fomoweth__flashloan-aggregator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::formysister__crosschain-mixer-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::forward0507__Dexordi-BE.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::foxxcn__Arkham_API_test.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::frangio__hardhat-exposed.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::frankdev7__bootcamp-solidity-defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::frankiefab100__Blockchain-Development-Resources.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::frankiefab100__Web3.0-Roadmap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::freight-trust__deployments-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::fullstack-development__blockchain-wiki-en.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::fundgao__xiuxian.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fvictorio__ganache-explorer-poc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::fxop0218__DEFI-aave-JS-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gabidi__bismuth-js-crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gakonst__ethers-rs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gasparllamazares__Bitcoin-Virus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::gauryvg98__Bitcoin-Indexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::gbto__web3-everything.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gear5labs__chenpilot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gemwalletcom__gem-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::geovgy__smart-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::geraldoramos__crypto-bar.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::getgems-community-tact__nft-template-editable.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::getsafle__safle-identity-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gfsxyz__lamina.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ggviana__splitter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ghulamrabbanimedium-dotcom__VerseBet-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::giogam__Gopher-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::gitthekid__Ethereum-Flashloan-DEX-Arbitrage-Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gizdusum__hermes-blockchain-oracle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::glitchnsec__cryptozombies-solutions.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::glitznerf__blockchain_banking_system.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::gmh5225__awesome-crypto-wallet-address.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gmtech-xyz__safe-cex.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gnidan__abi-to-sol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gnosis__reth-util.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gobeyondfj-cmd__cryptoagent-ai.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gokcearda__OwlToken.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::govi-dao__cvi-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gprateek93__Sikka--A-Simple-Bitcoin-Implementation.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::grandsmarquis__ethereumdevio-dex-tutorial.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::greekfetacheese__zeus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gridgentoo__graph-node.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gsachin1809__bitcoin_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gskril__mnemonic-guesser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::guider23__CryptoShare.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::guillaumelauzier__rootstock-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::guoshijiang__blockchain-wallet-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::gurnec__btcrecover.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gweidart__evm-flashswap-arb.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gyro-defi__gyro-v1-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::gysr-io__core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ha-bhai-noob-hoon__Solidity-task.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hacksdark__cybersecurity_hack.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::haf-decent__bArb.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hanzopgp__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::harishummam__CryptoKet-NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::haritsmedina__web3.0_krypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::harsh6768__web3-basics.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::harshiit1__ethereumChecker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::harshit180704__aave-credit-scoring.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hashbx__token-distribution.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hashemabad__MultiSigWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::haxpor__contractdiff.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::haxpor__inoutflow.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::hclivess__qtrader.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hdwaIIet-io__python-hdwallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::henesaud__bitcoin-cryptography.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hexoul__aws-lambda-eth-proxy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hi-riddhi__AaveV2-CreditScoring.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hiero-ledger__hiero-consensus-node.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hilalsidhic__waveportal-Web3-and-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hilmikt__Web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hippogriff-dev__baby-swap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hiromaily__go-crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hiwadrashad__Crypto-Currency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::hobbleabbas__Bitcoin-RPC-API.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::holder-bot__wallet-testnet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::holyblock__blockchain-piaic-q4-solution.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hoprnet__hopr-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::horizontalsystems__bitcoin-kit-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::horizontalsystems__bitcoin-kit-ios.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::horizontalsystems__ethereum-kit-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::horizontalsystems__unstoppable-wallet-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::horizontalsystems__unstoppable-wallet-ios.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hoseadevops__edec-nft-market.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hovig__web3-fabric-voting-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hsharshshukla__SmartContractL.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hugoclrd__clearness.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hululuzhu__solidity-t5.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::hummingbot__hummingbot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hundredwz__BlockchainInfo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::huynhtuandat05december__Crypto-Zombie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hyp3r5pace__crowdfunding-platform-avalanche.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::hzblab__NFT-Minting-dApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::iamnotstatic__multichain-crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ianmah__cryptostory.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ibrahimjspy__defi-portfolio-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::icebert04__Defi-Dashboard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::idimetrix__next-jobs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::idrabenia__SublimeLinter-contrib-solhint.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::igorlourenco__nft-marketplace-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ihaveCred__OfflineSignProvider.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::illia-fz__defi-python-nft-staking-rewards-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::illia-fz__defi-ts-wallet-connect-v23.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ilyarolf__AiogramShopBot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::imanmousaei__coinexpy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::imcrazysteven__Initial-Coin-Offering-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::imfrodobaggins__metabullrage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::inghong06__Solidity_Whitelist.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::input-output-hk__daedalus.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::input-output-hk__mantis-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::instant-coffee__cryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::invis2912__TokenTrail.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::iotaledger-archive__legacy-wallet-use-trinity-wallet-instead.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ismailbangee__smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::itaikeren__Crypto-Fighters.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ithunter0428__solidity2terrachian_rust.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::itsSauravK__Election-Voting-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::itstargetconfirmed__flash-loan-sample.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::itstargetconfirmed__wrapped-ether.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ivanzhelyazkov__ethereum-wallet-manager.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ivopetiz__crypto-exchange-cli.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jaayperez__btc-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jaayperez__coin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jackey1510__MyNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jacobdmn__iWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jagadeeshgatla__simple-cryptocurrency-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jamaltheatlantean__DeFi-Staking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jammy928__CoinExchange_CryptoExchange_Java.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::janfilips__blockchain-poker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::janghona__go-ethereum-Jochain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jaoleal__chainpass.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jarrettyew__web3.0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jarrodwatts__evmkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jarrodwatts__nft-drop-with-smart-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jasonjgarcia24__web3-ether-talent-pool.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::javascript-pro__crypto-casino.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jawedzaid__jawed.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jay-Anonymous__CryptoLedger.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jdogresorg__freewallet-mobile.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jdogresorg__freewallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jeanne-cortes725n__ethere8.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jeet-patel313__NFTStaking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jeffprestes__rust-smart-contract-example-connection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jeftarmascarenhas__smart-contract-training.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jeloooooo__solidity-cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jenil04__auction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jevinjivani2507__casino-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jgyy__solarjun.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jianminggit__NFT_BOT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jitendragangwar123__Crowd-Sale-ICO-Dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jitendragangwar123__Crypto-Zombies-Game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jjanczur__SolidityDrive.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jjtiger__Blockchain_Business_Crypto_-DevPack.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jlandyr__web3solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jocruz__LostCatsUi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::john-lawniczak__Smart-Contract-Resources.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::johnnyshankman__xtznftswap-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::johnsonstephan__awesome-web3-formal-verification.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jokeradms__Electrum-ADA.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jolly-roger-eth__ethereum-indexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jon4hz__ethconvert.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jonluxson__very-basic-form-of-cryptocurrency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::joseoscarcc__TaqueriaCryptoChain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::joshH94__NFT-Marketplace-Solidity-Hardhat-NexJS-Web3js-Tailwind.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::joshaustintech__ethereum-portfolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jovijovi__ether-goblin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jp-co-decoo-shirato__solidity-cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jpromamen__sat-stacker-quiz.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::jptsantossilva__BEC.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jseanchuang__web3py_example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jualexandre__crypto-zombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::juanemmanuelpd__NFT-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::juliocamposmachado__my_eth_app.github.io.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jun1sen1__solidityone1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::junowoz__smartContracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::jwinterm__cryptonoteRPCwalletGUI.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::k1-c__ethereum-wallet-manager.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::kaamil-ahamadh__web3-ico-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::kansel-dev__solana-nft-sniper.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::karmaizmyb1tch__Crypto-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kartik78946__Bank-Wallet-SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::kartikver15gr8__WEB3-For-All.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::katya201165__NFT-platform-lending.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kausikds__ethereum-onChain-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kaymen99__Dex-aggregator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kaymen99__aave-flashloan-arbitrage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kaymen99__uniswap-sushiswap-arbitrage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::keep-network__tbtc-website.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::keewenaw__Ethereum-Wallet-Cracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kelvincup__base-commit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kelvincup__base-learn.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::keng42__xwallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kenpoon94__ethdenver-bootcamp-2022.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kerala-blockchain-academy__SmartKYC.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kerala-blockchain-academy__ethereum-developer-program.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::keshav-poojary__NFT-on-Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::keshav200215__SmartBlock.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::keyhunters__Biggest-Lost-Bitcoin-Wallets-List.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::khadar1020__bitcoin_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::khaled-305__crypto-order-book.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::khanjasir90__Secure-Shared-Wallet-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::kheopskit__kheopskit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kinggongzilla__Stable_GME_SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kingstarfly__nft_pendle.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kingsudo1004__Wallet-EVM.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kittyshiba__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::klaim-dev__solana-programs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::klever-io__klever-go.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::klever-io__kos-rs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::klntsky__sec.cyou.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kochavalabs__xchng-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::koh-gt__ferrite-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kokomoji__CryptoCoinPaperWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::konradcodes__Web-3.0-Blockchain-App.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::konradisco__bitcoin-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kradkov14__presale-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kreskohq__kresko-protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::krrish-sehgal__nwc-playground.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::krushangSk17__Interaction_with_SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::krypc-code__krypcore-web3-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kshaveen13__vaulte8.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kunalsinghdadhwal__LiqX.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kuroroLuciferPhantom__cryptopredict.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kushal-g__Bitcoin-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::kvmizu__transfer_eth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::l3lackcurtains__solo-coin-cryptocurrency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lacrypta__lottery-front.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lapismyt__ston-fi.py.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::laramiedunlap__blockchain-wallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::laser-wallet__laser-wallet-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::lastbattle__ordinal_inscription.netcore.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::latoya4xfishn__spankcb.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::lawlietu0__EnigmaCracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lawofambak-research__decentralized-speculations-market.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::layer3xyz__cubes.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::lbryio__lbry-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lbryio__lbry-desktop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lbryio__torba.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lee-seokmin__BlockChainVotingSystem.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::leeshuzheng__destroyer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lefajmofokeng__Cryptocurrencies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lephleg__cryptocerts-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::leukaemiamedtech__hiasbch.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::levintech__CryptoZombie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::life-itself__web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lifinance__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lionello__secp256k1-js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::liquality__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ljubisnikolic0__NFT-Ethereum-Game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lmacken__binance-chain-python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lnardon__BlockChainExchange.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lordbasilaiassistant-sudo__thryx-launchpad.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lssleo__crypto-unlimited.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lsw6684__Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::luca-nik__Blockchain_ResearchLead_Assignements.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lucabizza__cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lucaliebenberg___cryptoKids-solidity-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::lucas54neves__crypto-address-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::luzhenqian__web3-examples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::lynx-xdg__block.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::m1guelpf__laravel-web3-login.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maAPPsDEV__dex-attack.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maAPPsDEV__rock-paper-scissors.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maazgora__Multi-Sig-Wallet-using-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::machenxi__Dodging-Turtis-NFT-game-Polygon.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::madilraza__BlockChain-Vtraders.pro-Project-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maikon9824-lab__giftcard-dapp-arc-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mainnetblockchain__sendEtherThroughSmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manifest-network__manifest-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manifoldfinance__kb.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manifoldfinance__multicall-framework.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manifoldfinance__tscli.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manifoldx__typed-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manuelinfosec__flash-arb-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manuelpires__nft-collection-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::manufy__crypto-experiments.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maprob__nft-mint-site.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::margelo__react-native-graph.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::marginalfriend__brownie_fund_me.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mariam9woecloud773__Kiichain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::markjinhua__SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::martycodes333__crypto_zombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::masa-finance__arcomia-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::masaun__governorAlpha-with-proof-of-voting-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mascarenhaswanja__Winter-2020-Introduction-To-Smart-Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mastrmind-dev__DeFi-App---A-Cryptocurrency-Bank.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mateolafalce__MonthlySubscriptionSolana.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::matheusroleal__solidity-cookbook.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maticnetwork__pos-commit-poc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::matprime__ERC-1155-NFT-demo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mattdf__RingCrypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::matthias-wyss__crypto-carry-trade-strategies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mattycoles__Python_Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::maximebrugel__YokaiChain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mayurimulay789__cryptocurrency_landingpage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mchalise__mero_crypto_finance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mchtter__zku-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mdsalman729__ethBucket.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mehmethalis__blockchain-cryptocurrency-implementation.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mehtaAnsh__BlockChainVoting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mellow-finance__mellow-vaults.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::memoriaXII__create-web3-turbo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::merklejerk__flex-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::merofinance__webapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mervanerenci__Jumpy-PlayToEarn-BlockchainGame.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::merynoseth__moje-wlasne-sui.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::messari__subgraphs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::metafy-social__web3-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mexak__bitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mg98__arbitrary-data-on-blockchains.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mgysel__nft-ticketing.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mhxw__crypto-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mic0des__simple-multisig-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::michael-spengler__blockchain-technologie-und-anwendungsgebiete-vorlesungsreihe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::michal3pol__tickeDapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::michelle5013-guilloryn__polye.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::microgift__my-web3-projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::midas92__lottery-casino-crypto-game.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mikeservices1__wallet_stealer-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mikke555__eth-wallets-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mikker__svgnft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::milan338__totally-secure-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mili12321__misterCrypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::militarandroid__cybersecurity_hack.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mimani68__TRON-network-smart-contract-integration.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mimic-fi__cross-chain-subscription-payments-with-mimic.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mimic-protocol__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mirrorworld-universe__mirrorworld-sdk-js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mja2001__SolCipher-iExec.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::modagavr__pancake-wizard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mogipatangan__cryptozombies-sol-101.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mohammedmuzammil38__Crypto-Art.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mohitchandel__treasury-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::moisestech__web3crypto.mx.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mokshyaprotocol__aptos-nft-random-mint.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mollybeach__livestakes.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::monjuik__go-octopi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::moonsly__crypto-wallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::moonstream-to__api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::morpho-org__morpho-aavev3-optimizer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::moseuh__blockchain-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::motorHillary__polymarket-copy-trading-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mradkov__decentralized-dns.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mrazoriginal__Ali-Crypto-House-HardFork.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mrfomoweb3__nft-wallet-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mrkkyatilla__omus-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mrmendoza-dev__cryptotracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mrozdolski__ink-flipper.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mrsaad07__PropChain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mrsmookie__btcrecover.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mrtnetwork__ton_dart.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mstable__mStable-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mstable__mStable-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mtechee__libax.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mtorry225__NFT-Collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mucolon__gemini-interface.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::muhammadshiraz__dex-frontend-react.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mujtaba1747__wave-eth-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::multiavatar__multiavatar-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::multiversx__mx-sdk-dapp-sc-explorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::museum-of-war__nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::muzikoud__cryptoZombies_smart_contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mwakidenis__BlockChain-Mastery.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mx-space__kami.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::my-number__solidity-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::mycelium-com__wallet-android.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::mygo-ecosystem__OSSWallet-non-custodial-crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::n4bi10p__aptos-meme-nft-minter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nakandakare__cryptopay-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::naman159__Blockchain_Cryptocurrency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::namesys-eth__istest-eth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nashidahmed__registry-core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::nassirou-N__defi_crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nathaniel-cmd__defi-native-nft-exchange.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nayrosk__evm-indexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nazar-pc__abundance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nbulian__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ndsvw__Ethereum-Web3-SmartContract-HelloWorld.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nedasma__solidity-vuln-tests.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::neoguias__tutorial-wallet-multifirma.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::net2devcrypto__Soroban-NextJS-Vote-dApp-with-Freighter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nftfy__nftfy-v1-periphery.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ngmisl__etherml.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nguyenj27__CSC299.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicehash__NiceHashQuickMiner.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicholashc__uniswap-skim.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicholasmgoldstein__Persona256.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nico-phil__blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicolaiort__stonx-backend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicolas-sanch__web3.py-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicolasdelira__Projeto-de-cria-a-de-carteiras-bitcoin-na-testnet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nicolaslazzos__cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nikitakent__solidity-simple-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nikunjtilva__cryptocoin-test-faucet-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nimiq__php-xpub.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nirhoIas__Top-5-Cryptocurrency-APIs-for-Developers.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nirholas__bnbchain-mcp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::nirholas__free-crypto-news.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nirholas__lyra-web3-playground.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nirholas__x402-stablecoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nixen2802__Blockchain-Python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::njublockchain__web3research-etl.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nktkas__hyperliquid.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::noditlabs__nodit-mcp-server.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::noman-land__relike.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::notbank-com__notbank-node.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nrgapple__crypto-canvas-fe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::nshmadhani__zkNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ntourne__nft-crypto-punks-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::null-none__django-eth-fields.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nuts-foundation__crypto-ecies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::nxm-rs__nexum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::oasislabs__oasis.js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ocalvet__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ofojichigozie__multisig-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ogDAO__Optino.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::oguzhnatly__Cryptocurrency-Trade-FrontEnd-HTML-Page.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ohkuku__kurypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::oishii-pg-gohan__myCryptoZombie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::okcashpro__okcash.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::okx__go-wallet-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::okx__js-wallet-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::olegerr__currency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::olegsinavski__voting_system_web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::olivermen__bitcoin-wallet-create-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::omarakhmedov-web__metridex-showcase.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::omsaraykar__crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::onee-io__crypto-zombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ong__awesome-decentralized-finance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::onoka-ship-it__kogwasys.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::oparex__crypto_trader.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::opencodeiiita__CryptoWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::opencodeiiita__Learning-Smart-Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::openocean-finance__OpenOcean-API-Examples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::openocean-finance__Security-Audit-Report.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::opiethehokie__pfp-template.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::opynfinance__squeeth-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::orelkabets__eth-wallet-notify.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::oritwoen__ubichain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::orweinberger__blockchain-dashboard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::osmanballi__Clock_app_that_tracks_Bitcoin_and_Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::oumaoumag__smart-wallet-skeleton.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::oxofonime__Celo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::p4u__blockmessage.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pRizz__CryptoNoter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pablopoggiog__polygon-name-service.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pablwoAraujo__bitcoin-wallets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::panaverse__defi-dapps-solidity-smart-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pancudaniel7__solidity-nft-auction.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::paniaguaadrian__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pantunes__xtcryptosignals.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::paradigmxyz__solar.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::parsaaba__FukiPay.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::parv3213__Multi-Signature-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pat3icki__ExzoCoin-2-0.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::patilom342__poc-stake.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::patrana__cryptographic-parcel-ledger.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::paulgconlon__blockchain-solidity-multi-sig-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::paulmillr__noble-curves.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pawanpaudel93__damn-vulnerable-defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pawurb__Locker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pbouget__AlyraSolidityVoting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pcaversaccio__createx.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pcaversaccio__solidity-games.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::peace-source__bitcoin-bridge.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pepekingbnb__pepe-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::persistenceOne__persistenceWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::peter571__crypto-stats.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::piske-level__multi-chain-payment-gateway.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pmaji__crypto-whale-watching-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pmontaguevans__ethereum-angular6-cryptogap.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::pointbiz__bitaddress.org.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::polkadot-js__apps.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::powerpool-finance__power-oracle-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pragmaxim-com__bitcoin-explorer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pramaths__simplewallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::pranah__pranah.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prasanna-rkumar__Cryptocurrency-Widgets-by-Wallet.app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prashantprabhakar__p-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prashantsingh55__ERC20-Tokens.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prateek096__OnlinePolling_Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prathameshbelurkar__Blockchains.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pratikshappai__cryptos.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prental__Defiewallet.crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::prgblockweek__prague-blockchain-week.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::problo__DeFireX-Contracts-V2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::project-serum__spl-token-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::prokey-io__prokey-webcore.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::protofire__autoglyphs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::provinzio__CoinTaxman.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pubkey__eth-crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pulkitpal__defi-protocol-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pvedha__HackIT_IX_Server.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::pysznybimber__BASE-crypto-chain-killer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::pythoninthegrasses__nft_meetup.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::qianq-jims__SmartBitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::qlyde__peek.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::qshuai__blockchain-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::qtumproject__qtum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::quang1225__GoFox-Frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::quilime__evm-nft-contract-boilerplate.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ra0321__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::radixdlt__radix-dapp-toolkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rafaelfariasbsb__polymarket.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rafaelfgx__Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::rafafortes__nft-ticket-system-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::raft-fi__contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rainbow-me__rainbow.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rainbow-me__rainbowkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::raj-pranav__learn-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::raketic-ognjen__ZombieCrypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ramyhardan__proof-of-existence.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ranchimall__blockchainbonds.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rango-exchange__rango-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rarepepi__nft-data.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rawalraj022__One-Universal-Identity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::raymondfam__defi-nft-marketplace-mumbai.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::raytsangGitHub__Cryptocurrency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rbubyr777__Ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rchak007__NFTArtMuseum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::re-nft___v2_.sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::reaperdragon__kittos-nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::redacademy__ethereum-graphql.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::redbuttonsa__crypt.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::relyt29__Bubki-For-Ukraine-Contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::remston-dsa__ETH-USD-price-feed-using-Chainlink-oracle-Web3-Brownie-Python-and-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::remston-dsa__remston-dsa-NFT-token-rendered-on-OpenSea-testnet-using-Brownie-IPFS-Web3-and-ERC721-standard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::renpool__renpool-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::reown-com__appkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::reown-com__reown_flutter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::repirate__asset-recovery-tool.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::reshma149__crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rgab1508__cryptoTSEC.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::richard-ramos__solidity-diagram-gen.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rickstewartdev__Dbank.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::riglr__riglr.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::risc0__risc0-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::riteesh-ram__DeFi-Group-Insurance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ritikhzb__blockchain_SmartContracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ritwik-1994__Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::riyagoel192__Define-Blockchain-Python-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::rk98991439__Cryptocurrency-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rm4328-d__web3de4.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ro61zzy__crypto_zombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::robertcalvert__vscode-crypto-ticker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::robhato__FFXIV-NFT-Smart-Contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::robin-rrt__crypto-cares.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rocksanen__crypto_smart_contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rohanhraj__MultiSignature-Wallet-SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rohanjsh__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rohanranjan25061996__Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rolod0x__rolod0x.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::romanzaikin__From-Zero-to-Hero-in-Blockchain-Security-DefCon30-Workshop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ronylucca__nft-dungeons-slayers.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::roxxy-lanre__Conduit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::roysowah__solarwind.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rpardela__SmartContractAPIGenerator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::rstkey__whitelist_token.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rtb-12__PolkaGuard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ruppysuppy__Crypto-Crowdfund.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ruqqq__blockchainparser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rustjesty__bubblemaps-bypass-tool-rust.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rusty-web3-developer__Solana-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Web3-Projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rustyneuron01__NFT-Launchpad-Alkanes.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rwth-acis__las2peer-registry-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::rxhul18__DeWall.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::s-damian__hardhat-nft-ticketing.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::s4larie__walletool.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::saaim23__QuantPilot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::saddle-finance__saddle-frontend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::safe-fndn__safe-smart-account.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::safeblock-com__dex_contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sahilrohera10__Fusion_Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::saikun0293__gige-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::salmanbao__tic-tac-toe.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sambacha__compendium.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sambacha__create-subgraph-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sanjibbaral435__Ethereum_Solidity_Udemy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::santiellena__air-flatcoin-protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sanyamdogra__crypto-wall-et.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::satansdeer__ethereum-token-tutorial.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::satisfywithmylife__phantom-py.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::sava2109__Cryptography_project_PKI_smart_contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::saxenism__cryptoZombiesNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sayandas-sd__Scan_and_pay_Crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::scaffold-eth__eth-components.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::scholtz__wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sciencemanepsilon__Blockchain_DeFi_Gaming.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::scotch53__Smart-Contract-for-Token-Minting-in-Solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sdelvalle57__bonding-curves.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sdhosseinabadi__aleo-project.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sebetelist__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sebitokazu__wave-and-token-ranking-dApp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::second-state__smart-contract-search-engine.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::secp256k2__secp256k2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::seekerpig__nftSmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sefaosm__Stake-X.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::setheum__setheum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sevdakeskin__Solidity-CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shaikat010__Gamefi-Chess-Dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shanefontaine__ethfinex-python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shape-network__builder-kit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shapeshift__web.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shardeum__shardeum-docs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::shawakash__payBox.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shifaj22__Nft_Marketplace_SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::shirley2749-dunn7__ethere1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shlima__fortune.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::shriya-upadhyay__fight-on-chain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::shubhamguptaiitd__bitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::shumbushojeanbaptiste__Blockchain-task-2025.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::siddot__Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sidebetxyz__crypto-chess.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::simplito__elliptic-php.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::sincerely91__simple-defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sirlopu__defi-stake-yield-brownie.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::skundu42__CryptoWarz.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::skydream118__NFTMarketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::skysor__digital-assets.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::slaviquee__monolith.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sletizia__serverless-trading-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::smart-account-starter__smart-account-starter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::smart-bsy__web3_crypto-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::smartbugs__smartbugs-curated.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::smartbugs__smartbugs-wild.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::smartbugs__smartbugs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::smartcontract123__-Smart-Contract-Based-Cryptocurrency-MlM-Software-Development-On-Tron-Ethereum-Smart-contract-Deve.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::smartcontractkit__chainlink-ruby.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::smartcontractkit__defi-minimal.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::smolgroot__prometheus-vanity-generator.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::snannamu__E-Voting-System-Based-on-Ethereum-Blockchain-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::sntsabode__daisweb3.ts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sobi983__Binance-Marketplace-NFT-transfer-automation.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::softstack__Smart-Contract-Security-Audits.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::solangegueiros__dapp-register.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::solguru310__solana-wallet-tracking-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::solidityDev05__defi-by-example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::solidityj__solidity-antlr4.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::solidstate-network__solidstate-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::solomoncools__nft-minter-bep721.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::somesh-banerjee__Hospital-Records-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::sounxk__Web3Escrow.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::spareleg__bitcoin-ticker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sparrowwallet__sparrow.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::spesmilo__electrum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::spesmulla__electrum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::spotlightgroup__DonateDapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::springmacedonio-sys__Somnia-DeFi-Wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sr2echa__DMD.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::sripwoud__ethernaut.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::stacks-archive__blockstack-browser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::stater-co__nft-lending-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::status-im__status-legacy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::stefannovasky__cryptocurrency-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::stellar__stellar-ledger-data-indexer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::stellarnodeN__Q3_25_NFT_Staking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::stevenbooke__decentralized-crowdfunding.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::stravid87__nft_mgt_protocol.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::suarja__memoria-eterna-nft.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::subsixx__Pinsurance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sumit03guha__smart-contracts-development-boilerplate.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::summa-tx__coins.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sun-blockchain__harmony-pet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sunby16__web3-portfolio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sunjiangjun__supernode.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sunnyRK__EthIndia-HackJaipur.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sunshineioxzc__nft-sales-tracking-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::superDev427__BlockChain-Tra.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::supercoolx__NFT-Contract-Utilities.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::superfluid-org__protocol-monorepo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::supragya__CryptographyResearch.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::suribartek9__btc-eth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::svanas__migratooor.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::swapkit__SwapKit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::swaponline__MultiCurrencyWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::swarupyeole11__BlockchainCryptography.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sweetmantech__NFT-Polygon-Minting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sweetmantech__nft-factory.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::swrno__adopt-pet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::sxnuru__FentaCode.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::syedsimanta03__solana-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::syncrao__blockchain-rust.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::tahowallet__extension.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::talonlab__hdwallet-desktop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::tamago-labs__legato-finance.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tamjid0x01__awesome-smartcontract-hacking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tanish35__Blockchain-Tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tankbottoms__tiles-on-chain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tanujajoshi1__solidityContracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tanviedev__AaveV2-BehavIQ.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::taoteh1221__Open_Crypto_Tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::taoteh1221__Slideshow_Crypto_Ticker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tarun-upadhyay__the-matrix-labs-assignment.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::taylorjdawson__eth-chains.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tayyabappoly__bitcoin-wallet-that-uses-Neutrino.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::tcyeee__PixWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::teal-finance__rainbow.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::teamssUTXO__bitcoin_mcp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::teefeh-07__DefiDungeons.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tega-tahir__ArtBridge.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ten-protocol__go-ten.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::terrygmk__NFT-Collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tesla809__erc-20-tutorial.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::the-sauravkumar__icp_token_wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::theblockbrain__ai-safeguard.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::theblockchainchief__web3-hub.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::theblockstalk__inter-crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::thedarkhorse934__ai-blockchain-explainer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::thenua3bhai__backend-nft-marketplace-ethereum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::theshefer__NFT-lazy-minting.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::thirdweb-dev__thirdweb-cli.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::thisiskeanyvy__blocktracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::thoangln__Blockchain-SmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::thomas21-jquerry__Casino.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::threshold-network__tbtc-v2.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::timxor__payment-api.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::timyiu478__cryptocurrencies-blockchain-technologies-stanford.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::tinovyatkin__pass-js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tintinweb__smart-contract-sanctuary-arbitrum.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tiwarisakshi28__Multisignature-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tmdi123__amazing-cat-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tmiess__CryptoBase.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tnkerer__vestingVault.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tomerweller__exp-tempo-clones.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tomteman__attendr.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tonkeeper__ton-console.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::topsecretagent007__smart-contract-web3-projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tosynthegeek__mcw.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::toto-1010__nft-smart-contracts-basic1.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tr1sm0s1n__go-dapp-example.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::tradingstrategy-ai__trade-executor.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tradingstrategy-ai__web3-ethereum-defi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::treejer__contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tronprotocol__wallet-cli.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::trustless-fund__trustless-fund.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::trustwallet__trust-wallet-ios.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::trustwallet__wallet-core.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tsauvajon__cryptoblobs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::tunnckoCore__bitcoin-connect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::turbo-eth__template-bank-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::turtlemarket__contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::txtx__txtx.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::uhsr__BlockchainNFTCertificateAuthority.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uhsr__BlockchainNFTRegistryPlatformX.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::uhsr__BlockchainNFTVaultManagerCorePro.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uhsr__BlockchainNFTVaultManagerPlatformUltra.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::uhsr__BlockchainNFTVaultManagerPlatformX.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::uhsr__BlockchainNftRegistrySolutionsX.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uhsr__BlockchainNftRegistryStudioPro.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::uhsr__CryptoKeyVaultManager.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uhsr__CryptoLedgerParser.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uhsr__CryptoSecurityToolkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uhsr__CryptoShieldFramework.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::uhsr__NftMetadataIndexerTechNext.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::unobrandon__DefiWallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uola9210-cmd__BTC-or-ETH.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uport-project__uport-connect.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::utsavempiric20__multi-signature-wallet-factory-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::utsavempiric20__token-wallet-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::uwu-labs__waifusion-site.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::v3xlabs__open-lavatory.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::valamicorp__top100token-ape-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vancelin__ethereum-event-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vanchoy__nft-collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vdimitriad__Uncuffed.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vdsalexandre__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vdutts7__ai-generated-nfts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::vechain__web3-gear.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::ved-et9__Blockchain_web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vergecurrency__verge.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vgrichina__web4.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vhidvz__crypto-aio.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::viaprotocol__format-crypto.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::viaweb3__cryptocast-desktop.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::victorykop__Buildspace-Wave-Portal-Backend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vigneshbalu96__Inherited-ERC-20-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vilicvane__megnat.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vinnyhoward__rn-crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::viperadnan-git__blockdoc.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vipul-69-ax__CryptoFlip.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vishal-kr007__walletSmartContract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vishnoitanuj__Blockchain-Cryptocurrency.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vitalkamuntu__Crypto-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vittominacori__solidity-starter-kit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vitwit__Multisig-Wallet-ERC20.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vivekananand-cpu__web3-blockchain-nft-drop-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vjbhandari61__web3-authentication.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vjgaur__NFT-Ethereum-Polygon-Marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vjgaur__bitcoin-wallet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vm542__bitcoin-wallet-bot.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vmeazevedo__myCrypto_MercadoBitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vmieres__BlockChain-Python.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::vorburger__awesome-decentralized-internet-web3-blockchain-p2p-security-world-cloud.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::vrakesh2907__MicroLend.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vvizardev__pump-smart-contract-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vvizardev__wizardev.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::vykuntaharsha__cryptocurrency-and-smart-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::wallet-agent__wallet-agent.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::walleth__walleth.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::walt-id__waltid-walletkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wanglinyang__nft-collection.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wangshijun__ethereum-lottery-dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wangtengjiao1997__Encode-Solidity-Bootcamp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wardu__Crypto-Resources.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::warmkey-finance__bitcoin-cryptocurrency-tutorial.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wasiiff__blokk-lens.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wcoelho__BitcoinMinerPrototype.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::web3brasil__web3brasil.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::web3builder7__Diversehq.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::web3crafter__NFTCollection_Crypto-Devs.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::web3gamesofficial__web3games-contract-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::web3inventor__web3-wallet-brute-force-cracking.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::web3p__web3.php.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::web3privacy__web3privacy.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::weex__Live-bitcoin-transactions.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::weichen466__CryptoCrowd.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::weiweiyeih__web3.0-lottery-frontend-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wencio__python_solidity_Web3_examples.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::westhoronhp15__HOW-TO-MINING-BTC-2025.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wevm__awesome-wagmi.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::whoaryu__cryptozombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wilhelmagren__ethereum-dev.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wilmacedo__wallet-discover-server.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::wizardsardine__liana.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wpdas__kibi-greeting-contract.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wsdt__WavectToken.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wslyvh__clean-contracts.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::wslyvh__useWeb3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xBacked-DAO__algorand-wallet-select.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::xPOURY4__crypto-toolkit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xabzxbt__brass-hands.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xaini-x__cross-chain-Bridge.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xaviersins__CryptoMesh.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xavierzho__dex-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xcncncnddddd__fundme_lesson.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xeoneux__generation-blockchain-crypto-tracker.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xerion12__Dapp-algorand.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xfolio-dao__xfolio-react-chrome.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xlnfinance__xln.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::xqyet__BlockchainAddressSpoofer.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xsen215__Web3-Solana-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xueqianLu__txpress.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::xyzerobtc__BitcoinPizzaNFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::y-chan__handmade_blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yakiyahi__projet-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yann1ckv__Marketplace_dapp.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yannvr__lendx.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yanukadeneth99__Meme-NFT.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yao-tx__CryptoZombies.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::yatharth1444__Token-Wallet-on-ICP-Blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::yearn__NFTreasury.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yeasy__blockchain_guide.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yessGlory17__nft-marketplace.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yeswadams__CryptoKitty.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yigittopm__lkd-web3-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yippee-ki-yay__CryptoJingles.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yogdaan__blockchain-certification.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yokeld__solgo.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::ysongh__blockchain-on-restaurant-client.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yuichiroaoki__typescript-hardhat.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yunanah__nft-wallet-yoorabaek.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yurkenchik__Crypto-Ethereum-TTE-blockchain.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::yuzushioh__EthereumKit.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zafar-saleem__blockchain-node.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zakcroft__shared-wallet-blockchain-solidity.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zama-ai__blockchain-wallet-exporter.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zenhuzaini__node-js-blockchain-bitcoin.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zeriontech__defi-sdk-js.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zeriontech__defi-sdk.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::zeta-chain__node.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zillehuma75__lottery-smart-contract-.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::zillet__zillet.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zircuit-labs__web3-telegram-mini-app.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zktx-io__sui-extension.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zman0225__bitcoinclass.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,1.0,,,[[1]],NEG::zypher-game__bevy-web3.json,1,0,1
+0.015,0.0,0.0,0.0,0.0,0.0,,,"[[0, 1], [0, 0]]",NEG::zzzizo__cig-chain.json,1,0,1

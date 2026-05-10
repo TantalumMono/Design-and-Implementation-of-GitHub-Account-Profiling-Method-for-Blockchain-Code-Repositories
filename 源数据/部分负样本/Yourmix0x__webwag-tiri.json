@@ -1,0 +1,855 @@
+{
+  "repo_full_name": "Yourmix0x/webwag-tiri",
+  "repo_detail": {
+    "id": 1081834863,
+    "node_id": "R_kgDOQHt9bw",
+    "name": "webwag-tiri",
+    "full_name": "Yourmix0x/webwag-tiri",
+    "private": false,
+    "owner": {
+      "login": "Yourmix0x",
+      "id": 113351277,
+      "node_id": "U_kgDOBsGabQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113351277?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Yourmix0x",
+      "html_url": "https://github.com/Yourmix0x",
+      "followers_url": "https://api.github.com/users/Yourmix0x/followers",
+      "following_url": "https://api.github.com/users/Yourmix0x/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Yourmix0x/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Yourmix0x/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Yourmix0x/subscriptions",
+      "organizations_url": "https://api.github.com/users/Yourmix0x/orgs",
+      "repos_url": "https://api.github.com/users/Yourmix0x/repos",
+      "events_url": "https://api.github.com/users/Yourmix0x/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Yourmix0x/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/Yourmix0x/webwag-tiri",
+    "description": "⚡web3 wallet dashboard featuring MetaMask integration, multi-chain support, and smart contract interactions.",
+    "fork": false,
+    "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri",
+    "forks_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/forks",
+    "keys_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/teams",
+    "hooks_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/hooks",
+    "issue_events_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/events",
+    "assignees_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/tags",
+    "blobs_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/languages",
+    "stargazers_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/stargazers",
+    "contributors_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contributors",
+    "subscribers_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/subscribers",
+    "subscription_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/subscription",
+    "commits_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/merges",
+    "archive_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/downloads",
+    "issues_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/labels{/name}",
+    "releases_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/deployments",
+    "created_at": "2025-10-23T11:03:30Z",
+    "updated_at": "2025-12-09T12:18:15Z",
+    "pushed_at": "2025-12-10T08:42:16Z",
+    "git_url": "git://github.com/Yourmix0x/webwag-tiri.git",
+    "ssh_url": "git@github.com:Yourmix0x/webwag-tiri.git",
+    "clone_url": "https://github.com/Yourmix0x/webwag-tiri.git",
+    "svn_url": "https://github.com/Yourmix0x/webwag-tiri",
+    "homepage": "https://webwag.yourmixjnr.tech",
+    "size": 327,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "blockchain",
+      "nextjs",
+      "react",
+      "wagmi",
+      "web3"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": true
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 0
+  },
+  "user_detail": {
+    "login": "Yourmix0x",
+    "id": 113351277,
+    "node_id": "U_kgDOBsGabQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/113351277?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Yourmix0x",
+    "html_url": "https://github.com/Yourmix0x",
+    "followers_url": "https://api.github.com/users/Yourmix0x/followers",
+    "following_url": "https://api.github.com/users/Yourmix0x/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Yourmix0x/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Yourmix0x/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Yourmix0x/subscriptions",
+    "organizations_url": "https://api.github.com/users/Yourmix0x/orgs",
+    "repos_url": "https://api.github.com/users/Yourmix0x/repos",
+    "events_url": "https://api.github.com/users/Yourmix0x/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Yourmix0x/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Michael Victor",
+    "company": "@nexora-hq",
+    "blog": "www.yourmixjnr.tech",
+    "location": "Nigeria",
+    "email": "radmakson@gmail.com",
+    "hireable": null,
+    "bio": "Software Engineer",
+    "twitter_username": "Yourmix0x",
+    "public_repos": 81,
+    "public_gists": 0,
+    "followers": 168,
+    "following": 99,
+    "created_at": "2022-09-12T11:14:27Z",
+    "updated_at": "2026-02-20T15:33:50Z"
+  },
+  "readme": "#  webwag tiri\n\nA modern Web3 wallet dashboard built with **React**, **Next.js**, and **WAGMI** for blockchain interactions and decentralized applications.\n\n## ✨ Features\n\n- 🔗 **Wallet Connection** - Connect MetaMask and other Web3 wallets\n- 💰 **Balance Display** - View native token balances\n- 🌐 **Network Switching** - Switch between Ethereum, Sepolia, and Avalanche\n- 📖 **Contract Reading** - Read data from smart contracts\n- ✍️ **Contract Writing** - Send transactions to the blockchain\n\n## 🛠️ Tech Stack\n\n- **Frontend**: React, Next.js 14, TypeScript\n- **Web3**: WAGMI, Viem, ConnectKit\n- **Styling**: Tailwind CSS, Lucide Icons\n- **Fonts**: Orbitron, Inter\n\n## 🚀 Getting Started\n\n1. **Clone the repository**\n   ```bash\n   git clone https://github.com/yourmix0x/webwag-tiri.git\n   cd webwag-tiri\n   ```\n\n2. **Install dependencies**\n   ```bash\n   npm install\n   ```\n\n3. **Run the development server**\n   ```bash\n   npm run dev\n   ```\n\n4. **Open your browser**\n   ```\n   http://localhost:3000\n   ```\n\n## 📁 Project Structure\n\n```\n├── app/                 # Next.js app directory\n├── components/          # React components\n│   ├── global/         # Shared components\n│   └── home/           # Page-specific components\n├── config/             # Configuration files\n└── providers/          # Context providers\n```\n\n## 🔗 Connect\n\n- **LinkedIn**: [@yourmix0x](https://www.linkedin.com/in/yourmix0x/)\n- **Twitter**: [@yourmix0x](https://x.com/yourmix0x)\n- **GitHub**: [@yourmix0x](https://github.com/yourmix0x)\n\n---\n\n**Built by [Yourmix0x](https://github.com/yourmix0x)**\n",
+  "tree_structure": [
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "sha": "5ef6a520780202a1d6addd833d800ccb1ecac0bb",
+      "size": 480,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/.gitignore?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/.gitignore",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5ef6a520780202a1d6addd833d800ccb1ecac0bb",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/.gitignore",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/.gitignore?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5ef6a520780202a1d6addd833d800ccb1ecac0bb",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/.gitignore"
+      }
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "056c4f6145d34da11ea714f593f345c61ab58d85",
+      "size": 1641,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/README.md?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/README.md",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/056c4f6145d34da11ea714f593f345c61ab58d85",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/README.md",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/README.md?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/056c4f6145d34da11ea714f593f345c61ab58d85",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/README.md"
+      }
+    },
+    {
+      "name": "animations",
+      "path": "animations",
+      "sha": "c51285370f5a95c214955f6c601ea65362931240",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/animations?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/animations",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/c51285370f5a95c214955f6c601ea65362931240",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/animations?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/c51285370f5a95c214955f6c601ea65362931240",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/animations"
+      }
+    },
+    {
+      "name": "scroll-provider.tsx",
+      "path": "animations/scroll-provider.tsx",
+      "sha": "789e4f5c9a33ea8a2f8eb849feb73e1a626cbe95",
+      "size": 1248,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/animations/scroll-provider.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/animations/scroll-provider.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/789e4f5c9a33ea8a2f8eb849feb73e1a626cbe95",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/animations/scroll-provider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/animations/scroll-provider.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/789e4f5c9a33ea8a2f8eb849feb73e1a626cbe95",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/animations/scroll-provider.tsx"
+      }
+    },
+    {
+      "name": "app",
+      "path": "app",
+      "sha": "3edcee38d268b76e4d92e23724a314142889792b",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/app",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/3edcee38d268b76e4d92e23724a314142889792b",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/3edcee38d268b76e4d92e23724a314142889792b",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/app"
+      }
+    },
+    {
+      "name": "favicon.ico",
+      "path": "app/favicon.ico",
+      "sha": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "size": 25931,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/favicon.ico?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/favicon.ico",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/app/favicon.ico",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/favicon.ico?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/718d6fea4835ec2d246af9800eddb7ffb276240c",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/favicon.ico"
+      }
+    },
+    {
+      "name": "globals.css",
+      "path": "app/globals.css",
+      "sha": "10ae3b1eb3390f0132756945533c0c5d5d57f7e2",
+      "size": 2549,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/globals.css?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/globals.css",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/10ae3b1eb3390f0132756945533c0c5d5d57f7e2",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/app/globals.css",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/globals.css?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/10ae3b1eb3390f0132756945533c0c5d5d57f7e2",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/globals.css"
+      }
+    },
+    {
+      "name": "layout.tsx",
+      "path": "app/layout.tsx",
+      "sha": "9a4d465fb501a48b6c09e04430a1f124e5737d2a",
+      "size": 1395,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/layout.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/layout.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/9a4d465fb501a48b6c09e04430a1f124e5737d2a",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/app/layout.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/layout.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/9a4d465fb501a48b6c09e04430a1f124e5737d2a",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/layout.tsx"
+      }
+    },
+    {
+      "name": "page.tsx",
+      "path": "app/page.tsx",
+      "sha": "32c6acafd19ad52742566466aaa84f8446458a55",
+      "size": 244,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/page.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/page.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/32c6acafd19ad52742566466aaa84f8446458a55",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/app/page.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/app/page.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/32c6acafd19ad52742566466aaa84f8446458a55",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/app/page.tsx"
+      }
+    },
+    {
+      "name": "components",
+      "path": "components",
+      "sha": "526840a97623e340df4f0154fca5a42a97d93521",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/components",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/526840a97623e340df4f0154fca5a42a97d93521",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/526840a97623e340df4f0154fca5a42a97d93521",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/components"
+      }
+    },
+    {
+      "name": "global",
+      "path": "components/global",
+      "sha": "39faa886103eef6360029af40f0a68c69a7cf404",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/components/global",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/39faa886103eef6360029af40f0a68c69a7cf404",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/39faa886103eef6360029af40f0a68c69a7cf404",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/components/global"
+      }
+    },
+    {
+      "name": "balance-display.tsx",
+      "path": "components/global/balance-display.tsx",
+      "sha": "ae954d51cce988f5e5674ad8b34b0835d28d402d",
+      "size": 2906,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/balance-display.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/balance-display.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/ae954d51cce988f5e5674ad8b34b0835d28d402d",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/global/balance-display.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/balance-display.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/ae954d51cce988f5e5674ad8b34b0835d28d402d",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/balance-display.tsx"
+      }
+    },
+    {
+      "name": "network-info.tsx",
+      "path": "components/global/network-info.tsx",
+      "sha": "e77de3f072c2a7462516da53e01ba42934782fd3",
+      "size": 3443,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/network-info.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/network-info.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/e77de3f072c2a7462516da53e01ba42934782fd3",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/global/network-info.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/network-info.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/e77de3f072c2a7462516da53e01ba42934782fd3",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/network-info.tsx"
+      }
+    },
+    {
+      "name": "read-contract.tsx",
+      "path": "components/global/read-contract.tsx",
+      "sha": "42db6a668777233ddbc11c9079a1066946049cd6",
+      "size": 3665,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/read-contract.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/read-contract.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/42db6a668777233ddbc11c9079a1066946049cd6",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/global/read-contract.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/read-contract.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/42db6a668777233ddbc11c9079a1066946049cd6",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/read-contract.tsx"
+      }
+    },
+    {
+      "name": "wallet-connect.tsx",
+      "path": "components/global/wallet-connect.tsx",
+      "sha": "15a69bad1ba4676c34d6f6bb4a518aa5c9c01a66",
+      "size": 4656,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/wallet-connect.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/wallet-connect.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/15a69bad1ba4676c34d6f6bb4a518aa5c9c01a66",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/global/wallet-connect.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/wallet-connect.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/15a69bad1ba4676c34d6f6bb4a518aa5c9c01a66",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/wallet-connect.tsx"
+      }
+    },
+    {
+      "name": "write-contract.tsx",
+      "path": "components/global/write-contract.tsx",
+      "sha": "73ed38fbbc07caf142b1cde7d0f535ee44f3a17c",
+      "size": 7338,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/write-contract.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/write-contract.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/73ed38fbbc07caf142b1cde7d0f535ee44f3a17c",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/global/write-contract.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/global/write-contract.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/73ed38fbbc07caf142b1cde7d0f535ee44f3a17c",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/global/write-contract.tsx"
+      }
+    },
+    {
+      "name": "home",
+      "path": "components/home",
+      "sha": "30b244c8970cbb8109e0bac9b03eb0d7682a089a",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/home?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/components/home",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/30b244c8970cbb8109e0bac9b03eb0d7682a089a",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/home?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/30b244c8970cbb8109e0bac9b03eb0d7682a089a",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/components/home"
+      }
+    },
+    {
+      "name": "hero.tsx",
+      "path": "components/home/hero.tsx",
+      "sha": "8169ae22d9ba80d53816a0b10a7246796d64eae9",
+      "size": 4231,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/home/hero.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/home/hero.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/8169ae22d9ba80d53816a0b10a7246796d64eae9",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/home/hero.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/home/hero.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/8169ae22d9ba80d53816a0b10a7246796d64eae9",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/home/hero.tsx"
+      }
+    },
+    {
+      "name": "wallet-dashboard.tsx",
+      "path": "components/home/wallet-dashboard.tsx",
+      "sha": "7cd76d4f912f6dc0b9d3dbc082ea9a6baeadd4f2",
+      "size": 1467,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/home/wallet-dashboard.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/home/wallet-dashboard.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/7cd76d4f912f6dc0b9d3dbc082ea9a6baeadd4f2",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/components/home/wallet-dashboard.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/components/home/wallet-dashboard.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/7cd76d4f912f6dc0b9d3dbc082ea9a6baeadd4f2",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/components/home/wallet-dashboard.tsx"
+      }
+    },
+    {
+      "name": "config",
+      "path": "config",
+      "sha": "7bd894967425423f9e4d60d2d0522c4d4f79dd41",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/config?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/config",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/7bd894967425423f9e4d60d2d0522c4d4f79dd41",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/config?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/7bd894967425423f9e4d60d2d0522c4d4f79dd41",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/config"
+      }
+    },
+    {
+      "name": "constant.ts",
+      "path": "config/constant.ts",
+      "sha": "5fc1485581d8434404eac40b20f165d8f2322f9b",
+      "size": 5676,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/config/constant.ts?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/config/constant.ts",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5fc1485581d8434404eac40b20f165d8f2322f9b",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/config/constant.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/config/constant.ts?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5fc1485581d8434404eac40b20f165d8f2322f9b",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/config/constant.ts"
+      }
+    },
+    {
+      "name": "wagmi.ts",
+      "path": "config/wagmi.ts",
+      "sha": "28743d40a4a360dbec8fa5ded386b44a0a43a824",
+      "size": 402,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/config/wagmi.ts?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/config/wagmi.ts",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/28743d40a4a360dbec8fa5ded386b44a0a43a824",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/config/wagmi.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/config/wagmi.ts?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/28743d40a4a360dbec8fa5ded386b44a0a43a824",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/config/wagmi.ts"
+      }
+    },
+    {
+      "name": "eslint.config.mjs",
+      "path": "eslint.config.mjs",
+      "sha": "05e726d1b4201bc8c7716d2b058279676582e8c0",
+      "size": 465,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/eslint.config.mjs?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/eslint.config.mjs",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/05e726d1b4201bc8c7716d2b058279676582e8c0",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/eslint.config.mjs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/eslint.config.mjs?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/05e726d1b4201bc8c7716d2b058279676582e8c0",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/eslint.config.mjs"
+      }
+    },
+    {
+      "name": "layouts",
+      "path": "layouts",
+      "sha": "ca516507bafdea776f57f8a8a0a0be3d8a0d1b54",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/layouts",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/ca516507bafdea776f57f8a8a0a0be3d8a0d1b54",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/ca516507bafdea776f57f8a8a0a0be3d8a0d1b54",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/layouts"
+      }
+    },
+    {
+      "name": "footer.tsx",
+      "path": "layouts/footer.tsx",
+      "sha": "5a89778d8b181a4d221330203cf5b79cf36724c1",
+      "size": 2973,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts/footer.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/layouts/footer.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5a89778d8b181a4d221330203cf5b79cf36724c1",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/layouts/footer.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts/footer.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5a89778d8b181a4d221330203cf5b79cf36724c1",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/layouts/footer.tsx"
+      }
+    },
+    {
+      "name": "header.tsx",
+      "path": "layouts/header.tsx",
+      "sha": "04356f0a25dbc67a390fcebe2e3fa48032c241e7",
+      "size": 1403,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts/header.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/layouts/header.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/04356f0a25dbc67a390fcebe2e3fa48032c241e7",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/layouts/header.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts/header.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/04356f0a25dbc67a390fcebe2e3fa48032c241e7",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/layouts/header.tsx"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "layouts/index.tsx",
+      "sha": "051ec7f3677617ac2f6b92b3c4ac23efcff3a6f3",
+      "size": 379,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts/index.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/layouts/index.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/051ec7f3677617ac2f6b92b3c4ac23efcff3a6f3",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/layouts/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/layouts/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/051ec7f3677617ac2f6b92b3c4ac23efcff3a6f3",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/layouts/index.tsx"
+      }
+    },
+    {
+      "name": "next.config.ts",
+      "path": "next.config.ts",
+      "sha": "e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+      "size": 133,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/next.config.ts?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/next.config.ts",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/next.config.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/next.config.ts?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/next.config.ts"
+      }
+    },
+    {
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "sha": "c9a93455c6701cc18adc96a6bbb2326d7c9311c8",
+      "size": 409502,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/package-lock.json?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/package-lock.json",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/c9a93455c6701cc18adc96a6bbb2326d7c9311c8",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/package-lock.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/package-lock.json?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/c9a93455c6701cc18adc96a6bbb2326d7c9311c8",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/package-lock.json"
+      }
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "sha": "76804a78f0a6d00ad27d3412b3e70ced13ed686b",
+      "size": 703,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/package.json?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/package.json",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/76804a78f0a6d00ad27d3412b3e70ced13ed686b",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/package.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/package.json?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/76804a78f0a6d00ad27d3412b3e70ced13ed686b",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/package.json"
+      }
+    },
+    {
+      "name": "postcss.config.mjs",
+      "path": "postcss.config.mjs",
+      "sha": "61e36849cf7cfa9f1f71b4a3964a4953e3e243d3",
+      "size": 94,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/postcss.config.mjs?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/postcss.config.mjs",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/61e36849cf7cfa9f1f71b4a3964a4953e3e243d3",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/postcss.config.mjs",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/postcss.config.mjs?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/61e36849cf7cfa9f1f71b4a3964a4953e3e243d3",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/postcss.config.mjs"
+      }
+    },
+    {
+      "name": "providers",
+      "path": "providers",
+      "sha": "dee519640abaf1b9bfd5d122bb438856a3d0b71f",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/providers",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/dee519640abaf1b9bfd5d122bb438856a3d0b71f",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/dee519640abaf1b9bfd5d122bb438856a3d0b71f",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/providers"
+      }
+    },
+    {
+      "name": "index.tsx",
+      "path": "providers/index.tsx",
+      "sha": "d288ead9cdebc36a865e4d0f9d7ca5d8ff9ad1af",
+      "size": 392,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers/index.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/providers/index.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/d288ead9cdebc36a865e4d0f9d7ca5d8ff9ad1af",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/providers/index.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers/index.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/d288ead9cdebc36a865e4d0f9d7ca5d8ff9ad1af",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/providers/index.tsx"
+      }
+    },
+    {
+      "name": "query-client-provider.tsx",
+      "path": "providers/query-client-provider.tsx",
+      "sha": "ebe6304f09fc5fbcddc3e043ca7893d542f5b615",
+      "size": 319,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers/query-client-provider.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/providers/query-client-provider.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/ebe6304f09fc5fbcddc3e043ca7893d542f5b615",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/providers/query-client-provider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers/query-client-provider.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/ebe6304f09fc5fbcddc3e043ca7893d542f5b615",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/providers/query-client-provider.tsx"
+      }
+    },
+    {
+      "name": "wagmi-provider.tsx",
+      "path": "providers/wagmi-provider.tsx",
+      "sha": "8979e88d6320afcaac45c6d7b607dcaacb469deb",
+      "size": 255,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers/wagmi-provider.tsx?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/providers/wagmi-provider.tsx",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/8979e88d6320afcaac45c6d7b607dcaacb469deb",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/providers/wagmi-provider.tsx",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/providers/wagmi-provider.tsx?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/8979e88d6320afcaac45c6d7b607dcaacb469deb",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/providers/wagmi-provider.tsx"
+      }
+    },
+    {
+      "name": "public",
+      "path": "public",
+      "sha": "c88f389de09f418da376598c42e8788d4fb6d172",
+      "size": 0,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/tree/main/public",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/c88f389de09f418da376598c42e8788d4fb6d172",
+      "download_url": null,
+      "type": "dir",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/trees/c88f389de09f418da376598c42e8788d4fb6d172",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/tree/main/public"
+      }
+    },
+    {
+      "name": "file.svg",
+      "path": "public/file.svg",
+      "sha": "004145cddf3f9db91b57b9cb596683c8eb420862",
+      "size": 391,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/file.svg?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/file.svg",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/004145cddf3f9db91b57b9cb596683c8eb420862",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/public/file.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/file.svg?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/004145cddf3f9db91b57b9cb596683c8eb420862",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/file.svg"
+      }
+    },
+    {
+      "name": "globe.svg",
+      "path": "public/globe.svg",
+      "sha": "567f17b0d7c7fb662c16d4357dd74830caf2dccb",
+      "size": 1035,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/globe.svg?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/globe.svg",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/567f17b0d7c7fb662c16d4357dd74830caf2dccb",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/public/globe.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/globe.svg?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/567f17b0d7c7fb662c16d4357dd74830caf2dccb",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/globe.svg"
+      }
+    },
+    {
+      "name": "next.svg",
+      "path": "public/next.svg",
+      "sha": "5174b28c565c285e3e312ec5178be64fbeca8398",
+      "size": 1375,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/next.svg?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/next.svg",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5174b28c565c285e3e312ec5178be64fbeca8398",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/public/next.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/next.svg?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/5174b28c565c285e3e312ec5178be64fbeca8398",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/next.svg"
+      }
+    },
+    {
+      "name": "vercel.svg",
+      "path": "public/vercel.svg",
+      "sha": "77053960334e2e34dc584dea8019925c3b4ccca9",
+      "size": 128,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/vercel.svg?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/vercel.svg",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/77053960334e2e34dc584dea8019925c3b4ccca9",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/public/vercel.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/vercel.svg?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/77053960334e2e34dc584dea8019925c3b4ccca9",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/vercel.svg"
+      }
+    },
+    {
+      "name": "window.svg",
+      "path": "public/window.svg",
+      "sha": "b2b2a44f6ebc70c450043c05a002e7a93ba5d651",
+      "size": 385,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/window.svg?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/window.svg",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/b2b2a44f6ebc70c450043c05a002e7a93ba5d651",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/public/window.svg",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/public/window.svg?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/b2b2a44f6ebc70c450043c05a002e7a93ba5d651",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/public/window.svg"
+      }
+    },
+    {
+      "name": "tsconfig.json",
+      "path": "tsconfig.json",
+      "sha": "af2116752cd201365d099e995440b39f56e6c18f",
+      "size": 778,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/tsconfig.json?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/tsconfig.json",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/af2116752cd201365d099e995440b39f56e6c18f",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/tsconfig.json",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/tsconfig.json?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/af2116752cd201365d099e995440b39f56e6c18f",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/tsconfig.json"
+      }
+    },
+    {
+      "name": "wagmi.d.ts",
+      "path": "wagmi.d.ts",
+      "sha": "672ecf6593adbcbe5e4e7df6ff1596ac43e58aae",
+      "size": 133,
+      "url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/wagmi.d.ts?ref=main",
+      "html_url": "https://github.com/Yourmix0x/webwag-tiri/blob/main/wagmi.d.ts",
+      "git_url": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/672ecf6593adbcbe5e4e7df6ff1596ac43e58aae",
+      "download_url": "https://raw.githubusercontent.com/Yourmix0x/webwag-tiri/main/wagmi.d.ts",
+      "type": "file",
+      "_links": {
+        "self": "https://api.github.com/repos/Yourmix0x/webwag-tiri/contents/wagmi.d.ts?ref=main",
+        "git": "https://api.github.com/repos/Yourmix0x/webwag-tiri/git/blobs/672ecf6593adbcbe5e4e7df6ff1596ac43e58aae",
+        "html": "https://github.com/Yourmix0x/webwag-tiri/blob/main/wagmi.d.ts"
+      }
+    }
+  ],
+  "external_domains": {
+    "www.linkedin.com": 8525,
+    "github.com": 6723,
+    "localhost:3000": null,
+    "x.com": 12026
+  },
+  "collected_at": "2026-03-07T12:36:07.780549"
+}

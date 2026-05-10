@@ -1,0 +1,24 @@
+{
+  "data_path": "C:\\Users\\Dell\\Desktop\\Grade4\\毕业设计\\模型\\SentenceTransformer\\.idea\\family_prepared_v3\\family_dataset_train_ready.csv",
+  "n_rows": 2354,
+  "n_positive": 300,
+  "n_negative": 2054,
+  "threshold": 0.005434935446828604,
+  "best_epoch": 2,
+  "final_params": {
+    "hidden_dim": 256,
+    "num_layers": 3,
+    "dropout": 0.25,
+    "lr": 0.001,
+    "weight_decay": 0.0002,
+    "batch_size": 32,
+    "pos_weight_scale": 1.1
+  },
+  "trainset_metrics": {
+    "precision": 0.9966777408637874,
+    "recall": 1.0,
+    "f1": 0.9983361064891847,
+    "pr_auc": 1.0,
+    "roc_auc": 1.0
+  }
+}
